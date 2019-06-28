@@ -97,7 +97,7 @@ Zeilen gehen, werden diese eingerückt und mit geringerem Schriftgrad
 (10pt) und eingerückt gesetzt.
 
 **Kurztitel:** Der Kurztitel findet in
-Fußnoten und im Fließtext Verwendung, als kurze, übersichtliche Version der ausführlichen Referenz in der Bibliographie (Literaturverzeichnis/Quellenangaben). Er besteht bei Literaturangaben aus dem Nachnamen des/r Autors/in/en, dem Jahr der Veröffentlichung und gegebenenfalls einer Seitenangabe. Ein Beispiel: »Die starren Grenzen zwischen Medienorganisation und Rezipienten lösen sich zwar auf, deren Rollen im Kommunikationsprozess bleiben jedoch in verschiedenen Ausprägungen erhalten.«^[Emmer (2005, S. 32).]
+Fußnoten und im Fließtext Verwendung, als kurze, übersichtliche Version der ausführlichen Referenz in der Bibliographie (Literaturverzeichnis/Quellenangaben). Er besteht bei Literaturangaben aus dem Nachnamen des/r Autors/in/en, dem Jahr der Veröffentlichung und gegebenenfalls einer Seitenangabe. Ein Beispiel: »Die starren Grenzen zwischen Medienorganisation und Rezipienten lösen sich zwar auf, deren Rollen im Kommunikationsprozess bleiben jedoch in verschiedenen Ausprägungen erhalten.«^[@em:2005 [32].]
 
 Wird nicht wörtlich zitiert, sondern paraphrasiert, ist ein »Vgl.« der
 Literaturangabe voranzustellen. Ein Beispiel: Laut den Autoren haben
@@ -296,10 +296,7 @@ Darüber hinausgehende Informationen zu typographisch ansprechender Gestaltung v
 \clearpage
 \pagebreak
 
-# Bibliographie {.unnumbered}
-
-\raggedright
-\small
+# Bibliographie-temp {.unnumbered}
 
 \hangpara{1em}{1}Andermann, Ulrich; Drees, Martin & Grätz, Frank (2000). *Duden. Wie verfasst man wissenschaftliche Arbeiten? Ein Leitfaden für das Studium und die Promotion.* Mainz: Verlag Hermann Schmidt.
 
@@ -312,30 +309,25 @@ eines neuen Mediums.* München: Verlag Reinhard Fischer.
 \hangpara{1em}{1}Weiß, Hans-Jürgen & Trebbe, Joachim (2000). *Fernsehen in Deutschland 1998/1999.* Berlin: Vistas.
 
 
-## automatisch: {.unnumbered}
+# Bibliographie {.unnumbered}
+
+```{=latex}
+\begin{hangparas}{1em}{1}
+\small
+```
 
 <div id="refs"></div>
 
-
-<!-- # Quellenverzeichnis {.unnumbered}
-
-
-## Bibliografie {.unnumbered}
-
-<div id="refs"></div>
-
-
-## Filmografie {.unnumbered}
-
-_Rogu Horaizun_ (_Log Horizon_, J 2013, Shinji Ishihara).
-
-_3D Kanojo Riaru Gāru_ (_3D-Kanojo: Real Girl_, J 2018, Tsutomu Hanabusa). -->
+```{=latex}
+\end{hangparas}
+```
 
 \clearpage
 \pagebreak
 
-<!-- # Eidesstattliche Erklärung {.unnumbered} -->
 
-\addsec*{Eidesstattliche Erklärung}
+# Eidesstattliche Erklärung {.unnumbered}
+
+<!-- \addsec*{Eidesstattliche Erklärung} -->
 
 Ich versichere, die vorliegende Arbeit selbstständig und nur unter Benutzung der angegebenen Hilfsmittel angefertigt und in keinem anderen Seminar (auch anderer Universitäten) abgegeben zu haben.
