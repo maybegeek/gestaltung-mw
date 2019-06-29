@@ -93,7 +93,9 @@ Sloterdijk, Peter (1999). *Regeln für den Menschenpark. Ein Antwortschreiben zu
 
 **Nachname, Vorname (Jahr). Titel. Untertitel. In: *Titel. Untertitel.* Jahrgang, Nummer, Seiten.**
 
-Stegbauer, Christian & Rausch, Alexander (2001). Die schweigende Mehrheit: »Lurker« in internetbasierten Diskussionsforen. In: *Zeitschrift für Soziologie.* 30, Nr. 1, S. 47--64.
+Stegbauer, Christian & Rausch, Alexander (2001). Die schweigende Mehrheit: »Lurker« in internetbasierten Diskussionsforen. In: *Zeitschrift für Soziologie.* 30, Nr. 1, S. 48--64.
+
+Vgl. @st:2001 [48].
 
 
 **Sammelbände:**
