@@ -321,19 +321,17 @@ eines neuen Mediums.* München: Verlag Reinhard Fischer.
 \begin{hangparas}{1em}{1}
 \small
 ```
-
-<div id="refs"></div>
-
+::: {#refs}
+:::
 ```{=latex}
 \end{hangparas}
 ```
 
+
 \clearpage
 \pagebreak
 
-
 # Eidesstattliche Erklärung {.unnumbered}
-
 <!-- \addsec*{Eidesstattliche Erklärung} -->
 
 Ich versichere, die vorliegende Arbeit selbstständig und nur unter Benutzung der angegebenen Hilfsmittel angefertigt und in keinem anderen Seminar (auch anderer Universitäten) abgegeben zu haben.
