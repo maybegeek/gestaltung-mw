@@ -116,6 +116,8 @@ Amento, Brian et al. (2003). Experiments in social data mining: The TopicShop s
 
 **Nachname (Jahr, ggf. Seitenzahl).** =\> Amento et al. (2003, S. 54--85).
 
+⇒ @am:2003 [60].
+
 #### Online-Quellen
 
 **Artikel**
