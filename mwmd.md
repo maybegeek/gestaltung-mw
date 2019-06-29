@@ -108,7 +108,7 @@ Fußnoten und im Fließtext Verwendung, als kurze, übersichtliche Version der a
 Wird nicht wörtlich zitiert, sondern paraphrasiert, ist ein »Vgl.« der
 Literaturangabe voranzustellen. Ein Beispiel: Laut den Autoren haben
 Filme und Serien eine wichtige Funktion für die Positionierung der
-Programme.^[Vgl. Weiß & Trebbe (2000, S. 61).]
+Programme.^[Vgl. @we:2000 [61].]
 
 Erstreckt sich die zitierte Stelle auch über die folgende
 Seite, so ist dies mit dem Zusatz »f.« zu vermerken. Bei mehreren
@@ -296,6 +296,7 @@ verwenden. Überschriften werden grundsätzlich linksbündig gesetzt
 eingeschränkten Auszeichnungsmöglichkeiten einer Schreibmaschine sollten
 vermieden werden. Kursivierung, Fettdruck, Versalien und Kapitälchen
 sind so oft wie nötig, jedoch nicht inflationär zu gebrauchen.^[Vgl. Bier (2006:2f.).]
+sind so oft wie nötig, jedoch nicht inflationär zu gebrauchen.^[Vgl. @bi:2009 [2f.].]
 
 Darüber hinausgehende Informationen zu typographisch ansprechender Gestaltung von Druckwerken finden sie z. B. in: „Typokurz -- Einige wichtige typografische Regeln" von Christoph Bier. URL: [http://zvisionwelt.files.wordpress.com/2012/01/typokurz.pdf](http://zvisionwelt.files.wordpress.com/2012/01/typokurz.pdf)
 
