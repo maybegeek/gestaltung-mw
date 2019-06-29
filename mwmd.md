@@ -3,7 +3,7 @@ title: 'Gestaltungsrichtlinien Medienwissenschaft'
 ur-kolumnentitel: 'Gestaltungsrichtlinien Medienwissenschaft'
 lang: de-DE
 bibliography: mwmd.bib
-csl: layout/Mitteilungen-RVW.csl
+csl: layout/MW-UR.csl
 ---
 
 # Formaler Aufbau
