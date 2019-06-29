@@ -162,21 +162,19 @@ The TopicShop system. In: *ACM Transactions on ComputerHuman Interaction
 
 **Artikel**
 
-**Nachname, Vorname (Jahr). *Titel. Untertitel*. URL: [http://www.xyz.de](http://www.xyz.de) -- Zugriff: Tag.Monat.Jahr.**
+**Nachname, Vorname (Jahr). *Titel. Untertitel*. [url:]{.smallcaps} [http://www.xyz.de](http://www.xyz.de) -- Zugriff: Tag.Monat.Jahr.**
 
-O'Reilly, Tim (2005). *What Is Web 2.0*. URL: [http://www.oreillynet.com/lpt/a/6228](http://www.oreillynet.com/lpt/a/6228) -- Zugriff: 4.2.2014.
+O'Reilly, Tim (2005). *What Is Web 2.0*. [url:]{.smallcaps} [http://www.oreillynet.com/lpt/a/6228](http://www.oreillynet.com/lpt/a/6228) -- Zugriff: 4.2.2014.
 
-**Videos** (z. B. Youtube, Vimeo) -- abweichende Angaben bei Musikvideos (s.
-u.)!
+**Videos** (z. B. Youtube, Vimeo) -- abweichende Angaben bei Musikvideos (s.u.)!
 
-**Nachname, Vorname \[Benutzername\] (Veröffentlichungsdatum). *Videotitel* \[Video file\]. URL: [http://www.xyz.de](http://www.xyz.de) -- Zugriff: Tag.Monat.Jahr.**
+**Nachname, Vorname \[Benutzername\] (Veröffentlichungsdatum). *Videotitel* \[Video file\]. [url:]{.smallcaps} [http://www.xyz.de](http://www.xyz.de) -- Zugriff: Tag.Monat.Jahr.**
 
-Cook, Shelby \[XxSourGummyBearzxX\] (16.12.2013). *Tom Hiddleston Funny Moments* \[Video file\]. URL: [http://www.youtube.com/watch?v=kXViNegXPTk](http://www.youtube.com/watch?v=kXViNegXPTk) -- Zugriff: 4.2.2014.
+Cook, Shelby \[XxSourGummyBearzxX\] (16.12.2013). *Tom Hiddleston Funny Moments* \[Video file\]. [url:]{.smallcaps} [http://www.youtube.com/watch?v=kXViNegXPTk](http://www.youtube.com/watch?v=kXViNegXPTk) -- Zugriff: 4.2.2014.
 
 Wenn der Name eines Benutzers nicht zu recherchieren ist, wird der Benutzername ohne Klammern als Name verwendet. Analog gilt bei nicht möglicher Zuweisung von Autorenname und Erscheinungsdatum »o.A.« und »o.J.« zur Kenntlichmachung.
 
-**Benutzername (Veröffentlichungsdatum). *Videotitel* \[Video file\]. URL:
-[http://www.xyz.de](http://www.xyz.de) -- Zugriff: Tag.Monat.Jahr.**
+**Benutzername (Veröffentlichungsdatum). *Videotitel* \[Video file\]. [url:]{.smallcaps} [http://www.xyz.de](http://www.xyz.de) -- Zugriff: Tag.Monat.Jahr.**
 
 **Musikvideos:** (z. B. Youtube, Vimeo)
 
@@ -186,9 +184,9 @@ Björk (1999). *All is full of love* (Electra Entertainment Group Inc., Chris Cu
 
 **Wikipedia**
 
-**Wikipedia-Seitentitel (Datum der letzten Bearbeitung). In: *Wikipedia -- Die freie Enzyklopädie.* URL: [http://www.xyz.de](http://www.xyz.de) -- Zugriff: Tag.Monat.Jahr.**
+**Wikipedia-Seitentitel (Datum der letzten Bearbeitung). In: *Wikipedia -- Die freie Enzyklopädie.* [url:]{.smallcaps} [http://www.xyz.de](http://www.xyz.de) -- Zugriff: Tag.Monat.Jahr.**
 
-Wikipedia-Zitierfähigkeit (8. November 2013). In: *Wikipedia -- Die freie Enzyklopädie.* URL: [http://de.wikipedia.org/w/index.php?title=Zitierf%C3%A4higkeit&oldid=60350199](http://de.wikipedia.org/w/index.php?title=Zitierf%C3%A4higkeit&oldid=60350199) -- Zugriff: 4.2.2014.
+Wikipedia-Zitierfähigkeit (8. November 2013). In: *Wikipedia -- Die freie Enzyklopädie.* [url:]{.smallcaps} [http://de.wikipedia.org/w/index.php?title=Zitierf%C3%A4higkeit&oldid=60350199](http://de.wikipedia.org/w/index.php?title=Zitierf%C3%A4higkeit&oldid=60350199) -- Zugriff: 4.2.2014.
 
 Der **Permanentlink** zu einem Wikipedia-Artikel findet sich auf der linken Seite der Webseite unter „Werkzeuge". Bei
 Webinhalten die einer Versionierung unterliegen, verwiest dieser immer
@@ -252,7 +250,7 @@ Radio-Kreativ-Wettbewerb 2007 (Broschüre und CD-Rom).
 
 Gesellschaft zur Förderung der Photographie (1952). Oh, die herrlichen Berge
 \[Werbung\]. In: *Regensburger Archiv für Werbeforschung. PROPHOTO vom
-12.7.1952*. HWA\_1\_863.mp3. R-Nummer: 616. URL: [http://raw.uni-regensburg.de/details.php?r=616](http://raw.uni-regensburg.de/details.php?r=616) − Zugriff: 18.9.2013.
+12.7.1952*. HWA\_1\_863.mp3. R-Nummer: 616. [url:]{.smallcaps} [http://raw.uni-regensburg.de/details.php?r=616](http://raw.uni-regensburg.de/details.php?r=616) − Zugriff: 18.9.2013.
 
 **Kurztitel im Text/Fußnote:**
 
@@ -299,6 +297,7 @@ sind so oft wie nötig, jedoch nicht inflationär zu gebrauchen.^[Vgl. Bier (200
 sind so oft wie nötig, jedoch nicht inflationär zu gebrauchen.^[Vgl. @bi:2009 [2f.].]
 
 Darüber hinausgehende Informationen zu typographisch ansprechender Gestaltung von Druckwerken finden sie z. B. in: „Typokurz -- Einige wichtige typografische Regeln" von Christoph Bier. URL: [http://zvisionwelt.files.wordpress.com/2012/01/typokurz.pdf](http://zvisionwelt.files.wordpress.com/2012/01/typokurz.pdf)
+Darüber hinausgehende Informationen zu typographisch ansprechender Gestaltung von Druckwerken finden sie z. B. in: „Typokurz -- Einige wichtige typografische Regeln" von Christoph Bier. [url:]{.smallcaps} [https://zvisionwelt.files.wordpress.com/2012/01/typokurz.pdf](https://zvisionwelt.files.wordpress.com/2012/01/typokurz.pdf).
 
 \clearpage
 \pagebreak
