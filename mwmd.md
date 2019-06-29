@@ -296,20 +296,7 @@ Darüber hinausgehende Informationen zu typographisch ansprechender Gestaltung v
 \clearpage
 \pagebreak
 
-# Bibliographie-temp {.unnumbered}
-
-\hangpara{1em}{1}Andermann, Ulrich; Drees, Martin & Grätz, Frank (2000). *Duden. Wie verfasst man wissenschaftliche Arbeiten? Ein Leitfaden für das Studium und die Promotion.* Mainz: Verlag Hermann Schmidt.
-
-\hangpara{1em}{1}Bier, Christoph (2006). *Typokurz -- Einige wichtige typografische Regeln.* URL: [http://zvisionwelt.files.wordpress.com/2012/01/typokurz.pdf](http://zvisionwelt.files.wordpress.com/2012/01/typokurz.pdf) -- Zugriff: 13.11.2013.
-
-\hangpara{1em}{1}Emmer, Martin (2005). *Politische Mobilisierung durch das
-Internet? Eine kommunikationswissenschaftliche Untersuchung zur Wirkung
-eines neuen Mediums.* München: Verlag Reinhard Fischer.
-
-\hangpara{1em}{1}Weiß, Hans-Jürgen & Trebbe, Joachim (2000). *Fernsehen in Deutschland 1998/1999.* Berlin: Vistas.
-
-
-# Bibliographie {.unnumbered}
+# Bibliografie {.unnumbered}
 
 ```{=latex}
 \begin{hangparas}{1em}{1}
