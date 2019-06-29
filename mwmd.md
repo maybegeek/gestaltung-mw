@@ -231,6 +231,5 @@ Darüber hinausgehende Informationen zu typographisch ansprechender Gestaltung v
 \pagebreak
 
 # Eidesstattliche Erklärung {.unnumbered}
-<!-- \addsec*{Eidesstattliche Erklärung} -->
 
 Ich versichere, die vorliegende Arbeit selbstständig und nur unter Benutzung der angegebenen Hilfsmittel angefertigt und in keinem anderen Seminar (auch anderer Universitäten) abgegeben zu haben.
