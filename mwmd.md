@@ -76,7 +76,7 @@ Wörtlich oder sinngemäß übernommene Textstellen, Tabellen, Diagramme etc. so
 
 Wird nicht wörtlich zitiert, sondern paraphrasiert, ist ein »Vgl.« der Literaturangabe voranzustellen. Ein Beispiel: Laut den Autoren haben Filme und Serien eine wichtige Funktion für die Positionierung der Programme.^[Vgl. @we:2000 [61].]
 
-Erstreckt sich die zitierte Stelle auch über die folgende Seite, so ist dies mit dem Zusatz »f.« zu vermerken. Bei mehreren folgenden Seiten, wird der Zusatz »ff.« verwendet. Beispiel: @em:2005 [32ff.] Emmer (2005, S. 32 ff.).
+Erstreckt sich die zitierte Stelle auch über die folgende Seite, so ist dies mit dem Zusatz »f.« zu vermerken. Bei mehreren folgenden Seiten, wird der Zusatz »ff.« verwendet. Beispiel: @em:2005 [32ff.].
 
 ### Zitierstil
 
