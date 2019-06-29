@@ -301,12 +301,12 @@
     <if type="article-journal">
       <choose>
         <if variable="volume" match="none">
-          <text term="issue" prefix=", " suffix="&#8201;"/>
+          <text term="issue" prefix=". " suffix="&#8201;"/>
           <text variable="issue"/>
         </if>
         <else>
-          <text variable="volume" prefix=", "/>
-          <text variable="issue" prefix="(" suffix=")"/>
+          <text variable="volume" prefix=". "/>
+          <text variable="issue" prefix=", Nr.&#8201;" suffix=","/>
         </else>
       </choose>
       <text variable="page" prefix=". S.&#8201;"/>
