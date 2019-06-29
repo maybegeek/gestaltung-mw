@@ -432,6 +432,7 @@
               </choose>
             </group>
           </group>
+          <text macro="edition" />
           <text variable="note" />
         </group>
         <choose>
