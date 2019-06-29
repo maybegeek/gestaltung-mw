@@ -6,6 +6,12 @@ bibliography: mwmd.bib
 csl: layout/MW-UR.csl
 ---
 
+```{=latex}
+\hyphenation{
+  kom-mu-ni-ka-tions-wis-sen-schaft-li-che
+}
+```
+
 # Formaler Aufbau
 
 ## Textumfang
