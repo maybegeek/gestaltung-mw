@@ -88,6 +88,8 @@ Erstreckt sich die zitierte Stelle auch über die folgende Seite, so ist dies mi
 
 Sloterdijk, Peter (1999). *Regeln für den Menschenpark. Ein Antwortschreiben zu Heideggers Brief über den Humanismus*. Frankfurt am Main: Suhrkamp.
 
+⇒ @sl:1999 [10].
+
 
 **Zeitschriften:**
 
@@ -95,7 +97,7 @@ Sloterdijk, Peter (1999). *Regeln für den Menschenpark. Ein Antwortschreiben zu
 
 Stegbauer, Christian & Rausch, Alexander (2001). Die schweigende Mehrheit: »Lurker« in internetbasierten Diskussionsforen. In: *Zeitschrift für Soziologie.* 30, Nr. 1, S. 48--64.
 
-Vgl. @st:2001 [48].
+⇒ Vgl. @st:2001 [48].
 
 
 **Sammelbände:**
@@ -103,6 +105,8 @@ Vgl. @st:2001 [48].
 **Nachname, Vorname (Jahr). Titel. Untertitel. In: Nachname, Vorname (Hg.). *Titel. Untertitel.* Ort: Verlag, Seiten.**
 
 Gerhards, Jürgen & Neidhardt, Friedhelm (1993). Strukturen und Funktionen moderner Öffentlichkeit. In: Langebucher, Wolfgang R. (Hg.). *Politische Kommunikation: Grundlagen, Strukturen, Prozesse.* Wien: Braumüller, S. 52--89.
+
+⇒ Vgl. @ge:1993 [60f.].
 
 Wurde ein Werk von mehr als drei Autoren verfasst, wird der Hauptautor genannt und weitere Koautoren unter »et al.« zusammengefasst; z. B.:
 
