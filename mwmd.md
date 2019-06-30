@@ -90,7 +90,6 @@ Sloterdijk, Peter (1999). *Regeln für den Menschenpark. Ein Antwortschreiben zu
 
 ⇒ @sl:1999 [10].
 
-
 **Zeitschriften:**
 
 **Nachname, Vorname (Jahr). Titel. Untertitel. In: *Titel. Untertitel.* Jahrgang, Nummer, Seiten.**
@@ -125,6 +124,8 @@ Amento, Brian et al. (2003). Experiments in social data mining: The TopicShop s
 **Nachname, Vorname (Jahr). *Titel. Untertitel*. [url:]{.smallcaps} [http://www.xyz.de](http://www.xyz.de) -- Zugriff: Tag.Monat.Jahr.**
 
 O'Reilly, Tim (2005). *What Is Web 2.0*. [url:]{.smallcaps} [http://www.oreillynet.com/lpt/a/6228](http://www.oreillynet.com/lpt/a/6228) -- Zugriff: 4.2.2014.
+
+⇒ @or:2005.
 
 **Videos** (z. B. Youtube, Vimeo) -- abweichende Angaben bei Musikvideos (s.u.)!
 
