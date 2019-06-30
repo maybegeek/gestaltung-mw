@@ -242,7 +242,7 @@
           </if>
         </choose>
         <choose>
-          <if type="bill book graphic legal_case motion_picture report song article-journal chapter paper-conference" match="none">
+          <if type="bill book graphic legal_case motion_picture report song article-journal paper-conference" match="none">
             <date variable="issued">
               <date-part prefix="" suffix="." name="day"/>
               <date-part prefix=" " suffix=" " name="month"/>
