@@ -157,6 +157,7 @@ Der **Permanentlink** zu einem Wikipedia-Artikel findet sich auf der linken Seit
 
 **Wikipedia-Seitentitel (Datum der letzten Bearbeitung).** =\> Wikipedia-Zitierfähigkeit (8. November 2013).
 
+⇒ @wikizit:2019.
 
 #### Film/Bilder/Photos
 
