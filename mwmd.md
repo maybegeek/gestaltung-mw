@@ -39,7 +39,7 @@ Bei Verweis auf ein Buch, Zeitschrift o. ä. das in der Bibliographie aufgezähl
 Feste Bestandteile jeder schriftlichen Arbeit sind Titelblatt, Inhaltsverzeichnis, Einleitung, Hauptteil und Quellenverzeichnis; fallweise kommen weitere Anhänge (z.&#8239;B. ein Abbildungsverzeichnis) hinzu. Bei Hausarbeiten fügen Sie bitte eine eidesstattliche Erklärung s.&#8239;u. an, für Abschlussarbeiten (ggf. auf Wunsch des Gutachters in digitaler Form zusätzlich abzugeben) orientieren sie sich mit der eidesstattlichen Erklärung an der Vorlage der Prüfungsverwaltung, sie finden dort auch ausführliche Hinweise zu Abschlussarbeiten: [https://www.uni-regensburg.de/studium/pruefungsverwaltung/geisteswissenschaften/](https://www.uni-regensburg.de/studium/pruefungsverwaltung/geisteswissenschaften/)
 
 
-**Titelblatt:** inhaltliche Anforderung siehe Seite i.
+**Titelblatt:** Beispiele für Seminararbeit (siehe S.&#8239;ii) und Bachelorarbeit (siehe S.&#8239;iii).
 
 **Inhaltsverzeichnis:** Es empfiehlt sich, die Gliederung der Arbeit automatisiert mithilfe des verwendeten Textverarbeitungsprogramms zu erstellen. Einleitung: In der Einleitung wird die Themenstellung und Zielsetzung der Arbeit beschrieben, sowie der inhaltliche Aufbau der Arbeit erläutert. Die Einleitung ist als integraler Bestandteil der Arbeit zu sehen und soll dem Leser/Prüfer die Forschungsfrage, den Gegenstand der Arbeit und die Methodik aufzeichnen; das Ziel der Arbeit wird hier benannt.
 
