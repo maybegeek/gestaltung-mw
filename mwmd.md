@@ -201,7 +201,7 @@ Gesellschaft zur Förderung der Photographie (1952). Oh, die herrlichen Berge \[
 
 Firmenname (Jahr)
 
-# Typographische Gestaltungshinweise
+# Typografische Gestaltungshinweise
 
 ## Die Wahl der Schriftart
 
@@ -218,7 +218,7 @@ Die Arbeit wird einseitig auf DIN A4-Papier gedruckt. Die Seitenränder betragen
 
 Für den Fließtext ist Blocksatz mit automatisierter Silbentrennung zu verwenden. Überschriften werden grundsätzlich linksbündig gesetzt (Flattersatz). Sperrung und Unterstreichung als Relikte der eingeschränkten Auszeichnungsmöglichkeiten einer Schreibmaschine sollten vermieden werden. Kursivierung, Fettdruck, Versalien und Kapitälchen sind so oft wie nötig, jedoch nicht inflationär zu gebrauchen.^[Vgl. @bi:2009 [2f.].]
 
-Darüber hinausgehende Informationen zu typographisch ansprechender Gestaltung von Druckwerken finden sie z. B. in: „Typokurz -- Einige wichtige typografische Regeln" von Christoph Bier. [url:]{.smallcaps} [https://zvisionwelt.files.wordpress.com/2012/01/typokurz.pdf](https://zvisionwelt.files.wordpress.com/2012/01/typokurz.pdf).
+Darüber hinausgehende Informationen zu typografisch ansprechender Gestaltung von Druckwerken finden sie z. B. in: „Typokurz -- Einige wichtige typografische Regeln" von Christoph Bier. [url:]{.smallcaps} [https://zvisionwelt.files.wordpress.com/2012/01/typokurz.pdf](https://zvisionwelt.files.wordpress.com/2012/01/typokurz.pdf).
 
 
 \clearpage
