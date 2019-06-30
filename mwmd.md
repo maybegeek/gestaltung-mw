@@ -36,7 +36,7 @@ Bei Verweis auf ein Buch, Zeitschrift o. ä. das in der Bibliographie aufgezähl
 
 ## Segmente der Arbeit
 
-Feste Bestandteile jeder schriftlichen Arbeit sind Titelblatt, Inhaltsverzeichnis, Einleitung, Hauptteil und Quellenverzeichnis; fallweise kommen weitere Anhänge (z. B. ein Abbildungsverzeichnis) hinzu. Bei Hausarbeiten fügen Sie bitte eine eidesstattliche Erklärung s.u. an, für Abschlussarbeiten (ggf. auf Wunsch des Gutachters in digitaler Form zusätzlich abzugeben) orientieren sie sich mit der eidesstattlichen Erklärung an der Vorlage der Prüfungsverwaltung, sie finden dort auch ausführliche Hinweise zu Abschlussarbeiten: [https://www.uni-regensburg.de/studium/pruefungsverwaltung/geisteswissenschaften/](https://www.uni-regensburg.de/studium/pruefungsverwaltung/geisteswissenschaften/)
+Feste Bestandteile jeder schriftlichen Arbeit sind Titelblatt, Inhaltsverzeichnis, Einleitung, Hauptteil und Quellenverzeichnis; fallweise kommen weitere Anhänge (z.&#8239;B. ein Abbildungsverzeichnis) hinzu. Bei Hausarbeiten fügen Sie bitte eine eidesstattliche Erklärung s.&#8239;u. an, für Abschlussarbeiten (ggf. auf Wunsch des Gutachters in digitaler Form zusätzlich abzugeben) orientieren sie sich mit der eidesstattlichen Erklärung an der Vorlage der Prüfungsverwaltung, sie finden dort auch ausführliche Hinweise zu Abschlussarbeiten: [https://www.uni-regensburg.de/studium/pruefungsverwaltung/geisteswissenschaften/](https://www.uni-regensburg.de/studium/pruefungsverwaltung/geisteswissenschaften/)
 
 
 **Titelblatt:** inhaltliche Anforderung siehe Seite i.
@@ -60,7 +60,7 @@ Feste Bestandteile jeder schriftlichen Arbeit sind Titelblatt, Inhaltsverzeichni
 
 # Bibliographie (Quellen- und Literaturverzeichnis)
 
-Als Nachweis für die verwendete Literatur wird am Ende der Seminar-/Abschlussarbeit ein alphabetisches Literaturverzeichnis erstellt. Hier evtl. nicht aufgeführte Quellenarten sollen auch adäquat zitiert werden; dazu selbständig bei Bedarf z.B. den *Chicago Manual of Style* online zu rate ziehen.
+Als Nachweis für die verwendete Literatur wird am Ende der Seminar-/Abschlussarbeit ein alphabetisches Literaturverzeichnis erstellt. Hier evtl. nicht aufgeführte Quellenarten sollen auch adäquat zitiert werden; dazu selbständig bei Bedarf z.&#8239;B. den *Chicago Manual of Style* online zu rate ziehen.
 
 ## Software zur Literaturverwaltung (Wissensorganisation)
 
@@ -94,7 +94,7 @@ Sloterdijk, Peter (1999). *Regeln für den Menschenpark. Ein Antwortschreiben zu
 
 **Nachname, Vorname (Jahr). Titel. Untertitel. In: *Titel. Untertitel.* Jahrgang, Nummer, Seiten.**
 
-Stegbauer, Christian & Rausch, Alexander (2001). Die schweigende Mehrheit: »Lurker« in internetbasierten Diskussionsforen. In: *Zeitschrift für Soziologie.* 30, Nr. 1, S. 48--64.
+Stegbauer, Christian & Rausch, Alexander (2001). Die schweigende Mehrheit: »Lurker« in internetbasierten Diskussionsforen. In: *Zeitschrift für Soziologie.* 30, Nr. 1, S.&#8239;48--64.
 
 ⇒ Vgl. @st:2001 [48].
 
@@ -103,17 +103,17 @@ Stegbauer, Christian & Rausch, Alexander (2001). Die schweigende Mehrheit: »Lur
 
 **Nachname, Vorname (Jahr). Titel. Untertitel. In: Nachname, Vorname (Hg.). *Titel. Untertitel.* Ort: Verlag, Seiten.**
 
-Gerhards, Jürgen & Neidhardt, Friedhelm (1993). Strukturen und Funktionen moderner Öffentlichkeit. In: Langebucher, Wolfgang R. (Hg.). *Politische Kommunikation: Grundlagen, Strukturen, Prozesse.* Wien: Braumüller, S. 52--89.
+Gerhards, Jürgen & Neidhardt, Friedhelm (1993). Strukturen und Funktionen moderner Öffentlichkeit. In: Langebucher, Wolfgang R. (Hg.). *Politische Kommunikation: Grundlagen, Strukturen, Prozesse.* Wien: Braumüller, S.&#8239;52--89.
 
 ⇒ Vgl. @ge:1993 [60f.].
 
-Wurde ein Werk von mehr als drei Autoren verfasst, wird der Hauptautor genannt und weitere Koautoren unter »et al.« zusammengefasst; z. B.:
+Wurde ein Werk von mehr als drei Autoren verfasst, wird der Hauptautor genannt und weitere Koautoren unter »et al.« zusammengefasst; z.&#8239;B.:
 
-Amento, Brian et al. (2003). Experiments in social data mining: The TopicShop system. In: *ACM Transactions on ComputerHuman Interaction (TOCHI).* 10, Nr. 1, S. 54--85.
+Amento, Brian et al. (2003). Experiments in social data mining: The TopicShop system. In: *ACM Transactions on ComputerHuman Interaction (TOCHI).* 10, Nr. 1, S.&#8239;54--85.
 
 **Kurztitel im Text/Fußnote:**
 
-**Nachname (Jahr, ggf. Seitenzahl).** =\> Amento et al. (2003, S. 54--85).
+**Nachname (Jahr, ggf. Seitenzahl).** =\> Amento et al. (2003, S.&#8239;54--85).
 
 ⇒ @am:2003 [60].
 
@@ -127,17 +127,17 @@ O'Reilly, Tim (2005). *What Is Web 2.0*. [url:]{.smallcaps} [http://www.oreillyn
 
 ⇒ @or:2005.
 
-**Videos** (z. B. Youtube, Vimeo) -- abweichende Angaben bei Musikvideos (s.u.)!
+**Videos** (z.&#8239;B. Youtube, Vimeo) -- abweichende Angaben bei Musikvideos (s.u.)!
 
 **Nachname, Vorname \[Benutzername\] (Veröffentlichungsdatum). *Videotitel* \[Video file\]. [url:]{.smallcaps} [http://www.xyz.de](http://www.xyz.de) -- Zugriff: Tag.Monat.Jahr.**
 
 Cook, Shelby \[XxSourGummyBearzxX\] (16.12.2013). *Tom Hiddleston Funny Moments* \[Video file\]. [url:]{.smallcaps} [http://www.youtube.com/watch?v=kXViNegXPTk](http://www.youtube.com/watch?v=kXViNegXPTk) -- Zugriff: 4.2.2014.
 
-Wenn der Name eines Benutzers nicht zu recherchieren ist, wird der Benutzername ohne Klammern als Name verwendet. Analog gilt bei nicht möglicher Zuweisung von Autorenname und Erscheinungsdatum »o.A.« und »o.J.« zur Kenntlichmachung.
+Wenn der Name eines Benutzers nicht zu recherchieren ist, wird der Benutzername ohne Klammern als Name verwendet. Analog gilt bei nicht möglicher Zuweisung von Autorenname und Erscheinungsdatum »o.&#8239;A.« und »o.&#8239;J.« zur Kenntlichmachung.
 
 **Benutzername (Veröffentlichungsdatum). *Videotitel* \[Video file\]. [url:]{.smallcaps} [http://www.xyz.de](http://www.xyz.de) -- Zugriff: Tag.Monat.Jahr.**
 
-**Musikvideos:** (z. B. Youtube, Vimeo)
+**Musikvideos:** (z.&#8239;B. Youtube, Vimeo)
 
 **Interpret (Erscheinungsjahr). *Musikvideo-Originaltitel* (Produktionsgesellschaft, ggf. Regisseur).**
 
@@ -161,7 +161,7 @@ Der **Permanentlink** zu einem Wikipedia-Artikel findet sich auf der linken Seit
 
 #### Film/Bilder/Photos
 
-Die Zitationsweise von Bildern unterscheidet sich in bewegte (z. B. Film) und unbewegte Bilder (z. B. Gemälde, Fotografien).
+Die Zitationsweise von Bildern unterscheidet sich in bewegte (z.&#8239;B. Film) und unbewegte Bilder (z.&#8239;B. Gemälde, Fotografien).
 
 ***Film-Originaltitel* (ggf. deutscher Titel, Land bzw. Länder in denen der Film etc. produziert wurde, Regisseur, Verwendetes Trägermedium).**
 
@@ -169,7 +169,7 @@ Die Zitationsweise von Bildern unterscheidet sich in bewegte (z. B. Film) und un
 
 ***Unbewegtbild-Originaltitel* (ggf. deutscher Titel, Künstler, Entstehungsjahr).**
 
-*Larmes* (Tränen, Man Ray, 1930). In: Rosalind Krauss, Jane Livingston (Hg.): L'amour fou. Photography and Surrealism. Washington/New York 1985. S. 118.
+*Larmes* (Tränen, Man Ray, 1930). In: Rosalind Krauss, Jane Livingston (Hg.): L'amour fou. Photography and Surrealism. Washington/New York 1985. S.&#8239;118.
 
 In der **Bibliographie** werden unter dem Punkt **Quellenverzeichnis für Film/Bilder** die verwendeten Filme und/oder Bilder in alphabetischer Reihenfolge sortiert.
 
@@ -218,7 +218,7 @@ Die Arbeit wird einseitig auf DIN A4-Papier gedruckt. Die Seitenränder betragen
 
 Für den Fließtext ist Blocksatz mit automatisierter Silbentrennung zu verwenden. Überschriften werden grundsätzlich linksbündig gesetzt (Flattersatz). Sperrung und Unterstreichung als Relikte der eingeschränkten Auszeichnungsmöglichkeiten einer Schreibmaschine sollten vermieden werden. Kursivierung, Fettdruck, Versalien und Kapitälchen sind so oft wie nötig, jedoch nicht inflationär zu gebrauchen.^[Vgl. @bi:2009 [2f.].]
 
-Darüber hinausgehende Informationen zu typografisch ansprechender Gestaltung von Druckwerken finden sie z. B. in: „Typokurz -- Einige wichtige typografische Regeln“ von Christoph Bier. [url:]{.smallcaps} [https://zvisionwelt.files.wordpress.com/2012/01/typokurz.pdf](https://zvisionwelt.files.wordpress.com/2012/01/typokurz.pdf).
+Darüber hinausgehende Informationen zu typografisch ansprechender Gestaltung von Druckwerken finden sie z.&#8239;B. in: „Typokurz -- Einige wichtige typografische Regeln“ von Christoph Bier. [url:]{.smallcaps} [https://zvisionwelt.files.wordpress.com/2012/01/typokurz.pdf](https://zvisionwelt.files.wordpress.com/2012/01/typokurz.pdf).
 
 
 
