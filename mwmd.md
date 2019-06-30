@@ -241,3 +241,11 @@ Darüber hinausgehende Informationen zu typographisch ansprechender Gestaltung v
 # Eidesstattliche Erklärung {.unnumbered}
 
 Ich versichere, die vorliegende Arbeit selbstständig und nur unter Benutzung der angegebenen Hilfsmittel angefertigt und in keinem anderen Seminar (auch anderer Universitäten) abgegeben zu haben.
+
+```{=latex}
+\vspace{5\baselineskip}
+\noindent
+\hfill\rule[0.5ex]{10cm}{0.5pt}
+
+\hfill Ort, Datum \hspace*{5.9cm} Unterschrift
+```
