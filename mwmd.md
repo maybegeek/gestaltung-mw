@@ -53,7 +53,7 @@ Feste Bestandteile jeder schriftlichen Arbeit sind Titelblatt, Inhaltsverzeichni
 
 **Hausarbeit:** Die letzte Seite der Abschlussarbeit muss eine unterschriebene Erklärung mit folgendem Text enthalten: »Ich versichere, die vorliegende Arbeit selbstständig und nur unter Benutzung der angegebenen Hilfsmittel angefertigt und in keinem anderen Seminar (auch anderer Universitäten) abgegeben zu haben.«
 
-**Abschlussarbeit:** Siehe Punkt „Abschlussarbeit" unter [http://www.uni-regensburg.de/studium/pruefungsverwaltung/geisteswissenschaften/](http://www.uni-regensburg.de/studium/pruefungsverwaltung/geisteswissenschaften/)
+**Abschlussarbeit:** Siehe Punkt „Abschlussarbeit“ unter [http://www.uni-regensburg.de/studium/pruefungsverwaltung/geisteswissenschaften/](http://www.uni-regensburg.de/studium/pruefungsverwaltung/geisteswissenschaften/)
 
 **Beachten sie für Abschlussarbeiten *immer* die Hinweise auf den Seiten des Prüfungsamts der Geisteswissenschaften:** [Allgemeine Informationen zur Abschlussarbeit](https://www.ur.de/studium/pruefungsverwaltung/geisteswissenschaften)
 
@@ -149,7 +149,7 @@ Björk (1999). *All is full of love* (Electra Entertainment Group Inc., Chris Cu
 
 Wikipedia-Zitierfähigkeit (8. November 2013). In: *Wikipedia -- Die freie Enzyklopädie.* [url:]{.smallcaps} [http://de.wikipedia.org/w/index.php?title=Zitierf%C3%A4higkeit&oldid=60350199](http://de.wikipedia.org/w/index.php?title=Zitierf%C3%A4higkeit&oldid=60350199) -- Zugriff: 4.2.2014.
 
-Der **Permanentlink** zu einem Wikipedia-Artikel findet sich auf der linken Seite der Webseite unter „Werkzeuge". Bei Webinhalten die einer Versionierung unterliegen, verwiest dieser immer auf die zum Zeitpunkt der Zitierung gültige Fassung des elektronischenDokuments, selbst wenn im Nachhinein aktuellere Fassungen hinzugekommen sind. Die Seiteninformationen (Datum der letzten Bearbeitung, etc.) finden sich auch auf der linken Seite unter „Werkzeuge/Seite zitieren".
+Der **Permanentlink** zu einem Wikipedia-Artikel findet sich auf der linken Seite der Webseite unter „Werkzeuge“. Bei Webinhalten die einer Versionierung unterliegen, verwiest dieser immer auf die zum Zeitpunkt der Zitierung gültige Fassung des elektronischenDokuments, selbst wenn im Nachhinein aktuellere Fassungen hinzugekommen sind. Die Seiteninformationen (Datum der letzten Bearbeitung, etc.) finden sich auch auf der linken Seite unter „Werkzeuge/Seite zitieren“.
 
 **Kurztitel im Text/Fußnote:**
 
@@ -193,7 +193,7 @@ Bildunterschriften von Einzelkadern (Stills) aus Filmen etc., die der Illustrati
 
 **Firmenname (Jahr). *Titel wenn vorhanden* \[Werbung\]. Quelle.**
 
-Doppelherz (2007). *„Sitznachbar"* \[Werbung\]. ARD: Radio-Kreativ-Wettbewerb 2007 (Broschüre und CD-Rom).
+Doppelherz (2007). *„Sitznachbar“* \[Werbung\]. ARD: Radio-Kreativ-Wettbewerb 2007 (Broschüre und CD-Rom).
 
 Gesellschaft zur Förderung der Photographie (1952). Oh, die herrlichen Berge \[Werbung\]. In: *Regensburger Archiv für Werbeforschung. PROPHOTO vom 12.7.1952*. HWA\_1\_863.mp3. R-Nummer: 616. [url:]{.smallcaps} [http://raw.uni-regensburg.de/details.php?r=616](http://raw.uni-regensburg.de/details.php?r=616) − Zugriff: 18.9.2013.
 
@@ -218,7 +218,8 @@ Die Arbeit wird einseitig auf DIN A4-Papier gedruckt. Die Seitenränder betragen
 
 Für den Fließtext ist Blocksatz mit automatisierter Silbentrennung zu verwenden. Überschriften werden grundsätzlich linksbündig gesetzt (Flattersatz). Sperrung und Unterstreichung als Relikte der eingeschränkten Auszeichnungsmöglichkeiten einer Schreibmaschine sollten vermieden werden. Kursivierung, Fettdruck, Versalien und Kapitälchen sind so oft wie nötig, jedoch nicht inflationär zu gebrauchen.^[Vgl. @bi:2009 [2f.].]
 
-Darüber hinausgehende Informationen zu typografisch ansprechender Gestaltung von Druckwerken finden sie z. B. in: „Typokurz -- Einige wichtige typografische Regeln" von Christoph Bier. [url:]{.smallcaps} [https://zvisionwelt.files.wordpress.com/2012/01/typokurz.pdf](https://zvisionwelt.files.wordpress.com/2012/01/typokurz.pdf).
+Darüber hinausgehende Informationen zu typografisch ansprechender Gestaltung von Druckwerken finden sie z. B. in: „Typokurz -- Einige wichtige typografische Regeln“ von Christoph Bier. [url:]{.smallcaps} [https://zvisionwelt.files.wordpress.com/2012/01/typokurz.pdf](https://zvisionwelt.files.wordpress.com/2012/01/typokurz.pdf).
+
 
 
 \clearpage
