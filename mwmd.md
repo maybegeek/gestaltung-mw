@@ -245,6 +245,10 @@ Darüber hinausgehende Informationen zu typografisch ansprechender Gestaltung vo
 
 Ich versichere, die vorliegende Arbeit selbstständig und nur unter Benutzung der angegebenen Hilfsmittel angefertigt und in keinem anderen Seminar (auch anderer Universitäten) abgegeben zu haben.
 
+Ich habe die Arbeit selbständig verfasst, keine anderen als die angegebenen Quellen und Hilfsmittel benutzt und die Arbeit nicht bereits an einer anderen Hochschule zur Erlangung eines akademischen Grades eingereicht.
+
+Von den zu § XY (können Sie dem Zulassungsschreiben entnehmen) der Prüfungsordnung vorgesehenen Rechtsfolgen habe ich Kenntnis“ Unterschrift.
+
 ```{=latex}
 \vspace{5\baselineskip}
 \noindent
