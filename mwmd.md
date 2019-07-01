@@ -225,7 +225,7 @@ Darüber hinausgehende Informationen zu typografisch ansprechender Gestaltung vo
 \clearpage
 \pagebreak
 
-# Bibliografie {.unnumbered}
+# Bibliografie {-}
 
 ```{=latex}
 \begin{hangparas}{1em}{1}
@@ -241,7 +241,7 @@ Darüber hinausgehende Informationen zu typografisch ansprechender Gestaltung vo
 \clearpage
 \pagebreak
 
-# Eidesstattliche Erklärung {.unnumbered}
+# Eidesstattliche Erklärung {-}
 
 Ich versichere, die vorliegende Arbeit selbstständig und nur unter Benutzung der angegebenen Hilfsmittel angefertigt und in keinem anderen Seminar (auch anderer Universitäten) abgegeben zu haben.
 
