@@ -243,10 +243,28 @@ Darüber hinausgehende Informationen zu typografisch ansprechender Gestaltung vo
 
 # Eidesstattliche Erklärung {-}
 
-*vorher:*  
+*vorher:*
+
 Ich versichere, die vorliegende Arbeit selbstständig und nur unter Benutzung der angegebenen Hilfsmittel angefertigt und in keinem anderen Seminar (auch anderer Universitäten) abgegeben zu haben.
 
-*nachher:*  
+
+
+```{=latex}
+\vspace{5\baselineskip}
+\noindent
+\hfill\rule[0.5ex]{10cm}{0.5pt}
+
+\hfill Ort, Datum \hspace*{5.9cm} Unterschrift
+```
+
+
+\clearpage
+\pagebreak
+
+# Eidesstattliche Erklärung {-}
+
+*nachher:*
+
 Ich habe die Arbeit selbständig verfasst, keine anderen als die angegebenen Quellen und Hilfsmittel benutzt und die Arbeit nicht bereits an einer anderen Hochschule zur Erlangung eines akademischen Grades eingereicht. Gegebenenfalls zu(m) Druckexemplar(en) vorgelegtes, digitales Material ist inhaltlich identisch.
 
 Von den vorgesehenen Rechtsfolgen habe ich Kenntnis:
@@ -255,6 +273,32 @@ Von den vorgesehenen Rechtsfolgen habe ich Kenntnis:
 [Bachelorprüfungs- und Studienordnung für die Philosophischen Fakultäten I--III der Universität Regensburg](https://www.uni-regensburg.de/studium/pruefungsordnungen/bachelor/philosophische-fakultaeten/) (besonders §22 Abs.&#8239;3 S.&#8239;1, §24 und §29 Abs.&#8239;5).
 * *Masterstudierende:*  
 [Prüfungs- und Studienordnung für den Masterstudiengang Allgemeine und Vergleichende Medienwissenschaft an der Universität Regensburg](https://www.uni-regensburg.de/studium/pruefungsordnungen/magister-master/allgemeine-und-vergleichende-medienwissenschaft/) (besonders §20 Abs.&#8239;4, §26 Abs.&#8239;5 und §29 Abs.&#8239;1).
+
+
+```{=latex}
+\vspace{5\baselineskip}
+\noindent
+\hfill\rule[0.5ex]{10cm}{0.5pt}
+
+\hfill Ort, Datum \hspace*{5.9cm} Unterschrift
+```
+
+
+\clearpage
+\pagebreak
+
+# Eidesstattliche Erklärung {-}
+
+*alternativ:*
+
+Ich habe die Arbeit selbständig verfasst, keine anderen als die angegebenen Quellen und Hilfsmittel benutzt und die Arbeit nicht bereits an einer anderen Hochschule zur Erlangung eines akademischen Grades eingereicht. Gegebenenfalls zu(m) Druckexemplar(en) vorgelegtes, digitales Material ist inhaltlich identisch.
+
+Von den vorgesehenen Rechtsfolgen habe ich Kenntnis:
+
+* *Bachelorstudierende:*  
+[Bachelorprüfungs- und Studienordnung für die Philosophischen Fakultäten I--III der Universität Regensburg](https://www.uni-regensburg.de/studium/pruefungsordnungen/bachelor/philosophische-fakultaeten/).
+* *Masterstudierende:*  
+[Prüfungs- und Studienordnung für den Masterstudiengang Allgemeine und Vergleichende Medienwissenschaft an der Universität Regensburg](https://www.uni-regensburg.de/studium/pruefungsordnungen/magister-master/allgemeine-und-vergleichende-medienwissenschaft/).
 
 
 ```{=latex}
