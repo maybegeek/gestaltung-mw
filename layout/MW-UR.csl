@@ -340,25 +340,47 @@
 
 <citation et-al-min="4" et-al-use-first="1" et-al-subsequent-min="4" et-al-subsequent-use-first="1" disambiguate-add-year-suffix="true" disambiguate-add-names="true" disambiguate-add-givenname="true">
   <sort>
+    <key macro="urauthorortitle" />
     <key macro="author"/>
     <key macro="issued-year"/>
   </sort>
   <layout prefix="(" suffix=")" delimiter="; ">
-    <group delimiter=" ">
     <choose>
-      <if variable="dimensions medium" match="any">
-        <text font-variant="small-caps" font-style="normal" macro="title"/>
-        <text prefix=" " macro="issued-year"/>
+      <if type="motion_picture">
+        <group delimiter=" ">
+        <choose>
+          <if variable="dimensions medium" match="any">
+            <text font-variant="small-caps" font-style="normal" macro="title"/>
+            <text prefix=" " macro="issued-year"/>
+          </if>
+          <else>
+            <text macro="title"/>
+            <group delimiter=",">
+              <text macro="issued-year"/>
+              <text macro="citation-locator"/>
+            </group>
+          </else>
+        </choose>
+        </group>
       </if>
       <else>
-        <text macro="author-short"/>
-        <group delimiter=",">
-          <text macro="issued-year"/>
-          <text macro="citation-locator"/>
+        <group delimiter=" ">
+        <choose>
+          <if variable="dimensions medium" match="any">
+            <text font-variant="small-caps" font-style="normal" macro="title"/>
+            <text prefix=" " macro="issued-year"/>
+          </if>
+          <else>
+            <text macro="author-short"/>
+            <group delimiter=",">
+              <text macro="issued-year"/>
+              <text macro="citation-locator"/>
+            </group>
+          </else>
+        </choose>
         </group>
       </else>
     </choose>
-    </group>
   </layout>
 </citation>
 

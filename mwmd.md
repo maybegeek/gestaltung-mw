@@ -220,12 +220,14 @@ Für den Fließtext ist Blocksatz mit automatisierter Silbentrennung zu verwende
 
 Darüber hinausgehende Informationen zu typografisch ansprechender Gestaltung von Druckwerken finden sie z.&#8239;B. in: „Typokurz -- Einige wichtige typografische Regeln“ von Christoph Bier. [url:]{.smallcaps} [https://zvisionwelt.files.wordpress.com/2012/01/typokurz.pdf](https://zvisionwelt.files.wordpress.com/2012/01/typokurz.pdf).
 
-
+-@wom:1941
 
 \clearpage
 \pagebreak
 
-# Bibliografie {-}
+# Quellenverzeichnis {-}
+
+## Literaturverzeichnis {-}
 
 ```{=latex}
 \begin{hangparas}{1em}{1}
@@ -237,6 +239,7 @@ Darüber hinausgehende Informationen zu typografisch ansprechender Gestaltung vo
 \end{hangparas}
 ```
 
+## Bild-, Bewegtbild- und Audioverzeichnis {-}
 
 \clearpage
 \pagebreak
