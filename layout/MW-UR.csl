@@ -344,18 +344,18 @@
     <key macro="author"/>
     <key macro="issued-year"/>
   </sort>
-  <layout prefix="(" suffix=")" delimiter="; ">
+  <layout>
     <choose>
       <if type="motion_picture">
         <group delimiter=" ">
         <choose>
           <if variable="dimensions medium" match="any">
-            <text font-variant="small-caps" font-style="normal" macro="title"/>
-            <text prefix=" " macro="issued-year"/>
+            <text macro="title"/>
+            <text macro="issued-year" prefix="(" suffix=")"/>
           </if>
           <else>
             <text macro="title"/>
-            <group delimiter=",">
+            <group delimiter=","  prefix="(" suffix=")">
               <text macro="issued-year"/>
               <text macro="citation-locator"/>
             </group>
@@ -364,21 +364,22 @@
         </group>
       </if>
       <else>
-        <group delimiter=" ">
-        <choose>
-          <if variable="dimensions medium" match="any">
-            <text font-variant="small-caps" font-style="normal" macro="title"/>
-            <text prefix=" " macro="issued-year"/>
-          </if>
-          <else>
-            <text macro="author-short"/>
-            <group delimiter=",">
-              <text macro="issued-year"/>
-              <text macro="citation-locator"/>
-            </group>
-          </else>
-        </choose>
-        </group>
+          <group prefix="(" suffix=")" delimiter="; ">
+          <choose>
+            <if variable="dimensions medium" match="any">
+              <text font-variant="small-caps" font-style="normal" macro="title"/>
+              <text prefix=" " macro="issued-year"/>
+            </if>
+            <else>
+              <text macro="author-short"/>
+              <group delimiter=",">
+                <text macro="issued-year"/>
+                <text macro="citation-locator"/>
+              </group>
+            </else>
+          </choose>
+          </group>
+
       </else>
     </choose>
   </layout>
