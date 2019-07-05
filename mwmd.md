@@ -14,24 +14,32 @@ csl: layout/MW-UR.csl
 
 # Formaler Aufbau
 
+Hier mit gutem Vorbild voran! Gliederungsebenen sollten im inhaltlichen Teil der schriftlichen Arbeit nie leer gelassen werden. ??
+
+Evtl. hier etwas Text, der auch etwas allgemeiner den formalen Aufbau betreffen kann, oder Text, welcher über die folgenden Aspekte führt ... ??
+
 ## Textumfang
 
 Vorbehaltlich abweichender Vorgaben im Rahmen einzelner Lehrveranstaltungen, gelten folgende Richtwerte für den Umfang der Arbeiten (ohne Gliederung, Quellenverzeichnis, etc):
 
-* BA-Module M12, M13, M16: 25.000 Zeichen
-* BA-Module M19, M20: 40.000 Zeichen
-* MA-Module: 40.000 Zeichen
-* Bachelorarbeit: 60.000 Zeichen
-* Masterarbeit: 120.000 Zeichen
+* B.&#8239;A.-Module M12, M13, M16: 25&#8239;000 Zeichen
+* B.&#8239;A.-Module M19, M20: 40&#8239;000 Zeichen
+* M.&#8239;A.-Module: 40&#8239;000 Zeichen
+* Bachelorarbeit: 60&#8239;000 Zeichen
+* Masterarbeit: 120&#8239;000 Zeichen
 
 
 ## Fußnoten
+
+?? ob Fußnoten gleich soweit oben kommen sollen ??
 
 Alle Fußnoten beginnen mit einem Großbuchstaben und werden mit einem Punkt abgeschlossen. Für die genaue Platzierung der Verweisziffer im Text gilt folgende Regel:
 
 > Bezieht sich die Fußnote auf ein einzelnes Wort oder eine Wortgruppe, steht die Fußnotenziffer direkt dahinter noch vor einem folgenden Satzzeichen. Wenn sie sich jedoch auf einen ganzen Satz oder durch Satzzeichen eingeschlossenen Satzteil bezieht, steht sie nach dem schließenden Satzzeichen.^[@an:2000 [99].]
 
 Bei Verweis auf ein Buch, Zeitschrift o. ä. das in der Bibliographie aufgezählt wird, wird in der Fußnote die Kurzreferenz verwendet: **Nachname(n) (Erscheinungsjahr, ggf. Seitenzahl)**.
+
+⇒ Nachname(n) (Erscheinungsjahr, ggf. Seitenzahl).
 
 
 ## Segmente der Arbeit
@@ -222,7 +230,13 @@ Für den Fließtext ist Blocksatz mit automatisierter Silbentrennung zu verwende
 
 Darüber hinausgehende Informationen zu typografisch ansprechender Gestaltung von Druckwerken finden sie z.&#8239;B. in: „Typokurz -- Einige wichtige typografische Regeln“ von Christoph Bier. [url:]{.smallcaps} [https://zvisionwelt.files.wordpress.com/2012/01/typokurz.pdf](https://zvisionwelt.files.wordpress.com/2012/01/typokurz.pdf).
 
--@wom:1941
+⇒ @wom:1941
+
+⇒ @wom:1941
+
+⇒ @wom:1941
+
+⇒ @wom:1941
 
 \clearpage
 \pagebreak
