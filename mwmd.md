@@ -267,7 +267,7 @@ Darüber hinausgehende Informationen zu typografisch ansprechender Gestaltung vo
 
 Ich habe die Arbeit selbständig verfasst, keine anderen als die angegebenen Quellen und Hilfsmittel benutzt und die Arbeit nicht bereits an einer anderen Hochschule zur Erlangung eines akademischen Grades eingereicht. Gegebenenfalls zu(m) Druckexemplar(en) vorgelegtes, digitales Material ist inhaltlich identisch.
 
-Von den vorgesehenen Rechtsfolgen habe ich Kenntnis:
+Von den möglichen Rechtsfolgen habe ich Kenntnis:
 
 * *Bachelorstudierende:*  
 [Bachelorprüfungs- und Studienordnung für die Philosophischen Fakultäten I--III der Universität Regensburg](https://www.uni-regensburg.de/studium/pruefungsordnungen/bachelor/philosophische-fakultaeten/) (besonders §22 Abs.&#8239;3 S.&#8239;1, §24 und §29 Abs.&#8239;5).
