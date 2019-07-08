@@ -260,6 +260,8 @@ Darüber hinausgehende Informationen zu typografisch ansprechender Gestaltung vo
 
 \clearpage
 \pagebreak
+\KOMAoptions{headsepline=false}
+\chead{}
 
 # Eidesstattliche Erklärung {-}
 
