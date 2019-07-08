@@ -267,7 +267,7 @@ Darüber hinausgehende Informationen zu typografisch ansprechender Gestaltung vo
 
 *nachher:*
 
-Ich habe die Arbeit selbständig verfasst, keine anderen als die angegebenen Quellen und Hilfsmittel benutzt und die Arbeit nicht bereits an einer anderen Hochschule zur Erlangung eines akademischen Grades eingereicht. Gegebenenfalls zu(m) Druckexemplar(en) vorgelegtes, digitales Material ist inhaltlich identisch.
+Ich habe die Arbeit selbständig verfasst, keine anderen als die angegebenen Quellen und Hilfsmittel benutzt und die Arbeit nicht bereits an einer anderen Hochschule zur Erlangung eines akademischen Grades eingereicht. Gegebenenfalls zu(m) Druckexemplar(en) vorgelegtes, digitales Material ist identisch.
 
 Von den möglichen Rechtsfolgen habe ich Kenntnis:
 
