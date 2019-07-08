@@ -263,9 +263,8 @@ Darüber hinausgehende Informationen zu typografisch ansprechender Gestaltung vo
 \KOMAoptions{headsepline=false}
 \chead{}
 
-# Eidesstattliche Erklärung {-}
 
-*nachher:*
+\addsec*{Erklärung}
 
 Ich habe die Arbeit selbständig verfasst, keine anderen als die angegebenen Quellen und Hilfsmittel benutzt und die Arbeit nicht bereits an einer anderen Hochschule zur Erlangung eines akademischen Grades eingereicht. Gegebenenfalls zu(m) Druckexemplar(en) vorgelegtes, digitales Material ist identisch.
 
