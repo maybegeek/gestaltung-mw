@@ -35,32 +35,33 @@ Vorbehaltlich abweichender Vorgaben im Rahmen einzelner Lehrveranstaltungen, gel
 Feste Bestandteile jeder schriftlichen Arbeit sind Titelblatt, Inhaltsverzeichnis, Einleitung, Hauptteil und Quellenverzeichnis; fallweise kommen weitere Anhänge (z.&#8239;B. ein Abbildungsverzeichnis) hinzu. Bei Hausarbeiten fügen Sie bitte eine eidesstattliche Erklärung s.&#8239;u. an, für Abschlussarbeiten (ggf. auf Wunsch des Gutachters in digitaler Form zusätzlich abzugeben) orientieren sie sich mit der eidesstattlichen Erklärung an der Vorlage der Prüfungsverwaltung, sie finden dort auch ausführliche Hinweise zu Abschlussarbeiten: [https://www.ur.de/studium/pruefungsverwaltung/geisteswissenschaften/](https://www.ur.de/studium/pruefungsverwaltung/geisteswissenschaften/).
 
 
+### Titelblatt
 
-Bei Verweis auf ein Buch, Zeitschrift o. ä. das in der Bibliographie aufgezählt wird, wird in der Fußnote die Kurzreferenz verwendet: **Nachname(n) (Erscheinungsjahr, ggf. Seitenzahl)**.
-
-⇒ Nachname(n) (Erscheinungsjahr, ggf. Seitenzahl).
-
-
-## Segmente der Arbeit
-
-Feste Bestandteile jeder schriftlichen Arbeit sind Titelblatt, Inhaltsverzeichnis, Einleitung, Hauptteil und Quellenverzeichnis; fallweise kommen weitere Anhänge (z.&#8239;B. ein Abbildungsverzeichnis) hinzu. Bei Hausarbeiten fügen Sie bitte eine eidesstattliche Erklärung s.&#8239;u. an, für Abschlussarbeiten (ggf. auf Wunsch des Gutachters in digitaler Form zusätzlich abzugeben) orientieren sie sich mit der eidesstattlichen Erklärung an der Vorlage der Prüfungsverwaltung, sie finden dort auch ausführliche Hinweise zu Abschlussarbeiten: [https://www.uni-regensburg.de/studium/pruefungsverwaltung/geisteswissenschaften/](https://www.uni-regensburg.de/studium/pruefungsverwaltung/geisteswissenschaften/)
+Beispiel für Seminararbeit siehe S.&#8239;ii und Abschlussarbeit  (siehe S.&#8239;iii).
 
 
-**Titelblatt:** Beispiele für Seminararbeit (siehe S.&#8239;ii) und Bachelorarbeit (siehe S.&#8239;iii).
+### Inhaltsverzeichnis
 
-**Inhaltsverzeichnis:** Es empfiehlt sich, die Gliederung der Arbeit automatisiert mithilfe des verwendeten Textverarbeitungsprogramms zu erstellen. Einleitung: In der Einleitung wird die Themenstellung und Zielsetzung der Arbeit beschrieben, sowie der inhaltliche Aufbau der Arbeit erläutert. Die Einleitung ist als integraler Bestandteil der Arbeit zu sehen und soll dem Leser/Prüfer die Forschungsfrage, den Gegenstand der Arbeit und die Methodik aufzeichnen; das Ziel der Arbeit wird hier benannt.
+Es empfiehlt sich, die Gliederung der Arbeit automatisiert mithilfe des verwendeten Textverarbeitungsprogramms zu erstellen. Einleitung: In der Einleitung wird die Themenstellung und Zielsetzung der Arbeit beschrieben, sowie der inhaltliche Aufbau der Arbeit erläutert. Die Einleitung ist als integraler Bestandteil der Arbeit zu sehen und soll dem Leser/Prüfer die Forschungsfrage, den Gegenstand der Arbeit und die Methodik aufzeichnen; das Ziel der Arbeit wird hier benannt.
 
-**Hauptteil:** Hauptteil der Arbeit inklusive Schlussbetrachtungen.
 
-**Abbildungsverzeichnis:** Bei einer größeren Anzahl von im Text verwendeten Abbildungen, kann ein Abbildungsverzeichnis vor dem Quellenverzeichnis dem Leser nützlich sein. Dort werden die laufende Abbildungsnummer, die (evtl. gekürzte) Bildunterschrift und die Seitenangabe genannt.
+### Hauptteil
 
-**Quellenverzeichnis:** Das Quellenverzeichnis unterscheidet Literaturnachweise (Bücher, Online-Quellen, Lexika etc.) und Bildnachweise (Fotografien, Gemälde, Filme, Videos etc.).
+Hauptteil der Arbeit inklusive Schlussbetrachtungen.
 
-**Eidesstattliche Erklärung:**
+
+### Abbildungsverzeichnis
+
+Bei einer größeren Anzahl von im Text verwendeten Abbildungen, kann ein Abbildungsverzeichnis vor dem Quellenverzeichnis dem Leser nützlich sein. Dort werden die laufende Abbildungsnummer, die (evtl. gekürzte) Bildunterschrift und die Seitenangabe genannt.
+
+
+### Quellenverzeichnis
+
+Das Quellenverzeichnis unterscheidet Literaturnachweise (Bücher, Online-Quellen, Lexika etc.) und Bildnachweise (Fotografien, Gemälde, Filme, Videos etc.).
+
+### Erklärung
 
 **Hausarbeit:** Die letzte Seite der Abschlussarbeit muss eine unterschriebene Erklärung mit folgendem Text enthalten: »Ich versichere, die vorliegende Arbeit selbstständig und nur unter Benutzung der angegebenen Hilfsmittel angefertigt und in keinem anderen Seminar (auch anderer Universitäten) abgegeben zu haben.«
-
-test
 
 **Abschlussarbeit:** Siehe Punkt „Abschlussarbeit“ unter [http://www.uni-regensburg.de/studium/pruefungsverwaltung/geisteswissenschaften/](http://www.uni-regensburg.de/studium/pruefungsverwaltung/geisteswissenschaften/)
 
