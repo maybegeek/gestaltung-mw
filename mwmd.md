@@ -1,6 +1,7 @@
 ---
 title: 'Gestaltungsrichtlinien Medienwissenschaft'
 ur-kolumnentitel: 'Gestaltungsrichtlinien Medienwissenschaft'
+ur-stand: 'Juli 2019'
 lang: de-DE
 bibliography: mwmd.bib
 csl: layout/MW-UR.csl
