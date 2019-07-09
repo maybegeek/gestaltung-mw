@@ -15,9 +15,7 @@ csl: layout/MW-UR.csl
 
 # Formaler Aufbau
 
-Hier mit gutem Vorbild voran! Gliederungsebenen sollten im inhaltlichen Teil der schriftlichen Arbeit nie leer gelassen werden. ??
-
-Evtl. hier etwas Text, der auch etwas allgemeiner den formalen Aufbau betreffen kann, oder Text, welcher über die folgenden Aspekte führt ... ??
+Auf dem Weg ein formal ordentliches, den akademischen Gepflogenheiten des Fachs entsprechendes und visuell ansprechendes Dokument zu erzeugen will sie dieser Leitfaden begleiten. 
 
 ## Textumfang
 
