@@ -13,9 +13,11 @@ csl: layout/MW-UR.csl
 }
 ```
 
+
 # Formaler Aufbau
 
-Auf dem Weg ein formal ordentliches, den akademischen Gepflogenheiten des Fachs entsprechendes und visuell ansprechendes Dokument zu erzeugen will sie dieser Leitfaden begleiten. 
+Auf dem Weg ein formal ordentliches, den akademischen Gepflogenheiten des Fachs entsprechendes und visuell ansprechendes Dokument zu erzeugen will sie dieser Leitfaden begleiten.
+
 
 ## Textumfang
 
