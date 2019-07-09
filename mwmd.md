@@ -30,13 +30,11 @@ Vorbehaltlich abweichender Vorgaben im Rahmen einzelner Lehrveranstaltungen, gel
 * Masterarbeit: 120&#8239;000 Zeichen
 
 
-## Fußnoten
+## Segmente der Arbeit
 
-?? ob Fußnoten gleich soweit oben kommen sollen ??
+Feste Bestandteile jeder schriftlichen Arbeit sind Titelblatt, Inhaltsverzeichnis, Einleitung, Hauptteil und Quellenverzeichnis; fallweise kommen weitere Anhänge (z.&#8239;B. ein Abbildungsverzeichnis) hinzu. Bei Hausarbeiten fügen Sie bitte eine eidesstattliche Erklärung s.&#8239;u. an, für Abschlussarbeiten (ggf. auf Wunsch des Gutachters in digitaler Form zusätzlich abzugeben) orientieren sie sich mit der eidesstattlichen Erklärung an der Vorlage der Prüfungsverwaltung, sie finden dort auch ausführliche Hinweise zu Abschlussarbeiten: [https://www.ur.de/studium/pruefungsverwaltung/geisteswissenschaften/](https://www.ur.de/studium/pruefungsverwaltung/geisteswissenschaften/).
 
-Alle Fußnoten beginnen mit einem Großbuchstaben und werden mit einem Punkt abgeschlossen. Für die genaue Platzierung der Verweisziffer im Text gilt folgende Regel:
 
-> Bezieht sich die Fußnote auf ein einzelnes Wort oder eine Wortgruppe, steht die Fußnotenziffer direkt dahinter noch vor einem folgenden Satzzeichen. Wenn sie sich jedoch auf einen ganzen Satz oder durch Satzzeichen eingeschlossenen Satzteil bezieht, steht sie nach dem schließenden Satzzeichen.^[@an:2000 [99].]
 
 Bei Verweis auf ein Buch, Zeitschrift o. ä. das in der Bibliographie aufgezählt wird, wird in der Fußnote die Kurzreferenz verwendet: **Nachname(n) (Erscheinungsjahr, ggf. Seitenzahl)**.
 
@@ -67,6 +65,18 @@ test
 **Abschlussarbeit:** Siehe Punkt „Abschlussarbeit“ unter [http://www.uni-regensburg.de/studium/pruefungsverwaltung/geisteswissenschaften/](http://www.uni-regensburg.de/studium/pruefungsverwaltung/geisteswissenschaften/)
 
 **Beachten sie für Abschlussarbeiten *immer* die Hinweise auf den Seiten des Prüfungsamts der Geisteswissenschaften:** [Allgemeine Informationen zur Abschlussarbeit](https://www.ur.de/studium/pruefungsverwaltung/geisteswissenschaften)
+
+## Fußnoten
+
+?? ob Fußnoten gleich soweit oben kommen sollen ??
+
+Alle Fußnoten beginnen mit einem Großbuchstaben und werden mit einem Punkt abgeschlossen. Für die genaue Platzierung der Verweisziffer im Text gilt folgende Regel:
+
+> Bezieht sich die Fußnote auf ein einzelnes Wort oder eine Wortgruppe, steht die Fußnotenziffer direkt dahinter noch vor einem folgenden Satzzeichen. Wenn sie sich jedoch auf einen ganzen Satz oder durch Satzzeichen eingeschlossenen Satzteil bezieht, steht sie nach dem schließenden Satzzeichen.^[@an:2000 [99].]
+
+Bei Verweis auf ein Buch, Zeitschrift o. ä. das in der Bibliographie aufgezählt wird, wird in der Fußnote die Kurzreferenz verwendet: **Nachname(n) (Erscheinungsjahr, ggf. Seitenzahl)**.
+
+⇒ Nachname(n) (Erscheinungsjahr, ggf. Seitenzahl).
 
 
 # Bibliographie (Quellen- und Literaturverzeichnis)
