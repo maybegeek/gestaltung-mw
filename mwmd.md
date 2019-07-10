@@ -84,6 +84,8 @@ Das Quellenverzeichnis unterscheidet Literaturnachweise (Bücher, Online-Quellen
 
 ### Erklärung
 
+Ein Muster diesbezüglich finden Sie ebenfalls am Ende des Dokuments.
+
 **Hausarbeit:** Die letzte Seite der Abschlussarbeit muss eine unterschriebene Erklärung mit folgendem Text enthalten: »Ich versichere, die vorliegende Arbeit selbstständig und nur unter Benutzung der angegebenen Hilfsmittel angefertigt und in keinem anderen Seminar (auch anderer Universitäten) abgegeben zu haben.«
 
 **Abschlussarbeit:** Siehe Punkt „Abschlussarbeit“ unter [http://www.uni-regensburg.de/studium/pruefungsverwaltung/geisteswissenschaften/](http://www.uni-regensburg.de/studium/pruefungsverwaltung/geisteswissenschaften/)
