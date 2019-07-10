@@ -80,7 +80,9 @@ Bei einer größeren Anzahl von im Text verwendeten Abbildungen, kann ein Abbild
 
 ### Quellenverzeichnis
 
-Das Quellenverzeichnis unterscheidet Literaturnachweise (Bücher, Online-Quellen, Lexika etc.) und Bildnachweise (Fotografien, Gemälde, Filme, Videos etc.).
+Das Quellenverzeichnis beinhaltet Literaturnachweise (Bücher, Online-Quellen, Lexika etc.) und Bildnachweise (Fotografien, Gemälde, Filme, Videos etc.).
+
+u.a. Klammern löschen
 
 ### Erklärung
 
