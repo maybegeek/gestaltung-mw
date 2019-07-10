@@ -44,13 +44,11 @@ Die notwendigen Angaben sehen sie als Muster widergegeben für schriftliche Arbe
 | Seminararbeit         |                Abschlussarbeit |
 |-----------------------|-------------------------------:|
 | Fragestellung/Titel   |            Fragestellung/Titel |
-| Verfasser             |                                |
-| (Name, Matrikelnr.)   |                                |
 |                       |                    Universität |
 |                       |                       Fakultät |
 |                       |                      Lehrstuhl |
-|                       |                      Verfasser |
-|                       | (Name, Anschrift, Matrikelnr.) |
+| Verfasser             |                      Verfasser |
+| (Name, Matrikelnr.)   | (Name, Anschrift, Matrikelnr.) |
 | Semester              |                                |
 | Modul                 |                                |
 | Veranstaltung         |                                |
