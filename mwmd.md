@@ -39,7 +39,23 @@ Feste Bestandteile jeder schriftlichen Arbeit sind Titelblatt, Inhaltsverzeichni
 
 Auf ihrem Deckblatt erfüllen sie formale Notwendigkeiten hinsichtlich der Angaben zu ihrer Arbeit und Person, zudem beginnt hier mit ihrer Fragestellung und ggfs. einem Untertitel aber auch schon ihre schriftliche Arbeit.
 
-Die notwendigen Angaben sehen sie als Muster widergegeben für schriftliche Arbeiten siehe S.&#8239;ii so wie für Abschlussarbeiten (Bachelorarbeit, Masterarbeit) siehe S.&#8239;iii.
+Die notwendigen Angaben sehen sie als Muster widergegeben für schriftliche Arbeiten (bspw. Seminararbeit) siehe S.&#8239;ii so wie für Abschlussarbeiten (Bachelorarbeit, Masterarbeit) siehe S.&#8239;iii.
+
+| Seminararbeit         |                Abschlussarbeit |
+|-----------------------|-------------------------------:|
+| Fragestellung/Titel   |            Fragestellung/Titel |
+| Verfasser             |                                |
+| (Name, Matrikelnr.)   |                                |
+|                       |                    Universität |
+|                       |                       Fakultät |
+|                       |                      Lehrstuhl |
+|                       |                      Verfasser |
+|                       | (Name, Anschrift, Matrikelnr.) |
+| Semester              |                                |
+| Modul                 |                                |
+| Veranstaltung         |                                |
+| Lehrperson            |           Erst-/Zweitgutachter |
+| FlexNow-Prüfungsdatum |                    Abgabedatum |
 
 
 ### Inhaltsverzeichnis
