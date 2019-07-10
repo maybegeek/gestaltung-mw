@@ -60,6 +60,7 @@ Die notwendigen Angaben sehen sie als Muster widergegeben für schriftliche Arbe
 
 Es empfiehlt sich, die Gliederung der Arbeit automatisiert mithilfe des verwendeten Textverarbeitungsprogramms zu erstellen.
 
+(Nummern und Punkte oder Verweis auf obiges....)
 
 ### Einleitung
 
