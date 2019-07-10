@@ -85,6 +85,8 @@ Das Quellenverzeichnis unterscheidet Literaturnachweise (Bücher, Online-Quellen
 
 **Beachten sie für Abschlussarbeiten *immer* die Hinweise auf den Seiten des Prüfungsamts der Geisteswissenschaften:** [Allgemeine Informationen zur Abschlussarbeit](https://www.ur.de/studium/pruefungsverwaltung/geisteswissenschaften)
 
+Näheres dazu entnehmen Sie dem beigefügten Muster am Ende der GestaltungsrichtlinienOrientieren sie sich mit der eidesstattlichen Erklärung an der Vorlage der Prüfungsverwaltung, sie finden dort auch ausführliche Hinweise zu Abschlussarbeiten: [https://www.ur.de/studium/pruefungsverwaltung/geisteswissenschaften/](https://www.ur.de/studium/pruefungsverwaltung/geisteswissenschaften/). TODO!!
+
 ## Fußnoten
 
 ?? ob Fußnoten gleich soweit oben kommen sollen ??
