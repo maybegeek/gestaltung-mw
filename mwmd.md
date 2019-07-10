@@ -37,7 +37,9 @@ Feste Bestandteile jeder schriftlichen Arbeit sind Titelblatt, Inhaltsverzeichni
 
 ### Titelblatt
 
-Beispiel für Seminararbeit siehe S.&#8239;ii und Abschlussarbeit  (siehe S.&#8239;iii).
+Auf ihrem Deckblatt erfüllen sie formale Notwendigkeiten hinsichtlich der Angaben zu ihrer Arbeit und Person, zudem beginnt hier mit ihrer Fragestellung und ggfs. einem Untertitel aber auch schon ihre schriftliche Arbeit.
+
+Die notwendigen Angaben sehen sie als Muster widergegeben für schriftliche Arbeiten siehe S.&#8239;ii so wie für Abschlussarbeiten (Bachelorarbeit, Masterarbeit) siehe S.&#8239;iii.
 
 
 ### Inhaltsverzeichnis
