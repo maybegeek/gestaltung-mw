@@ -58,7 +58,12 @@ Die notwendigen Angaben sehen sie als Muster widergegeben für schriftliche Arbe
 
 ### Inhaltsverzeichnis
 
-Es empfiehlt sich, die Gliederung der Arbeit automatisiert mithilfe des verwendeten Textverarbeitungsprogramms zu erstellen. Einleitung: In der Einleitung wird die Themenstellung und Zielsetzung der Arbeit beschrieben, sowie der inhaltliche Aufbau der Arbeit erläutert. Die Einleitung ist als integraler Bestandteil der Arbeit zu sehen und soll dem Leser/Prüfer die Forschungsfrage, den Gegenstand der Arbeit und die Methodik aufzeichnen; das Ziel der Arbeit wird hier benannt.
+Es empfiehlt sich, die Gliederung der Arbeit automatisiert mithilfe des verwendeten Textverarbeitungsprogramms zu erstellen.
+
+
+### Einleitung
+
+In der Einleitung wird die Themenstellung und Zielsetzung der Arbeit beschrieben, sowie der inhaltliche Aufbau der Arbeit erläutert. Die Einleitung ist als integraler Bestandteil der Arbeit zu sehen und soll dem Leser/Prüfer die Forschungsfrage, den Gegenstand der Arbeit und die Methodik aufzeichnen; das Ziel der Arbeit wird hier benannt.
 
 
 ### Hauptteil
