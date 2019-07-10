@@ -41,6 +41,9 @@ Auf ihrem Deckblatt erfüllen sie formale Notwendigkeiten hinsichtlich der Angab
 
 Die notwendigen Angaben für schriftliche Arbeiten allgemein und Abschlussarbeiten im Speziellen finden Sie als Muster auf den Seiten ii und iii.
 
+
+<!--
+
 | Seminararbeit         |                Abschlussarbeit |
 |-----------------------|-------------------------------:|
 | Fragestellung/Titel   |            Fragestellung/Titel |
@@ -55,6 +58,7 @@ Die notwendigen Angaben für schriftliche Arbeiten allgemein und Abschlussarbeit
 | Lehrperson            |           Erst-/Zweitgutachter |
 | FlexNow-Prüfungsdatum |                    Abgabedatum |
 
+-->
 
 ### Inhaltsverzeichnis
 
