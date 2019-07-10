@@ -32,7 +32,7 @@ Vorbehaltlich abweichender Vorgaben im Rahmen einzelner Lehrveranstaltungen, gel
 
 ## Segmente der Arbeit
 
-Feste Bestandteile jeder schriftlichen Arbeit sind Titelblatt, Inhaltsverzeichnis, Einleitung, Hauptteil und Quellenverzeichnis; fallweise kommen weitere Anhänge (z.&#8239;B. ein Abbildungsverzeichnis) hinzu. Bei Hausarbeiten fügen Sie bitte eine eidesstattliche Erklärung s.&#8239;u. an, für Abschlussarbeiten (ggf. auf Wunsch des Gutachters in digitaler Form zusätzlich abzugeben) orientieren sie sich mit der eidesstattlichen Erklärung an der Vorlage der Prüfungsverwaltung, sie finden dort auch ausführliche Hinweise zu Abschlussarbeiten: [https://www.ur.de/studium/pruefungsverwaltung/geisteswissenschaften/](https://www.ur.de/studium/pruefungsverwaltung/geisteswissenschaften/).
+Feste Bestandteile jeder schriftlichen Arbeit sind Titelblatt, Inhaltsverzeichnis, Einleitung, Hauptteil und Quellenverzeichnis; fallweise kommen weitere Anhänge (z.&#8239;B. ein Abbildungsverzeichnis) hinzu. Fügen sie ihren schriftlichen Arbeiten zudem eine Erklärung *zur Eigenständigkeit* hinzu.
 
 
 ### Titelblatt
