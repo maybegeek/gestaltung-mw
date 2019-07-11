@@ -77,7 +77,7 @@ Hauptteil der Arbeit inklusive Schlussbetrachtungen.
 
 ### Abbildungsverzeichnis
 
-Bei einer größeren Anzahl von im Text verwendeten Abbildungen, kann ein Abbildungsverzeichnis vor dem Quellenverzeichnis dem Leser nützlich sein. Dort werden die laufende Abbildungsnummer, die (evtl. gekürzte) Bildunterschrift und die Seitenangabe genannt.
+Bei einer größeren Anzahl von im Text verwendeten Abbildungen, kann ein Abbildungsverzeichnis vor dem Quellenverzeichnis dem Lesenden nützlich sein. Dort werden die laufende Abbildungsnummer, die (evtl. gekürzte) Bildunterschrift und die Seitenangabe genannt.
 
 
 ### Quellenverzeichnis
