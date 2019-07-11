@@ -88,15 +88,10 @@ u.a. Klammern löschen
 
 ### Erklärung
 
-Ein Muster diesbezüglich finden Sie ebenfalls am Ende des Dokuments.
+Fügen Sie am Ende Ihrer Arbeit eine unterschriebene Erklärung bzgl. Redlichkeit und Rechtsfolgenkenntnis bei. Als verbindliche Vorlage dient die letzte Seite dieser Gestaltungsrichtlinien.
 
-**Hausarbeit:** Die letzte Seite der Abschlussarbeit muss eine unterschriebene Erklärung mit folgendem Text enthalten: »Ich versichere, die vorliegende Arbeit selbstständig und nur unter Benutzung der angegebenen Hilfsmittel angefertigt und in keinem anderen Seminar (auch anderer Universitäten) abgegeben zu haben.«
+**Beachten Sie für Abschlussarbeiten auch immer die Hinweise auf den Seiten des Prüfungssekretariats Geisteswissenschaften:** [https://www.ur.de/studium/pruefungsverwaltung/geisteswissenschaften](https://www.ur.de/studium/pruefungsverwaltung/geisteswissenschaften) (Allgemeine Informationen und Bekanntmachungen | Abschlussarbeit).
 
-**Abschlussarbeit:** Siehe Punkt „Abschlussarbeit“ unter [http://www.uni-regensburg.de/studium/pruefungsverwaltung/geisteswissenschaften/](http://www.uni-regensburg.de/studium/pruefungsverwaltung/geisteswissenschaften/)
-
-**Beachten sie für Abschlussarbeiten *immer* die Hinweise auf den Seiten des Prüfungsamts der Geisteswissenschaften:** [Allgemeine Informationen zur Abschlussarbeit](https://www.ur.de/studium/pruefungsverwaltung/geisteswissenschaften)
-
-Näheres dazu entnehmen Sie dem beigefügten Muster am Ende der GestaltungsrichtlinienOrientieren sie sich mit der eidesstattlichen Erklärung an der Vorlage der Prüfungsverwaltung, sie finden dort auch ausführliche Hinweise zu Abschlussarbeiten: [https://www.ur.de/studium/pruefungsverwaltung/geisteswissenschaften/](https://www.ur.de/studium/pruefungsverwaltung/geisteswissenschaften/). TODO!!
 
 ## Fußnoten
 
