@@ -5,6 +5,7 @@ documentclass: scrartcl
 linkcolor: black
 urlcolor: black
 citecolor: black
+link-citations: true
 graphics: true
 classoption:
 - DIV=10
