@@ -113,6 +113,12 @@ Bei Verweis auf ein Buch, Zeitschrift o. ä. das in der Bibliographie aufgezähl
 
 ⇒ Nachname(n) (Erscheinungsjahr, ggf. Seitenzahl).
 
+## Bilderverwendung
+
+Im Text ...
+
+![Camera obscura. ZahnS181.](eigene-dateien/cam.jpg)
+
 
 # Bibliographie (Quellen- und Literaturverzeichnis)
 
