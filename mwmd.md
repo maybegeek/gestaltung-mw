@@ -107,7 +107,7 @@ Bei Verweis auf ein Buch, Zeitschrift o. ä. das in der Bibliographie aufgezähl
 
 Im Text ...
 
-![Camera obscura. ZahnS181.](eigene-dateien/cam.jpg)
+![Schematische Zeichnung einer *camera obscura* nach @za:1685 [181].](eigene-dateien/cam.jpg)
 
 ## Seitenlayout
 
