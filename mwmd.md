@@ -109,6 +109,26 @@ Im Text ...
 
 ![Camera obscura. ZahnS181.](eigene-dateien/cam.jpg)
 
+## Seitenlayout
+
+Seitenränder, Schriftgröße und Zeilenabstand sind wie folgt zu verwenden:
+
+* Die Arbeit wird einseitig auf DIN A4-Papier gedruckt. Die Seitenränder betragen: oben 3cm, unten 4,5cm, links 3,5cm, rechts 3cm.
+*Die Schriftgröße sollte (je nach verwendeter Schriftart) zwischen 11pt und 12pt liegen.
+* Abhängig von der verwendeten Schriftart wird ein 1,1facher oder 1,2facher Zeilenabstand gewählt.
+
+## Textformatierung und Wahl der Schriftart
+
+Für den Fließtext ist Blocksatz mit automatisierter Silbentrennung zu verwenden. Überschriften werden grundsätzlich linksbündig gesetzt (ohne Blocksatz). Textauszeichnungen (wie beispielsweise Kursivierung und Fettdruck)  sind so oft wie nötig, jedoch nicht inflationär zu gebrauchen.^[Vgl. @bi:2009 [2f.].]
+
+Für Ihre schriftliche Arbeit verwenden Sie vorzugsweise eine Serifenschrift.
+
+
+
+
+Überarbeiten!!! und löschen: Beispiele für geeignete Serifen Schriften sind Cambria, Garamond, Vollkorn (dieser Text), Palatino oder Constantia. Serifenlose Schriften (Groteske) sind nur bedingt für den Mengensatz geeignet: Arial, Verdana, Calibri usw. sollten also für diesen Zweck nicht zum Einsatz kommen. Auch die überhäufig verwendete Times New Roman -- obwohl eine SerifenSchrift -- spielt ihre Stärken eher im Zeitungsdruck aus, als in wissenschaftlichen Arbeiten. Schriftmischungen sind grundsätzlich möglich (beispielsweise die Verwendung einer Groteskschrift für Überschriften), jedoch bedarf es hierfür eines ausgeprägten typografischen Verständnisses.
+
+Darüber hinausgehende Informationen zu typografisch ansprechender Gestaltung von Druckwerken finden sie z.&#8239;B. in: „Typokurz -- Einige wichtige typografische Regeln“ von Christoph Bier. [url:]{.smallcaps} [https://zvisionwelt.files.wordpress.com/2012/01/typokurz.pdf](https://zvisionwelt.files.wordpress.com/2012/01/typokurz.pdf).
 
 # Bibliographie (Quellen- und Literaturverzeichnis)
 
@@ -253,32 +273,6 @@ Gesellschaft zur Förderung der Photographie (1952). Oh, die herrlichen Berge \[
 
 Firmenname (Jahr)
 
-# Typografische Gestaltungshinweise
-
-## Die Wahl der Schriftart
-
-Text ist zum Lesen da. Dies impliziert die Wahl einer Schrift, die für große Mengen Text geeignet ist. Für Fließtext (den Mengensatz) wird deswegen eine Serifen-Schrift gewählt, die dem Auge in den Zeilen Halt gibt und nur wenig Ermüdung verursacht. Beispiele für geeignete Serifen Schriften sind Cambria, Garamond, Vollkorn (dieser Text), Palatino oder Constantia. Serifenlose Schriften (Groteske) sind nur bedingt für den Mengensatz geeignet: Arial, Verdana, Calibri usw. sollten also für diesen Zweck nicht zum Einsatz kommen. Auch die überhäufig verwendete Times New Roman -- obwohl eine SerifenSchrift -- spielt ihre Stärken eher im Zeitungsdruck aus, als in wissenschaftlichen Arbeiten. Schriftmischungen sind grundsätzlich möglich (beispielsweise die Verwendung einer Groteskschrift für Überschriften), jedoch bedarf es hierfür eines ausgeprägten typografischen Verständnisses.
-
-## Seitenränder, Schriftgröße, Zeilenabstand
-
-Die Arbeit wird einseitig auf DIN A4-Papier gedruckt. Die Seitenränder betragen: oben 3cm, unten 4,5cm, links 3,5cm, rechts 3cm.
-
-
-Die Schriftgröße soll je nach Duktus, Laufweite etc. der verwendeten Schriftart, 11pt, 11,5pt oder 12pt betragen. Abhängig von der verwendeten Schriftart wird ein 1,1facher oder 1,2facher Zeilenabstand gewählt. Der Textsatz in diesem Dokument verdeutlicht die angestrebte Anmutung.
-
-## Textsatz und Textauszeichnungen
-
-Für den Fließtext ist Blocksatz mit automatisierter Silbentrennung zu verwenden. Überschriften werden grundsätzlich linksbündig gesetzt (Flattersatz). Sperrung und Unterstreichung als Relikte der eingeschränkten Auszeichnungsmöglichkeiten einer Schreibmaschine sollten vermieden werden. Kursivierung, Fettdruck, Versalien und Kapitälchen sind so oft wie nötig, jedoch nicht inflationär zu gebrauchen.^[Vgl. @bi:2009 [2f.].]
-
-Darüber hinausgehende Informationen zu typografisch ansprechender Gestaltung von Druckwerken finden sie z.&#8239;B. in: „Typokurz -- Einige wichtige typografische Regeln“ von Christoph Bier. [url:]{.smallcaps} [https://zvisionwelt.files.wordpress.com/2012/01/typokurz.pdf](https://zvisionwelt.files.wordpress.com/2012/01/typokurz.pdf).
-
-⇒ @wom:1941
-
-⇒ @wom:1941
-
-⇒ @wom:1941
-
-⇒ @wom:1941
 
 \clearpage
 \pagebreak
