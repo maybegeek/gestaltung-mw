@@ -113,9 +113,10 @@ Im Text ...
 
 Seitenränder, Schriftgröße und Zeilenabstand sind wie folgt zu verwenden:
 
-* Die Arbeit wird einseitig auf DIN A4-Papier gedruckt. Die Seitenränder betragen: oben 3cm, unten 4,5cm, links 3,5cm, rechts 3cm.
-*Die Schriftgröße sollte (je nach verwendeter Schriftart) zwischen 11pt und 12pt liegen.
-* Abhängig von der verwendeten Schriftart wird ein 1,1facher oder 1,2facher Zeilenabstand gewählt.
+
+-   Die Arbeit wird einseitig auf DIN A4-Papier gedruckt. Die Seitenränder betragen: oben 3cm, unten 4,5cm, links 3,5cm und rechts 3cm.
+-   Die Schriftgröße sollte (je nach verwendeter Schriftart) zwischen 11pt und 12pt liegen.
+-   Abhängig von der verwendeten Schriftart wird ein 1,1facher oder 1,2facher Zeilenabstand gewählt.
 
 ## Textformatierung und Schrift
 
