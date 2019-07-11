@@ -121,14 +121,9 @@ Seitenränder, Schriftgröße und Zeilenabstand sind wie folgt zu verwenden:
 
 Für den Fließtext ist Blocksatz mit automatisierter Silbentrennung zu verwenden. Überschriften werden grundsätzlich linksbündig gesetzt (ohne Blocksatz). Textauszeichnungen (wie beispielsweise Kursivierung und Fettdruck)  sind so oft wie nötig, jedoch nicht inflationär zu gebrauchen.^[Vgl. @bi:2009 [2f.].]
 
-Für Ihre schriftliche Arbeit verwenden Sie vorzugsweise eine Serifenschrift.
+Für Ihre schriftliche Arbeit verwenden Sie vorzugsweise eine Serifenschrift; die [Vollkorn](http://vollkorn-typeface.com/) kommt beispielsweise in diesem Dokument zum Einsatz. Serifenlose Schriften sind für den Mengensatz nur bedingt geeignet: Arial, Verdana, Calibri usw. sollten also für diesen Zweck nicht zum Einsatz kommen.
 
-
-
-
-Überarbeiten!!! und löschen: Beispiele für geeignete Serifen Schriften sind Cambria, Garamond, Vollkorn (dieser Text), Palatino oder Constantia. Serifenlose Schriften (Groteske) sind nur bedingt für den Mengensatz geeignet: Arial, Verdana, Calibri usw. sollten also für diesen Zweck nicht zum Einsatz kommen. Auch die überhäufig verwendete Times New Roman -- obwohl eine SerifenSchrift -- spielt ihre Stärken eher im Zeitungsdruck aus, als in wissenschaftlichen Arbeiten. Schriftmischungen sind grundsätzlich möglich (beispielsweise die Verwendung einer Groteskschrift für Überschriften), jedoch bedarf es hierfür eines ausgeprägten typografischen Verständnisses.
-
-Darüber hinausgehende Informationen zu typografisch ansprechender Gestaltung von Druckwerken finden sie z.&#8239;B. in: „Typokurz -- Einige wichtige typografische Regeln“ von Christoph Bier. [url:]{.smallcaps} [https://zvisionwelt.files.wordpress.com/2012/01/typokurz.pdf](https://zvisionwelt.files.wordpress.com/2012/01/typokurz.pdf).
+Darüber hinausgehende Informationen zu orthografisch ricthiger und typografisch ansprechender Gestaltung von Druckwerken finden sie z.&#8239;B. in: „Typokurz -- Einige wichtige typografische Regeln“ von Christoph Bier. [url:]{.smallcaps} [https://zvisionwelt.files.wordpress.com/2012/01/typokurz.pdf](https://zvisionwelt.files.wordpress.com/2012/01/typokurz.pdf).
 
 # Bibliographie (Quellen- und Literaturverzeichnis)
 
