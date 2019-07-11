@@ -95,8 +95,6 @@ Fügen Sie am Ende Ihrer Arbeit eine unterschriebene Erklärung bzgl. Redlichkei
 
 ## Fußnoten
 
-?? ob Fußnoten gleich soweit oben kommen sollen ??
-
 Alle Fußnoten beginnen mit einem Großbuchstaben und werden mit einem Punkt abgeschlossen. Für die genaue Platzierung der Verweisziffer im Text gilt folgende Regel:
 
 > Bezieht sich die Fußnote auf ein einzelnes Wort oder eine Wortgruppe, steht die Fußnotenziffer direkt dahinter noch vor einem folgenden Satzzeichen. Wenn sie sich jedoch auf einen ganzen Satz oder durch Satzzeichen eingeschlossenen Satzteil bezieht, steht sie nach dem schließenden Satzzeichen.^[@an:2000 [99].]
