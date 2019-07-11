@@ -41,5 +41,5 @@ header-includes:
 - \clubpenalty=1000
 - \setlength{\footnotesep}{10pt}
 - \usepackage{draftwatermark}
-- \SetWatermarkText{vorläufig}
+- \SetWatermarkText{...}
 ---
