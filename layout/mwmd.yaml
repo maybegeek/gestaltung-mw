@@ -42,4 +42,5 @@ header-includes:
 - \setlength{\footnotesep}{10pt}
 - \usepackage{draftwatermark}
 - \SetWatermarkText{...}
+- \usepackage[width=0.82\textwidth]{caption}
 ---
