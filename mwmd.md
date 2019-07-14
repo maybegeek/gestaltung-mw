@@ -231,6 +231,8 @@ Der **Permanentlink** zu einem Wikipedia-Artikel findet sich auf der linken Seit
 
 Die Zitationsweise von Bildern unterscheidet sich in bewegte (z.&#8239;B. Film) und unbewegte Bilder (z.&#8239;B. Gemälde, Fotografien).
 
+Länderkennung nach `ISO 3166-1 Alpha 2`.
+
 ***Film-Originaltitel* (ggf. deutscher Titel, Land bzw. Länder in denen der Film etc. produziert wurde, Regisseur, Verwendetes Trägermedium).**
 
 *A Woman's Face* (Die Frau mit der Narbe, USA 1941, Georges Cukor, DVD).
