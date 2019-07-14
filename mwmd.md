@@ -107,7 +107,14 @@ Bei Verweis auf ein Buch, Zeitschrift o. ä. das in der Bibliographie aufgezähl
 
 Im Text ...
 
-![Schematische Zeichnung einer *camera obscura* nach @za:1685 [181].](eigene-dateien/cam.jpg)
+![Schematische Zeichnung einer portablen *camera obscura* nach @za:1685 [181].](eigene-dateien/cam.jpg){width=66%}
+
+![Wald, Mond, Mensch. Naturbetrachtungen in der Romantik, bei Caspar David Friedrich.](eigene-dateien/mond.jpg){width=66%}
+
+Im Quellenverzeichnis und dort beim Unbewegt- und Bewegtbildverzeichnis steht dann ausführlich:
+
+Mann und Frau den Mond betrachtend (1818–1824). Caspar David Friedrich.
+Alte Nationalgalerie Berlin.
 
 ## Seitenlayout
 
