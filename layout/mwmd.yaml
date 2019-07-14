@@ -44,4 +44,5 @@ header-includes:
 - \SetWatermarkText{...}
 - \usepackage[width=0.82\textwidth]{caption}
 - \renewcaptionname{german}{\figurename}{Abb.}
+- \renewcommand{\tightlist}{\raggedright\setlength{\itemsep}{-0.3\baselineskip}}
 ---
