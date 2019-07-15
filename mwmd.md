@@ -117,6 +117,8 @@ Im Quellenverzeichnis und dort beim Unbewegt- und Bewegtbildverzeichnis steht da
 Mann und Frau den Mond betrachtend (1818–1824). Caspar David Friedrich.
 Alte Nationalgalerie Berlin.
 
+@cas:1818
+
 ## Seitenlayout
 
 Seitenränder, Schriftgröße und Zeilenabstand sind wie folgt zu verwenden:
@@ -256,7 +258,17 @@ sesdfwe
 
 ***Unbewegtbild-Originaltitel* (ggf. deutscher Titel, Künstler, Entstehungsjahr).**
 
+![test](eigene-dateien/test.png){width=66%}
+
+
+
 *Larmes* (Tränen, Man Ray, 1930). In: Rosalind Krauss, Jane Livingston (Hg.): L'amour fou. Photography and Surrealism. Washington/New York 1985. S.&#8239;118.
+
+
+
+@ray:1932
+
+
 
 In der **Bibliographie** werden unter dem Punkt **Quellenverzeichnis für Film/Bilder** die verwendeten Filme und/oder Bilder in alphabetischer Reihenfolge sortiert.
 
@@ -275,6 +287,8 @@ Bildunterschriften von Einzelkadern (Stills) aus Filmen etc., die der Illustrati
 **Unbewegte Bilder** werden im Text mit folgender Kurzform verwendet:
 
 **Originaltitel (Künstler, Entstehungsjahr).** =\> Larmes (Man Ray, 1930).
+
+@ray:1932
 
 #### Werbung
 
