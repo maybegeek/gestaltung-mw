@@ -3,7 +3,8 @@ title: 'Gestaltungsrichtlinien Medienwissenschaft'
 ur-kolumnentitel: 'Gestaltungsrichtlinien Medienwissenschaft'
 ur-stand: 'Juli 2019'
 lang: de-DE
-bibliography: mwmd.bib
+bibliography_lit: mwmd-lit.bib
+bibliography_other: mwmd-other.bib
 csl: layout/MW-UR.csl
 ---
 
@@ -247,6 +248,12 @@ Länderkennung nach `ISO 3166-1 Alpha 2`.
 
 *A Woman's Face* (Die Frau mit der Narbe, USA 1941, Georges Cukor, DVD).
 
+saasdasd
+
+@wom:1941
+
+sesdfwe
+
 ***Unbewegtbild-Originaltitel* (ggf. deutscher Titel, Künstler, Entstehungsjahr).**
 
 *Larmes* (Tränen, Man Ray, 1930). In: Rosalind Krauss, Jane Livingston (Hg.): L'amour fou. Photography and Surrealism. Washington/New York 1985. S.&#8239;118.
@@ -293,13 +300,23 @@ Firmenname (Jahr)
 \begin{hangparas}{1em}{1}
 \small
 ```
-::: {#refs}
+::: {#refs_lit}
 :::
 ```{=latex}
 \end{hangparas}
 ```
 
 ## Bild-, Bewegtbild- und Audioverzeichnis {-}
+
+```{=latex}
+\begin{hangparas}{1em}{1}
+\small
+```
+::: {#refs_other}
+:::
+```{=latex}
+\end{hangparas}
+```
 
 
 \clearpage

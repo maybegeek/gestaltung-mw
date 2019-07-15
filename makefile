@@ -7,7 +7,8 @@ EXPORTED_DOCS := $(SOURCE_DOCS:.md=.pdf)
 PANDOC_PDF_OPTIONS=--pdf-engine=xelatex \
 --template=layout/mwmd.tex \
 layout/mwmd.yaml \
---filter pandoc-citeproc
+--filter pandoc-citeproc \
+--lua-filter=layout/multiple-bibliographies.lua
 
 %.pdf : %.md
 	$(PANDOC) $(PANDOC_PDF_OPTIONS) -o $@ $<
