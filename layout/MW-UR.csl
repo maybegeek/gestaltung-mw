@@ -125,8 +125,8 @@
     <if variable="accessed">
       <text term="retrieved" prefix="– " suffix=": "/>
       <date variable="accessed">
-        <date-part name="day" form="numeric-leading-zeros" suffix="."/>
-        <date-part name="month" suffix="." form="numeric-leading-zeros"/>
+        <date-part name="day" form="numeric" suffix="."/>
+        <date-part name="month" suffix="." form="numeric"/>
         <date-part name="year" form="long"/>
       </date>
     </if>
