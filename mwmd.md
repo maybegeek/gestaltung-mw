@@ -22,7 +22,7 @@ Auf dem Weg ein formal ordentliches, den akademischen Gepflogenheiten des Fachs 
 
 ## Textumfang
 
-Vorbehaltlich abweichender Vorgaben im Rahmen einzelner Lehrveranstaltungen, gelten folgende Richtwerte für den Umfang der Arbeiten. Die Angaben verstehen sich inklusive Leerzeichen und Fußnotenapparat; nicht mitgezählt werden das Deckblatt sowie automatisiert erstellte Inhalte wie beispielsweise Inhalts-, Abbildungs-, oder Literaturverzeichnis:
+Vorbehaltlich abweichender Vorgaben im Rahmen einzelner Lehrveranstaltungen, gelten folgende Richtwerte für den Umfang der Arbeiten. Die Angaben verstehen sich inklusive Leerzeichen und Fußnotenapparat; nicht mitgezählt werden das Deckblatt sowie automatisiert erstellte Inhalte!!! wie beispielsweise Inhalts-, Abbildungs-, oder Literaturverzeichnis:
 
 * B.&#8239;A.-Module M12, M13, M16: 25&#8239;000 Zeichen
 * B.&#8239;A.-Module M19, M20: 40&#8239;000 Zeichen
