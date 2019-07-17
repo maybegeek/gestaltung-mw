@@ -86,9 +86,9 @@ Bei einer größeren Anzahl von im Text verwendeten Abbildungen, kann ein Abbild
 
 ### Quellenverzeichnis
 
-Hier werden alle in Ihrer Arbeit verwendeten Werke mit deren bibliografischen Details verzeichnet. Das sorgfältige Erstellen dient der Überprüfbarkeit ..., der  Bei Vorliegen kann beinhaltet Literaturnachweise (Bücher, Online-Quellen, Lexika etc.) und Bildnachweise (Fotografien, Gemälde, Filme, Videos etc.).
+Hier werden alle in Ihrer Arbeit verwendeten Werke mit deren bibliografischen Details verzeichnet. Ein sorgfältiges Erstellen ist verbindich, dient der Überprüfbarkeit und zeigt Ihre akademische Sorgfalt.
 
-u.a. Klammern löschen
+Alle verwendeten Quellen sind von Ihnen auf deren Geeignetheit hin überprüft und ausgewählt worden. Die nötige Untergliederung des Quellenverzeichnisses in ein Literaturverzeichnis und ein Verzeichnis für Titel-bezogen alphabetisch sortierte Quellen (Fotografien, Gemälde, Filme, ...) ist abhängig von der Quellenlage zu wählen.   
 
 ### Erklärung
 
