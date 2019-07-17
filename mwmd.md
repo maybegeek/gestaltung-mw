@@ -97,31 +97,6 @@ Fügen Sie am Ende Ihrer Arbeit eine unterschriebene Erklärung bzgl. Redlichkei
 **Beachten Sie für Abschlussarbeiten auch immer die Hinweise auf den Seiten des Prüfungssekretariats Geisteswissenschaften:** [https://www.ur.de/studium/pruefungsverwaltung/geisteswissenschaften](https://www.ur.de/studium/pruefungsverwaltung/geisteswissenschaften) (Allgemeine Informationen und Bekanntmachungen | Abschlussarbeit).
 
 
-## Fußnoten
-
-Alle Fußnoten beginnen mit einem Großbuchstaben und werden mit einem Punkt abgeschlossen. Für die genaue Platzierung der Verweisziffer im Text gilt folgende Regel:
-
-> Bezieht sich die Fußnote auf ein einzelnes Wort oder eine Wortgruppe, steht die Fußnotenziffer direkt dahinter noch vor einem folgenden Satzzeichen. Wenn sie sich jedoch auf einen ganzen Satz oder durch Satzzeichen eingeschlossenen Satzteil bezieht, steht sie nach dem schließenden Satzzeichen.^[@an:2000 [99].]
-
-Bei Verweis auf ein Buch, Zeitschrift o. ä. das in der Bibliographie aufgezählt wird, wird in der Fußnote die Kurzreferenz verwendet: **Nachname(n) (Erscheinungsjahr, ggf. Seitenzahl)**.
-
-⇒ Nachname(n) (Erscheinungsjahr, ggf. Seitenzahl).
-
-## Bilderverwendung
-
-Im Text ...
-
-![Schematische Zeichnung einer portablen *camera obscura* nach @za:1685 [181].](eigene-dateien/cam.jpg){width=66%}
-
-![Wald, Mond, Mensch. Naturbetrachtungen in der Romantik, bei Caspar David Friedrich.](eigene-dateien/mond.jpg){width=66%}
-
-Im Quellenverzeichnis und dort beim Unbewegt- und Bewegtbildverzeichnis steht dann ausführlich:
-
-Mann und Frau den Mond betrachtend (1818–1824). Caspar David Friedrich.
-Alte Nationalgalerie Berlin.
-
-@cas:1818
-
 ## Seitenlayout und Typografisches
 
 Seitenränder, Schriftgröße und Zeilenabstand sind wie folgt zu verwenden:
@@ -159,6 +134,35 @@ Wörtlich oder sinngemäß übernommene Textstellen, Tabellen, Diagramme etc. so
 Wird nicht wörtlich zitiert, sondern paraphrasiert, ist ein »Vgl.« der Literaturangabe voranzustellen. Ein Beispiel: Laut den Autoren haben Filme und Serien eine wichtige Funktion für die Positionierung der Programme.^[Vgl. @we:2000 [61].]
 
 Erstreckt sich die zitierte Stelle auch über die folgende Seite, so ist dies mit dem Zusatz »f.« zu vermerken. Bei mehreren folgenden Seiten, wird der Zusatz »ff.« verwendet. Beispiel: @em:2005 [32ff.].
+
+### Fußnoten
+
+Kurzbeleg, Vollbeleg ...
+
+
+Alle Fußnoten beginnen mit einem Großbuchstaben und werden mit einem Punkt abgeschlossen. Für die genaue Platzierung der Verweisziffer im Text gilt folgende Regel:
+
+> Bezieht sich die Fußnote auf ein einzelnes Wort oder eine Wortgruppe, steht die Fußnotenziffer direkt dahinter noch vor einem folgenden Satzzeichen. Wenn sie sich jedoch auf einen ganzen Satz oder durch Satzzeichen eingeschlossenen Satzteil bezieht, steht sie nach dem schließenden Satzzeichen.^[@an:2000 [99].]
+
+Bei Verweis auf ein Buch, Zeitschrift o. ä. das in der Bibliographie aufgezählt wird, wird in der Fußnote die Kurzreferenz verwendet: **Nachname(n) (Erscheinungsjahr, ggf. Seitenzahl)**.
+
+⇒ Nachname(n) (Erscheinungsjahr, ggf. Seitenzahl).
+
+### Bilderverwendung
+
+Im Text ...
+
+![Schematische Zeichnung einer portablen *camera obscura* nach @za:1685 [181].](eigene-dateien/cam.jpg){width=66%}
+
+![Wald, Mond, Mensch. Naturbetrachtungen in der Romantik, bei Caspar David Friedrich.](eigene-dateien/mond.jpg){width=66%}
+
+Im Quellenverzeichnis und dort beim Unbewegt- und Bewegtbildverzeichnis steht dann ausführlich:
+
+Mann und Frau den Mond betrachtend (1818–1824). Caspar David Friedrich.
+Alte Nationalgalerie Berlin.
+
+@cas:1818
+
 
 ### Zitierstil
 
