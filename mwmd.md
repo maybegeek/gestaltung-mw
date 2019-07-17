@@ -122,7 +122,7 @@ Alte Nationalgalerie Berlin.
 
 @cas:1818
 
-## Seitenlayout
+## Seitenlayout und Typografisches
 
 Seitenränder, Schriftgröße und Zeilenabstand sind wie folgt zu verwenden:
 
@@ -133,8 +133,6 @@ Seitenränder, Schriftgröße und Zeilenabstand sind wie folgt zu verwenden:
     zwischen 11pt und 12pt liegen.
 -   Abhängig von der verwendeten Schriftart wird ein 1,1facher
     oder 1,2facher Zeilenabstand gewählt.
-
-## Textformatierung und Schrift
 
 Für den Fließtext ist Blocksatz mit automatisierter Silbentrennung zu verwenden. Überschriften werden grundsätzlich linksbündig gesetzt (ohne Blocksatz). Textauszeichnungen (wie beispielsweise Kursivierung und Fettdruck)  sind so oft wie nötig, jedoch nicht inflationär zu gebrauchen.^[Vgl. @bi:2009 [2f.].]
 
