@@ -84,7 +84,7 @@ Bei einer größeren Anzahl von im Text verwendeten Abbildungen, kann ein Abbild
 
 ### Quellenverzeichnis
 
-Das Quellenverzeichnis beinhaltet Literaturnachweise (Bücher, Online-Quellen, Lexika etc.) und Bildnachweise (Fotografien, Gemälde, Filme, Videos etc.).
+Hier werden alle in Ihrer Arbeit verwendeten Werke mit deren bibliografischen Details verzeichnet. Das sorgfältige Erstellen dient der Überprüfbarkeit ..., der  Bei Vorliegen kann beinhaltet Literaturnachweise (Bücher, Online-Quellen, Lexika etc.) und Bildnachweise (Fotografien, Gemälde, Filme, Videos etc.).
 
 u.a. Klammern löschen
 
