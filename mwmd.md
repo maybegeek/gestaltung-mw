@@ -33,7 +33,7 @@ Vorbehaltlich abweichender Vorgaben im Rahmen einzelner Lehrveranstaltungen, gel
 
 ## Segmente der Arbeit
 
-Feste Bestandteile einer schriftlichen Arbeit sind Titelblatt, Inhaltsverzeichnis, Einleitung, Hauptteil und Quellenverzeichnis; fallweise kommen weitere Anhänge (z.&#8239;B. Abbildungsverzeichnis) hinzu. Fügen Sie Ihren schriftlichen Arbeiten zudem eine Erklärung bzgl. Redlichkeit und Rechtsfolgenkenntnis bei.
+Feste Bestandteile einer schriftlichen Arbeit sind Titelblatt, Inhaltsverzeichnis, Einleitung, Hauptteil (inkl. Schlussbetrachtungen) und Quellenverzeichnis; fallweise kommen weitere Anhänge (z.&#8239;B. ein Abbildungsverzeichnis) hinzu. Fügen Sie Ihren schriftlichen Arbeiten zudem eine Erklärung zu Redlichkeit und Rechtsfolgenkenntnis bei.
 
 
 ### Titelblatt
