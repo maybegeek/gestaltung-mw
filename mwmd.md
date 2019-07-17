@@ -75,6 +75,7 @@ In der Einleitung wird die Themenstellung und Zielsetzung der Arbeit beschrieben
 
 Hauptteil der Arbeit inklusive Schlussbetrachtungen.
 
+Verwenden Sie "sprechende" Überschriften, d.h. auf den Inhalt des jeweiligen Abschnitts hinweisende Überschriften ... Keine Überschriften wie "Hauptteil" oder "Kapitel 1".
 
 ### Abbildungsverzeichnis
 
