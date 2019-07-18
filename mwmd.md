@@ -127,12 +127,7 @@ Siehe dazu das Dokument „Hinweise zur Wissensorganisation und Literaturverwalt
 
 ### Allgemeines zur Zitation
 
-alt: Wörtlich oder sinngemäß übernommene Textstellen, Tabellen, Diagramme etc. sowie alle verwendeten Medien gilt es nachzuweisen. Die Zitationsquellen werden als **Kurzform** in eine Fußnote geschrieben, bei Bildern direkt in den Fließtext integriert. Die dazugehörige Langform wird am Ende der Arbeit in einem **Quellenverzeichnis** geführt. Sollten wörtliche Zitate über mehr als drei Zeilen gehen, werden diese eingerückt und mit geringerem Schriftgrad (10pt) und eingerückt gesetzt.
-
-
-das evtl. etwas viel ....
-
-"Jede von anderen Autoren wörtlich in die eigene Arbeit übernommene Textpassage und jede sich an die Gedankengänge anderer Autoren eng anlehnende Stelle der Arbeit ist einzeln zu kennzeichnen und durch eine genaue Quellenangabe zu belegen. [...] Wer einen fremden Text wörtlich oder sinngemäß in seine wissenschaftliche Arbeit übernimmt, ohne ihn entsprechend zu markieren, macht sich des Plagiates schuldig und muss neben der Aberkennung der Prüfungsleistung im Extremfall sogar mit strafrechtlichen Konsequenzen rechnen" fußnote + quelle dann: A. Brink, Anfertigung wissenschaftlicher Arbeiten, DOI 10.1007/978-3-8349-4397-2_7, © Springer Fachmedien Wiesbaden 2013
+>„Jede von anderen Autoren wörtlich in die eigene Arbeit übernommene Textpassage und jede sich an die Gedankengänge anderer Autoren eng anlehnende Stelle der Arbeit ist einzeln zu kennzeichnen und durch eine genaue Quellenangabe zu belegen. [...] Wer einen fremden Text wörtlich oder sinngemäß in seine wissenschaftliche Arbeit übernimmt, ohne ihn entsprechend zu markieren, macht sich des Plagiates schuldig [...]." fußnote + quelle dann: A. Brink, Anfertigung wissenschaftlicher Arbeiten, DOI 10.1007/978-3-8349-4397-2_7, © Springer Fachmedien Wiesbaden 2013
 
 Grundsätzliche lassen sich zwei Arten von Zitaten unterscheiden: das wörtliche oder direkte Zitat und das indirekte Zitat. Sollten wörtliche Zitate über mehr als drei Zeilen gehen, werden diese eingerückt und mit geringerem Schriftgrad (10pt) gesetzt. Wird nicht wörtlich zitiert, sondern paraphrasiert, ist der Literaturangabe im Kurztitel „Vgl.“ voranzustellen. Ein Beispiel: Laut den Autoren haben Filme und Serien eine wichtige Funktion für die Positionierung der Programme.^[Vgl. @we:2000 [61].]
 Die Zitationsquellen werden als **Kurzform (Kurztitel)** in eine Fußnote geschrieben, bei Bildern direkt im Abbildungstext integriert.
@@ -144,7 +139,7 @@ Die Anleitung zur Korrekten Darstellung von Kurztitel und Langform im Quellenver
 In Fußnoten sollen, neben weiterführende Gedanken, die dort auch ihren Platz finden können, die Kurztitel von Wörtlichen oder indirekt verwendeten Quellen zu finden sein.
 Alle Fußnoten beginnen mit einem Großbuchstaben und werden mit einem Punkt abgeschlossen. Für die genaue Platzierung der Verweisziffer im Text gilt folgende Regel:
 
-> Bezieht sich die Fußnote auf ein einzelnes Wort oder eine Wortgruppe, steht die Fußnotenziffer direkt dahinter noch vor einem folgenden Satzzeichen. Wenn sie sich jedoch auf einen ganzen Satz oder durch Satzzeichen eingeschlossenen Satzteil bezieht, steht sie nach dem schließenden Satzzeichen.^[@an:2000 [99].]
+> „Bezieht sich die Fußnote auf ein einzelnes Wort oder eine Wortgruppe, steht die Fußnotenziffer direkt dahinter noch vor einem folgenden Satzzeichen. Wenn sie sich jedoch auf einen ganzen Satz oder durch Satzzeichen eingeschlossenen Satzteil bezieht, steht sie nach dem schließenden Satzzeichen.^[@an:2000 [99].]
 
 Bei Verweis auf ein Buch, Zeitschrift o. ä., wird in der Fußnote folgende Kurzreferenz verwendet: **Nachname(n) (Erscheinungsjahr, ggf. Seitenzahl)**.
 
