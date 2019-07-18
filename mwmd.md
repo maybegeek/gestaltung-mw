@@ -35,7 +35,7 @@ Vorbehaltlich abweichender Vorgaben im Rahmen einzelner Lehrveranstaltungen, gel
 Feste Bestandteile einer schriftlichen Arbeit sind Titelblatt, Inhaltsverzeichnis, Einleitung, Hauptteil, Schlussbetrachtung und Quellenverzeichnis; fallweise kommen weitere Anhänge (z.&#8239;B. ein Abbildungsverzeichnis) hinzu. Fügen Sie Ihren schriftlichen Arbeiten zudem eine Erklärung zu Redlichkeit und Rechtsfolgenkenntnis bei.
 
 
-### Titelblatt
+### Deckblatt
 
 Auf Ihrem Deckblatt erfüllen Sie formale Notwendigkeiten hinsichtlich der Angaben zu Ihrer Arbeit und Person. Mit Ihrer Fragestellung und ggfs. einem Untertitel beginnt Ihre schriftliche Arbeit.
 
