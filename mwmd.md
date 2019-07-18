@@ -72,7 +72,7 @@ Die Einleitung ist als integraler Bestandteil der Arbeit zu sehen und soll dem L
 
 ### Hauptteil
 
-Der Hauptteil Ihrer Arbeit. Verwenden Sie *sprechende Überschriften*, d.&#8239;h. auf den Inhalt des jeweiligen Abschnitts hinweisende Überschriften; keine Überschriften wie *Hauptteil* oder *Kapitel 1*. Die inhaltlichen Wege der Bearbeitung werden durch die Frage- oder Aufgabenstellung vorgegeben sowie durch mögliche Vorgaben der Dozierenden.  
+~~Der Hauptteil Ihrer Arbeit~~. Verwenden Sie *sprechende Überschriften*, d.&#8239;h. auf den Inhalt des jeweiligen Abschnitts hinweisende Überschriften; keine Überschriften wie *Hauptteil* oder *Kapitel 1*. Die inhaltlichen Wege der Bearbeitung werden durch die Frage- oder Aufgabenstellung definiert sowie durch mögliche Vorgaben der Dozierenden.  
 
 ### Schluss
 
