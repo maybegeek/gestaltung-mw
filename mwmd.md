@@ -129,9 +129,14 @@ Siehe dazu das Dokument „Hinweise zur Wissensorganisation und Literaturverwalt
 
 >„Jede von anderen Autoren wörtlich in die eigene Arbeit übernommene Textpassage und jede sich an die Gedankengänge anderer Autoren eng anlehnende Stelle der Arbeit ist einzeln zu kennzeichnen und durch eine genaue Quellenangabe zu belegen. [...] Wer einen fremden Text wörtlich oder sinngemäß in seine wissenschaftliche Arbeit übernimmt, ohne ihn entsprechend zu markieren, macht sich des Plagiates schuldig [...].“ ^[@fußnote + quelle dann: A. Brink, Anfertigung wissenschaftlicher Arbeiten, DOI 10.1007/978-3-8349-4397-2_7, © Springer Fachmedien Wiesbaden 2013].]
 
-Grundsätzliche lassen sich zwei Arten von Zitaten unterscheiden: das wörtliche oder direkte Zitat und das indirekte Zitat. Sollten wörtliche Zitate über mehr als drei Zeilen gehen, werden diese eingerückt und mit geringerem Schriftgrad (10pt) gesetzt. Wird nicht wörtlich zitiert, sondern paraphrasiert, ist der Literaturangabe im Kurztitel „Vgl.“ voranzustellen. Ein Beispiel: Laut den Autoren haben Filme und Serien eine wichtige Funktion für die Positionierung der Programme.^[Vgl. @we:2000 [61].]
-Die Zitationsquellen werden als **Kurzform (Kurztitel)** in eine Fußnote geschrieben, bei Bildern direkt in die Abbildungsbeschriftung integriert.
-Die dazugehörige Langform wird am Ende der Arbeit in einem **Quellenverzeichnis** geführt.
+Grundsätzliche lassen sich zwei Arten von Zitaten unterscheiden: das wörtliche oder direkte Zitat und das indirekte Zitat. Sollten wörtliche Zitate über mehr als drei Zeilen gehen, werden diese eingerückt und mit geringerem Schriftgrad (10pt) gesetzt.
+
+Wird nicht wörtlich zitiert, sondern paraphrasiert, ist der Literaturangabe im Kurztitel „Vgl.“ voranzustellen. Ein Beispiel: Laut den Autoren haben Filme und Serien eine wichtige Funktion für die Positionierung der Programme.^[Vgl. @we:2000 [61].]
+
+
+Die Zitationsquellen werden als **Kurzform (Kurztitel)** in eine Fußnote geschrieben, bei Bildern direkt in die Abbildungsbeschriftung integriert. Die dazugehörige Langform wird am Ende der Arbeit in einem **Quellenverzeichnis** geführt.
+
+
 Die Anleitung zur Korrekten Darstellung von Kurztitel und Langform im Quellenverzeichnis für Literatur, Bilder, Video etc. finden sie im folgenden Teil der Gestaltungsrichtlinien.
 
 
