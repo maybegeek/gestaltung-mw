@@ -78,11 +78,6 @@ Die Einleitung ist als integraler Bestandteil der Arbeit zu sehen und soll dem L
 
 ~~Im Schluss Ihrer Arbeit führen Sie Ihre Ergebnisse zusammen~~. Hier besteht zudem Raum für ~~ausblickartige~~ Anknüpfungspunkte hinsichtlich der bearbeiteten Forschungsaufgabe/-frage und bzgl. weiterer, kritischer Kontextualisierung. Auch hier sollte die Überschrift dem Inhalt nach gewählt werden.
 
-### Abbildungsverzeichnis
-
-Bei einer größeren Anzahl von im Text verwendeten Abbildungen, kann ein Abbildungsverzeichnis vor dem Quellenverzeichnis dem Lesenden nützlich sein. Dort werden die laufende Abbildungsnummer, die ggf. gekürzte Bildunterschrift und die Seitenangabe genannt.
-
-
 ### Quellenverzeichnis
 
 Hier werden alle in Ihrer Arbeit verwendeten Werke mit deren bibliografischen Details verzeichnet. Ein sorgfältiges Erstellen ist verbindlich, dient der Überprüfbarkeit und zeigt Ihre akademische Sorgfalt.
@@ -158,6 +153,10 @@ Sie finden im Folgenden bei allen im Zitierstil beschriebenen Arten von Quellen 
 ### Bilderverwendung
 
 Im Text ...
+
+~~Abbildungsverzeichnis~~
+
+Bei einer größeren Anzahl von im Text verwendeten Abbildungen, kann ein Abbildungsverzeichnis vor dem Quellenverzeichnis dem Lesenden nützlich sein. Dort werden die laufende Abbildungsnummer, die ggf. gekürzte Bildunterschrift und die Seitenangabe genannt.
 
 ![Schematische Zeichnung einer portablen *camera obscura* nach @za:1685 [181].](eigene-dateien/cam.jpg){width=66%}
 
