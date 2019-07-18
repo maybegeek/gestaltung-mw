@@ -129,7 +129,7 @@ Hier evtl. nicht aufgeführte Quellenarten sollen auch adäquat zitiert werden; 
 
 Grundsätzlich lassen sich zwei Arten von Zitaten unterscheiden: das wörtliche oder direkte Zitat und das indirekte Zitat. Sollten wörtliche Zitate über mehr als drei Zeilen gehen, werden diese links eingerückt und mit geringerem Schriftgrad (10pt) gesetzt.
 
-Wird nicht wörtlich zitiert, sondern paraphrasiert, ist der Literaturangabe im Kurztitel „Vgl.“ voranzustellen. Ein Beispiel: Laut den Autoren haben Filme und Serien eine wichtige Funktion für die Positionierung der Programme.^[Vgl. @we:2000 [61].]
+Wird nicht wörtlich zitiert, sondern paraphrasiert, ist dem ~~Kurzbeleg~~ „Vgl.“ voranzustellen. Ein Beispiel: Laut den Autoren haben Filme und Serien eine wichtige Funktion für die Positionierung der Programme.^[~~Vgl. @we:2000 [61].~~]
 
 
 Die Zitationsquellen werden als **Kurzform (Kurztitel)** in eine Fußnote geschrieben, bei Bildern direkt in die Abbildungsbeschriftung integriert. Die dazugehörige Langform wird am Ende der Arbeit in einem **Quellenverzeichnis** geführt.
