@@ -97,13 +97,21 @@ Beachten Sie für Abschlussarbeiten auch immer die Hinweise auf den Seiten des P
 ~~Satz~~^[Darüber hinausgehende Informationen zu orthografisch richtiger und typografisch ansprechender Gestaltung schriftlicher Arbeiten finden sie z.&#8239;B. in „Typokurz -- Einige wichtige typografische Regeln“ bei @bi:2009.]
 
 -   Die Arbeit wird einseitig auf DIN A4-Papier gedruckt.
-    Die Seitenränder betragen: oben 3cm, unten 3,6cm ~~4,5cm~~,
-    links 3,2cm ~~3,5cm~~ und rechts 3cm.
--   Die Schriftgröße beträgt 11pt oder 12pt;
+    Die Seitenränder betragen: oben 3cm, unten 3,8cm,
+    links 3,2cm und rechts 3cm.
+-   Die Schriftgröße beträgt üblicherweise 12pt;
     der Lesbarkeit wegen und nach Laufweite der
     jeweils verwendeten Schriftart.
--   Abhängig von der verwendeten Schriftart wird ein
-    1,1facher oder 1,2facher Zeilenabstand gewählt.
+-   Verwenden Sie 1,2fachen Zeilenabstand.
+-   Für den Fließtext verwenden Sie Blocksatz mit
+    automatischer Silbentrennung.
+-   Überschriften werden grundsätzlich linksbündig gesetzt
+    (ohne Blocksatz).
+-   Textauszeichnungen, wie beispielsweise Kursivierung
+    und Fettdruck, sind so oft wie nötig, jedoch nicht
+    inflationär zu gebrauchen.
+-   Für Ihre Arbeit verwenden Sie vorzugsweise
+    eine Serifenschrift; die [Vollkorn](http://vollkorn-typeface.com/)^[sdfsdfsdfsd fsdf http://vollkorn-typeface.com/] kommt beispielsweise in diesem Dokument zum Einsatz.
 
 Für den Fließtext ist Blocksatz mit automatisierter Silbentrennung zu verwenden. Überschriften werden grundsätzlich linksbündig gesetzt (ohne Blocksatz). Textauszeichnungen, wie beispielsweise Kursivierung und Fettdruck, sind so oft wie nötig, jedoch nicht inflationär zu gebrauchen.^[Vgl. @bi:2009 [2f.].]
 
