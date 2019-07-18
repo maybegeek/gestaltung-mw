@@ -101,12 +101,14 @@ Fügen Sie am Ende Ihrer Arbeit eine unterschriebene Erklärung bzgl. Redlichkei
 
 Seitenränder, Schriftgröße und Zeilenabstand handhaben Sie folgendermaßen:
 
--   Die Arbeit wird einseitig auf DIN A4-Papier gedruckt. Die
-    Seitenränder betragen: oben 3cm, unten 3,6cm ~~4,5cm~~, links 3,2cm ~~3,5cm~~
-    und rechts 3cm.
-    -   Die Schriftgröße beträgt 11pt oder 12pt; der Lesbarkeit wegen und nach Laufweite der jeweils verwendeten Schriftart.
--   Abhängig von der verwendeten Schriftart wird ein 1,1facher
-    oder 1,2facher Zeilenabstand gewählt.
+-   Die Arbeit wird einseitig auf DIN A4-Papier gedruckt.
+    Die Seitenränder betragen: oben 3cm, unten 3,6cm ~~4,5cm~~,
+    links 3,2cm ~~3,5cm~~ und rechts 3cm.
+-   Die Schriftgröße beträgt 11pt oder 12pt;
+    der Lesbarkeit wegen und nach Laufweite der
+    jeweils verwendeten Schriftart.
+-   Abhängig von der verwendeten Schriftart wird ein
+    1,1facher oder 1,2facher Zeilenabstand gewählt.
 
 Für den Fließtext ist Blocksatz mit automatisierter Silbentrennung zu verwenden. Überschriften werden grundsätzlich linksbündig gesetzt (ohne Blocksatz). Textauszeichnungen, wie beispielsweise Kursivierung und Fettdruck, sind so oft wie nötig, jedoch nicht inflationär zu gebrauchen.^[Vgl. @bi:2009 [2f.].]
 
