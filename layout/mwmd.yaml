@@ -12,6 +12,7 @@ classoption:
 - headinclude=true
 - footinclude=false
 - headings=standardclasses
+- fontsize=11pt
 mainfont: Vollkorn-Regular.otf
 mainfontoptions:
 - Path=./layout/vollkorn-4-105/PS-OTF/
