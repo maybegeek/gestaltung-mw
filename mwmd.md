@@ -137,10 +137,7 @@ Wörtlich oder sinngemäß übernommene Textstellen, Tabellen, Diagramme etc. so
 Erstreckt sich die zitierte Stelle auch über die folgende Seite, so ist dies mit dem Zusatz »f.« zu vermerken. Bei mehreren folgenden Seiten, wird der Zusatz »ff.« verwendet. Beispiel: @em:2005 [32ff.].
 
 ### Fußnoten
-
-Kurzbeleg, Vollbeleg ...
-
-
+In Fußnoten sollen, neben weiterführende Gedanken, die dort auch ihren Platz finden können, die Kurztitel von Wörtlichen oder indirekt verwendeten Quellen zu finden sein.
 Alle Fußnoten beginnen mit einem Großbuchstaben und werden mit einem Punkt abgeschlossen. Für die genaue Platzierung der Verweisziffer im Text gilt folgende Regel:
 
 > Bezieht sich die Fußnote auf ein einzelnes Wort oder eine Wortgruppe, steht die Fußnotenziffer direkt dahinter noch vor einem folgenden Satzzeichen. Wenn sie sich jedoch auf einen ganzen Satz oder durch Satzzeichen eingeschlossenen Satzteil bezieht, steht sie nach dem schließenden Satzzeichen.^[@an:2000 [99].]
