@@ -127,7 +127,7 @@ Hier evtl. nicht aufgeführte Quellenarten sollen auch adäquat zitiert werden; 
 
 >„Jede von anderen Autoren wörtlich in die eigene Arbeit übernommene Textpassage und jede sich an die Gedankengänge anderer Autoren eng anlehnende Stelle der Arbeit ist **einzeln** zu kennzeichnen und durch eine **genaue Quellenangabe** zu belegen. [...] Wer einen fremden Text **wörtlich** oder **sinngemäß** in seine wissenschaftliche Arbeit übernimmt, ohne ihn entsprechend zu markieren, macht sich des **Plagiates** schuldig [...].“ ^[@brink:2013 [195]; Hervorhebungen im Original.]
 
-Grundsätzliche lassen sich zwei Arten von Zitaten unterscheiden: das wörtliche oder direkte Zitat und das indirekte Zitat. Sollten wörtliche Zitate über mehr als drei Zeilen gehen, werden diese eingerückt und mit geringerem Schriftgrad (10pt) gesetzt.
+Grundsätzlich lassen sich zwei Arten von Zitaten unterscheiden: das wörtliche oder direkte Zitat und das indirekte Zitat. Sollten wörtliche Zitate über mehr als drei Zeilen gehen, werden diese links eingerückt und mit geringerem Schriftgrad (10pt) gesetzt.
 
 Wird nicht wörtlich zitiert, sondern paraphrasiert, ist der Literaturangabe im Kurztitel „Vgl.“ voranzustellen. Ein Beispiel: Laut den Autoren haben Filme und Serien eine wichtige Funktion für die Positionierung der Programme.^[Vgl. @we:2000 [61].]
 
