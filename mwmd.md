@@ -99,21 +99,20 @@ Fügen Sie am Ende Ihrer Arbeit eine unterschriebene Erklärung bzgl. Redlichkei
 
 ## Seitenlayout und Typografisches
 
-Seitenränder, Schriftgröße und Zeilenabstand sind wie folgt zu verwenden:
+Seitenränder, Schriftgröße und Zeilenabstand handhaben Sie folgendermaßen:
 
 -   Die Arbeit wird einseitig auf DIN A4-Papier gedruckt. Die
-    Seitenränder betragen: oben 3cm, unten 4,5cm, links 3,5cm
+    Seitenränder betragen: oben 3cm, unten 3,6cm ~~4,5cm~~, links 3,2cm ~~3,5cm~~
     und rechts 3cm.
--   Die Schriftgröße sollte (je nach verwendeter Schriftart)
-    zwischen 11pt und 12pt liegen.
+    -   Die Schriftgröße beträgt 11pt oder 12pt; der Lesbarkeit wegen und nach Laufweite der jeweils verwendeten Schriftart.
 -   Abhängig von der verwendeten Schriftart wird ein 1,1facher
     oder 1,2facher Zeilenabstand gewählt.
 
-Für den Fließtext ist Blocksatz mit automatisierter Silbentrennung zu verwenden. Überschriften werden grundsätzlich linksbündig gesetzt (ohne Blocksatz). Textauszeichnungen (wie beispielsweise Kursivierung und Fettdruck)  sind so oft wie nötig, jedoch nicht inflationär zu gebrauchen.^[Vgl. @bi:2009 [2f.].]
+Für den Fließtext ist Blocksatz mit automatisierter Silbentrennung zu verwenden. Überschriften werden grundsätzlich linksbündig gesetzt (ohne Blocksatz). Textauszeichnungen, wie beispielsweise Kursivierung und Fettdruck, sind so oft wie nötig, jedoch nicht inflationär zu gebrauchen.^[Vgl. @bi:2009 [2f.].]
 
-Für Ihre schriftliche Arbeit verwenden Sie vorzugsweise eine Serifenschrift; die [Vollkorn](http://vollkorn-typeface.com/) kommt beispielsweise in diesem Dokument zum Einsatz. Serifenlose Schriften sind für den Mengensatz nur bedingt geeignet: Arial, Verdana, Calibri usw. sollten also für diesen Zweck nicht zum Einsatz kommen.
+Für Ihre schriftliche Arbeit verwenden Sie vorzugsweise eine Serifenschrift; die [Vollkorn](http://vollkorn-typeface.com/) kommt beispielsweise in diesem Dokument zum Einsatz; bei 11pt und 1,1fachem Zeilenabstand.
 
-Darüber hinausgehende Informationen zu orthografisch ricthiger und typografisch ansprechender Gestaltung von Druckwerken finden sie z.&#8239;B. in: „Typokurz -- Einige wichtige typografische Regeln“ von Christoph Bier. [url:]{.smallcaps} [https://zvisionwelt.files.wordpress.com/2012/01/typokurz.pdf](https://zvisionwelt.files.wordpress.com/2012/01/typokurz.pdf).
+Darüber hinausgehende Informationen zu orthografisch richtiger und typografisch ansprechender Gestaltung von Druckwerken finden sie z.&#8239;B. in: „Typokurz -- Einige wichtige typografische Regeln“ von Christoph Bier. [url:]{.smallcaps} [https://zvisionwelt.files.wordpress.com/2012/01/typokurz.pdf](https://zvisionwelt.files.wordpress.com/2012/01/typokurz.pdf).
 
 # Bibliographie (Quellen- und Literaturverzeichnis)
 
