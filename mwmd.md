@@ -67,7 +67,7 @@ Nummeriert wird in Form der Dezimalgliederung. Mehr als drei nummerierte Glieder
 
 ### Einleitung
 
-In der Einleitung wird die Themenstellung und Zielsetzung der Arbeit beschrieben, sowie der inhaltliche Aufbau der Arbeit erläutert. Die Einleitung ist als integraler Bestandteil der Arbeit zu sehen und soll dem Lesenden/Prüfenden die Forschungsfrage, den Gegenstand der Arbeit und die Methodik aufzeichnen; das Ziel der Arbeit wird hier benannt.
+Die Einleitung ist als integraler Bestandteil der Arbeit zu sehen und soll dem Lesenden/Prüfenden die Forschungsfrage, den Gegenstand der Arbeit und die Methodik aufzeigen; das Ziel der Arbeit sowie der inhaltliche Aufbau werden hier erläutert.
 
 
 ### Hauptteil
