@@ -143,9 +143,10 @@ Alle Fußnoten beginnen mit einem Großbuchstaben und werden mit einem Punkt abg
 
 > „Bezieht sich die Fußnote auf ein einzelnes Wort oder eine Wortgruppe, steht die Fußnotenziffer direkt dahinter noch vor einem folgenden Satzzeichen. Wenn sie sich jedoch auf einen ganzen Satz oder durch Satzzeichen eingeschlossenen Satzteil bezieht, steht sie nach dem schließenden Satzzeichen.“^[@an:2000 [99].]
 
-Bei Verweis auf ein Buch, Zeitschrift o. ä., wird in der Fußnote folgende Kurzreferenz verwendet: **Nachname(n) (Erscheinungsjahr, ggf. Seitenzahl)**.
+Bei Verweis auf ein Buch, Zeitschrift o. ä., wird in der Fußnote folgende Kurzreferenz verwendet^[~~Zur Verwendung von „f.“ und „ff.“ bei Seitenangaben beispielhaft Folgendes: @em:2005 [32ff.]~~]: **Nachname(n) (Erscheinungsjahr, ggf. Seitenzahl)**.
 ⇒ Nachname(n) (Erscheinungsjahr, ggf. Seitenzahl).
-Erstreckt sich die zitierte Stelle über zwei Seiten, so kann dies mit dem Zusatz „f.“ dargestellt werden. Bei mehreren folgenden Seiten, wird der Zusatz „ff.“ verwendet. Beispiel: @em:2005 [32ff.].
+
+~~Erstreckt sich die zitierte Stelle über zwei Seiten, so kann dies mit dem Zusatz „f.“ dargestellt werden. Bei mehreren folgenden Seiten, wird der Zusatz „ff.“ verwendet. Beispiel: @em:2005 [32ff.].~~
 
 Sie finden im Folgenden bei allen im Zitierstil beschriebenen Arten von Quellen die dazugehörige Form des Kurztitels für die Fußnoten.
 
