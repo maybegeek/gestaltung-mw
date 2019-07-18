@@ -125,7 +125,7 @@ Hier evtl. nicht aufgeführte Quellenarten sollen auch adäquat zitiert werden; 
 
 ### Allgemeines zur Zitation
 
->„Jede von anderen Autoren wörtlich in die eigene Arbeit übernommene Textpassage und jede sich an die Gedankengänge anderer Autoren eng anlehnende Stelle der Arbeit ist einzeln zu kennzeichnen und durch eine genaue Quellenangabe zu belegen. [...] Wer einen fremden Text wörtlich oder sinngemäß in seine wissenschaftliche Arbeit übernimmt, ohne ihn entsprechend zu markieren, macht sich des Plagiates schuldig [...].“ ^[@fußnote + quelle dann: A. Brink, Anfertigung wissenschaftlicher Arbeiten, DOI 10.1007/978-3-8349-4397-2_7, © Springer Fachmedien Wiesbaden 2013].]
+>„Jede von anderen Autoren wörtlich in die eigene Arbeit übernommene Textpassage und jede sich an die Gedankengänge anderer Autoren eng anlehnende Stelle der Arbeit ist **einzeln** zu kennzeichnen und durch eine **genaue Quellenangabe** zu belegen. [...] Wer einen fremden Text **wörtlich** oder **sinngemäß** in seine wissenschaftliche Arbeit übernimmt, ohne ihn entsprechend zu markieren, macht sich des **Plagiates** schuldig [...].“ ^[@brink:2013 [195]; Hervorhebungen im Original.]
 
 Grundsätzliche lassen sich zwei Arten von Zitaten unterscheiden: das wörtliche oder direkte Zitat und das indirekte Zitat. Sollten wörtliche Zitate über mehr als drei Zeilen gehen, werden diese eingerückt und mit geringerem Schriftgrad (10pt) gesetzt.
 
