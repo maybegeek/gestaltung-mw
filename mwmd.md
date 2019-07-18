@@ -62,7 +62,7 @@ Die notwendigen Angaben für schriftliche Arbeiten allgemein und Abschlussarbeit
 
 ### Inhaltsverzeichnis
 
-Nummeriert wird in Form der Dezimalgliederung. Mehr als drei nummerierte Gliederungsebenen sind zu vermeiden. Das Muster finden Sie auf S.&#8239;iv. Es empfiehlt sich, die Gliederung der Arbeit automatisiert mithilfe des verwendeten Textverarbeitungsprogramms zu erstellen.
+Nummeriert wird in Form der Dezimalgliederung. Mehr als drei nummerierte Gliederungsebenen sind zu vermeiden. Das Muster finden Sie auf Seite iv. Es empfiehlt sich, die Gliederung der Arbeit automatisiert mithilfe des verwendeten Textverarbeitungsprogramms zu erstellen.
 
 
 ### Einleitung
