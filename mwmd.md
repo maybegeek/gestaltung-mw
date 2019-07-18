@@ -115,7 +115,7 @@ Für Ihre schriftliche Arbeit verwenden Sie vorzugsweise eine Serifenschrift; di
 
 Darüber hinausgehende Informationen zu orthografisch richtiger und typografisch ansprechender Gestaltung von Druckwerken finden sie z.&#8239;B. in: „Typokurz -- Einige wichtige typografische Regeln“ von Christoph Bier. [url:]{.smallcaps} [https://zvisionwelt.files.wordpress.com/2012/01/typokurz.pdf](https://zvisionwelt.files.wordpress.com/2012/01/typokurz.pdf).
 
-# Zitierrichtlinien und Vorgaben zur Erstellung eines Quellenverzeichnis
+# Zitierrichtlinien und Vorgaben zur Erstellung des Quellenverzeichnis
 
 Das Quellenverzeichnis besteht aus einem alphabetisch geordneten Literaturverzeichnis (Bibliographie) und je nach weiteren verwendeten Quellen einem Bild- Bewegtbild-, Filmverzeichnis etc.
 
