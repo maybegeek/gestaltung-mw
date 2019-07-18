@@ -115,9 +115,11 @@ Für Ihre schriftliche Arbeit verwenden Sie vorzugsweise eine Serifenschrift; di
 
 Darüber hinausgehende Informationen zu orthografisch richtiger und typografisch ansprechender Gestaltung von Druckwerken finden sie z.&#8239;B. in: „Typokurz -- Einige wichtige typografische Regeln“ von Christoph Bier. [url:]{.smallcaps} [https://zvisionwelt.files.wordpress.com/2012/01/typokurz.pdf](https://zvisionwelt.files.wordpress.com/2012/01/typokurz.pdf).
 
-# Bibliographie (Quellen- und Literaturverzeichnis)
+# Zitierrichtlinien und Vorgaben zur Erstellung eines Quellenverzeichnis
 
-Als Nachweis für die verwendete Literatur wird am Ende der Seminar-/Abschlussarbeit ein alphabetisches Literaturverzeichnis erstellt. Hier evtl. nicht aufgeführte Quellenarten sollen auch adäquat zitiert werden; dazu selbständig bei Bedarf z.&#8239;B. den *Chicago Manual of Style* online zu rate ziehen.
+Das Quellenverzeichnis besteht aus einem alphabetisch geordneten Literaturverzeichnis (Bibliographie) und je nach weiteren verwendeten Quellen einem Bild- Bewegtbild-, Filmverzeichnis etc.
+
+Hier evtl. nicht aufgeführte Quellenarten sollen auch adäquat zitiert werden; dazu selbständig bei Bedarf z.&#8239;B. den *Chicago Manual of Style* online zu rate ziehen.
 
 ## Software zur Literaturverwaltung (Wissensorganisation)
 
