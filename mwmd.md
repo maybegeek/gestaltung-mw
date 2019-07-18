@@ -121,9 +121,7 @@ Das Quellenverzeichnis besteht aus einem alphabetisch geordneten Literaturverzei
 Hier evtl. nicht aufgeführte Quellenarten sollen auch adäquat zitiert werden; dazu selbständig bei Bedarf z.&#8239;B. den *Chicago Manual of Style* online zu rate ziehen.
 
 
-## Zitierstil der Medienwissenschaft
-
-### Allgemeines zur Zitation
+## Allgemeines zur Zitation
 
 >„Jede von anderen Autoren wörtlich in die eigene Arbeit übernommene Textpassage und jede sich an die Gedankengänge anderer Autoren eng anlehnende Stelle der Arbeit ist **einzeln** zu kennzeichnen und durch eine **genaue Quellenangabe** zu belegen. [...] Wer einen fremden Text **wörtlich** oder **sinngemäß** in seine wissenschaftliche Arbeit übernimmt, ohne ihn entsprechend zu markieren, macht sich des **Plagiates** schuldig [...].“ ^[@brink:2013 [195]; Hervorhebungen im Original.]
 
@@ -138,7 +136,8 @@ Die Zitationsquellen werden als **Kurzform (Kurztitel)** in eine Fußnote geschr
 Die Anleitung zur Korrekten Darstellung von Kurztitel und Langform im Quellenverzeichnis für Literatur, Bilder, Video etc. finden sie im folgenden Teil der Gestaltungsrichtlinien.
 
 
-### Fußnoten
+## Fußnoten
+
 In Fußnoten sollen, neben weiterführende Gedanken, die dort auch ihren Platz finden können, die Kurztitel von Wörtlichen oder indirekt verwendeten Quellen zu finden sein.
 Alle Fußnoten beginnen mit einem Großbuchstaben und werden mit einem Punkt abgeschlossen. Für die genaue Platzierung der Verweisziffer im Text gilt folgende Regel:
 
@@ -151,7 +150,7 @@ Erstreckt sich die zitierte Stelle über zwei Seiten, so kann dies mit dem Zusat
 Sie finden im Folgenden bei allen im Zitierstil beschriebenen Arten von Quellen die dazugehörige Form des Kurztitels für die Fußnoten.
 
 
-### Bilderverwendung
+## Bilderverwendung
 
 Im Text ...
 
@@ -171,9 +170,9 @@ Alte Nationalgalerie Berlin.
 @cas:1818
 
 
-### Zitierstil
+## Zitierstil
 
-#### Druckwerke
+### Druckwerke
 
 **Monografien:**
 
@@ -210,7 +209,7 @@ Amento, Brian et al. (2003). Experiments in social data mining: The TopicShop s
 
 ⇒ @am:2003 [60].
 
-#### Online-Quellen
+### Online-Quellen
 
 **Artikel**
 
@@ -252,7 +251,7 @@ Der **Permanentlink** zu einem Wikipedia-Artikel findet sich auf der linken Seit
 
 ⇒ @wikizit:2019.
 
-#### Film/Bilder/Photos
+### Film/Bilder/Photos
 
 Die Zitationsweise von Bildern unterscheidet sich in bewegte (z.&#8239;B. Film) und unbewegte Bilder (z.&#8239;B. Gemälde, Fotografien).
 
@@ -302,7 +301,7 @@ Bildunterschriften von Einzelkadern (Stills) aus Filmen etc., die der Illustrati
 
 @ray:1932
 
-#### Werbung
+### Werbung
 
 **Firmenname (Jahr). *Titel wenn vorhanden* \[Werbung\]. Quelle.**
 
