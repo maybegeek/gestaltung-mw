@@ -76,7 +76,7 @@ Die Einleitung ist als integraler Bestandteil der Arbeit zu sehen und soll dem L
 
 ### Schluss
 
-Im Schluss Ihrer Arbeit werden Ihre Ergebnisse zusammengeführt. Hier besteht zudem Raum für ausblickartige Anknüpfungspunkte hinsichtlich der bearbeiteten Forschungsaufgabe/-frage und bzgl. weiterer, kritischer Kontextualisierung. Auch hier sollte die Überschrift dem Inhalt nach gewaählt werden.
+~~Im Schluss Ihrer Arbeit führen Sie Ihre Ergebnisse zusammen~~. Hier besteht zudem Raum für ~~ausblickartige~~ Anknüpfungspunkte hinsichtlich der bearbeiteten Forschungsaufgabe/-frage und bzgl. weiterer, kritischer Kontextualisierung. Auch hier sollte die Überschrift dem Inhalt nach gewählt werden.
 
 ### Abbildungsverzeichnis
 
