@@ -130,11 +130,16 @@ Siehe dazu das Dokument „Hinweise zur Wissensorganisation und Literaturverwalt
 
 alt: Wörtlich oder sinngemäß übernommene Textstellen, Tabellen, Diagramme etc. sowie alle verwendeten Medien gilt es nachzuweisen. Die Zitationsquellen werden als **Kurzform** in eine Fußnote geschrieben, bei Bildern direkt in den Fließtext integriert. Die dazugehörige Langform wird am Ende der Arbeit in einem **Quellenverzeichnis** geführt. Sollten wörtliche Zitate über mehr als drei Zeilen gehen, werden diese eingerückt und mit geringerem Schriftgrad (10pt) und eingerückt gesetzt.
 
-**Kurztitel:** Der Kurztitel findet in Fußnoten und im Fließtext Verwendung, als kurze, übersichtliche Version der ausführlichen Referenz in der Bibliographie (Literaturverzeichnis/Quellenangaben). Er besteht bei Literaturangaben aus dem Nachnamen des/r Autors/in/en, dem Jahr der Veröffentlichung und gegebenenfalls einer Seitenangabe. Ein Beispiel: »Die starren Grenzen zwischen Medienorganisation und Rezipienten lösen sich zwar auf, deren Rollen im Kommunikationsprozess bleiben jedoch in verschiedenen Ausprägungen erhalten.«^[@em:2005 [32].]
 
-Wird nicht wörtlich zitiert, sondern paraphrasiert, ist ein »Vgl.« der Literaturangabe voranzustellen. Ein Beispiel: Laut den Autoren haben Filme und Serien eine wichtige Funktion für die Positionierung der Programme.^[Vgl. @we:2000 [61].]
+das evtl. etwas viel ....
 
-Erstreckt sich die zitierte Stelle auch über die folgende Seite, so ist dies mit dem Zusatz »f.« zu vermerken. Bei mehreren folgenden Seiten, wird der Zusatz »ff.« verwendet. Beispiel: @em:2005 [32ff.].
+"Jede von anderen Autoren wörtlich in die eigene Arbeit übernommene Textpassage und jede sich an die Gedankengänge anderer Autoren eng anlehnende Stelle der Arbeit ist einzeln zu kennzeichnen und durch eine genaue Quellenangabe zu belegen. Dies gilt auch für die Übernahme von Teilen aus Gesetzestexten, Verordnungen oder Richtlinien sowie von Elementen aus Statistiken. Wer einen fremden Text wörtlich oder sinngemäß in seine wissenschaftliche Arbeit übernimmt, ohne ihn entsprechend zu markieren, macht sich des Plagiates schuldig und muss neben der Aberkennung der Prüfungsleistung im Extremfall sogar mit strafrechtlichen Konsequenzen rechnen" fußnote + quelle dann: A. Brink, Anfertigung wissenschaftlicher Arbeiten, DOI 10.1007/978-3-8349-4397-2_7, © Springer Fachmedien Wiesbaden 2013
+
+Grundsätzliche lassen sich zwei Arten von Zitaten unterscheiden: das wörtliche oder direkte Zitat und das indirekte Zitat. Sollten wörtliche Zitate über mehr als drei Zeilen gehen, werden diese eingerückt und mit geringerem Schriftgrad (10pt) gesetzt. Wird nicht wörtlich zitiert, sondern paraphrasiert, ist der Literaturangabe im Kurztitel „Vgl.“ voranzustellen. Ein Beispiel: Laut den Autoren haben Filme und Serien eine wichtige Funktion für die Positionierung der Programme.^[Vgl. @we:2000 [61].]
+Die Zitationsquellen werden als **Kurzform (Kurztitel)** in eine Fußnote geschrieben, bei Bildern direkt im Abbildungstext integriert.
+Die dazugehörige Langform wird am Ende der Arbeit in einem **Quellenverzeichnis** geführt.
+Die Anleitung zur Korrekten Darstellung von Kurztitel und Langform im Quellenverzeichnis für Literatur, Bilder, Video etc. finden sie im folgenden Teil der Gestaltungsrichtlinien.
+
 
 ### Fußnoten
 In Fußnoten sollen, neben weiterführende Gedanken, die dort auch ihren Platz finden können, die Kurztitel von Wörtlichen oder indirekt verwendeten Quellen zu finden sein.
@@ -145,6 +150,10 @@ Alle Fußnoten beginnen mit einem Großbuchstaben und werden mit einem Punkt abg
 Bei Verweis auf ein Buch, Zeitschrift o. ä., wird in der Fußnote folgende Kurzreferenz verwendet: **Nachname(n) (Erscheinungsjahr, ggf. Seitenzahl)**.
 
 ⇒ Nachname(n) (Erscheinungsjahr, ggf. Seitenzahl).
+Erstreckt sich die zitierte Stelle über zwei Seiten, so kann dies mit dem Zusatz „f.“ dargestellt werden. Bei mehreren folgenden Seiten, wird der Zusatz „ff.“ verwendet. Beispiel: @em:2005 [32ff.].
+
+Sie finden im Folgenden bei allen im Zitierstil beschriebenen Arten von Quellen die dazugehörige Form des Kurztitels für die Fußnoten.
+
 
 ### Bilderverwendung
 
