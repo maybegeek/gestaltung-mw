@@ -77,7 +77,7 @@ Der Hauptteil Ihrer Arbeit. Verwenden Sie *sprechende Überschriften*, d.h. auf 
 
 ### Schluss
 
-Im Schluss Ihrer Arbeit werden Ihre Ergebnisse zusammengeführt. Hier besteht zudem Raum für ausblicksartige Anknüpfungspunkte hinsichtlich des bearbeiteten Forschungsfelds und weitere, kritische Kontextualisierung. Auch hier ist die Betitelung dem Inhalt nach zu wählen.
+Im Schluss Ihrer Arbeit werden Ihre Ergebnisse zusammengeführt. Hier besteht zudem Raum für ausblicksartige Anknüpfungspunkte hinsichtlich des bearbeiteten Forschungsfelds und bzgl. weiterer, kritischer Kontextualisierung. Auch hier ist die Überschrift dem Inhalt nach zu wählen.
 
 ### Abbildungsverzeichnis
 
