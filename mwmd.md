@@ -111,7 +111,7 @@ Seitenränder, Schriftgröße und Zeilenabstand handhaben Sie folgendermaßen:
 
 Für den Fließtext ist Blocksatz mit automatisierter Silbentrennung zu verwenden. Überschriften werden grundsätzlich linksbündig gesetzt (ohne Blocksatz). Textauszeichnungen, wie beispielsweise Kursivierung und Fettdruck, sind so oft wie nötig, jedoch nicht inflationär zu gebrauchen.^[Vgl. @bi:2009 [2f.].]
 
-Für Ihre schriftliche Arbeit verwenden Sie vorzugsweise eine Serifenschrift; die [Vollkorn](http://vollkorn-typeface.com/) kommt beispielsweise in diesem Dokument zum Einsatz; bei 11pt und 1,1fachem Zeilenabstand.
+Für Ihre schriftliche Arbeit verwenden Sie vorzugsweise eine Serifenschrift; die [Vollkorn](http://vollkorn-typeface.com/) http://vollkorn-typeface.com/ kommt beispielsweise in diesem Dokument zum Einsatz; bei 11pt und 1,1fachem Zeilenabstand.
 
 Darüber hinausgehende Informationen zu orthografisch richtiger und typografisch ansprechender Gestaltung von Druckwerken finden sie z.&#8239;B. in: „Typokurz -- Einige wichtige typografische Regeln“ von Christoph Bier. [url:]{.smallcaps} [https://zvisionwelt.files.wordpress.com/2012/01/typokurz.pdf](https://zvisionwelt.files.wordpress.com/2012/01/typokurz.pdf).
 
