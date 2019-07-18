@@ -130,15 +130,15 @@ Grundsätzlich lassen sich zwei Arten von Zitaten unterscheiden: das wörtliche 
 Wird nicht wörtlich zitiert, sondern paraphrasiert, ist dem ~~Kurzbeleg~~ „Vgl.“ voranzustellen. Ein Beispiel: Laut den Autoren haben Filme und Serien eine wichtige Funktion für die Positionierung der Programme.^[~~Vgl. @we:2000 [61].~~]
 
 
-Die Zitationsquellen werden als **Kurzform (Kurztitel)** in eine Fußnote geschrieben, bei Bildern direkt in die Abbildungsbeschriftung integriert. Die dazugehörige Langform wird am Ende der Arbeit in einem **Quellenverzeichnis** geführt.
+Die ~~Belege~~ werden als ~~**Kurzform (Kurztitel)**~~ in eine Fußnote geschrieben, bei Bildern direkt in die Abbildungsbeschriftung integriert. Die dazugehörige Langform wird am Ende der Arbeit in einem **Quellenverzeichnis** geführt.
 
 
-Die Anleitung zur Korrekten Darstellung von Kurztitel und Langform im Quellenverzeichnis für Literatur, Bilder, Video etc. finden sie im folgenden Teil der Gestaltungsrichtlinien.
+Die Anleitung zur korrekten Darstellung von Kurztitel und Langform im Quellenverzeichnis für ~~Literatur, Bilder, Video etc.~~ finden sie im folgenden Teil der Gestaltungsrichtlinien.
 
 
 ## Fußnoten
 
-In Fußnoten sollen, neben weiterführende Gedanken, die dort auch ihren Platz finden können, die Kurztitel von Wörtlichen oder indirekt verwendeten Quellen zu finden sein.
+In Fußnoten sollen, neben weiterführende Gedanken, die dort auch ihren Platz finden können, die ~~Kurztitel~~ von wörtlichen oder indirekt verwendeten Quellen zu finden sein.
 Alle Fußnoten beginnen mit einem Großbuchstaben und werden mit einem Punkt abgeschlossen. Für die genaue Platzierung der Verweisziffer im Text gilt folgende Regel:
 
 > „Bezieht sich die Fußnote auf ein einzelnes Wort oder eine Wortgruppe, steht die Fußnotenziffer direkt dahinter noch vor einem folgenden Satzzeichen. Wenn sie sich jedoch auf einen ganzen Satz oder durch Satzzeichen eingeschlossenen Satzteil bezieht, steht sie nach dem schließenden Satzzeichen.^[@an:2000 [99].]
