@@ -94,7 +94,7 @@ Beachten Sie für Abschlussarbeiten auch immer die Hinweise auf den Seiten des P
 
 ## Seitenlayout und Typografisches
 
-Seitenränder, Schriftgröße und Zeilenabstand handhaben Sie folgendermaßen:
+~~Satz~~^[Darüber hinausgehende Informationen zu orthografisch richtiger und typografisch ansprechender Gestaltung schriftlicher Arbeiten finden sie z.&#8239;B. in „Typokurz -- Einige wichtige typografische Regeln“ bei @bi:2009.]
 
 -   Die Arbeit wird einseitig auf DIN A4-Papier gedruckt.
     Die Seitenränder betragen: oben 3cm, unten 3,6cm ~~4,5cm~~,
