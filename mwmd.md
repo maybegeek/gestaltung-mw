@@ -122,7 +122,7 @@ Als Nachweis für die verwendete Literatur wird am Ende der Seminar-/Abschlussar
 
 ## Software zur Literaturverwaltung (Wissensorganisation)
 
-Siehe dazu das Dokument »Hinweise zur Wissensorganisation und Literaturverwaltung«.
+Siehe dazu das Dokument „Hinweise zur Wissensorganisation und Literaturverwaltung“.
 
 ## Zitierstil der Medienwissenschaft
 
