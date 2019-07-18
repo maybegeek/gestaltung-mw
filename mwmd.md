@@ -120,9 +120,6 @@ Das Quellenverzeichnis besteht aus einem alphabetisch geordneten Literaturverzei
 
 Hier evtl. nicht aufgeführte Quellenarten sollen auch adäquat zitiert werden; dazu selbständig bei Bedarf z.&#8239;B. den *Chicago Manual of Style* online zu rate ziehen.
 
-## Software zur Literaturverwaltung (Wissensorganisation)
-
-Siehe dazu das Dokument „Hinweise zur Wissensorganisation und Literaturverwaltung“.
 
 ## Zitierstil der Medienwissenschaft
 
@@ -316,6 +313,10 @@ Gesellschaft zur Förderung der Photographie (1952). Oh, die herrlichen Berge \[
 **Kurztitel im Text/Fußnote:**
 
 Firmenname (Jahr)
+
+## Software zur Literaturverwaltung (Wissensorganisation)
+
+Siehe dazu das Dokument „Hinweise zur Wissensorganisation und Literaturverwaltung“.
 
 
 \clearpage
