@@ -128,7 +128,7 @@ Siehe dazu das Dokument „Hinweise zur Wissensorganisation und Literaturverwalt
 
 ### Allgemeines zur Zitation
 
-Wörtlich oder sinngemäß übernommene Textstellen, Tabellen, Diagramme etc. sowie alle verwendeten Medien gilt es nachzuweisen. Die Zitationsquellen werden als **Kurzform** in eine Fußnote geschrieben, bei Bildern direkt in den Fließtext integriert. Die dazugehörige Langform wird am Ende der Arbeit in einem **Quellenverzeichnis** geführt. Sollten wörtliche Zitate über mehr als drei Zeilen gehen, werden diese eingerückt und mit geringerem Schriftgrad (10pt) und eingerückt gesetzt.
+alt: Wörtlich oder sinngemäß übernommene Textstellen, Tabellen, Diagramme etc. sowie alle verwendeten Medien gilt es nachzuweisen. Die Zitationsquellen werden als **Kurzform** in eine Fußnote geschrieben, bei Bildern direkt in den Fließtext integriert. Die dazugehörige Langform wird am Ende der Arbeit in einem **Quellenverzeichnis** geführt. Sollten wörtliche Zitate über mehr als drei Zeilen gehen, werden diese eingerückt und mit geringerem Schriftgrad (10pt) und eingerückt gesetzt.
 
 **Kurztitel:** Der Kurztitel findet in Fußnoten und im Fließtext Verwendung, als kurze, übersichtliche Version der ausführlichen Referenz in der Bibliographie (Literaturverzeichnis/Quellenangaben). Er besteht bei Literaturangaben aus dem Nachnamen des/r Autors/in/en, dem Jahr der Veröffentlichung und gegebenenfalls einer Seitenangabe. Ein Beispiel: »Die starren Grenzen zwischen Medienorganisation und Rezipienten lösen sich zwar auf, deren Rollen im Kommunikationsprozess bleiben jedoch in verschiedenen Ausprägungen erhalten.«^[@em:2005 [32].]
 
