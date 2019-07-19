@@ -111,7 +111,7 @@ Beachten Sie für Abschlussarbeiten auch immer die Hinweise auf den Seiten des P
     und Fettdruck, sind so oft wie nötig, jedoch nicht
     inflationär zu gebrauchen.
 -   Für Ihre Arbeit verwenden Sie vorzugsweise
-    eine Serifenschrift; die [Vollkorn](http://vollkorn-typeface.com/)^[sdfsdfsdfsd fsdf http://vollkorn-typeface.com/] kommt beispielsweise in diesem Dokument zum Einsatz.
+    eine Serifenschrift; die [Vollkorn](http://vollkorn-typeface.com/)^[Näheres zur Schrift *Vollkorn* finden Sie unter [http://vollkorn-typeface.com/](http://vollkorn-typeface.com/)] kommt beispielsweise in diesem Dokument zum Einsatz.
 
 
 # Zitierrichtlinien und Vorgaben zur Erstellung des Quellenverzeichnis
