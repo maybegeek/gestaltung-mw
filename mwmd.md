@@ -101,7 +101,7 @@ Beachten Sie für Abschlussarbeiten auch immer die Hinweise auf den Seiten des P
     links 3,2cm und rechts 3cm.
 -   Die Schriftgröße beträgt üblicherweise 12pt;
     der Lesbarkeit wegen und nach Laufweite der
-    jeweils verwendeten Schriftart.
+    jeweils verwendeten Schrift.
 -   Verwenden Sie 1,2fachen Zeilenabstand.
 -   Für den Fließtext verwenden Sie Blocksatz mit
     automatischer Silbentrennung.
