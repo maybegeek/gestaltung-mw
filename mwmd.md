@@ -176,7 +176,7 @@ Alte Nationalgalerie Berlin.
 
 **Monografien:**
 
-**Nachname, Vorname (Jahr). *Titel. Untertitel*. Ort: Verlag.**
+<!--Muster: \[Nachname, Vorname (Jahr). *Titel. Untertitel*. Ort: Verlag.\]-->
 
 
 \bibstart
@@ -202,7 +202,7 @@ Materialität* (= HfG Forschung, 6). München: Fink.
 
 **Zeitschriften:**
 
-**Nachname, Vorname (Jahr). Titel. Untertitel. In: *Titel. Untertitel.* Jahrgang, Nummer, Seiten.**
+<!--Muster: \[Nachname, Vorname (Jahr). Titel. Untertitel. In: *Titel. Untertitel.* Jahrgang, Nummer, Seitenraum.\]-->
 
 Stegbauer, Christian & Rausch, Alexander (2001). Die schweigende Mehrheit: »Lurker« in internetbasierten Diskussionsforen. In: *Zeitschrift für Soziologie.* 30, Nr. 1, S.&#8239;48--64.
 
@@ -211,7 +211,7 @@ Stegbauer, Christian & Rausch, Alexander (2001). Die schweigende Mehrheit: »Lur
 
 **Sammelbände:**
 
-**Nachname, Vorname (Jahr). Titel. Untertitel. In: Nachname, Vorname (Hg.). *Titel. Untertitel.* Ort: Verlag, Seiten.**
+<!-- Muster: \[Nachname, Vorname (Jahr). Titel. Untertitel. In: Nachname, Vorname (Hg.). *Titel. Untertitel.* Ort: Verlag, Seitenraum.\] -->
 
 Gerhards, Jürgen & Neidhardt, Friedhelm (1993). Strukturen und Funktionen moderner Öffentlichkeit. In: Langebucher, Wolfgang R. (Hg.). *Politische Kommunikation: Grundlagen, Strukturen, Prozesse.* Wien: Braumüller, S.&#8239;52--89.
 
