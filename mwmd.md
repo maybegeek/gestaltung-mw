@@ -325,27 +325,17 @@ Siehe dazu das Dokument „Hinweise zur Wissensorganisation und Literaturverwalt
 
 ## Literaturverzeichnis {-}
 
-```{=latex}
-\begin{hangparas}{1em}{1}
-\small
-```
+\bibstart
 ::: {#refs_lit}
 :::
-```{=latex}
-\end{hangparas}
-```
+\bibend
 
 ## Bild-, Bewegtbild- und Audioverzeichnis {-}
 
-```{=latex}
-\begin{hangparas}{1em}{1}
-\small
-```
+\bibstart
 ::: {#refs_other}
 :::
-```{=latex}
-\end{hangparas}
-```
+\bibend
 
 
 \clearpage
