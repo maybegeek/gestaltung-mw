@@ -293,11 +293,9 @@ Länderkennung nach `ISO 3166-1 Alpha 2`.
 
 *A Woman's Face* (Die Frau mit der Narbe, USA 1941, Georges Cukor, DVD).
 
-saasdasd
 
 @wom:1941
 
-sesdfwe
 
 ***Unbewegtbild-Originaltitel* (ggf. deutscher Titel, Künstler, Entstehungsjahr).**
 
