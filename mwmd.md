@@ -207,9 +207,11 @@ Materialität* (=&#8239;HfG Forschung, 6). München: Fink.
 
 <!--Muster: \[Nachname, Vorname (Jahr). Titel. Untertitel. In: *Titel. Untertitel.* Jahrgang, Nummer, Seitenraum.\]-->
 
-Stegbauer, Christian & Rausch, Alexander (2001). Die schweigende Mehrheit: »Lurker« in internetbasierten Diskussionsforen. In: *Zeitschrift für Soziologie.* 30, Nr. 1, S.&#8239;48--64.
+\kurz @st:2001 [48].
 
-⇒ Vgl. @st:2001 [48].
+\bibstart
+\voll Stegbauer, Christian & Rausch, Alexander (2001). Die schweigende Mehrheit -- „Lurker“ in internetbasierten Diskussionsforen. In: *Zeitschrift für Soziologie.* 30, Nr.&#8239;1, S.&#8239;48--64.
+\bibend
 
 
 **Sammelbände:**
