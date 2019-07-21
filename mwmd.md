@@ -278,8 +278,7 @@ Björk (1999). *All is full of love* (Electra Entertainment Group Inc., Chris Cu
 -- Zugriff: 30.6.2019.
 \bibend
 
-Die bibliografischen Informationen zum jeweiligen Wikipedia-Eintrag finden Sie unter „Werkzeuge“. Als Datum des Artikels verwenden Sie den *letzten Bearbeitungsstand*, als URL den dort ersichtlichen *Permanentlink*.
-
+Die bibliografischen Informationen zum jeweiligen Wikipedia-Eintrag finden Sie unter „Artikel zitieren“. Als Datum des Artikels verwenden Sie den „letzten Bearbeitungsstand“, als [url]{.smallcaps} den dort ersichtlichen „Permanentlink“.
 
 
 **Nachname bzw. Interpret (Erscheinungsjahr).** =\> Björk (1999).
