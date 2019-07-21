@@ -178,9 +178,27 @@ Alte Nationalgalerie Berlin.
 
 **Nachname, Vorname (Jahr). *Titel. Untertitel*. Ort: Verlag.**
 
-Sloterdijk, Peter (1999). *Regeln für den Menschenpark. Ein Antwortschreiben zu Heideggers Brief über den Humanismus*. Frankfurt am Main: Suhrkamp.
 
-⇒ @sl:1999 [10].
+\bibstart
+\voll Dotzler, Bernhard J. & Roesler-Keilholz, Silke (2017). *Mediengeschichte als Historische Techno-Logie*. Baden-Baden: Nomos.
+\bibend
+
+\kurz @doro:2017
+
+\bibstart
+\voll Sloterdijk, Peter (1999). *Regeln für den Menschenpark. Ein Antwortschreiben zu Heideggers Brief über den Humanismus*. Frankfurt am Main: Suhrkamp.
+\bibend
+
+\kurz @sl:1999 [10].
+
+**Herausgeberschaft**
+
+\bibstart
+\voll Heibach, Christiane & Rohde, Carsten (Hg.) (2015). *Ästhetik der
+Materialität* (= HfG Forschung, 6). München: Fink.
+\bibend
+
+\kurz @hero:2015
 
 **Zeitschriften:**
 
