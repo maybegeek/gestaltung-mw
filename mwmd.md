@@ -272,7 +272,7 @@ Björk (1999). *All is full of love* (Electra Entertainment Group Inc., Chris Cu
 \kurz @wikizit:2019.
 
 \bibstart
-\voll Wikipedia:Zitierbarkeit (27. Januar 2019). Zitierbarkeit. In:
+\voll ~~Wikipedia:Zitierbarkeit (27. Januar 2019). Zitierbarkeit~~. In:
 *Wikipedia, Die freie Enzyklopädie*. [url:]{.smallcaps}
 <https://de.wikipedia.org/w/index.php?title=Zitierbarkeit&oldid=185125241>
 -- Zugriff: 30.6.2019.
