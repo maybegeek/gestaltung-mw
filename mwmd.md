@@ -267,19 +267,22 @@ Björk (1999). *All is full of love* (Electra Entertainment Group Inc., Chris Cu
 
 **Wikipedia**
 
-**Wikipedia-Seitentitel (Datum der letzten Bearbeitung). In: *Wikipedia -- Die freie Enzyklopädie.* [url:]{.smallcaps} [http://www.xyz.de](http://www.xyz.de) -- Zugriff: Tag.Monat.Jahr.**
+<!-- **Wikipedia-Seitentitel (Datum der letzten Bearbeitung). In: *Wikipedia -- Die freie Enzyklopädie.* [url:]{.smallcaps} [http://www.xyz.de](http://www.xyz.de) -- Zugriff: Tag.Monat.Jahr.** -->
 
-Wikipedia-Zitierfähigkeit (8. November 2013). In: *Wikipedia -- Die freie Enzyklopädie.* [url:]{.smallcaps} [http://de.wikipedia.org/w/index.php?title=Zitierf%C3%A4higkeit&oldid=60350199](http://de.wikipedia.org/w/index.php?title=Zitierf%C3%A4higkeit&oldid=60350199) -- Zugriff: 4.2.2014.
+\kurz @wikizit:2019.
 
-Der **Permanentlink** zu einem Wikipedia-Artikel findet sich auf der linken Seite der Webseite unter „Werkzeuge“. Bei Webinhalten die einer Versionierung unterliegen, verwiest dieser immer auf die zum Zeitpunkt der Zitierung gültige Fassung des elektronischenDokuments, selbst wenn im Nachhinein aktuellere Fassungen hinzugekommen sind. Die Seiteninformationen (Datum der letzten Bearbeitung, etc.) finden sich auch auf der linken Seite unter „Werkzeuge/Seite zitieren“.
+\bibstart
+\voll Wikipedia:Zitierbarkeit (27. Januar 2019). Zitierbarkeit. In:
+*Wikipedia, Die freie Enzyklopädie*. [url:]{.smallcaps}
+<https://de.wikipedia.org/w/index.php?title=Zitierbarkeit&oldid=185125241>
+-- Zugriff: 30.6.2019.
+\bibend
 
-**Kurztitel im Text/Fußnote:**
+Die bibliografischen Informationen zum jeweiligen Wikipedia-Eintrag finden Sie unter „Werkzeuge“. Als Datum des Artikels verwenden Sie den *letzten Bearbeitungsstand*, als URL den dort ersichtlichen *Permanentlink*.
+
+
 
 **Nachname bzw. Interpret (Erscheinungsjahr).** =\> Björk (1999).
-
-**Wikipedia-Seitentitel (Datum der letzten Bearbeitung).** =\> Wikipedia-Zitierfähigkeit (8. November 2013).
-
-⇒ @wikizit:2019.
 
 ### Film/Bilder/Photos
 
