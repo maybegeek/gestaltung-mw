@@ -194,7 +194,7 @@ Alte Nationalgalerie Berlin.
 -->
 
 
-**Herausgeberschaft**
+**Herausgeberschaft:**
 
 \bibstart
 \voll Heibach, Christiane & Rohde, Carsten (Hg.) (2015). *Ästhetik der
