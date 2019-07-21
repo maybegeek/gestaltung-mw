@@ -225,7 +225,7 @@ Materialität* (=&#8239;HfG Forschung, 6). München: Fink.
 \bibend
 
 
-Wurde ein Werk von mehr als drei Autoren verfasst, wird im Kurzbeleg der Hauptautor genannt und weitere Koautoren unter „et al.“ zusammengefasst:
+~~Wurde ein Werk von mehr als drei Autoren verfasst, wird im Kurzbeleg der Hauptautor genannt und weitere Koautoren unter „et al.“ zusammengefasst:~~
 
 \kurz @am:2003 [60].
 
