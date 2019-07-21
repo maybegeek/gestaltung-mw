@@ -195,12 +195,13 @@ Alte Nationalgalerie Berlin.
 
 **Herausgeberschaft:**
 
+\kurz @hero:2015.
+
 \bibstart
 \voll Heibach, Christiane & Rohde, Carsten (Hg.) (2015). *Ästhetik der
-Materialität* (= HfG Forschung, 6). München: Fink.
+Materialität* (=&#8239;HfG Forschung, 6). München: Fink.
 \bibend
 
-\kurz @hero:2015
 
 **Wissenschaftliche Fachzeitschriften:**
 
