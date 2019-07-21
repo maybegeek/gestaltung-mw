@@ -224,15 +224,15 @@ Materialität* (=&#8239;HfG Forschung, 6). München: Fink.
 \voll Gerhards, Jürgen & Neidhardt, Friedhelm (1993). Strukturen und Funktionen moderner Öffentlichkeit. In: Langenbucher, Wolfgang R. (Hg.). *Politische Kommunikation. Grundlagen, Strukturen, Prozesse* (= Studienbücher zur Publizistik- und Kommunikationswissenschaft, 2). 2., überarb. Auflage. Wien: Braumüller. S.&#8239;52--89.
 \bibend
 
-Wurde ein Werk von mehr als drei Autoren verfasst, wird der Hauptautor genannt und weitere Koautoren unter »et al.« zusammengefasst; z.&#8239;B.:
 
-Amento, Brian et al. (2003). Experiments in social data mining: The TopicShop system. In: *ACM Transactions on ComputerHuman Interaction (TOCHI).* 10, Nr. 1, S.&#8239;54--85.
+Wurde ein Werk von mehr als drei Autoren verfasst, wird im Kurzbeleg der Hauptautor genannt und weitere Koautoren unter „et al.“ zusammengefasst:
 
-**Kurztitel im Text/Fußnote:**
+\kurz @am:2003 [60].
 
-**Nachname (Jahr, ggf. Seitenzahl).** =\> Amento et al. (2003, S.&#8239;54--85).
+\bibstart
+\voll Amento, Brian; Terveen, Loren G.; Hill, William C.; Hix, Deborah & Schulman, Robert S. (2003). Experiments in social data mining: The TopicShop system. In: *ACM Transactions on Computer-Human Interaction (TOCHI)*. 10, Nr.&#8239;1, S.&#8239;54--85.
+\bibend
 
-⇒ @am:2003 [60].
 
 ### Online-Quellen
 
