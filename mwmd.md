@@ -178,12 +178,11 @@ Alte Nationalgalerie Berlin.
 
 <!--Muster: \[Nachname, Vorname (Jahr). *Titel. Untertitel*. Ort: Verlag.\]-->
 
+\kurz Vgl. @doro:2017 [22].
 
 \bibstart
 \voll Dotzler, Bernhard J. & Roesler-Keilholz, Silke (2017). *Mediengeschichte als Historische Techno-Logie*. Baden-Baden: Nomos.
 \bibend
-
-\kurz @doro:2017
 
 <!--
 \bibstart
