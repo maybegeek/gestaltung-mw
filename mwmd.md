@@ -39,7 +39,7 @@ Feste Bestandteile einer schriftlichen Arbeit sind Titelblatt, Inhaltsverzeichni
 
 Auf Ihrem Deckblatt erfüllen Sie formale Notwendigkeiten hinsichtlich der Angaben zu Ihrer Arbeit und Person. Mit Ihrer Fragestellung und ggfs. einem Untertitel beginnt Ihre schriftliche Arbeit.
 
-Die notwendigen Angaben für schriftliche Arbeiten allgemein und Abschlussarbeiten im Speziellen finden Sie als Muster auf den Seiten ii und iii.
+Die notwendigen Angaben für schriftliche Arbeiten allgemein und Abschlussarbeiten im Speziellen finden Sie als Muster auf den Seiten ii und iii. Die Gestaltung können Sie natürlich anpassen, die Wiedergabe der jeweiligen Informationen ist jedoch verbindlich.
 
 
 <!--
