@@ -218,9 +218,11 @@ Materialität* (=&#8239;HfG Forschung, 6). München: Fink.
 
 <!-- Muster: \[Nachname, Vorname (Jahr). Titel. Untertitel. In: Nachname, Vorname (Hg.). *Titel. Untertitel.* Ort: Verlag, Seitenraum.\] -->
 
-Gerhards, Jürgen & Neidhardt, Friedhelm (1993). Strukturen und Funktionen moderner Öffentlichkeit. In: Langebucher, Wolfgang R. (Hg.). *Politische Kommunikation: Grundlagen, Strukturen, Prozesse.* Wien: Braumüller, S.&#8239;52--89.
+\kurz Vgl. @ge:1993 [60f.].
 
-⇒ Vgl. @ge:1993 [60f.].
+\bibstart
+\voll Gerhards, Jürgen & Neidhardt, Friedhelm (1993). Strukturen und Funktionen moderner Öffentlichkeit. In: Langenbucher, Wolfgang R. (Hg.). *Politische Kommunikation. Grundlagen, Strukturen, Prozesse* (= Studienbücher zur Publizistik- und Kommunikationswissenschaft, 2). 2., überarb. Auflage. Wien: Braumüller. S.&#8239;52--89.
+\bibend
 
 Wurde ein Werk von mehr als drei Autoren verfasst, wird der Hauptautor genannt und weitere Koautoren unter »et al.« zusammengefasst; z.&#8239;B.:
 
