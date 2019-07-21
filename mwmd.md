@@ -232,13 +232,18 @@ Amento, Brian et al. (2003). Experiments in social data mining: The TopicShop s
 
 ### Online-Quellen
 
-**Artikel**
+**Website:**
 
-**Nachname, Vorname (Jahr). *Titel. Untertitel*. [url:]{.smallcaps} [http://www.xyz.de](http://www.xyz.de) -- Zugriff: Tag.Monat.Jahr.**
+<!-- **Nachname, Vorname (Jahr). *Titel. Untertitel*. [url:]{.smallcaps} [http://www.xyz.de](http://www.xyz.de) -- Zugriff: Tag.Monat.Jahr.** -->
 
-O'Reilly, Tim (2005). *What Is Web 2.0*. [url:]{.smallcaps} [http://www.oreillynet.com/lpt/a/6228](http://www.oreillynet.com/lpt/a/6228) -- Zugriff: 4.2.2014.
+\kurz @or:2005.
 
-⇒ @or:2005.
+\bibstart
+\voll O'Reilly, Tim (2005). *What Is Web 2.0. Design Patterns and Business
+Models for the Next Generation of Software*. [url:]{.smallcaps}
+<https://www.oreilly.com/pub/a/web2/archive/what-is-web-20.html> --
+Zugriff: 29.6.2019.
+\bibend
 
 **Videos** (z.&#8239;B. Youtube, Vimeo) -- abweichende Angaben bei Musikvideos (s.u.)!
 
