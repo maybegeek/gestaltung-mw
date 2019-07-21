@@ -203,7 +203,7 @@ Materialität* (= HfG Forschung, 6). München: Fink.
 
 \kurz @hero:2015
 
-**Zeitschriften:**
+**Wissenschaftliche Fachzeitschriften:**
 
 <!--Muster: \[Nachname, Vorname (Jahr). Titel. Untertitel. In: *Titel. Untertitel.* Jahrgang, Nummer, Seitenraum.\]-->
 
