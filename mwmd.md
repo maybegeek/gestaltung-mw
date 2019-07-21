@@ -335,15 +335,19 @@ Bildunterschriften von Einzelkadern (Stills) aus Filmen etc., die der Illustrati
 
 ### Werbung
 
-**Firmenname (Jahr). *Titel wenn vorhanden* \[Werbung\]. Quelle.**
+<!-- **Firmenname (Jahr). *Titel wenn vorhanden* \[Werbung\]. Quelle.** -->
 
-Doppelherz (2007). *„Sitznachbar“* \[Werbung\]. ARD: Radio-Kreativ-Wettbewerb 2007 (Broschüre und CD-Rom).
+\kurz Doppelherz (2007).
 
-Gesellschaft zur Förderung der Photographie (1952). Oh, die herrlichen Berge \[Werbung\]. In: *Regensburger Archiv für Werbeforschung. PROPHOTO vom 12.7.1952*. HWA\_1\_863.mp3. R-Nummer: 616. [url:]{.smallcaps} [http://raw.uni-regensburg.de/details.php?r=616](http://raw.uni-regensburg.de/details.php?r=616) − Zugriff: 18.9.2013.
+\bibstart
+\voll Doppelherz (2007). *Sitznachbar* \[Werbung\]. ARD: Radio-Kreativ-Wettbewerb 2007 (Broschüre und CD-Rom).
+\bibend
 
-**Kurztitel im Text/Fußnote:**
+\kurz Gesellschaft zur Förderung der Photographie (1952).
 
-Firmenname (Jahr)
+\bibstart
+\voll Gesellschaft zur Förderung der Photographie (1952). Oh, die herrlichen Berge \[Werbung\]. In: *Regensburger Archiv für Werbeforschung. PROPHOTO vom 12.7.1952*. HWA\_1\_863.mp3. R-Nummer: 616. [url:]{.smallcaps} <https://raw.uni-regensburg.de/details.php?r=616> − Zugriff: 18.9.2013.
+\bibend
 
 ## Software zur Literaturverwaltung (Wissensorganisation)
 
