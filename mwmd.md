@@ -276,7 +276,7 @@ Bildunterschriften von Einzelkadern (Stills) aus Filmen etc., die der Illustrati
 
 \bibstart
 \voll *A Woman's Face* (Die Frau mit der Narbe, USA 1941, Georges Cukor, DVD).
-
+\bibend
 
 
 **Videos:** (z.&#8239;B. Youtube, Vimeo) -- abweichende Angaben bei Musikvideos (s.&#8239;u.)!
