@@ -123,29 +123,23 @@ Das Quellenverzeichnis besteht aus einem alphabetisch geordneten Literaturverzei
 
 >„Jede von anderen Autoren wörtlich in die eigene Arbeit übernommene Textpassage und jede sich an die Gedankengänge anderer Autoren eng anlehnende Stelle der Arbeit ist **einzeln** zu kennzeichnen und durch eine **genaue Quellenangabe** zu belegen. [...] Wer einen fremden Text **wörtlich** oder **sinngemäß** in seine wissenschaftliche Arbeit übernimmt, ohne ihn entsprechend zu markieren, macht sich des **Plagiates** schuldig [...].“ ^[@brink:2013 [195]; Hervorhebungen im Original.]
 
-Grundsätzlich lassen sich zwei Arten von Zitaten unterscheiden: das wörtliche oder direkte Zitat und das indirekte Zitat. Sollten wörtliche Zitate über mehr als drei Zeilen gehen, werden diese links eingerückt und mit geringerem Schriftgrad (10pt) gesetzt.
+Grundsätzlich lassen sich zwei Arten von Zitaten unterscheiden: das wörtliche oder direkte Zitat und das indirekte Zitat (Paraphrase). Sollten wörtliche Zitate über mehr als drei Zeilen gehen, werden diese links eingerückt und mit geringerem Schriftgrad (10pt) gesetzt.
 
-Wird von Ihnen nicht wörtlich zitiert, sondern paraphrasiert, machen Sie dies im Kurzbeleg auch deutlich und stellen ein „Vgl.“ voran; je nach Formulierung des Umfelds auch unabgekürzt. Ein Beispiel: Laut den Autoren haben Filme und Serien eine wichtige Funktion für die Positionierung der Programme.^[~~Vgl. @we:2000 [61].~~]
+Die Belege werden als **Kurzbeleg** in eine Fußnote geschrieben, bei Bildern direkt in die Abbildungsbeschriftung integriert. Der dazugehörige **Vollbeleg** wird am Ende der Arbeit in einem **Quellenverzeichnis** geführt.
 
-
-Die ~~Belege~~ werden als ~~**Kurzform (Kurztitel)**~~ in eine Fußnote geschrieben, bei Bildern direkt in die Abbildungsbeschriftung integriert. Die dazugehörige Langform wird am Ende der Arbeit in einem **Quellenverzeichnis** geführt.
-
-
-Die Anleitung zur korrekten Darstellung von Kurztitel und Langform im Quellenverzeichnis für die verwendeten Quellen finden sie im folgenden Teil der Gestaltungsrichtlinien.
+Die Anleitung zur korrekten Darstellung von Kurz- und Vollbeleg der verwendeten Quellen finden sie im folgenden Teil der Gestaltungsrichtlinien.
 
 
 ## Fußnoten
 
-In Fußnoten sollen, neben weiterführenden Gedanken, die dort auch ihren Platz finden können, die ~~Kurztitel~~ von wörtlichen oder indirekt verwendeten Quellen zu finden sein. Alle Fußnoten beginnen mit einem Großbuchstaben und werden mit einem Punkt abgeschlossen. Für die genaue Platzierung der Verweisziffer im Text gilt folgende Regel:
-
-> „Bezieht sich die Fußnote auf ein einzelnes Wort oder eine Wortgruppe, steht die Fußnotenziffer direkt dahinter noch vor einem folgenden Satzzeichen. Wenn sie sich jedoch auf einen ganzen Satz oder durch Satzzeichen eingeschlossenen Satzteil bezieht, steht sie nach dem schließenden Satzzeichen.“^[@an:2000 [99].]
-
-Bei Verweis auf ein Buch, Zeitschrift o. ä., wird in der Fußnote folgende Kurzreferenz verwendet^[~~Zur Verwendung von „f.“ und „ff.“ bei Seitenangaben beispielhaft Folgendes: @em:2005 [32ff.]~~]: **Nachname(n) (Erscheinungsjahr, ggf. Seitenzahl)**.
-⇒ Nachname(n) (Erscheinungsjahr, ggf. Seitenzahl).
-
-~~Erstreckt sich die zitierte Stelle über zwei Seiten, so kann dies mit dem Zusatz „f.“ dargestellt werden. Bei mehreren folgenden Seiten, wird der Zusatz „ff.“ verwendet. Beispiel: @em:2005 [32ff.].~~
+In Fußnoten sollen, neben weiterführenden Gedanken, die dort auch ihren Platz finden können, die Kurzbelege Ihrer verwendeten Quellen mit den passenden Seitenangaben zu finden sein^[Zur Verwendung von „f.“ und „ff.“ bei Seitenangaben vgl. https://www.wissenschaftliches-arbeiten.org/faq/seitenzahlen-zitate.html].
+Wird von Ihnen nicht wörtlich zitiert, sondern paraphrasiert, machen Sie dies im Kurzbeleg auch deutlich und stellen diesem ein „Vgl.“ voran.
 
 Sie finden im Folgenden bei allen im Zitierstil beschriebenen Arten von Quellen die dazugehörige Form des Kurztitels für die Fußnoten.
+
+Alle Fußnoten beginnen mit einem Großbuchstaben und werden mit einem Punkt abgeschlossen. Für die genaue Platzierung der Verweisziffer im Text gilt folgende Regel:
+
+> „Bezieht sich die Fußnote auf ein einzelnes Wort oder eine Wortgruppe, steht die Fußnotenziffer direkt dahinter noch vor einem folgenden Satzzeichen. Wenn sie sich jedoch auf einen ganzen Satz oder durch Satzzeichen eingeschlossenen Satzteil bezieht, steht sie nach dem schließenden Satzzeichen.“^[@an:2000 [99].]
 
 
 ## Bilderverwendung
