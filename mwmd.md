@@ -283,7 +283,9 @@ Nachname, Vorname \[Benutzername\] (Veröffentlichungsdatum). *Videotitel* \[Vid
 
 \kurz Cook (2013)
 
+\bibstart
 \voll Cook, Shelby \[XxSourGummyBearzxX\] (16.12.2013). *Tom Hiddleston Funny Moments* \[Video file\]. [url:]{.smallcaps} [http://www.youtube.com/watch?v=kXViNegXPTk](http://www.youtube.com/watch?v=kXViNegXPTk) -- Zugriff: 4.2.2014.
+\bibend
 
 Wenn der Name eines Benutzers nicht zu recherchieren ist, wird der Benutzername ohne Klammern als Name verwendet. Analog gilt bei nicht möglicher Zuweisung von Autorenname und Erscheinungsdatum „o.&#8239;A.“ und „o.&#8239;J.“ zur Kenntlichmachung.
 
@@ -295,7 +297,9 @@ Interpret (Erscheinungsjahr). *Musikvideo-Originaltitel* (Produktionsgesellschaf
 
 \kurz Björk (1999).
 
+\bibstart
 \voll Björk (1999). *All is full of love* (Electra Entertainment Group Inc., Chris Cunningham).
+\bibend
 
 **Bilder und Photos:**
 
@@ -305,8 +309,9 @@ Interpret (Erscheinungsjahr). *Musikvideo-Originaltitel* (Produktionsgesellschaf
 
 \kurz @ray:1932
 
+\bibstart
 \voll *Larmes* (Tränen, Man Ray, 1930). In: Rosalind Krauss, Jane Livingston (Hg.): L'amour fou. Photography and Surrealism. Washington/New York 1985. S.&#8239;118.
-
+\bibend
 
 
 Im **Quellenverzeichnis** werden unter dem Punkt **Bild-/Video-/Filmverzeichnis** die verwendeten Filme und/oder Bilder in alphabetischer Reihenfolge sortiert.
