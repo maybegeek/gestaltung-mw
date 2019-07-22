@@ -156,7 +156,6 @@ Im Quellenverzeichnis und dort beim Bild-/Video-/Filmverzeichnis steht dann ausf
 Mann und Frau den Mond betrachtend (1818–1824). Caspar David Friedrich.
 Alte Nationalgalerie Berlin.
 
-@cas:1818
 
 
 ## Zitierstil
