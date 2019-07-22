@@ -176,7 +176,7 @@ Alte Nationalgalerie Berlin.
 
 **Herausgeberschaft:**
 
-\kurz @hero:2015.
+\kurz Heibach & Rohde (2015).
 
 \bibstart
 
@@ -188,9 +188,7 @@ Materialität* (=&#8239;HfG Forschung, 6). München: Fink.
 
 **Wissenschaftliche Fachzeitschriften:**
 
-<!--Muster: \[Nachname, Vorname (Jahr). Titel. Untertitel. In: *Titel. Untertitel.* Jahrgang, Nummer, Seitenraum.\]-->
-
-\kurz @st:2001 [48].
+\kurz Stegbauer & Rausch (2001, S.&#8239;48).
 
 \bibstart
 
