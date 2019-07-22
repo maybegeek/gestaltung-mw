@@ -257,14 +257,14 @@ Zugriff: 29.6.2019.
 
 <!-- **Wikipedia-Seitentitel (Datum der letzten Bearbeitung). In: *Wikipedia -- Die freie Enzyklopädie.* [url:]{.smallcaps} [http://www.xyz.de](http://www.xyz.de) -- Zugriff: Tag.Monat.Jahr.** -->
 
-\kurz @wikizit:2019.
+\kurz @wikiur:2019.
 
 \bibstart
 
-\voll Wikipedia (27. Januar 2019). *Zitierbarkeit* In:
+\voll Wiki:UR (11. Juli 2019). Universität Regensburg. In:
 *Wikipedia, Die freie Enzyklopädie*. [url:]{.smallcaps}
-<https://de.wikipedia.org/w/index.php?title=Zitierbarkeit&oldid=185125241>
--- Zugriff: 30.6.2019.
+<https://de.wikipedia.org/w/index.php?title=Universit%C3%A4t_Regensburg&oldid=190335453>
+-- Zugriff: 22.7.2019.
 
 \bibend
 
