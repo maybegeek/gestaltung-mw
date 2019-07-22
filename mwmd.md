@@ -165,8 +165,6 @@ Alte Nationalgalerie Berlin.
 
 **Monografien:**
 
-<!--Muster: \[Nachname, Vorname (Jahr). *Titel. Untertitel*. Ort: Verlag.\]-->
-
 \kurz Vgl. Dotzler & Roesler-Keilholz (2017, S.&#8239;22).
 
 \bibstart
