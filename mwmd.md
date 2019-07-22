@@ -297,7 +297,7 @@ Interpret (Erscheinungsjahr). *Musikvideo-Originaltitel* (Produktionsgesellschaf
 
 \bibstart
 
-\voll _Larmes_ (Tränen, Man Ray, 1930). In: Rosalind Krauss, Jane Livingston (Hg.): L'amour fou. Photography and Surrealism. Washington/New York 1985. S.&#8239;118.
+\voll _Larmes_ (Tränen, Man Ray, 1930). In: Rosalind Krauss & Jane Livingston (Hg.) (1985). L'amour fou. Photography and Surrealism. Washington: Abbeville Press. S.&#8239;118.
 
 \bibend
 
@@ -311,7 +311,7 @@ Im **Quellenverzeichnis** werden unter dem Punkt **Bild-/Video-/Filmverzeichnis*
 
 \bibstart
 
-\voll Doppelherz (2007). *Sitznachbar* \[Werbung\]. ARD: Radio-Kreativ-Wettbewerb 2007 (Broschüre und CD-Rom).
+\voll Doppelherz (2007). *Sitznachbar*. \[Werbung\]. ARD: Radio-Kreativ-Wettbewerb 2007 (Broschüre und CD-Rom).
 
 \bibend
 
@@ -319,7 +319,7 @@ Im **Quellenverzeichnis** werden unter dem Punkt **Bild-/Video-/Filmverzeichnis*
 
 \bibstart
 
-\voll Gesellschaft zur Förderung der Photographie (1952). Oh die herrlichen Berge \[Werbung\]. In: *Regensburger Archiv für Werbeforschung. PROPHOTO vom 12.7.1952*. HWA\_1\_863.mp3. R-Nummer: 616. [url:]{.smallcaps} <https://raw.uni-regensburg.de/details.php?r=616> − Zugriff: 18.9.2013.
+\voll Gesellschaft zur Förderung der Photographie (1952). Oh die herrlichen Berge. \[Werbung\]. In: *Regensburger Archiv für Werbeforschung. PROPHOTO vom 12.7.1952*. HWA\_1\_863.mp3. R-Nummer: 616. [url:]{.smallcaps} <https://raw.uni-regensburg.de/details.php?r=616> − Zugriff: 18.9.2013.
 
 \bibend
 
@@ -417,18 +417,18 @@ Telescopium*. Würzburg: Quirin Heil.
 
 ::: {#refs_other}
 ::: {#ref-wom:1941}
-*A Woman's Face \[Die Frau mit der Narbe\]* (1941). Cukor, Georges. USA:
+*A Woman's Face \[Die Frau mit der Narbe\]* (1941). Georges Cukor. USA:
 MGM \[DVD/2017\].
 :::
 
 ::: {#ref-ray:1932}
-*Larmes \[Tränen\]* (1932). Ray, Man. Entstehungsort: Paris, J. Paul
+*Larmes \[Tränen\]* (1932). Man Ray. Entstehungsort: Paris, J. Paul
 Getty Museum -- Man Ray Trust ARS-ADAGP \[Silbergelatine\].
 :::
 
 ::: {#ref-cas:1818}
 *Mann und Frau den Mond betrachtend \[Mann und Frau in Betrachtung des
-Mondes\]* (1818--1824). Friedrich, Caspar David. Berlin, Staatliche
+Mondes\]* (1818--1824). Caspar David Friedrich. Berlin, Staatliche
 Museen zu Berlin -- Preußischer Kulturbesitz \[Öl auf Leinwand\].
 :::
 :::
