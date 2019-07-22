@@ -254,13 +254,13 @@ Zugriff: 29.6.2019.
 \kurz @wikizit:2019.
 
 \bibstart
-\voll ~~Wikipedia:Zitierbarkeit (27. Januar 2019). Zitierbarkeit~~. In:
+\voll Wikipedia:Zitierbarkeit (27. Januar 2019). In:
 *Wikipedia, Die freie Enzyklopädie*. [url:]{.smallcaps}
 <https://de.wikipedia.org/w/index.php?title=Zitierbarkeit&oldid=185125241>
 -- Zugriff: 30.6.2019.
 \bibend
 
-Die bibliografischen Informationen zum jeweiligen Wikipedia-Eintrag finden Sie unter „Artikel zitieren“. Als Datum des Artikels verwenden Sie den „letzten Bearbeitungsstand“, als [url]{.smallcaps} den dort ersichtlichen „Permanentlink“.
+Die bibliografischen Informationen zum jeweiligen Wikipedia-Eintrag finden Sie auf der dazugehörigen Webseite unter „Artikel zitieren“. Als Datum des Artikels verwenden Sie den dort genannten „letzten Bearbeitungsstand“, als [url]{.smallcaps} den dort ersichtlichen „Permanentlink“.
 
 
 **Nachname bzw. Interpret (Erscheinungsjahr).** =\> Björk (1999).
