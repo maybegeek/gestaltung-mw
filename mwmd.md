@@ -233,9 +233,6 @@ Materialität* (=&#8239;HfG Forschung, 6). München: Fink.
 \voll Amento, Brian; Terveen, Loren G.; Hill, William C.; Hix, Deborah & Schulman, Robert S. (2003). Experiments in social data mining: The TopicShop system. In: *ACM Transactions on Computer-Human Interaction (TOCHI)*. 10, Nr.&#8239;1, S.&#8239;54--85.
 \bibend
 
-
-### Online-Quellen
-
 **Website:**
 
 <!-- **Nachname, Vorname (Jahr). *Titel. Untertitel*. [url:]{.smallcaps} [http://www.xyz.de](http://www.xyz.de) -- Zugriff: Tag.Monat.Jahr.** -->
@@ -249,21 +246,6 @@ Models for the Next Generation of Software*. [url:]{.smallcaps}
 Zugriff: 29.6.2019.
 \bibend
 
-**Videos** (z.&#8239;B. Youtube, Vimeo) -- abweichende Angaben bei Musikvideos (s.u.)!
-
-**Nachname, Vorname \[Benutzername\] (Veröffentlichungsdatum). *Videotitel* \[Video file\]. [url:]{.smallcaps} [http://www.xyz.de](http://www.xyz.de) -- Zugriff: Tag.Monat.Jahr.**
-
-Cook, Shelby \[XxSourGummyBearzxX\] (16.12.2013). *Tom Hiddleston Funny Moments* \[Video file\]. [url:]{.smallcaps} [http://www.youtube.com/watch?v=kXViNegXPTk](http://www.youtube.com/watch?v=kXViNegXPTk) -- Zugriff: 4.2.2014.
-
-Wenn der Name eines Benutzers nicht zu recherchieren ist, wird der Benutzername ohne Klammern als Name verwendet. Analog gilt bei nicht möglicher Zuweisung von Autorenname und Erscheinungsdatum »o.&#8239;A.« und »o.&#8239;J.« zur Kenntlichmachung.
-
-**Benutzername (Veröffentlichungsdatum). *Videotitel* \[Video file\]. [url:]{.smallcaps} [http://www.xyz.de](http://www.xyz.de) -- Zugriff: Tag.Monat.Jahr.**
-
-**Musikvideos:** (z.&#8239;B. Youtube, Vimeo)
-
-**Interpret (Erscheinungsjahr). *Musikvideo-Originaltitel* (Produktionsgesellschaft, ggf. Regisseur).**
-
-Björk (1999). *All is full of love* (Electra Entertainment Group Inc., Chris Cunningham).
 
 **Wikipedia**
 
@@ -283,9 +265,7 @@ Die bibliografischen Informationen zum jeweiligen Wikipedia-Eintrag finden Sie u
 
 **Nachname bzw. Interpret (Erscheinungsjahr).** =\> Björk (1999).
 
-### Film/Bilder/Photos
-
-Die Zitationsweise von Bildern unterscheidet sich in bewegte (z.&#8239;B. Film) und unbewegte Bilder (z.&#8239;B. Gemälde, Fotografien).
+**Film:**
 
 Länderkennung nach `ISO 3166-1 Alpha 2`.
 
@@ -296,7 +276,23 @@ Länderkennung nach `ISO 3166-1 Alpha 2`.
 
 @wom:1941
 
+**Videos:** (z.&#8239;B. Youtube, Vimeo) -- abweichende Angaben bei Musikvideos (s.&#8239;u.)!
 
+**Nachname, Vorname \[Benutzername\] (Veröffentlichungsdatum). *Videotitel* \[Video file\]. [url:]{.smallcaps} [http://www.xyz.de](http://www.xyz.de) -- Zugriff: Tag.Monat.Jahr.**
+
+Cook, Shelby \[XxSourGummyBearzxX\] (16.12.2013). *Tom Hiddleston Funny Moments* \[Video file\]. [url:]{.smallcaps} [http://www.youtube.com/watch?v=kXViNegXPTk](http://www.youtube.com/watch?v=kXViNegXPTk) -- Zugriff: 4.2.2014.
+
+Wenn der Name eines Benutzers nicht zu recherchieren ist, wird der Benutzername ohne Klammern als Name verwendet. Analog gilt bei nicht möglicher Zuweisung von Autorenname und Erscheinungsdatum »o.&#8239;A.« und »o.&#8239;J.« zur Kenntlichmachung.
+
+**Benutzername (Veröffentlichungsdatum). *Videotitel* \[Video file\]. [url:]{.smallcaps} [http://www.xyz.de](http://www.xyz.de) -- Zugriff: Tag.Monat.Jahr.**
+
+**Musikvideos:** (z.&#8239;B. Youtube, Vimeo)
+
+**Interpret (Erscheinungsjahr). *Musikvideo-Originaltitel* (Produktionsgesellschaft, ggf. Regisseur).**
+
+Björk (1999). *All is full of love* (Electra Entertainment Group Inc., Chris Cunningham).
+
+**Bilder und Photos:**
 ***Unbewegtbild-Originaltitel* (ggf. deutscher Titel, Künstler, Entstehungsjahr).**
 
 ![test](eigene-dateien/test.png){width=66%}
