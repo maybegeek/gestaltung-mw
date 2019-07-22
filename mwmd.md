@@ -253,7 +253,7 @@ Zugriff: 29.6.2019.
 \bibend
 
 
-**Wikipedia**
+**Wikipedia:**
 
 <!-- **Wikipedia-Seitentitel (Datum der letzten Bearbeitung). In: *Wikipedia -- Die freie Enzyklopädie.* [url:]{.smallcaps} [http://www.xyz.de](http://www.xyz.de) -- Zugriff: Tag.Monat.Jahr.** -->
 
@@ -261,7 +261,7 @@ Zugriff: 29.6.2019.
 
 \bibstart
 
-\voll Wikipedia:Zitierbarkeit (27. Januar 2019). In:
+\voll Wikipedia (27. Januar 2019). *Zitierbarkeit* In:
 *Wikipedia, Die freie Enzyklopädie*. [url:]{.smallcaps}
 <https://de.wikipedia.org/w/index.php?title=Zitierbarkeit&oldid=185125241>
 -- Zugriff: 30.6.2019.
