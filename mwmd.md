@@ -251,11 +251,11 @@ Länderkennung nach `ISO 3166-1 Alpha 2`.
 
 *Film-Originaltitel* (ggf. deutscher Titel, Land bzw. Länder in denen der Film etc. produziert wurde, Regisseur, Verwendetes Trägermedium). Die Produktionsdaten von Filmen können zum Beispiel bei [imdb, The Internet Movie Database](https://www.imdb.com) abgefragt werden. Bildunterschriften von Einzelkadern (Stills) aus Filmen etc., die der Illustration dienen, sind um den genauen Timecode des Einzelkaders zu ergänzen (jeweils zweistellig für Stunden, Minuten, Sekunden).
 
-\kurz *A Woman's Face.* (USA 1941, 00:45:18).
+\kurz _A Woman's Face._ (USA 1941, 00:45:18).
 
 \bibstart
 
-\voll *A Woman's Face* (Die Frau mit der Narbe, USA 1941, Georges Cukor, DVD).
+\voll _A Woman's Face_ (Die Frau mit der Narbe, USA 1941, Georges Cukor, DVD).
 
 \bibend
 
@@ -294,11 +294,11 @@ Interpret (Erscheinungsjahr). *Musikvideo-Originaltitel* (Produktionsgesellschaf
 
 ![test](eigene-dateien/test.png){width=66%}
 
-\kurz @ray:1932
+\kurz _Larmes_ (Man Ray, 1930).
 
 \bibstart
 
-\voll *Larmes* (Tränen, Man Ray, 1930). In: Rosalind Krauss, Jane Livingston (Hg.): L'amour fou. Photography and Surrealism. Washington/New York 1985. S.&#8239;118.
+\voll _Larmes_ (Tränen, Man Ray, 1930). In: Rosalind Krauss, Jane Livingston (Hg.): L'amour fou. Photography and Surrealism. Washington/New York 1985. S.&#8239;118.
 
 \bibend
 
