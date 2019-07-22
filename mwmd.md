@@ -253,7 +253,7 @@ Zugriff: 29.6.2019.
 \bibend
 
 
-**Wikipedia:**
+**Wikipedia**
 
 <!-- **Wikipedia-Seitentitel (Datum der letzten Bearbeitung). In: *Wikipedia -- Die freie Enzyklopädie.* [url:]{.smallcaps} [http://www.xyz.de](http://www.xyz.de) -- Zugriff: Tag.Monat.Jahr.** -->
 
