@@ -173,16 +173,6 @@ Alte Nationalgalerie Berlin.
 
 \bibend
 
-<!--
-\bibstart
-
-\voll Sloterdijk, Peter (1999). *Regeln für den Menschenpark. Ein Antwortschreiben zu Heideggers Brief über den Humanismus*. Frankfurt am Main: Suhrkamp.
-
-\bibend
-
-\kurz @sl:1999 [10].
--->
-
 
 **Herausgeberschaft:**
 
