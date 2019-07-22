@@ -267,7 +267,10 @@ Die bibliografischen Informationen zum verwendeten Wikipedia-Eintrag finden Sie 
 
 Länderkennung nach `ISO 3166-1 Alpha 2`.
 
-Film-Originaltitel* (ggf. deutscher Titel, Land bzw. Länder in denen der Film etc. produziert wurde, Regisseur, Verwendetes Trägermedium).
+Film-Originaltitel* (ggf. deutscher Titel, Land bzw. Länder in denen der Film etc. produziert wurde, Regisseur, Verwendetes Trägermedium). Die Produktionsdaten von Filmen können zum Beispiel bei [imdb, The Internet Movie Database](https://www.imdb.com) abgefragt werden.
+Bildunterschriften von Einzelkadern (Stills) aus Filmen etc., die der Illustration dienen, sind um den genauen Timecode des Einzelkaders zu ergänzen (jeweils zweistellig für Stunden, Minuten, Sekunden).
+
+*A Woman's Face.* (USA 1941, 00:45:18).
 
 \kurz @wom:1941
 
@@ -310,25 +313,8 @@ Interpret (Erscheinungsjahr). *Musikvideo-Originaltitel* (Produktionsgesellschaf
 
 In der **Bibliographie** werden unter dem Punkt **Quellenverzeichnis für Film/Bilder** die verwendeten Filme und/oder Bilder in alphabetischer Reihenfolge sortiert.
 
-**Kurztitel im Text/Fußnote:**
 
-**Filme** werden **im Text** nach folgender **Kurzform** genannt:
-
-***Originaltitel.* (Produktionslandkürzel + Jahr).** =\> *Le Mepris.* (F/I 1963).
-
-Dabei ist zu beachten, dass der Filmtitel kursiv gesetzt wird. Die Produktionsdaten von Filmen können zum Beispiel bei [imdb, The Internet Movie Database](https://www.imdb.com) abgefragt werden.
-
-Bildunterschriften von Einzelkadern (Stills) aus Filmen etc., die der Illustration dienen, sind um den genauen Timecode des Einzelkaders zu ergänzen (jeweils zweistellig für Stunden, Minuten, Sekunden).
-
-*A Woman's Face.* (USA 1941, 00:45:18).
-
-**Unbewegte Bilder** werden im Text mit folgender Kurzform verwendet:
-
-**Originaltitel (Künstler, Entstehungsjahr).** =\> Larmes (Man Ray, 1930).
-
-@ray:1932
-
-### Werbung
+**Werbung:**
 
 <!-- **Firmenname (Jahr). *Titel wenn vorhanden* \[Werbung\]. Quelle.** -->
 
@@ -341,7 +327,7 @@ Bildunterschriften von Einzelkadern (Stills) aus Filmen etc., die der Illustrati
 \kurz Gesellschaft zur Förderung der Photographie (1952).
 
 \bibstart
-\voll Gesellschaft zur Förderung der Photographie (1952). Oh, die herrlichen Berge \[Werbung\]. In: *Regensburger Archiv für Werbeforschung. PROPHOTO vom 12.7.1952*. HWA\_1\_863.mp3. R-Nummer: 616. [url:]{.smallcaps} <https://raw.uni-regensburg.de/details.php?r=616> − Zugriff: 18.9.2013.
+\voll Gesellschaft zur Förderung der Photographie (1952). Oh die herrlichen Berge \[Werbung\]. In: *Regensburger Archiv für Werbeforschung. PROPHOTO vom 12.7.1952*. HWA\_1\_863.mp3. R-Nummer: 616. [url:]{.smallcaps} <https://raw.uni-regensburg.de/details.php?r=616> − Zugriff: 18.9.2013.
 \bibend
 
 ## Software zur Literaturverwaltung (Wissensorganisation)
