@@ -8,18 +8,12 @@ EXPORTED_MDS := $(SOURCE_DOCS:.md=.markdown.md)
 
 PANDOC_PDF_OPTIONS=--pdf-engine=xelatex \
 --template=layout/mwmd.tex \
-layout/mwmd.yaml \
---filter pandoc-citeproc \
---lua-filter=layout/multiple-bibliographies.lua
+layout/mwmd.yaml
 
 PANDOC_TEX_OPTIONS=--template=layout/mwmd.tex \
-layout/mwmd.yaml \
---filter pandoc-citeproc \
---lua-filter=layout/multiple-bibliographies.lua
+layout/mwmd.yaml
 
-PANDOC_MD_OPTIONS=layout/mwmd.yaml \
---filter pandoc-citeproc \
---lua-filter=layout/multiple-bibliographies.lua
+PANDOC_MD_OPTIONS=layout/mwmd.yaml
 
 %.pdf : %.md
 	$(PANDOC) $(PANDOC_PDF_OPTIONS) -o $@ $<

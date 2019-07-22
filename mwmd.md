@@ -3,9 +3,6 @@ title: 'Gestaltungsrichtlinien Medienwissenschaft'
 ur-kolumnentitel: 'Gestaltungsrichtlinien Medienwissenschaft'
 ur-stand: 'Juli 2019'
 lang: de-DE
-bibliography_lit: mwmd-lit.bib
-bibliography_other: mwmd-other.bib
-csl: layout/MW-UR.csl
 ---
 
 ```{=latex}
