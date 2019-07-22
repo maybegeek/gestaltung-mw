@@ -260,7 +260,7 @@ Zugriff: 29.6.2019.
 -- Zugriff: 30.6.2019.
 \bibend
 
-Die bibliografischen Informationen zum jeweiligen Wikipedia-Eintrag finden Sie auf der dazugehörigen Webseite unter „Artikel zitieren“. Als Datum des Artikels verwenden Sie den dort genannten „letzten Bearbeitungsstand“, als [url]{.smallcaps} den dort ersichtlichen „Permanentlink“.
+Die bibliografischen Informationen zum verwendeten Wikipedia-Eintrag finden Sie auf der dazugehörigen Webseite links unter „Artikel zitieren". Als Datum des Artikels verwenden Sie den dort genannten „letzten Bearbeitungsstand“, als [url]{.smallcaps} den dort ersichtlichen „Permanentlink“.
 
 
 **Nachname bzw. Interpret (Erscheinungsjahr).** =\> Björk (1999).
