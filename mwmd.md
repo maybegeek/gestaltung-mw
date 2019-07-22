@@ -116,7 +116,7 @@ Beachten Sie für Abschlussarbeiten auch immer die Hinweise auf den Seiten des P
 
 # Zitierrichtlinien und Vorgaben zur Erstellung des Quellenverzeichnis
 
-Das Quellenverzeichnis besteht aus einem alphabetisch geordneten Literaturverzeichnis (Bibliographie) und je nach weiteren verwendeten Quellen einem Bild- Bewegtbild-, Filmverzeichnis etc.
+Das Quellenverzeichnis besteht aus einem alphabetisch geordneten Literaturverzeichnis (Bibliographie) und je nach weiteren verwendeten Quellen einem Bild-, Video-, Filmverzeichnis etc.
 
 Hier evtl. nicht aufgeführte Quellenarten sollen auch adäquat zitiert werden; dazu selbständig bei Bedarf z.&#8239;B. den *Chicago Manual of Style* online zu rate ziehen.
 
@@ -133,7 +133,7 @@ Wird von Ihnen nicht wörtlich zitiert, sondern paraphrasiert, machen Sie dies i
 Die ~~Belege~~ werden als ~~**Kurzform (Kurztitel)**~~ in eine Fußnote geschrieben, bei Bildern direkt in die Abbildungsbeschriftung integriert. Die dazugehörige Langform wird am Ende der Arbeit in einem **Quellenverzeichnis** geführt.
 
 
-Die Anleitung zur korrekten Darstellung von Kurztitel und Langform im Quellenverzeichnis für ~~Literatur, Bilder, Video etc.~~ finden sie im folgenden Teil der Gestaltungsrichtlinien.
+Die Anleitung zur korrekten Darstellung von Kurztitel und Langform im Quellenverzeichnis für die verwendeten Quellen finden sie im folgenden Teil der Gestaltungsrichtlinien.
 
 
 ## Fußnoten
@@ -162,7 +162,7 @@ Bei einer größeren Anzahl von im Text verwendeten Abbildungen, kann ein Abbild
 
 ![Wald, Mond, Mensch. Naturbetrachtungen in der Romantik, bei Caspar David Friedrich.](eigene-dateien/mond.jpg){width=66%}
 
-Im Quellenverzeichnis und dort beim Unbewegt- und Bewegtbildverzeichnis steht dann ausführlich:
+Im Quellenverzeichnis und dort beim Bild-/Video-/Filmverzeichnis steht dann ausführlich:
 
 Mann und Frau den Mond betrachtend (1818–1824). Caspar David Friedrich.
 Alte Nationalgalerie Berlin.
@@ -311,7 +311,7 @@ Interpret (Erscheinungsjahr). *Musikvideo-Originaltitel* (Produktionsgesellschaf
 
 
 
-In der **Bibliographie** werden unter dem Punkt **Quellenverzeichnis für Film/Bilder** die verwendeten Filme und/oder Bilder in alphabetischer Reihenfolge sortiert.
+Im **Quellenverzeichnis** werden unter dem Punkt **Bild-/Video-/Filmverzeichnis** die verwendeten Filme und/oder Bilder in alphabetischer Reihenfolge sortiert.
 
 
 **Werbung:**
