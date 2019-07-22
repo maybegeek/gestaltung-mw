@@ -173,12 +173,16 @@ Alte Nationalgalerie Berlin.
 \kurz Vgl. @doro:2017 [22].
 
 \bibstart
+
 \voll Dotzler, Bernhard J. & Roesler-Keilholz, Silke (2017). *Mediengeschichte als Historische Techno-Logie*. Baden-Baden: Nomos.
+
 \bibend
 
 <!--
 \bibstart
+
 \voll Sloterdijk, Peter (1999). *Regeln für den Menschenpark. Ein Antwortschreiben zu Heideggers Brief über den Humanismus*. Frankfurt am Main: Suhrkamp.
+
 \bibend
 
 \kurz @sl:1999 [10].
@@ -190,8 +194,10 @@ Alte Nationalgalerie Berlin.
 \kurz @hero:2015.
 
 \bibstart
+
 \voll Heibach, Christiane & Rohde, Carsten (Hg.) (2015). *Ästhetik der
 Materialität* (=&#8239;HfG Forschung, 6). München: Fink.
+
 \bibend
 
 
@@ -202,7 +208,9 @@ Materialität* (=&#8239;HfG Forschung, 6). München: Fink.
 \kurz @st:2001 [48].
 
 \bibstart
+
 \voll Stegbauer, Christian & Rausch, Alexander (2001). Die schweigende Mehrheit -- „Lurker“ in internetbasierten Diskussionsforen. In: *Zeitschrift für Soziologie.* 30, Nr.&#8239;1, S.&#8239;48--64.
+
 \bibend
 
 
@@ -213,7 +221,9 @@ Materialität* (=&#8239;HfG Forschung, 6). München: Fink.
 \kurz Vgl. @ge:1993 [60f.].
 
 \bibstart
+
 \voll Gerhards, Jürgen & Neidhardt, Friedhelm (1993). Strukturen und Funktionen moderner Öffentlichkeit. In: Langenbucher, Wolfgang R. (Hg.). *Politische Kommunikation. Grundlagen, Strukturen, Prozesse* (= Studienbücher zur Publizistik- und Kommunikationswissenschaft, 2). 2., überarb. Auflage. Wien: Braumüller. S.&#8239;52--89.
+
 \bibend
 
 
@@ -222,7 +232,9 @@ Materialität* (=&#8239;HfG Forschung, 6). München: Fink.
 \kurz @am:2003 [60].
 
 \bibstart
+
 \voll Amento, Brian; Terveen, Loren G.; Hill, William C.; Hix, Deborah & Schulman, Robert S. (2003). Experiments in social data mining: The TopicShop system. In: *ACM Transactions on Computer-Human Interaction (TOCHI)*. 10, Nr.&#8239;1, S.&#8239;54--85.
+
 \bibend
 
 **Website:**
@@ -232,10 +244,12 @@ Materialität* (=&#8239;HfG Forschung, 6). München: Fink.
 \kurz @or:2005.
 
 \bibstart
+
 \voll O'Reilly, Tim (2005). *What Is Web 2.0. Design Patterns and Business
 Models for the Next Generation of Software*. [url:]{.smallcaps}
 <https://www.oreilly.com/pub/a/web2/archive/what-is-web-20.html> --
 Zugriff: 29.6.2019.
+
 \bibend
 
 
@@ -246,10 +260,12 @@ Zugriff: 29.6.2019.
 \kurz @wikizit:2019.
 
 \bibstart
+
 \voll Wikipedia:Zitierbarkeit (27. Januar 2019). In:
 *Wikipedia, Die freie Enzyklopädie*. [url:]{.smallcaps}
 <https://de.wikipedia.org/w/index.php?title=Zitierbarkeit&oldid=185125241>
 -- Zugriff: 30.6.2019.
+
 \bibend
 
 Die bibliografischen Informationen zum verwendeten Wikipedia-Eintrag finden Sie auf der dazugehörigen Webseite links unter „Artikel zitieren". Als Datum des Artikels verwenden Sie den dort genannten „letzten Bearbeitungsstand“, als [url]{.smallcaps} den dort ersichtlichen „Permanentlink“.
@@ -267,7 +283,9 @@ Bildunterschriften von Einzelkadern (Stills) aus Filmen etc., die der Illustrati
 \kurz @wom:1941
 
 \bibstart
+
 \voll *A Woman's Face* (Die Frau mit der Narbe, USA 1941, Georges Cukor, DVD).
+
 \bibend
 
 
@@ -278,7 +296,9 @@ Nachname, Vorname \[Benutzername\] (Veröffentlichungsdatum). *Videotitel* \[Vid
 \kurz Cook (2013)
 
 \bibstart
+
 \voll Cook, Shelby \[XxSourGummyBearzxX\] (16.12.2013). *Tom Hiddleston Funny Moments* \[Video file\]. [url:]{.smallcaps} [http://www.youtube.com/watch?v=kXViNegXPTk](http://www.youtube.com/watch?v=kXViNegXPTk) -- Zugriff: 4.2.2014.
+
 \bibend
 
 Wenn der Name eines Benutzers nicht zu recherchieren ist, wird der Benutzername ohne Klammern als Name verwendet. Analog gilt bei nicht möglicher Zuweisung von Autorenname und Erscheinungsdatum „o.&#8239;A.“ und „o.&#8239;J.“ zur Kenntlichmachung.
@@ -292,7 +312,9 @@ Interpret (Erscheinungsjahr). *Musikvideo-Originaltitel* (Produktionsgesellschaf
 \kurz Björk (1999).
 
 \bibstart
+
 \voll Björk (1999). *All is full of love* (Electra Entertainment Group Inc., Chris Cunningham).
+
 \bibend
 
 **Bilder und Photos:**
@@ -304,7 +326,9 @@ Interpret (Erscheinungsjahr). *Musikvideo-Originaltitel* (Produktionsgesellschaf
 \kurz @ray:1932
 
 \bibstart
+
 \voll *Larmes* (Tränen, Man Ray, 1930). In: Rosalind Krauss, Jane Livingston (Hg.): L'amour fou. Photography and Surrealism. Washington/New York 1985. S.&#8239;118.
+
 \bibend
 
 
@@ -318,13 +342,17 @@ Im **Quellenverzeichnis** werden unter dem Punkt **Bild-/Video-/Filmverzeichnis*
 \kurz Doppelherz (2007).
 
 \bibstart
+
 \voll Doppelherz (2007). *Sitznachbar* \[Werbung\]. ARD: Radio-Kreativ-Wettbewerb 2007 (Broschüre und CD-Rom).
+
 \bibend
 
 \kurz Gesellschaft zur Förderung der Photographie (1952).
 
 \bibstart
+
 \voll Gesellschaft zur Förderung der Photographie (1952). Oh die herrlichen Berge \[Werbung\]. In: *Regensburger Archiv für Werbeforschung. PROPHOTO vom 12.7.1952*. HWA\_1\_863.mp3. R-Nummer: 616. [url:]{.smallcaps} <https://raw.uni-regensburg.de/details.php?r=616> − Zugriff: 18.9.2013.
+
 \bibend
 
 ## Software zur Literaturverwaltung (Wissensorganisation)
@@ -340,15 +368,19 @@ Siehe dazu das Dokument „Hinweise zur Wissensorganisation und Literaturverwalt
 ## Literaturverzeichnis {-}
 
 \bibstart
+
 ::: {#refs_lit}
 :::
+
 \bibend
 
 ## Bild-, Bewegtbild- und Audioverzeichnis {-}
 
 \bibstart
+
 ::: {#refs_other}
 :::
+
 \bibend
 
 
