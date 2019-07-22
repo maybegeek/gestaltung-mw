@@ -199,9 +199,7 @@ Materialität* (=&#8239;HfG Forschung, 6). München: Fink.
 
 **Sammelbände:**
 
-<!-- Muster: \[Nachname, Vorname (Jahr). Titel. Untertitel. In: Nachname, Vorname (Hg.). *Titel. Untertitel.* Ort: Verlag, Seitenraum.\] -->
-
-\kurz Vgl. @ge:1993 [60f.].
+\kurz Vgl. Gerhards & Neidhardt (1993, S.&#8239;60f.).
 
 \bibstart
 
@@ -209,10 +207,9 @@ Materialität* (=&#8239;HfG Forschung, 6). München: Fink.
 
 \bibend
 
-
 ~~Wurde ein Werk von mehr als drei Autoren verfasst, wird im Kurzbeleg der Hauptautor genannt und weitere Koautoren unter „et al.“ zusammengefasst:~~
 
-\kurz @am:2003 [60].
+\kurz Amento et al. (2003 S.&#8239;60).
 
 \bibstart
 
@@ -220,11 +217,10 @@ Materialität* (=&#8239;HfG Forschung, 6). München: Fink.
 
 \bibend
 
+
 **Website:**
 
-<!-- **Nachname, Vorname (Jahr). *Titel. Untertitel*. [url:]{.smallcaps} [http://www.xyz.de](http://www.xyz.de) -- Zugriff: Tag.Monat.Jahr.** -->
-
-\kurz @or:2005.
+\kurz O'Reilly (2005).
 
 \bibstart
 
