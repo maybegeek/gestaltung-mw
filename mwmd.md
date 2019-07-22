@@ -308,8 +308,6 @@ Im **Quellenverzeichnis** werden unter dem Punkt **Bild-/Video-/Filmverzeichnis*
 
 **Werbung:**
 
-<!-- **Firmenname (Jahr). *Titel wenn vorhanden* \[Werbung\]. Quelle.** -->
-
 \kurz Doppelherz (2007).
 
 \bibstart
