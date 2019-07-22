@@ -118,8 +118,6 @@ Beachten Sie für Abschlussarbeiten auch immer die Hinweise auf den Seiten des P
 
 Das Quellenverzeichnis besteht aus einem alphabetisch geordneten Literaturverzeichnis (Bibliographie) und je nach weiteren verwendeten Quellen einem Bild-, Video-, Filmverzeichnis etc.
 
-Hier evtl. nicht aufgeführte Quellenarten sollen auch adäquat zitiert werden; dazu selbständig bei Bedarf z.&#8239;B. den *Chicago Manual of Style* online zu rate ziehen.
-
 
 ## Allgemeines zur Zitation
 
