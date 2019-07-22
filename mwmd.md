@@ -263,47 +263,48 @@ Zugriff: 29.6.2019.
 Die bibliografischen Informationen zum verwendeten Wikipedia-Eintrag finden Sie auf der dazugehörigen Webseite links unter „Artikel zitieren". Als Datum des Artikels verwenden Sie den dort genannten „letzten Bearbeitungsstand“, als [url]{.smallcaps} den dort ersichtlichen „Permanentlink“.
 
 
-**Nachname bzw. Interpret (Erscheinungsjahr).** =\> Björk (1999).
-
 **Film:**
 
 Länderkennung nach `ISO 3166-1 Alpha 2`.
 
-***Film-Originaltitel* (ggf. deutscher Titel, Land bzw. Länder in denen der Film etc. produziert wurde, Regisseur, Verwendetes Trägermedium).**
+Film-Originaltitel* (ggf. deutscher Titel, Land bzw. Länder in denen der Film etc. produziert wurde, Regisseur, Verwendetes Trägermedium).
 
-*A Woman's Face* (Die Frau mit der Narbe, USA 1941, Georges Cukor, DVD).
+\kurz @wom:1941
+
+\bibstart
+\voll *A Woman's Face* (Die Frau mit der Narbe, USA 1941, Georges Cukor, DVD).
 
 
-@wom:1941
 
 **Videos:** (z.&#8239;B. Youtube, Vimeo) -- abweichende Angaben bei Musikvideos (s.&#8239;u.)!
 
-**Nachname, Vorname \[Benutzername\] (Veröffentlichungsdatum). *Videotitel* \[Video file\]. [url:]{.smallcaps} [http://www.xyz.de](http://www.xyz.de) -- Zugriff: Tag.Monat.Jahr.**
+Nachname, Vorname \[Benutzername\] (Veröffentlichungsdatum). *Videotitel* \[Video file\]. [url:]{.smallcaps} [http://www.xyz.de](http://www.xyz.de) -- Zugriff: Tag.Monat.Jahr.
 
-Cook, Shelby \[XxSourGummyBearzxX\] (16.12.2013). *Tom Hiddleston Funny Moments* \[Video file\]. [url:]{.smallcaps} [http://www.youtube.com/watch?v=kXViNegXPTk](http://www.youtube.com/watch?v=kXViNegXPTk) -- Zugriff: 4.2.2014.
+\kurz Cook (2013)
 
-Wenn der Name eines Benutzers nicht zu recherchieren ist, wird der Benutzername ohne Klammern als Name verwendet. Analog gilt bei nicht möglicher Zuweisung von Autorenname und Erscheinungsdatum »o.&#8239;A.« und »o.&#8239;J.« zur Kenntlichmachung.
+\voll Cook, Shelby \[XxSourGummyBearzxX\] (16.12.2013). *Tom Hiddleston Funny Moments* \[Video file\]. [url:]{.smallcaps} [http://www.youtube.com/watch?v=kXViNegXPTk](http://www.youtube.com/watch?v=kXViNegXPTk) -- Zugriff: 4.2.2014.
+
+Wenn der Name eines Benutzers nicht zu recherchieren ist, wird der Benutzername ohne Klammern als Name verwendet. Analog gilt bei nicht möglicher Zuweisung von Autorenname und Erscheinungsdatum „o.&#8239;A.“ und „o.&#8239;J.“ zur Kenntlichmachung.
 
 **Benutzername (Veröffentlichungsdatum). *Videotitel* \[Video file\]. [url:]{.smallcaps} [http://www.xyz.de](http://www.xyz.de) -- Zugriff: Tag.Monat.Jahr.**
 
 **Musikvideos:** (z.&#8239;B. Youtube, Vimeo)
 
-**Interpret (Erscheinungsjahr). *Musikvideo-Originaltitel* (Produktionsgesellschaft, ggf. Regisseur).**
+Interpret (Erscheinungsjahr). *Musikvideo-Originaltitel* (Produktionsgesellschaft, ggf. Regisseur).
 
-Björk (1999). *All is full of love* (Electra Entertainment Group Inc., Chris Cunningham).
+\kurz Björk (1999).
+
+\voll Björk (1999). *All is full of love* (Electra Entertainment Group Inc., Chris Cunningham).
 
 **Bilder und Photos:**
-***Unbewegtbild-Originaltitel* (ggf. deutscher Titel, Künstler, Entstehungsjahr).**
+
+*Unbewegtbild-Originaltitel* (ggf. deutscher Titel, Künstler, Entstehungsjahr).
 
 ![test](eigene-dateien/test.png){width=66%}
 
+\kurz @ray:1932
 
-
-*Larmes* (Tränen, Man Ray, 1930). In: Rosalind Krauss, Jane Livingston (Hg.): L'amour fou. Photography and Surrealism. Washington/New York 1985. S.&#8239;118.
-
-
-
-@ray:1932
+\voll *Larmes* (Tränen, Man Ray, 1930). In: Rosalind Krauss, Jane Livingston (Hg.): L'amour fou. Photography and Surrealism. Washington/New York 1985. S.&#8239;118.
 
 
 
