@@ -147,7 +147,7 @@ Im Text ...
 
 Bei einer größeren Anzahl von im Text verwendeten Abbildungen, kann ein Abbildungsverzeichnis vor dem Quellenverzeichnis dem Lesenden nützlich sein. Dort werden die laufende Abbildungsnummer, die ggf. gekürzte Bildunterschrift und die Seitenangabe genannt.
 
-![Schematische Zeichnung einer portablen *camera obscura* nach @za:1685 [181].](eigene-dateien/cam.jpg){width=66%}
+![Schematische Zeichnung einer portablen *camera obscura* nach Zahn (1685, S.&#8239;181).](eigene-dateien/cam.jpg){width=66%}
 
 ![Wald, Mond, Mensch. Naturbetrachtungen in der Romantik, bei Caspar David Friedrich.](eigene-dateien/mond.jpg){width=66%}
 
