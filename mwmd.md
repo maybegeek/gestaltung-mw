@@ -264,7 +264,7 @@ Länderkennung nach `ISO 3166-1 Alpha 2`.
 
 Nachname, Vorname \[Benutzername\] (Veröffentlichungsdatum). *Videotitel* \[Video file\]. [url:]{.smallcaps} [http://www.xyz.de](http://www.xyz.de) -- Zugriff: Tag.Monat.Jahr.
 
-\kurz Cook (2013)
+\kurz Cook (2013).
 
 \bibstart
 
