@@ -278,7 +278,6 @@ Nachname, Vorname \[Benutzername\] (Veröffentlichungsdatum). *Videotitel* \[Vid
 
 **Musikvideos:** (z.&#8239;B. Youtube, Vimeo)
 
-Interpret (Erscheinungsjahr). *Musikvideo-Originaltitel* (Produktionsgesellschaft, ggf. Regisseur).
 
 \kurz Björk (1999).
 \voll Doppelherz (2007). *Sitznachbar*. ARD: Radio-Kreativ-Wettbewerb 2007, Broschüre und CD-Rom. \[Werbung\].
@@ -298,7 +297,6 @@ Interpret (Erscheinungsjahr). *Musikvideo-Originaltitel* (Produktionsgesellschaf
 
 *Unbewegtbild-Originaltitel* (ggf. deutscher Titel, Künstler, Entstehungsjahr).
 
-![test](eigene-dateien/test.png){width=66%}
 
 \kurz _Larmes_ (Man Ray, 1930).
 
@@ -309,7 +307,7 @@ Interpret (Erscheinungsjahr). *Musikvideo-Originaltitel* (Produktionsgesellschaf
 \bibend
 
 
-Im **Quellenverzeichnis** werden unter dem Punkt **Bild-/Video-/Filmverzeichnis** die verwendeten Filme und/oder Bilder in alphabetischer Reihenfolge sortiert.
+<!-- Im **Quellenverzeichnis** werden unter dem Punkt **Bild-/Video-/Filmverzeichnis** die verwendeten Filme und/oder Bilder in alphabetischer Reihenfolge sortiert. -->
 
 
 **Werbung:**
