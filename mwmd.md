@@ -273,7 +273,6 @@ Nachname, Vorname \[Benutzername\] (Veröffentlichungsdatum). *Videotitel* \[Vid
 
 \bibend
 
-Wenn der Name eines Benutzers nicht zu recherchieren ist, wird der Benutzername ohne Klammern als Name verwendet. Analog gilt bei nicht möglicher Zuweisung von Autorenname und Erscheinungsdatum „o.&#8239;A.“ und „o.&#8239;J.“ zur Kenntlichmachung.
 
 **Benutzername (Veröffentlichungsdatum). *Videotitel* \[Video file\]. [url:]{.smallcaps} [http://www.xyz.de](http://www.xyz.de) -- Zugriff: Tag.Monat.Jahr.**
 
