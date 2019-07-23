@@ -248,7 +248,7 @@ Die bibliografischen Informationen zum verwendeten Wikipedia-Eintrag finden Sie 
 
 \bibstart
 
-\voll Cook, Shelby \[XxSourGummyBearzxX\] (16.12.2013). *Tom Hiddleston Funny Moments*. \[Video\]. [url:]{.smallcaps} [http://www.youtube.com/watch?v=kXViNegXPTk](http://www.youtube.com/watch?v=kXViNegXPTk) -- Zugriff: 4.2.2014.
+\voll Cook, Shelby \[XxSourGummyBearzxX\] (16.12.2013). *Tom Hiddleston Funny Moments*. \[Video\]. [url:]{.smallcaps} <https://youtu.be/kXViNegXPTk> -- Zugriff: 22.7.2019.
 
 \bibend
 
