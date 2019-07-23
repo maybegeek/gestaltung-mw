@@ -133,7 +133,7 @@ Die Anleitung zur korrekten Darstellung von Kurz- und Vollbeleg der verwendeten 
 
 ## Fußnoten
 
-In Fußnoten sollen, neben weiterführenden Gedanken, die dort auch ihren Platz finden können, die Kurzbelege Ihrer verwendeten Quellen mit den passenden Seitenangaben zu finden sein^[Zur Verwendung von „f.“ und „ff.“ bei Seitenangaben vgl. https://www.wissenschaftliches-arbeiten.org/faq/seitenzahlen-zitate.html]. Wird von Ihnen nicht wörtlich zitiert, sondern paraphrasiert, machen Sie dies im Kurzbeleg auch deutlich und stellen diesem ein „Vgl.“ voran.
+In Fußnoten sollen, neben weiterführenden Gedanken, die dort auch ihren Platz finden können, die Kurzbelege Ihrer verwendeten Quellen mit den passenden Seitenangaben^[Zur Verwendung von „f.“ (auch die folgende Seite), „ff.“ (die zwei folgenden Seiten) und der Angabe eines Seitenraums bei Seitenangaben vergleichen Sie beispielsweise <https://www.wissenschaftliches-arbeiten.org/faq/seitenzahlen-zitate.html> bei Wissenschaftliches-Arbeiten (2008).] zu finden sein. Wird von Ihnen nicht wörtlich zitiert, sondern paraphrasiert, machen Sie dies im Kurzbeleg auch deutlich und stellen diesem ein „Vgl.“ voran.
 
 Sie finden im Folgenden bei allen im Zitierstil beschriebenen Arten von Quellen die dazugehörige Form des Kurztitels für die Fußnoten.
 
