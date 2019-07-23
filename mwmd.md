@@ -124,7 +124,9 @@ Grundsätzlich lassen sich zwei Arten von Zitaten unterscheiden: das wörtliche 
 
 Die Belege werden als **Kurzbeleg** in eine Fußnote geschrieben, bei Bildern direkt in die Abbildungsbeschriftung integriert. Der dazugehörige **Vollbeleg** wird am Ende der Arbeit in einem **Quellenverzeichnis** geführt.
 
-Die Anleitung zur korrekten Darstellung von Kurz- und Vollbeleg der verwendeten Quellen finden sie im folgenden Teil der Gestaltungsrichtlinien.
+Die Anleitung zur korrekten Darstellung von Kurz- und Vollbeleg der verwendeten Quellen finden sie im folgenden Teil der Gestaltungsrichtlinien. Den beispielhaften Aufbau eines Quellenverzeichnisses finden Sie ab Seite XY!!!. Dabei gilt, Quellen, die nicht mit einem Autor sondern einem Titel beginnen (z.&#8239;B. Bilder und Filme) sind alphabetisch unter einer eigenen Rubrik zu führen.
+
+~~Die folgenden Beispiele bieten einen Überblick über häufig genutzte Quellentypen, derer es über die verwendeten viele mehr gibt. Bei nicht behandelten Quellentypen versuchen Sie Ihre Belege nach dem hier vermittelten Stil zu verzeichnen.~~
 
 
 ## Fußnoten
