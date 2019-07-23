@@ -133,8 +133,7 @@ Die Anleitung zur korrekten Darstellung von Kurz- und Vollbeleg der verwendeten 
 
 ## Fußnoten
 
-In Fußnoten sollen, neben weiterführenden Gedanken, die dort auch ihren Platz finden können, die Kurzbelege Ihrer verwendeten Quellen mit den passenden Seitenangaben zu finden sein^[Zur Verwendung von „f.“ und „ff.“ bei Seitenangaben vgl. https://www.wissenschaftliches-arbeiten.org/faq/seitenzahlen-zitate.html].
-Wird von Ihnen nicht wörtlich zitiert, sondern paraphrasiert, machen Sie dies im Kurzbeleg auch deutlich und stellen diesem ein „Vgl.“ voran.
+In Fußnoten sollen, neben weiterführenden Gedanken, die dort auch ihren Platz finden können, die Kurzbelege Ihrer verwendeten Quellen mit den passenden Seitenangaben zu finden sein^[Zur Verwendung von „f.“ und „ff.“ bei Seitenangaben vgl. https://www.wissenschaftliches-arbeiten.org/faq/seitenzahlen-zitate.html]. Wird von Ihnen nicht wörtlich zitiert, sondern paraphrasiert, machen Sie dies im Kurzbeleg auch deutlich und stellen diesem ein „Vgl.“ voran.
 
 Sie finden im Folgenden bei allen im Zitierstil beschriebenen Arten von Quellen die dazugehörige Form des Kurztitels für die Fußnoten.
 
@@ -157,8 +156,7 @@ Bei einer größeren Anzahl von im Text verwendeten Abbildungen, kann ein Abbild
 
 Im Quellenverzeichnis und dort beim Bild-/Video-/Filmverzeichnis steht dann ausführlich:
 
-Mann und Frau den Mond betrachtend (1818–1824). Caspar David Friedrich.
-Alte Nationalgalerie Berlin.
+Mann und Frau den Mond betrachtend (1818–1824). Caspar David Friedrich. Alte Nationalgalerie Berlin.
 
 
 
@@ -181,8 +179,7 @@ Alte Nationalgalerie Berlin.
 
 \bibstart
 
-\voll Heibach, Christiane & Rohde, Carsten (Hg.) (2015). *Ästhetik der
-Materialität* (=&#8239;HfG Forschung, 6). München: Fink.
+\voll Heibach, Christiane & Rohde, Carsten (Hg.) (2015). *Ästhetik der Materialität* (=&#8239;HfG Forschung, 6). München: Fink.
 
 \bibend
 
@@ -225,10 +222,7 @@ Materialität* (=&#8239;HfG Forschung, 6). München: Fink.
 
 \bibstart
 
-\voll O'Reilly, Tim (2005). *What Is Web 2.0. Design Patterns and Business
-Models for the Next Generation of Software*. [url:]{.smallcaps}
-<https://www.oreilly.com/pub/a/web2/archive/what-is-web-20.html> --
-Zugriff: 29.6.2019.
+\voll O'Reilly, Tim (2005). *What Is Web 2.0. Design Patterns and Business Models for the Next Generation of Software*. [url:]{.smallcaps} <https://www.oreilly.com/pub/a/web2/archive/what-is-web-20.html> -- Zugriff: 29.6.2019.
 
 \bibend
 
