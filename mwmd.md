@@ -281,10 +281,16 @@ Nachname, Vorname \[Benutzername\] (Veröffentlichungsdatum). *Videotitel* \[Vid
 Interpret (Erscheinungsjahr). *Musikvideo-Originaltitel* (Produktionsgesellschaft, ggf. Regisseur).
 
 \kurz Björk (1999).
+\voll Doppelherz (2007). *Sitznachbar*. ARD: Radio-Kreativ-Wettbewerb 2007, Broschüre und CD-Rom. \[Werbung\].
+
+\bibend
+
+\kurz Gesellschaft zur Förderung der Photographie (1952).
 
 \bibstart
 
 \voll Björk (1999). *All is full of love* (Electra Entertainment Group Inc., Chris Cunningham).
+\voll Gesellschaft zur Förderung der Photographie (1952). Oh die herrlichen Berge. In: *Regensburger Archiv für Werbeforschung.* PROPHOTO vom 12.7.1952, HWA\_1\_863.mp3, R-Nummer: 616. [Werbung, Audio]. [url:]{.smallcaps} <https://raw.uni-regensburg.de/details.php?r=616> − Zugriff: 18.9.2013.
 
 \bibend
 
@@ -308,7 +314,6 @@ Im **Quellenverzeichnis** werden unter dem Punkt **Bild-/Video-/Filmverzeichnis*
 
 **Werbung:**
 
-\kurz Doppelherz (2007).
 
 \bibstart
 
@@ -316,11 +321,9 @@ Im **Quellenverzeichnis** werden unter dem Punkt **Bild-/Video-/Filmverzeichnis*
 
 \bibend
 
-\kurz Gesellschaft zur Förderung der Photographie (1952).
 
 \bibstart
 
-\voll Gesellschaft zur Förderung der Photographie (1952). Oh die herrlichen Berge. In: *Regensburger Archiv für Werbeforschung.* PROPHOTO vom 12.7.1952, HWA\_1\_863.mp3, R-Nummer: 616. [Werbung, Audio]. [url:]{.smallcaps} <https://raw.uni-regensburg.de/details.php?r=616> − Zugriff: 18.9.2013.
 
 \bibend
 
