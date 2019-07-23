@@ -231,11 +231,11 @@ Zugriff: 29.6.2019.
 
 **Wikipedia**
 
-\kurz ???.
+\kurz Vgl. Wikipedia (2019).
 
 \bibstart
 
-\voll ???.
+\voll Wikipedia (11. Juli 2019). Universität Regensburg. In: *Wikipedia, Die freie Enzyklopädie*. [url:]{.smallcaps} <https://de.wikipedia.org/w/index.php?title=Universit%C3%A4t_Regensburg&oldid=190335453> -- Zugriff: 22.7.2019.
 
 \bibend
 
@@ -379,10 +379,7 @@ Stegbauer, Christian & Rausch, Alexander (2001). Die schweigende
 Mehrheit -- „Lurker" in internetbasierten Diskussionsforen. In:
 *Zeitschrift für Soziologie*. 30, Nr.&#8239;1, S.&#8239;48--64.
 
-Wiki:UR (11. Juli 2019). Universität Regensburg. In: *Wikipedia, Die
-freie Enzyklopädie*. [url:]{.smallcaps}
-<https://de.wikipedia.org/w/index.php?oldid=190335453> -- Zugriff:
-22.7.2019.
+Wikipedia (11. Juli 2019). Universität Regensburg. In: *Wikipedia, Die freie Enzyklopädie*. [url:]{.smallcaps} <https://de.wikipedia.org/w/index.php?title=Universit%C3%A4t_Regensburg&oldid=190335453> -- Zugriff: 22.7.2019.
 
 Zahn, Johannes (1685). *Oculus Artificialis Teledioptricus Sive
 Telescopium*. Würzburg: Quirin Heil.
