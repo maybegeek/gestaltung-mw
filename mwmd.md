@@ -242,9 +242,6 @@ Mann und Frau den Mond betrachtend (1818–1824). Caspar David Friedrich. Alte N
 Die bibliografischen Informationen zum verwendeten Wikipedia-Eintrag finden Sie auf der dazugehörigen Webseite unter „Artikel zitieren“. Als Datum des Artikels verwenden Sie den dort genannten „letzten Bearbeitungsstand“, als [url]{.smallcaps} den dort ersichtlichen „Permanentlink“.
 
 
-
-
-
 **Videos:** (z.&#8239;B. Youtube, Vimeo) -- abweichende Angaben bei Musikvideos (s.&#8239;u.)!
 
 \kurz Cook (2013).
