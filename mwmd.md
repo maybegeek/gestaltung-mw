@@ -205,6 +205,8 @@ Mann und Frau den Mond betrachtend (1818–1824). Caspar David Friedrich. Alte N
 
 \bibend
 
+**et al.:**
+
 ~~Wurde ein Werk von mehr als drei Autoren verfasst, wird im Kurzbeleg der Hauptautor genannt und weitere Koautoren unter „et al.“ zusammengefasst:~~
 
 \kurz Amento et al. (2003 S.&#8239;60).
