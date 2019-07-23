@@ -289,7 +289,7 @@ Die bibliografischen Informationen zum verwendeten Wikipedia-Eintrag finden Sie 
 
 \bibstart
 
-\voll _Larmes_ [Tränen] (Man Ray, 1930). In: Rosalind Krauss & Jane Livingston (Hg.) (1985). L'amour fou. Photography and Surrealism. Washington: Abbeville Press. S.&#8239;118.
+\voll _Larmes_ [Tränen] (1930). Man Ray. In: Rosalind Krauss & Jane Livingston (Hg.) (1985). L'amour fou. Photography and Surrealism. Washington: Abbeville Press. S.&#8239;118.
 
 \bibend
 
