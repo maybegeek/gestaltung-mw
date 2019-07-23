@@ -86,7 +86,7 @@ Hier werden alle in Ihrer Arbeit verwendeten Werke mit deren bibliografischen De
 Fügen Sie am Ende Ihrer Arbeit eine unterschriebene Erklärung bzgl. Redlichkeit und Rechtsfolgenkenntnis bei. Als verbindliche Vorlage dient die letzte Seite dieser Gestaltungsrichtlinien.
 
 Beachten Sie für Abschlussarbeiten auch immer die Hinweise auf den Seiten des Prüfungssekretariats Geisteswissenschaften unter „Allgemeine Informationen und Bekanntmachungen | Abschlussarbeit“:  
-[https://www.ur.de/studium/pruefungsverwaltung/geisteswissenschaften](https://www.ur.de/studium/pruefungsverwaltung/geisteswissenschaften).
+<https://www.ur.de/studium/pruefungsverwaltung/geisteswissenschaften>.
 
 
 ## Seitenlayout und Typografisches
