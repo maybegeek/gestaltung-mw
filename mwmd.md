@@ -319,7 +319,7 @@ Im **Quellenverzeichnis** werden unter dem Punkt **Bild-/Video-/Filmverzeichnis*
 
 \bibstart
 
-\voll Gesellschaft zur Förderung der Photographie (1952). Oh die herrlichen Berge. \[Werbung\]. In: *Regensburger Archiv für Werbeforschung. PROPHOTO vom 12.7.1952*. HWA\_1\_863.mp3. R-Nummer: 616. [url:]{.smallcaps} <https://raw.uni-regensburg.de/details.php?r=616> − Zugriff: 18.9.2013.
+\voll Gesellschaft zur Förderung der Photographie (1952). Oh die herrlichen Berge. \[Werbung\]. In: *Regensburger Archiv für Werbeforschung.* PROPHOTO vom 12.7.1952, HWA\_1\_863.mp3, R-Nummer: 616. [url:]{.smallcaps} <https://raw.uni-regensburg.de/details.php?r=616> − Zugriff: 18.9.2013.
 
 \bibend
 
@@ -356,6 +356,8 @@ prozessorientierter Leitfaden zur Erstellung von Bachelor-, Master- und
 Diplomarbeiten*. 4., korr. und akt. Auflage. Wiesbaden: Springer
 Fachmedien.
 
+Doppelherz (2007). *Sitznachbar*. \[Werbung\]. ARD: Radio-Kreativ-Wettbewerb 2007 (Broschüre und CD-Rom).
+
 Dotzler, Bernhard J. & Roesler-Keilholz, Silke (2017). *Mediengeschichte
 als Historische Techno-Logie*. Baden-Baden: Nomos.
 
@@ -364,6 +366,8 @@ Funktionen moderner Öffentlichkeit. In: Langenbucher, Wolfgang R. (Hg.).
 *Politische Kommunikation. Grundlagen, Strukturen, Prozesse*
 (=&#8239;Studienbücher zur Publizistik- und Kommunikationswissenschaft, 2).
 2., überarb. Auflage. Wien: Braumüller. S.&#8239;52--89.
+
+Gesellschaft zur Förderung der Photographie (1952). Oh die herrlichen Berge. \[Werbung\]. In: *Regensburger Archiv für Werbeforschung.* PROPHOTO vom 12.7.1952, HWA\_1\_863.mp3, R-Nummer: 616. [url:]{.smallcaps} <https://raw.uni-regensburg.de/details.php?r=616> − Zugriff: 18.9.2013.
 
 Heibach, Christiane & Rohde, Carsten (Hg.) (2015). *Ästhetik der
 Materialität* (=&#8239;HfG Forschung, 6). München: Fink.
