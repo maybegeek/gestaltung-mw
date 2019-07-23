@@ -160,8 +160,6 @@ Alte Nationalgalerie Berlin.
 
 ## Zitierstil
 
-### Druckwerke
-
 **Monografien:**
 
 \kurz Vgl. Dotzler & Roesler-Keilholz (2017, S.&#8239;22).
