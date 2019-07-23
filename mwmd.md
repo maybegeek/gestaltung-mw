@@ -233,7 +233,7 @@ Zugriff: 29.6.2019.
 \bibend
 
 
-**Wikipedia**
+**Wikipedia:**
 
 \kurz Vgl. Wikipedia (2019).
 
