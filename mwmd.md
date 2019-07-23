@@ -337,77 +337,53 @@ Siehe dazu das Dokument „Hinweise zur Wissensorganisation und Literaturverwalt
 
 \bibstart
 
-::: {#refs_lit}
-::: {#ref-am:2003}
 Amento, Brian; Terveen, Loren G.; Hill, William C.; Hix, Deborah &
 Schulman, Robert S. (2003). Experiments in social data mining: The
 TopicShop system. In: *ACM Transactions on Computer-Human Interaction
-(TOCHI)*. 10, Nr. 1, S. 54--85.
-:::
+(TOCHI)*. 10, Nr.&#8239;1, S.&#8239;54--85.
 
-::: {#ref-an:2000}
 Andermann, Ulrich; Drees, Martin & Grätz, Frank (2000). *Duden. Wie
 verfasst man wissenschaftliche Arbeiten? Ein Leitfaden für das Studium
 und die Promotion*. Mainz: Verlag Hermann Schmidt.
-:::
 
-::: {#ref-bi:2009}
 Bier, Christoph (2009). Typokurz -- Einige wichtige typografische
 Regeln. [url:]{.smallcaps}
 <https://zvisionwelt.files.wordpress.com/2012/01/typokurz.pdf> --
 Zugriff: 29.6.2019.
-:::
 
-::: {#ref-brink:2013}
 Brink, Alfred (2013). *Anfertigung wissenschaftlicher Arbeiten. Ein
 prozessorientierter Leitfaden zur Erstellung von Bachelor-, Master- und
 Diplomarbeiten*. 4., korr. und akt. Auflage. Wiesbaden: Springer
 Fachmedien.
-:::
 
-::: {#ref-doro:2017}
 Dotzler, Bernhard J. & Roesler-Keilholz, Silke (2017). *Mediengeschichte
 als Historische Techno-Logie*. Baden-Baden: Nomos.
-:::
 
-::: {#ref-ge:1993}
 Gerhards, Jürgen & Neidhardt, Friedhelm (1993). Strukturen und
 Funktionen moderner Öffentlichkeit. In: Langenbucher, Wolfgang R. (Hg.).
 *Politische Kommunikation. Grundlagen, Strukturen, Prozesse*
-(= Studienbücher zur Publizistik- und Kommunikationswissenschaft, 2).
-2., überarb. Auflage. Wien: Braumüller. S. 52--89.
-:::
+(=&#8239;Studienbücher zur Publizistik- und Kommunikationswissenschaft, 2).
+2., überarb. Auflage. Wien: Braumüller. S.&#8239;52--89.
 
-::: {#ref-hero:2015}
 Heibach, Christiane & Rohde, Carsten (Hg.) (2015). *Ästhetik der
-Materialität* (= HfG Forschung, 6). München: Fink.
-:::
+Materialität* (=&#8239;HfG Forschung, 6). München: Fink.
 
-::: {#ref-or:2005}
 O'Reilly, Tim (2005). What Is Web 2.0. Design Patterns and Business
 Models for the Next Generation of Software. [url:]{.smallcaps}
 <https://www.oreilly.com/pub/a/web2/archive/what-is-web-20.html> --
 Zugriff: 29.6.2019.
-:::
 
-::: {#ref-st:2001}
 Stegbauer, Christian & Rausch, Alexander (2001). Die schweigende
 Mehrheit -- „Lurker" in internetbasierten Diskussionsforen. In:
-*Zeitschrift für Soziologie*. 30, Nr. 1, S. 48--64.
-:::
+*Zeitschrift für Soziologie*. 30, Nr.&#8239;1, S.&#8239;48--64.
 
-::: {#ref-wikiur:2019}
 Wiki:UR (11. Juli 2019). Universität Regensburg. In: *Wikipedia, Die
 freie Enzyklopädie*. [url:]{.smallcaps}
 <https://de.wikipedia.org/w/index.php?oldid=190335453> -- Zugriff:
 22.7.2019.
-:::
 
-::: {#ref-za:1685}
 Zahn, Johannes (1685). *Oculus Artificialis Teledioptricus Sive
 Telescopium*. Würzburg: Quirin Heil.
-:::
-:::
 
 \bibend
 
@@ -415,23 +391,15 @@ Telescopium*. Würzburg: Quirin Heil.
 
 \bibstart
 
-::: {#refs_other}
-::: {#ref-wom:1941}
 *A Woman's Face \[Die Frau mit der Narbe\]* (1941). Georges Cukor. USA:
 MGM \[DVD/2017\].
-:::
 
-::: {#ref-ray:1932}
 *Larmes \[Tränen\]* (1932). Man Ray. Entstehungsort: Paris, J. Paul
 Getty Museum -- Man Ray Trust ARS-ADAGP \[Silbergelatine\].
-:::
 
-::: {#ref-cas:1818}
 *Mann und Frau den Mond betrachtend \[Mann und Frau in Betrachtung des
 Mondes\]* (1818--1824). Caspar David Friedrich. Berlin, Staatliche
 Museen zu Berlin -- Preußischer Kulturbesitz \[Öl auf Leinwand\].
-:::
-:::
 
 \bibend
 
