@@ -246,6 +246,64 @@ Zugriff: 29.6.2019.
 Die bibliografischen Informationen zum verwendeten Wikipedia-Eintrag finden Sie auf der dazugehörigen Webseite unter „Artikel zitieren“. Als Datum des Artikels verwenden Sie den dort genannten „letzten Bearbeitungsstand“, als [url]{.smallcaps} den dort ersichtlichen „Permanentlink“.
 
 
+
+
+
+**Videos:** (z.&#8239;B. Youtube, Vimeo) -- abweichende Angaben bei Musikvideos (s.&#8239;u.)!
+
+\kurz Cook (2013).
+
+\bibstart
+
+\voll Cook, Shelby \[XxSourGummyBearzxX\] (16.12.2013). *Tom Hiddleston Funny Moments*. \[Video\]. [url:]{.smallcaps} [http://www.youtube.com/watch?v=kXViNegXPTk](http://www.youtube.com/watch?v=kXViNegXPTk) -- Zugriff: 4.2.2014.
+
+\bibend
+
+
+**Musikvideos:** (z.&#8239;B. Youtube, Vimeo)
+
+\kurz Björk (1999).
+
+\bibstart
+
+\voll Björk (1999). *All is full of love* (Electra Entertainment Group Inc., Chris Cunningham). [Musikvideo]. URL oder anders
+
+\bibend
+
+
+**Werbung:**
+
+\kurz Doppelherz (2007).
+
+\bibstart
+
+\voll Doppelherz (2007). *Sitznachbar*. ARD: Radio-Kreativ-Wettbewerb 2007, Broschüre und CD-Rom. \[Werbung\].
+
+\bibend
+
+\kurz Gesellschaft zur Förderung der Photographie (1952).
+
+\bibstart
+
+\voll Gesellschaft zur Förderung der Photographie (1952). Oh die herrlichen Berge. In: *Regensburger Archiv für Werbeforschung.* PROPHOTO vom 12.7.1952, HWA\_1\_863.mp3, R-Nummer: 616. [Werbung, Audio]. [url:]{.smallcaps} <https://raw.uni-regensburg.de/details.php?r=616> − Zugriff: 18.9.2013.
+
+\bibend
+
+
+**Bilder und Photos:**
+
+\kurz _Larmes_ (Man Ray, 1930).
+
+\bibstart
+
+\voll _Larmes_ [Tränen] (Man Ray, 1930). In: Rosalind Krauss & Jane Livingston (Hg.) (1985). L'amour fou. Photography and Surrealism. Washington: Abbeville Press. S.&#8239;118.
+
+\bibend
+
+
+<!-- Im **Quellenverzeichnis** werden unter dem Punkt **Bild-/Video-/Filmverzeichnis** die verwendeten Filme und/oder Bilder in alphabetischer Reihenfolge sortiert. -->
+
+
 **Film:**
 
 Länderkennung nach `ISO 3166-1 Alpha 2`.
@@ -257,71 +315,6 @@ Länderkennung nach `ISO 3166-1 Alpha 2`.
 \bibstart
 
 \voll _A Woman's Face_ (Die Frau mit der Narbe, USA 1941, Georges Cukor, DVD).
-
-\bibend
-
-
-**Videos:** (z.&#8239;B. Youtube, Vimeo) -- abweichende Angaben bei Musikvideos (s.&#8239;u.)!
-
-Nachname, Vorname \[Benutzername\] (Veröffentlichungsdatum). *Videotitel* \[Video file\]. [url:]{.smallcaps} [http://www.xyz.de](http://www.xyz.de) -- Zugriff: Tag.Monat.Jahr.
-
-\kurz Cook (2013).
-
-\bibstart
-
-\voll Cook, Shelby \[XxSourGummyBearzxX\] (16.12.2013). *Tom Hiddleston Funny Moments* \[Video file\]. [url:]{.smallcaps} [http://www.youtube.com/watch?v=kXViNegXPTk](http://www.youtube.com/watch?v=kXViNegXPTk) -- Zugriff: 4.2.2014.
-
-\bibend
-
-
-**Benutzername (Veröffentlichungsdatum). *Videotitel* \[Video file\]. [url:]{.smallcaps} [http://www.xyz.de](http://www.xyz.de) -- Zugriff: Tag.Monat.Jahr.**
-
-**Musikvideos:** (z.&#8239;B. Youtube, Vimeo)
-
-
-\kurz Björk (1999).
-\voll Doppelherz (2007). *Sitznachbar*. ARD: Radio-Kreativ-Wettbewerb 2007, Broschüre und CD-Rom. \[Werbung\].
-
-\bibend
-
-\kurz Gesellschaft zur Förderung der Photographie (1952).
-
-\bibstart
-
-\voll Björk (1999). *All is full of love* (Electra Entertainment Group Inc., Chris Cunningham).
-\voll Gesellschaft zur Förderung der Photographie (1952). Oh die herrlichen Berge. In: *Regensburger Archiv für Werbeforschung.* PROPHOTO vom 12.7.1952, HWA\_1\_863.mp3, R-Nummer: 616. [Werbung, Audio]. [url:]{.smallcaps} <https://raw.uni-regensburg.de/details.php?r=616> − Zugriff: 18.9.2013.
-
-\bibend
-
-**Bilder und Photos:**
-
-*Unbewegtbild-Originaltitel* (ggf. deutscher Titel, Künstler, Entstehungsjahr).
-
-
-\kurz _Larmes_ (Man Ray, 1930).
-
-\bibstart
-
-\voll _Larmes_ (Tränen, Man Ray, 1930). In: Rosalind Krauss & Jane Livingston (Hg.) (1985). L'amour fou. Photography and Surrealism. Washington: Abbeville Press. S.&#8239;118.
-
-\bibend
-
-
-<!-- Im **Quellenverzeichnis** werden unter dem Punkt **Bild-/Video-/Filmverzeichnis** die verwendeten Filme und/oder Bilder in alphabetischer Reihenfolge sortiert. -->
-
-
-**Werbung:**
-
-
-\bibstart
-
-\voll Doppelherz (2007). *Sitznachbar*. ARD: Radio-Kreativ-Wettbewerb 2007, Broschüre und CD-Rom. \[Werbung\].
-
-\bibend
-
-
-\bibstart
-
 
 \bibend
 
