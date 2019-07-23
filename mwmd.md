@@ -307,7 +307,7 @@ Länderkennung nach `ISO 3166-1 Alpha 2`.
 
 \bibstart
 
-\voll _A Woman's Face_ (Die Frau mit der Narbe, USA 1941, Georges Cukor, DVD).
+\voll _A Woman's Face_ [Die Frau mit der Narbe] (USA 1941).  Georges Cukor. DVD.
 
 \bibend
 
