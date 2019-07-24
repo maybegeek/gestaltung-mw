@@ -372,7 +372,7 @@ Zahn, Johannes (1685). *Oculus Artificialis Teledioptricus Sive Telescopium*. W�
 
 \addsec*{Erklärung}
 
-Ich habe die Arbeit selbständig verfasst, keine anderen als die angegebenen Quellen und Hilfsmittel benutzt und die Arbeit nicht bereits an einer anderen Hochschule zur Erlangung eines akademischen Grades eingereicht. Gegebenenfalls zu(m) Druckexemplar(en) vorgelegtes, digitales Material ist identisch.
+Ich habe die Arbeit selbständig verfasst, keine anderen als die angegebenen Quellen und Hilfsmittel benutzt und die Arbeit nicht bereits an einer anderen Hochschule zur Erlangung eines akademischen Grades eingereicht. Gegebenenfalls zu(m) Druckexemplar(en) vorgelegtes digitales Material ist identisch.
 
 Von den möglichen Rechtsfolgen habe ich Kenntnis:
 
