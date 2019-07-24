@@ -112,7 +112,7 @@ Beachten Sie für Abschlussarbeiten auch immer die Hinweise auf den Seiten des P
 
 # Zitierrichtlinien und Beispiele zur Erstellung des Quellenverzeichnis
 
-Das Quellenverzeichnis besteht aus einem alphabetisch geordneten Literaturverzeichnis (Bibliographie), das alle Quellen enthält, die mit einer Autorennennung beginnen (neben literarischen Werken z.&#8239;B. auch Mudikvideos oder Werbung ) und je nach weiteren verwendeten Quellen einem Bildverzeichnis, einem Filmverzeichnis etc. (typischerweise Quellen, die die nicht mit einem Autor sondern einem Titel beginnen, eben z.&#8239;B. Bilder oder Filmen).
+Das Quellenverzeichnis besteht aus einem alphabetisch geordneten Literaturverzeichnis (Bibliographie), das alle Quellen enthält, die mit einer Autorennennung beginnen (neben literarischen Werken z.&#8239;B. auch Musikvideos oder Werbung ) und je nach weiteren verwendeten Quellen einem Bildverzeichnis, einem Filmverzeichnis etc. (typischerweise Quellen, die die nicht mit einem Autor sondern einem Titel beginnen, eben z.&#8239;B. Bilder oder Filmen).
 
 Den Aufbau eines Quellenverzeichnisses, unter Verwendung aller hier im Text genannten Beispiele, finden Sie ab Seite 11.
 
