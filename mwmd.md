@@ -78,9 +78,9 @@ Im Schluss Ihrer Arbeit führen Sie Ihre Ergebnisse zusammen. Hier besteht zudem
 
 ### Quellenverzeichnis
 
-Hier werden alle in Ihrer Arbeit verwendeten Werke mit deren bibliografischen Details verzeichnet. Alle verwendeten Quellen sind von Ihnen auf deren Geeignetheit hin überprüft und ausgewählt worden. Ein sorgfältiges Erstellen ist verbindlich, dient der Überprüfbarkeit und zeigt Ihre akademische Sorgfalt. Die Zitierrichtlinien dazu finden Sie unter Punkt 2, das Musterbeispiel ab Seite 11
+Hier werden alle in Ihrer Arbeit verwendeten Werke mit deren bibliografischen Details verzeichnet. Ein sorgfältiges Erstellen ist verbindlich, dient der Überprüfbarkeit und zeigt Ihre akademische Sorgfalt. Die Gestaltunsgrichtlinien dazu finden Sie unter Punkt 2, das Musterbeispiel ab Seite 11
 
-<!-- Die nötige Untergliederung des Quellenverzeichnisses in ein Literaturverzeichnis und ein Verzeichnis für weitere alphabetisch sortierte Quellen (Fotografien, Gemälde, Filme, ...) ist abhängig von der Quellenlage zu wählen.  !!!!.-->
+<!--Alle verwendeten Quellen sind von Ihnen auf deren Geeignetheit hin überprüft und ausgewählt worden. Die nötige Untergliederung des Quellenverzeichnisses in ein Literaturverzeichnis und ein Verzeichnis für weitere alphabetisch sortierte Quellen (Fotografien, Gemälde, Filme, ...) ist abhängig von der Quellenlage zu wählen.  !!!!.-->
 
 ### Erklärung
 
@@ -110,11 +110,9 @@ Beachten Sie für Abschlussarbeiten auch immer die Hinweise auf den Seiten des P
     eine Serifenschrift; die [Vollkorn](http://vollkorn-typeface.com/)^[Näheres zur Schrift *Vollkorn* finden Sie unter [http://vollkorn-typeface.com/](http://vollkorn-typeface.com/)] kommt beispielsweise in diesem Dokument zum Einsatz.
 
 
-# Zitierrichtlinien und Beispiele zur Erstellung des Quellenverzeichnisses
+# Zitierrichtlinien und Beispiele zur Erstellung des Quellenverzeichnis
 
-Das Quellenverzeichnis besteht aus einem alphabetisch geordneten Literaturverzeichnis (Bibliographie), das alle Quellen enthält, die mit einer Autor/innennennung beginnen (neben literarischen Werken z.&#8239;B. auch Musikvideos, Texte aus dem Internet oder Werbung) und je nach weiteren verwendeten Quellen einem Bildverzeichnis, einem Filmverzeichnis etc. (typischerweise Quellen, die die nicht mit einer/m Autor/in sondern einem Titel beginnen, eben z.&#8239;B. Bilder, Photos oder Filme).
-
-Den Aufbau eines Quellenverzeichnisses, unter Verwendung aller hier im Text genannten Beispiele, finden Sie ab Seite 11.
+Das Quellenverzeichnis besteht aus einem alphabetisch geordneten Literaturverzeichnis (Bibliographie) und je nach weiteren verwendeten Quellen einem Bild-, Video-, Filmverzeichnis etc.
 
 
 ## Allgemeines zur Zitation
@@ -123,13 +121,13 @@ Den Aufbau eines Quellenverzeichnisses, unter Verwendung aller hier im Text gena
 
 Grundsätzlich lassen sich zwei Arten von Zitaten unterscheiden: das wörtliche oder direkte Zitat und das indirekte Zitat (Paraphrase). Sollten wörtliche Zitate über mehr als drei Zeilen gehen, werden diese links eingerückt und mit geringerem Schriftgrad (10pt) gesetzt.
 
-Sind bei einer/m Autor/in mehrere Werke im selben Jahr zu verzeichnen wird sowohl im Kurz- als auch im Vollbeleg der Jahreszahl ein alphabetisch fortlaufender Kleinbuchstaben-Index zugefügt. Wurde ein Werk von mehr als drei Autor/innen verfasst, wird im Kurzbeleg die/der Hauptautor/in genannt und weitere Koautor/innen unter „et al.“ zusammengefasst.
+Sind bei einem Autor mehrere Werke im selben Jahr zu verzeichnen wird sowohl im Kurz- als auch im Vollbeleg der Jahreszahl ein alphabetisch fortlaufender Kleinbuchstaben-Index zugefügt.
 
 Die Belege werden als **Kurzbeleg** in eine Fußnote geschrieben, bei Bildern direkt in die Abbildungsbeschriftung integriert. Der dazugehörige **Vollbeleg** wird am Ende der Arbeit in einem **Quellenverzeichnis** geführt.
 
-Die Anleitung zur korrekten Darstellung von Kurz- und Vollbeleg der verwendeten Quellen finden sie im folgenden Teil der Gestaltungsrichtlinien. Den beispielhaften Aufbau eines Quellenverzeichnisses finden Sie ab Seite 11. Dabei gilt, Quellen, die nicht mit einer/m Autor/in sondern einem Titel beginnen (z.&#8239;B. Bilder und Filme) sind alphabetisch unter einer eigenen Rubrik zu führen.
+Die Anleitung zur korrekten Darstellung von Kurz- und Vollbeleg der verwendeten Quellen finden sie im folgenden Teil der Gestaltungsrichtlinien. Den beispielhaften Aufbau eines Quellenverzeichnisses finden Sie ab Seite 11. Dabei gilt, Quellen, die nicht mit einem Autor sondern einem Titel beginnen (z.&#8239;B. Bilder und Filme) sind alphabetisch unter einer eigenen Rubrik zu führen.
 
-Die folgenden Beispiele bieten einen Überblick über häufig genutzte Quellentypen. Verwenden sie Quellen, die im Folgenden nicht beschrieben werden, versuchen Sie Ihre Belege nach dem hier vermittelten Stil zu verzeichnen.
+Die folgenden Beispiele bieten einen Überblick über häufig genutzte Quellentypen. Verwenden sie quellen, die im Folgenden nicht besdhrieben werden, versuchen Sie Ihre Belege nach dem hier vermittelten Stil zu verzeichnen.
 
 
 ## Fußnoten
@@ -145,19 +143,30 @@ Alle Fußnoten beginnen mit einem Großbuchstaben und werden mit einem Punkt abg
 
 ## Bilderverwendung
 
-Im Text verwendete Bilder werden mit einer Beschreibung und ihrer Quelle versehen.
+Bei der Verwendung von Bildmaterial im Text verwenden Sie dort ebenfalls begleitenden Text, welcher mit dem Kurzbeleg auf den Quellennachweis verweist.
 
-![Schematische Zeichnung einer portablen *camera obscura* nach Zahn (1685, S.&#8239;181).](eigene-dateien/cam.jpg){width=66%}
+![Schematische Zeichnung einer portablen *camera obscura* nach Zahn (1685, S.&#8239;181).](eigene-dateien/cam.jpg){width=55%}
 
-![Wald, Mond, Mensch. Naturbetrachtungen in der Romantik, bei Caspar David Friedrich.](eigene-dateien/mond.jpg){width=66%}
+In *Abbildung 1* handelt es sich um eine Darstellung aus einem Buch; der Vollbeleg demnach:
 
-Bei einer größeren Anzahl von im Text verwendeten Abbildungen, kann ein Abbildungsverzeichnis vor dem Quellenverzeichnis dem Lesenden nützlich sein. Dort werden die laufende Abbildungsnummer, die ggf. gekürzte Bildunterschrift und die Seitenangabe genannt. Es dient der Übersichtlichkeit verwendeter Bilder und ersetzt nicht das Bildverzeichnis, in dem die volle Quellenagabe anzugeben ist.
+\bibstart
 
-<!-- Im Quellenverzeichnis und dort beim Bildverzeichnis steht dann ausführlich:
+\voll Zahn, Johannes (1685). *Oculus Artificialis Teledioptricus Sive Telescopium*. Würzburg: Quirin Heil.
 
-Mann und Frau den Mond betrachtend (1818–1824). Caspar David Friedrich. Alte Nationalgalerie Berlin. -->
+\bibend
 
 
+![Wald, Mond, Mensch. Naturbetrachtungen in der Romantik, bei Caspar David Friedrich. *Mann und Frau den Mond betrachtend* (1818--1824).](eigene-dateien/mond.jpg){width=55%}
+
+Im Quellenverzeichnis und dort beim Bildverzeichnis steht dann ausführlich:
+
+\bibstart
+
+\voll _Mann und Frau den Mond betrachtend [Mann und Frau in Betrachtung des Mondes\]_ (1818--1824). Caspar David Friedrich. Berlin, Staatliche Museen zu Berlin -- Preußischer Kulturbesitz \[Öl auf Leinwand\].
+
+\bibend
+
+Bei einer größeren Anzahl von im Text verwendeten Abbildungen, kann ein Abbildungsverzeichnis vor dem Quellenverzeichnis dem Lesenden nützlich sein. Dort werden die laufende Abbildungsnummer, die ggf. gekürzte Bildunterschrift und die Seitenangabe genannt.
 
 
 ## Zitierstil
@@ -205,7 +214,9 @@ Mann und Frau den Mond betrachtend (1818–1824). Caspar David Friedrich. Alte N
 
 \bibend
 
-<!-- **et al.:** -->
+**et al.:**
+
+~~Wurde ein Werk von mehr als drei Autoren verfasst, wird im Kurzbeleg der Hauptautor genannt und weitere Koautoren unter „et al.“ zusammengefasst:~~
 
 \kurz Amento et al. (2003 S.&#8239;60).
 
@@ -257,7 +268,7 @@ Die bibliografischen Informationen zum verwendeten Wikipedia-Eintrag finden Sie 
 
 \bibstart
 
-\voll Björk (1999). *All is full of love*. (Chris Cunningham; Electra Entertainment Group Inc.). [Musikvideo]. URL: <https://www.youtube.com/watch?v=d2tBhaVEWGM> -- Zugriff: 22.7.2019.
+\voll Björk (1999). *All is full of love* (Electra Entertainment Group Inc., Chris Cunningham). [Musikvideo]. URL oder anders
 
 \bibend
 
@@ -297,8 +308,9 @@ Die bibliografischen Informationen zum verwendeten Wikipedia-Eintrag finden Sie 
 
 **Film:**
 
-Die Produktionsdaten von Filmen können zum Beispiel bei [imdb, The Internet Movie Database](https://www.imdb.com) abgefragt werden.
-Die Länderkennung erfolgt nach `ISO 3166-1 Alpha 2`. Bildunterschriften von Einzelkadern (Stills) aus Filmen etc., die der Illustration dienen, sind um den genauen Timecode des Einzelkaders zu ergänzen (jeweils zweistellig für Stunden, Minuten, Sekunden).
+Länderkennung nach `ISO 3166-1 Alpha 2`.
+
+*Film-Originaltitel* (ggf. deutscher Titel, Land bzw. Länder in denen der Film etc. produziert wurde, Regisseur, Verwendetes Trägermedium). Die Produktionsdaten von Filmen können zum Beispiel bei [imdb, The Internet Movie Database](https://www.imdb.com) abgefragt werden. Bildunterschriften von Einzelkadern (Stills) aus Filmen etc., die der Illustration dienen, sind um den genauen Timecode des Einzelkaders zu ergänzen (jeweils zweistellig für Stunden, Minuten, Sekunden).
 
 \kurz _A Woman's Face._ (USA 1941, 00:45:18).
 
@@ -352,7 +364,7 @@ Zahn, Johannes (1685). *Oculus Artificialis Teledioptricus Sive Telescopium*. W�
 
 \bibend
 
-## Bild- und Filmverzeichnis {-}
+## Bild-, Bewegtbild- und Audioverzeichnis {-}
 
 \bibstart
 
