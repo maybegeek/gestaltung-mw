@@ -149,7 +149,7 @@ Im Text ...
 
 ~~Abbildungsverzeichnis~~
 
-Bei einer größeren Anzahl von im Text verwendeten Abbildungen, kann ein Abbildungsverzeichnis vor dem Quellenverzeichnis dem Lesenden nützlich sein. Dort werden die laufende Abbildungsnummer, die ggf. gekürzte Bildunterschrift und die Seitenangabe genannt.
+
 
 ![Schematische Zeichnung einer portablen *camera obscura* nach Zahn (1685, S.&#8239;181).](eigene-dateien/cam.jpg){width=66%}
 
@@ -159,6 +159,7 @@ Im Quellenverzeichnis und dort beim Bildverzeichnis steht dann ausführlich:
 
 Mann und Frau den Mond betrachtend (1818–1824). Caspar David Friedrich. Alte Nationalgalerie Berlin.
 
+Bei einer größeren Anzahl von im Text verwendeten Abbildungen, kann ein Abbildungsverzeichnis vor dem Quellenverzeichnis dem Lesenden nützlich sein. Dort werden die laufende Abbildungsnummer, die ggf. gekürzte Bildunterschrift und die Seitenangabe genannt.
 
 
 ## Zitierstil
@@ -206,9 +207,9 @@ Mann und Frau den Mond betrachtend (1818–1824). Caspar David Friedrich. Alte N
 
 \bibend
 
-**et al.:**
+<!-- **et al.:** -->
 
-~~Wurde ein Werk von mehr als drei Autoren verfasst, wird im Kurzbeleg der Hauptautor genannt und weitere Koautoren unter „et al.“ zusammengefasst:~~
+~~Wurde ein Werk von mehr als drei Autoren verfasst, wird im Kurzbeleg der Hauptautor genannt und weitere Koautoren unter „et al.“ zusammengefasst ():~~
 
 \kurz Amento et al. (2003 S.&#8239;60).
 
