@@ -7,7 +7,7 @@ lang: de-DE
 
 ```{=latex}
 \hyphenation{
-  kom-mu-ni-ka-tions-wis-sen-schaft-li-che
+  me-di-en-wis-sen-schaft-li-che
 }
 ```
 
