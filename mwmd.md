@@ -123,7 +123,7 @@ Den Aufbau eines Quellenverzeichnisses, unter Verwendung aller hier im Text gena
 
 Grundsätzlich lassen sich zwei Arten von Zitaten unterscheiden: das wörtliche oder direkte Zitat und das indirekte Zitat (Paraphrase). Sollten wörtliche Zitate über mehr als drei Zeilen gehen, werden diese links eingerückt und mit geringerem Schriftgrad (10pt) gesetzt.
 
-Sind bei einem Autor mehrere Werke im selben Jahr zu verzeichnen wird sowohl im Kurz- als auch im Vollbeleg der Jahreszahl ein alphabetisch fortlaufender Kleinbuchstaben-Index zugefügt.
+Sind bei einer/m Autor/in mehrere Werke im selben Jahr zu verzeichnen wird sowohl im Kurz- als auch im Vollbeleg der Jahreszahl ein alphabetisch fortlaufender Kleinbuchstaben-Index zugefügt. Wurde ein Werk von mehr als drei Autor/innen verfasst, wird im Kurzbeleg die/der Hauptautor/in genannt und weitere Koautor/innen unter „et al.“ zusammengefasst.
 
 Die Belege werden als **Kurzbeleg** in eine Fußnote geschrieben, bei Bildern direkt in die Abbildungsbeschriftung integriert. Der dazugehörige **Vollbeleg** wird am Ende der Arbeit in einem **Quellenverzeichnis** geführt.
 
@@ -208,8 +208,6 @@ Bei einer größeren Anzahl von im Text verwendeten Abbildungen, kann ein Abbild
 \bibend
 
 <!-- **et al.:** -->
-
-~~Wurde ein Werk von mehr als drei Autoren verfasst, wird im Kurzbeleg der Hauptautor genannt und weitere Koautoren unter „et al.“ zusammengefasst ():~~
 
 \kurz Amento et al. (2003 S.&#8239;60).
 
