@@ -129,7 +129,7 @@ Die Belege werden als **Kurzbeleg** in eine Fußnote geschrieben, bei Bildern di
 
 Die Anleitung zur korrekten Darstellung von Kurz- und Vollbeleg der verwendeten Quellen finden sie im folgenden Teil der Gestaltungsrichtlinien. Den beispielhaften Aufbau eines Quellenverzeichnisses finden Sie ab Seite 11. Dabei gilt, Quellen, die nicht mit einem Autor sondern einem Titel beginnen (z.&#8239;B. Bilder und Filme) sind alphabetisch unter einer eigenen Rubrik zu führen.
 
-Die folgenden Beispiele bieten einen Überblick über häufig genutzte Quellentypen. Verwenden sie quellen, die im Folgenden nicht besdhrieben werden, versuchen Sie Ihre Belege nach dem hier vermittelten Stil zu verzeichnen.
+Die folgenden Beispiele bieten einen Überblick über häufig genutzte Quellentypen. Verwenden sie Quellen, die im Folgenden nicht beschrieben werden, versuchen Sie Ihre Belege nach dem hier vermittelten Stil zu verzeichnen.
 
 
 ## Fußnoten
