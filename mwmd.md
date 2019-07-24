@@ -144,11 +144,11 @@ Alle Fußnoten beginnen mit einem Großbuchstaben und werden mit einem Punkt abg
 
 ## Bilderverwendung
 
-Im Text verwendete Bilder werden mit einer Beschreibung und ihrer Quelle versehen.
+Im Text verwendete Bilder werden mit einer Bildunterschrift und dem jeweiligen Kurzbeleg versehen.
 
-![Schematische Zeichnung einer portablen *camera obscura* nach Zahn (1685, S.&#8239;181).](eigene-dateien/cam.jpg){width=66%}
+![Schematische Zeichnung einer portablen *camera obscura* nach Zahn (1685, S.&#8239;181).](eigene-dateien/cam.jpg){width=51%}
 
-![Wald, Mond, Mensch. Naturbetrachtungen in der Romantik, bei Caspar David Friedrich.](eigene-dateien/mond.jpg){width=66%}
+![Wald, Mond, Mensch; Naturbetrachtungen bei Caspar David Friedrich in *Mann und Frau den Mond betrachtend* (1818--1824).](eigene-dateien/mond.jpg){width=51%}
 
 Bei einer größeren Anzahl von im Text verwendeten Abbildungen, kann ein Abbildungsverzeichnis vor dem Quellenverzeichnis dem Lesenden nützlich sein. Dort werden die laufende Abbildungsnummer, die ggf. gekürzte Bildunterschrift und die Seitenangabe genannt. Es dient der Übersichtlichkeit verwendeter Bilder und ersetzt nicht das Bildverzeichnis, in dem die volle Quellenagabe anzugeben ist.
 
