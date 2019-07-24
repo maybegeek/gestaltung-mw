@@ -92,7 +92,6 @@ Beachten Sie für Abschlussarbeiten auch immer die Hinweise auf den Seiten des P
 
 ## Seitenlayout und Typografisches ^[Darüber hinausgehende Informationen zu orthografisch richtiger und typografisch ansprechender Gestaltung schriftlicher Arbeiten finden sie z.&#8239;B. in „Typokurz -- Einige wichtige typografische Regeln“ bei Bier (2009).]
 
-
 -   Die Arbeit wird einseitig auf DIN A4-Papier gedruckt.
     Die Seitenränder betragen: oben 3cm, unten 3,8cm,
     links 3,2cm und rechts 3cm.
@@ -126,9 +125,9 @@ Sind bei einem Autor mehrere Werke im selben Jahr zu verzeichnen wird sowohl im 
 
 Die Belege werden als **Kurzbeleg** in eine Fußnote geschrieben, bei Bildern direkt in die Abbildungsbeschriftung integriert. Der dazugehörige **Vollbeleg** wird am Ende der Arbeit in einem **Quellenverzeichnis** geführt.
 
-Die Anleitung zur korrekten Darstellung von Kurz- und Vollbeleg der verwendeten Quellen finden sie im folgenden Teil der Gestaltungsrichtlinien. Den beispielhaften Aufbau eines Quellenverzeichnisses finden Sie ab Seite XY!!!. Dabei gilt, Quellen, die nicht mit einem Autor sondern einem Titel beginnen (z.&#8239;B. Bilder und Filme) sind alphabetisch unter einer eigenen Rubrik zu führen.
+Die Anleitung zur korrekten Darstellung von Kurz- und Vollbeleg der verwendeten Quellen finden sie im folgenden Teil der Gestaltungsrichtlinien. Den beispielhaften Aufbau eines Quellenverzeichnisses finden Sie ab Seite 11. Dabei gilt, Quellen, die nicht mit einem Autor sondern einem Titel beginnen (z.&#8239;B. Bilder und Filme) sind alphabetisch unter einer eigenen Rubrik zu führen.
 
-~~Die folgenden Beispiele bieten einen Überblick über häufig genutzte Quellentypen, derer es über die verwendeten viele mehr gibt. Bei nicht behandelten Quellentypen versuchen Sie Ihre Belege nach dem hier vermittelten Stil zu verzeichnen.~~
+Die folgenden Beispiele bieten einen Überblick über häufig genutzte Quellentypen. Verwenden sie quellen, die im Folgenden nicht besdhrieben werden, versuchen Sie Ihre Belege nach dem hier vermittelten Stil zu verzeichnen.
 
 
 ## Fußnoten
