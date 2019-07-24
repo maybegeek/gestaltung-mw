@@ -205,7 +205,7 @@ Mann und Frau den Mond betrachtend (1818–1824). Caspar David Friedrich. Alte N
 \bibend
 
 
-\kurz Amento et al. (2003 S.&#8239;60).
+\kurz Amento et al. (2003, S.&#8239;60).
 
 \bibstart
 
