@@ -285,7 +285,7 @@ Die bibliografischen Informationen zum verwendeten Wikipedia-Eintrag finden Sie 
 
 \bibstart
 
-\voll _Larmes_ [Tränen] (1930). Man Ray. In: Rosalind Krauss & Jane Livingston (Hg.) (1985). L'amour fou. Photography and Surrealism. Washington: Abbeville Press. S.&#8239;118.
+\voll _Larmes [Tränen]_ (1930). Man Ray. In: Rosalind Krauss & Jane Livingston (Hg.) (1985). L'amour fou. Photography and Surrealism. Washington: Abbeville Press. S.&#8239;118.
 
 \bibend
 
@@ -297,11 +297,11 @@ Die bibliografischen Informationen zum verwendeten Wikipedia-Eintrag finden Sie 
 Die Produktionsdaten von Filmen können zum Beispiel bei [imdb, The Internet Movie Database](https://www.imdb.com) abgefragt werden.
 Die Länderkennung erfolgt nach `ISO 3166-1 Alpha 2`. Bildunterschriften von Einzelkadern (Stills) aus Filmen etc., die der Illustration dienen, sind um den genauen Timecode des Einzelkaders zu ergänzen (jeweils zweistellig für Stunden, Minuten, Sekunden).
 
-\kurz _A Woman's Face._ (USA 1941, 00:45:18).
+\kurz _A Woman's Face_ (USA 1941, 00:45:18).
 
 \bibstart
 
-\voll _A Woman's Face_ [Die Frau mit der Narbe] (USA 1941). Georges Cukor. DVD.
+\voll _A Woman's Face [Die Frau mit der Narbe]_ (USA 1941). Georges Cukor. DVD.
 
 \bibend
 
