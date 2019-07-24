@@ -70,7 +70,7 @@ Die Einleitung ist als integraler Bestandteil der Arbeit zu sehen und soll dem L
 ### Hauptteil
 
 Der Hauptteil Ihrer Arbeit. Die inhaltlichen Wege der Bearbeitung werden durch die Frage- oder Aufgabenstellung definiert sowie durch mögliche Vorgaben der Dozierenden.
-Verwenden Sie *sprechende Überschriften*, d.&#8239;h. auf den Inhalt des jeweiligen Abschnitts hinweisende Überschriften; keine Überschriften wie *Hauptteil* oder *Kapitel 1*. 
+Verwenden Sie *sprechende Überschriften*, d.&#8239;h. auf den Inhalt des jeweiligen Abschnitts hinweisende Überschriften; keine Überschriften wie *Hauptteil* oder *Kapitel 1*.
 
 ### Schluss
 
@@ -90,9 +90,8 @@ Beachten Sie für Abschlussarbeiten auch immer die Hinweise auf den Seiten des P
 <https://www.ur.de/studium/pruefungsverwaltung/geisteswissenschaften>.
 
 
-## Seitenlayout und Typografisches
+## Seitenlayout und Typografisches ^[Darüber hinausgehende Informationen zu orthografisch richtiger und typografisch ansprechender Gestaltung schriftlicher Arbeiten finden sie z.&#8239;B. in „Typokurz -- Einige wichtige typografische Regeln“ bei Bier (2009).]
 
-~~Satz~~^[Darüber hinausgehende Informationen zu orthografisch richtiger und typografisch ansprechender Gestaltung schriftlicher Arbeiten finden sie z.&#8239;B. in „Typokurz -- Einige wichtige typografische Regeln“ bei Bier (2009).]
 
 -   Die Arbeit wird einseitig auf DIN A4-Papier gedruckt.
     Die Seitenränder betragen: oben 3cm, unten 3,8cm,
