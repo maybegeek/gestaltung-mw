@@ -127,7 +127,7 @@ Sind bei einer/m Autor/in mehrere Werke im selben Jahr zu verzeichnen wird sowoh
 
 Die Belege werden als **Kurzbeleg** in eine Fußnote geschrieben, bei Bildern direkt in die Abbildungsbeschriftung integriert. Der dazugehörige **Vollbeleg** wird am Ende der Arbeit in einem **Quellenverzeichnis** geführt.
 
-Die Anleitung zur korrekten Darstellung von Kurz- und Vollbeleg der verwendeten Quellen finden sie im folgenden Teil der Gestaltungsrichtlinien. Den beispielhaften Aufbau eines Quellenverzeichnisses finden Sie ab Seite 11. Dabei gilt, Quellen, die nicht mit einem Autor sondern einem Titel beginnen (z.&#8239;B. Bilder und Filme) sind alphabetisch unter einer eigenen Rubrik zu führen.
+Die Anleitung zur korrekten Darstellung von Kurz- und Vollbeleg der verwendeten Quellen finden sie im folgenden Teil der Gestaltungsrichtlinien. Den beispielhaften Aufbau eines Quellenverzeichnisses finden Sie ab Seite 11. Dabei gilt, Quellen, die nicht mit einer/m Autor/in sondern einem Titel beginnen (z.&#8239;B. Bilder und Filme) sind alphabetisch unter einer eigenen Rubrik zu führen.
 
 Die folgenden Beispiele bieten einen Überblick über häufig genutzte Quellentypen. Verwenden sie Quellen, die im Folgenden nicht beschrieben werden, versuchen Sie Ihre Belege nach dem hier vermittelten Stil zu verzeichnen.
 
