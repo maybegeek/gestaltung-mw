@@ -161,7 +161,7 @@ Mann und Frau den Mond betrachtend (1818–1824). Caspar David Friedrich. Alte N
 
 ## Zitierstil
 
-**Monografien:**
+### Monografien
 
 \kurz Vgl. Dotzler & Roesler-Keilholz (2017, S.&#8239;22).
 
@@ -172,7 +172,7 @@ Mann und Frau den Mond betrachtend (1818–1824). Caspar David Friedrich. Alte N
 \bibend
 
 
-**Herausgeberschaft:**
+### Herausgeberschaft
 
 \kurz Heibach & Rohde (2015).
 
@@ -183,7 +183,7 @@ Mann und Frau den Mond betrachtend (1818–1824). Caspar David Friedrich. Alte N
 \bibend
 
 
-**Wissenschaftliche Fachzeitschriften:**
+### Wissenschaftliche Fachzeitschriften
 
 \kurz Stegbauer & Rausch (2001, S.&#8239;48).
 
@@ -194,7 +194,7 @@ Mann und Frau den Mond betrachtend (1818–1824). Caspar David Friedrich. Alte N
 \bibend
 
 
-**Sammelbände:**
+### Sammelbände
 
 \kurz Vgl. Gerhards & Neidhardt (1993, S.&#8239;60f.).
 
@@ -214,7 +214,7 @@ Mann und Frau den Mond betrachtend (1818–1824). Caspar David Friedrich. Alte N
 \bibend
 
 
-**Website:**
+### Website
 
 \kurz O'Reilly (2005).
 
@@ -225,7 +225,7 @@ Mann und Frau den Mond betrachtend (1818–1824). Caspar David Friedrich. Alte N
 \bibend
 
 
-**Wikipedia:**
+### Wikipedia
 
 \kurz Vgl. Wikipedia (2019).
 
@@ -238,7 +238,7 @@ Mann und Frau den Mond betrachtend (1818–1824). Caspar David Friedrich. Alte N
 Die bibliografischen Informationen zum verwendeten Wikipedia-Eintrag finden Sie auf der dazugehörigen Webseite unter „Artikel zitieren“. Als Datum des Artikels verwenden Sie den dort genannten „letzten Bearbeitungsstand“, als [url]{.smallcaps} den dort ersichtlichen „Permanentlink“.
 
 
-**Videos:** (z.&#8239;B. Youtube, Vimeo) -- abweichende Angaben bei Musikvideos (s.&#8239;u.)!
+### Videos
 
 \kurz Cook (2013).
 
@@ -249,7 +249,7 @@ Die bibliografischen Informationen zum verwendeten Wikipedia-Eintrag finden Sie 
 \bibend
 
 
-**Musikvideos:** (z.&#8239;B. Youtube, Vimeo)
+### Musikvideos
 
 \kurz Björk (1999).
 
@@ -260,7 +260,7 @@ Die bibliografischen Informationen zum verwendeten Wikipedia-Eintrag finden Sie 
 \bibend
 
 
-**Werbung:**
+### Werbung
 
 \kurz Doppelherz (2007).
 
@@ -279,7 +279,7 @@ Die bibliografischen Informationen zum verwendeten Wikipedia-Eintrag finden Sie 
 \bibend
 
 
-**Bilder und Photos:**
+### Bilder und Fotografien
 
 \kurz _Larmes_ (Man Ray, 1930).
 
@@ -290,9 +290,9 @@ Die bibliografischen Informationen zum verwendeten Wikipedia-Eintrag finden Sie 
 \bibend
 
 
+### Film
 
 
-**Film:**
 
 Die Produktionsdaten von Filmen können zum Beispiel bei [imdb, The Internet Movie Database](https://www.imdb.com) abgefragt werden.
 Die Länderkennung erfolgt nach `ISO 3166-1 Alpha 2`. Bildunterschriften von Einzelkadern (Stills) aus Filmen etc., die der Illustration dienen, sind um den genauen Timecode des Einzelkaders zu ergänzen (jeweils zweistellig für Stunden, Minuten, Sekunden).
