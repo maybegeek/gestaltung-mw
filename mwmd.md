@@ -77,9 +77,9 @@ Die Einleitung ist als integraler Bestandteil der Arbeit zu sehen und soll dem L
 
 ### Quellenverzeichnis
 
-Hier werden alle in Ihrer Arbeit verwendeten Werke mit deren bibliografischen Details verzeichnet. Ein sorgfältiges Erstellen ist verbindlich, dient der Überprüfbarkeit und zeigt Ihre akademische Sorgfalt.
+Hier werden alle in Ihrer Arbeit verwendeten Werke mit deren bibliografischen Details verzeichnet. Ein sorgfältiges Erstellen ist verbindlich, dient der Überprüfbarkeit und zeigt Ihre akademische Sorgfalt. Die Gestaltunsgrichtlinien dazu finden Sie unter Punkt 2, das Musterbeispiel ab Seite 11
 
-~~Alle verwendeten Quellen sind von Ihnen auf deren Geeignetheit~~ hin überprüft und ausgewählt worden. Die nötige Untergliederung des Quellenverzeichnisses in ein Literaturverzeichnis und ein Verzeichnis für weitere alphabetisch sortierte Quellen (Fotografien, Gemälde, Filme, ...) ist abhängig von der Quellenlage zu wählen. Die Gestaltunsgrichtlinien dazu finden Sie unter Punkt 2, das Musterbeispiel ab Seite 11 !!!!.
+<!--Alle verwendeten Quellen sind von Ihnen auf deren Geeignetheit hin überprüft und ausgewählt worden. Die nötige Untergliederung des Quellenverzeichnisses in ein Literaturverzeichnis und ein Verzeichnis für weitere alphabetisch sortierte Quellen (Fotografien, Gemälde, Filme, ...) ist abhängig von der Quellenlage zu wählen.  !!!!.-->
 
 ### Erklärung
 
