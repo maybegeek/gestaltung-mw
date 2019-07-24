@@ -357,7 +357,7 @@ Zahn, Johannes (1685). *Oculus Artificialis Teledioptricus Sive Telescopium*. WÃ
 
 \bibend
 
-## Bild- und Audioverzeichnis {-}
+## Bild- und Filmverzeichnis {-}
 
 \bibstart
 
