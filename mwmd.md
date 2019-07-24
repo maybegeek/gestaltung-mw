@@ -112,7 +112,7 @@ Beachten Sie für Abschlussarbeiten auch immer die Hinweise auf den Seiten des P
 
 # Zitierrichtlinien und Beispiele zur Erstellung des Quellenverzeichnisses
 
-Das Quellenverzeichnis besteht aus einem alphabetisch geordneten Literaturverzeichnis (Bibliographie), das alle Quellen enthält, die mit einer Autorennennung beginnen (neben literarischen Werken z.&#8239;B. auch Musikvideos, Texte aus dem Internet oder Werbung ) und je nach weiteren verwendeten Quellen einem Bildverzeichnis, einem Filmverzeichnis etc. (typischerweise Quellen, die die nicht mit einem Autor sondern einem Titel beginnen, eben z.&#8239;B. Bilder, Photos oder Filme).
+Das Quellenverzeichnis besteht aus einem alphabetisch geordneten Literaturverzeichnis (Bibliographie), das alle Quellen enthält, die mit einer Autorennennung beginnen (neben literarischen Werken z.&#8239;B. auch Musikvideos, Texte aus dem Internet oder Werbung) und je nach weiteren verwendeten Quellen einem Bildverzeichnis, einem Filmverzeichnis etc. (typischerweise Quellen, die die nicht mit einem Autor sondern einem Titel beginnen, eben z.&#8239;B. Bilder, Photos oder Filme).
 
 Den Aufbau eines Quellenverzeichnisses, unter Verwendung aller hier im Text genannten Beispiele, finden Sie ab Seite 11.
 
@@ -145,21 +145,19 @@ Alle Fußnoten beginnen mit einem Großbuchstaben und werden mit einem Punkt abg
 
 ## Bilderverwendung
 
-Im Text ...
-
-~~Abbildungsverzeichnis~~
-
-
+Im Text verwendete Bilder werden mit einer Beschreibung und ihrer Quelle versehen.
 
 ![Schematische Zeichnung einer portablen *camera obscura* nach Zahn (1685, S.&#8239;181).](eigene-dateien/cam.jpg){width=66%}
 
 ![Wald, Mond, Mensch. Naturbetrachtungen in der Romantik, bei Caspar David Friedrich.](eigene-dateien/mond.jpg){width=66%}
 
-Im Quellenverzeichnis und dort beim Bildverzeichnis steht dann ausführlich:
+Bei einer größeren Anzahl von im Text verwendeten Abbildungen, kann ein Abbildungsverzeichnis vor dem Quellenverzeichnis dem Lesenden nützlich sein. Dort werden die laufende Abbildungsnummer, die ggf. gekürzte Bildunterschrift und die Seitenangabe genannt. Es dient der Übersichtlichkeit verwendeter Bilder und ersetzt nicht das Bildverzeichnis, in dem die volle Quellenagabe anzugeben ist.
 
-Mann und Frau den Mond betrachtend (1818–1824). Caspar David Friedrich. Alte Nationalgalerie Berlin.
+<!-- Im Quellenverzeichnis und dort beim Bildverzeichnis steht dann ausführlich:
 
-Bei einer größeren Anzahl von im Text verwendeten Abbildungen, kann ein Abbildungsverzeichnis vor dem Quellenverzeichnis dem Lesenden nützlich sein. Dort werden die laufende Abbildungsnummer, die ggf. gekürzte Bildunterschrift und die Seitenangabe genannt.
+Mann und Frau den Mond betrachtend (1818–1824). Caspar David Friedrich. Alte Nationalgalerie Berlin. -->
+
+
 
 
 ## Zitierstil
