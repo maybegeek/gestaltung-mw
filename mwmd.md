@@ -292,10 +292,7 @@ Die bibliografischen Informationen zum verwendeten Wikipedia-Eintrag finden Sie 
 
 ### Film
 
-
-
-Die Produktionsdaten von Filmen können zum Beispiel bei [imdb, The Internet Movie Database](https://www.imdb.com) abgefragt werden.
-Die Länderkennung erfolgt nach `ISO 3166-1 Alpha 2`. Bildunterschriften von Einzelkadern (Stills) aus Filmen etc., die der Illustration dienen, sind um den genauen Timecode des Einzelkaders zu ergänzen (jeweils zweistellig für Stunden, Minuten, Sekunden).
+Die Produktionsdaten von Filmen können zum Beispiel bei [imdb, The Internet Movie Database](https://www.imdb.com) abgefragt werden. Die Länderkennung erfolgt nach `ISO 3166-1 Alpha 2`. Bildunterschriften von Einzelkadern (Stills) aus Filmen etc., die der Illustration dienen, sind um den genauen Timecode des Einzelkaders zu ergänzen (jeweils zweistellig für Stunden, Minuten, Sekunden).
 
 \kurz _A Woman's Face_ (USA 1941, 00:45:18).
 
