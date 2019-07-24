@@ -38,8 +38,8 @@ header-includes:
 - \ofoot{}
 - \makeatletter\def\maketitle{}\makeatother
 - \usepackage{setspace}\spacing{1.16}
-- \widowpenalty=1000
-- \clubpenalty=1000
+- \widowpenalty=10000
+- \clubpenalty=10000
 - \setlength{\footnotesep}{10pt}
 - \usepackage{draftwatermark}
 - \SetWatermarkText{...}
