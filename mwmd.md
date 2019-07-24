@@ -153,7 +153,7 @@ Bei einer größeren Anzahl von im Text verwendeten Abbildungen, kann ein Abbild
 
 ![Wald, Mond, Mensch. Naturbetrachtungen in der Romantik, bei Caspar David Friedrich.](eigene-dateien/mond.jpg){width=66%}
 
-Im Quellenverzeichnis und dort beim Bild-/Video-/Filmverzeichnis steht dann ausführlich:
+Im Quellenverzeichnis und dort beim Bildverzeichnis steht dann ausführlich:
 
 Mann und Frau den Mond betrachtend (1818–1824). Caspar David Friedrich. Alte Nationalgalerie Berlin.
 
