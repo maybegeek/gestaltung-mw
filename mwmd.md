@@ -204,7 +204,6 @@ Mann und Frau den Mond betrachtend (1818–1824). Caspar David Friedrich. Alte N
 
 \bibend
 
-<!-- **et al.:** -->
 
 \kurz Amento et al. (2003 S.&#8239;60).
 
@@ -291,7 +290,6 @@ Die bibliografischen Informationen zum verwendeten Wikipedia-Eintrag finden Sie 
 \bibend
 
 
-<!-- Im **Quellenverzeichnis** werden unter dem Punkt **Bild-/Video-/Filmverzeichnis** die verwendeten Filme und/oder Bilder in alphabetischer Reihenfolge sortiert. -->
 
 
 **Film:**
