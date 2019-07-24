@@ -240,6 +240,8 @@ Die bibliografischen Informationen zum verwendeten Wikipedia-Eintrag finden Sie 
 
 ### Videos
 
+(z.&#8239;B. Youtube, Vimeo) -- abweichende Angaben bei Musikvideos (s.&#8239;u.)!
+
 \kurz Cook (2013).
 
 \bibstart
@@ -250,6 +252,8 @@ Die bibliografischen Informationen zum verwendeten Wikipedia-Eintrag finden Sie 
 
 
 ### Musikvideos
+
+(z.&#8239;B. Youtube, Vimeo)
 
 \kurz Björk (1999).
 
