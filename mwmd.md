@@ -110,7 +110,7 @@ Beachten Sie für Abschlussarbeiten auch immer die Hinweise auf den Seiten des P
     eine Serifenschrift; die [Vollkorn](http://vollkorn-typeface.com/)^[Näheres zur Schrift *Vollkorn* finden Sie unter [http://vollkorn-typeface.com/](http://vollkorn-typeface.com/)] kommt beispielsweise in diesem Dokument zum Einsatz.
 
 
-# Zitierrichtlinien und Beispiele zur Erstellung des Quellenverzeichnis
+# Zitierrichtlinien und Beispiele zur Erstellung des Quellenverzeichnisses
 
 Das Quellenverzeichnis besteht aus einem alphabetisch geordneten Literaturverzeichnis (Bibliographie), das alle Quellen enthält, die mit einer Autorennennung beginnen (neben literarischen Werken z.&#8239;B. auch Musikvideos oder Werbung ) und je nach weiteren verwendeten Quellen einem Bildverzeichnis, einem Filmverzeichnis etc. (typischerweise Quellen, die die nicht mit einem Autor sondern einem Titel beginnen, eben z.&#8239;B. Bilder, Photos oder Filme).
 
