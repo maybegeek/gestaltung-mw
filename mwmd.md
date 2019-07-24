@@ -261,7 +261,7 @@ Die bibliografischen Informationen zum verwendeten Wikipedia-Eintrag finden Sie 
 
 \bibstart
 
-\voll Björk (1999). *All is full of love* (Electra Entertainment Group Inc., Chris Cunningham). [Musikvideo]. URL oder anders
+\voll Björk (1999). *All is full of love* (Electra Entertainment Group Inc., Chris Cunningham). [Musikvideo]. URL: <https://www.youtube.com/watch?v=d2tBhaVEWGM> -- Zugriff: 22.7.2019.
 
 \bibend
 
