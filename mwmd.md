@@ -127,7 +127,7 @@ Die Anleitung zur korrekten Darstellung von Kurz- und Vollbeleg der verwendeten 
 
 ## Fußnoten
 
-In Fußnoten sollen, neben weiterführenden Gedanken, die dort auch ihren Platz finden können, die Kurzbelege Ihrer verwendeten Quellen mit den passenden Seitenangaben^[Zur Verwendung von „f.“ (auch die folgende Seite), „ff.“ (die zwei folgenden Seiten) und der Angabe eines Seitenraums bei Seitenangaben vergleichen Sie beispielsweise <https://www.wissenschaftliches-arbeiten.org/faq/seitenzahlen-zitate.html> bei Wissenschaftliches-Arbeiten (2008).] zu finden sein. Wird von Ihnen nicht wörtlich zitiert, sondern paraphrasiert, machen Sie dies im Kurzbeleg auch deutlich und stellen diesem ein „Vgl.“ voran.
+In Fußnoten sollen, neben weiterführenden Gedanken, die dort auch ihren Platz finden können, die Kurzbelege Ihrer verwendeten Quellen mit den passenden Seitenangaben zu finden sein. Wird von Ihnen nicht wörtlich zitiert, sondern paraphrasiert, machen Sie dies im Kurzbeleg auch deutlich und stellen diesem ein „Vgl.“ voran.
 
 Sie finden im Folgenden bei allen im Zitierstil beschriebenen Arten von Quellen die dazugehörige Form des Kurztitels für die Fußnoten.
 
@@ -186,7 +186,7 @@ Die folgenden Beispiele bieten einen Überblick über häufig genutzte Quellenty
 
 ### Sammelbände
 
-\kurz Vgl. Gerhards & Neidhardt (1993, S.&#8239;60f.).
+\kurz Vgl. Gerhards & Neidhardt (1993, S.&#8239;60).
 
 \bibstart
 
@@ -349,8 +349,6 @@ O'Reilly, Tim (2005). What Is Web 2.0. Design Patterns and Business Models for t
 Stegbauer, Christian & Rausch, Alexander (2001). Die schweigende Mehrheit -- „Lurker" in internetbasierten Diskussionsforen. In: *Zeitschrift für Soziologie*. 30, Nr.&#8239;1, S.&#8239;48--64.
 
 Wikipedia (11. Juli 2019). Universität Regensburg. In: *Wikipedia, Die freie Enzyklopädie*. [url:]{.smallcaps} <https://de.wikipedia.org/w/index.php?title=Universit%C3%A4t_Regensburg&oldid=190335453> -- Zugriff: 22.7.2019.
-
-Wissenschaftliches-Arbeiten (2008). *Wie werden Seitenzahlen von Zitaten angegeben?* [url:]{.smallcaps} <https://www.wissenschaftliches-arbeiten.org/faq/seitenzahlen-zitate.html> -- Zugriff: 22.7.2019.
 
 Zahn, Johannes (1685). *Oculus Artificialis Teledioptricus Sive Telescopium*. Würzburg: Quirin Heil.
 
