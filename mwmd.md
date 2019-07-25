@@ -296,13 +296,13 @@ Die bibliografischen Informationen zum verwendeten Wikipedia-Eintrag finden Sie 
 
 ### Film
 
-Die Produktionsdaten von Filmen können zum Beispiel bei [imdb, The Internet Movie Database](https://www.imdb.com) abgefragt werden. Die Länderkennung erfolgt nach `ISO 3166-1 Alpha 2`. Bildunterschriften von Einzelkadern (Stills) aus Filmen etc., die der Illustration dienen, sind um den genauen Timecode des Einzelkaders zu ergänzen (jeweils zweistellig für Stunden, Minuten, Sekunden).
+Die Produktionsdaten von Filmen können zum Beispiel bei [imdb (The Internet Movie Database)](https://www.imdb.com) abgefragt werden. Die Länderkennung erfolgt abgekürzt nach [ISO 3166-1 Alpha 2](https://en.wikipedia.org/wiki/ISO_3166-1).
 
-\kurz _A Woman's Face_ (USA 1941, 00:45:18).
+\kurz _A Woman's Face_ (US 1941) -- bei Stills oder Ausschnitten mit Timecode _A Woman's Face_ (US 1941, 00:45:18).
 
 \bibstart
 
-\voll _A Woman's Face [Die Frau mit der Narbe]_ (USA 1941). Georges Cukor. DVD.
+\voll _A Woman's Face [Die Frau mit der Narbe]_ (US 1941). Georges Cukor. DVD.
 
 \bibend
 
@@ -354,7 +354,7 @@ Zahn, Johannes (1685). *Oculus Artificialis Teledioptricus Sive Telescopium*. W�
 
 \bibstart
 
-*A Woman's Face \[Die Frau mit der Narbe\]* (1941). Georges Cukor. USA: MGM \[DVD/2017\].
+*A Woman's Face \[Die Frau mit der Narbe\]* (1941). Georges Cukor. US: MGM \[DVD/2017\].
 
 *Larmes \[Tränen\]* (1932). Man Ray. Entstehungsort: Paris, J. Paul Getty Museum -- Man Ray Trust ARS-ADAGP \[Silbergelatine\].
 
