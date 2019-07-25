@@ -292,7 +292,11 @@ Die bibliografischen Informationen zum verwendeten Wikipedia-Eintrag finden Sie 
 
 Die Produktionsdaten von Filmen können zum Beispiel bei [imdb (The Internet Movie Database)](https://www.imdb.com) abgefragt werden. Die Länderkennung erfolgt abgekürzt nach [ISO 3166-1 Alpha 2](https://en.wikipedia.org/wiki/ISO_3166-1).
 
-\kurz _A Woman's Face_ (US 1941) -- bei Stills oder Ausschnitten mit Timecode _A Woman's Face_ (US 1941, 00:45:18).
+\kurz _A Woman's Face_ (US 1941).
+
+Bei Stills oder Ausschnitten mit Timecode:
+
+\kurz _A Woman's Face_ (US 1941, 00:45:18).
 
 \bibstart
 
