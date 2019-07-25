@@ -88,14 +88,12 @@ Beachten Sie für Abschlussarbeiten auch immer die Hinweise auf den Seiten des P
 <https://www.ur.de/studium/pruefungsverwaltung/geisteswissenschaften>.
 
 
-## Seitenlayout und Typografisches ^[Darüber hinausgehende Informationen zu orthografisch richtiger und typografisch ansprechender Gestaltung schriftlicher Arbeiten finden sie z.&#8239;B. in „Typokurz -- Einige wichtige typografische Regeln“ bei Bier (2009).]
+## Seitenlayout und Typografisches ^[Weitere Informationen zu orthografisch richtiger und typografisch ansprechender Gestaltung schriftlicher Arbeiten finden sie z.&#8239;B. in „Typokurz -- Einige wichtige typografische Regeln“ bei Bier (2009).]
 
 -   Die Arbeit wird einseitig auf DIN A4-Papier gedruckt.
     Die Seitenränder betragen: oben 3cm, unten 3,8cm,
     links 3,2cm und rechts 3cm.
--   Die Schriftgröße beträgt üblicherweise 12pt;
-    der Lesbarkeit wegen und nach Laufweite der
-    jeweils verwendeten Schrift.
+-   Die Schriftgröße beträgt üblicherweise 12pt.
 -   Verwenden Sie 1,2fachen Zeilenabstand.
 -   Für den Fließtext verwenden Sie Blocksatz mit
     automatischer Silbentrennung.
@@ -104,8 +102,7 @@ Beachten Sie für Abschlussarbeiten auch immer die Hinweise auf den Seiten des P
 -   Textauszeichnungen, wie beispielsweise Kursivierung
     und Fettdruck, sind so oft wie nötig, jedoch nicht
     inflationär zu gebrauchen.
--   Für Ihre Arbeit verwenden Sie vorzugsweise
-    eine Serifenschrift; die [Vollkorn](http://vollkorn-typeface.com/)^[Näheres zur Schrift *Vollkorn* finden Sie unter [http://vollkorn-typeface.com/](http://vollkorn-typeface.com/)] kommt beispielsweise in diesem Dokument zum Einsatz.
+-   Verwenden Sie vorzugsweise eine Serifenschrift; die [Vollkorn](http://vollkorn-typeface.com/)^[Näheres zur Schrift *Vollkorn* finden Sie unter [http://vollkorn-typeface.com/](http://vollkorn-typeface.com/)] kommt beispielsweise in diesem Dokument zum Einsatz.
 
 
 # Zitierrichtlinien und Beispiele zur Erstellung des Quellenverzeichnisses
