@@ -144,7 +144,7 @@ Im Text verwendete Bilder werden mit einer Bildunterschrift und dem jeweiligen K
 
 ![Wald, Mond, Mensch; Naturbetrachtungen bei Caspar David Friedrich in *Mann und Frau den Mond betrachtend* (1818--1824).](eigene-dateien/mond.jpg){width=51%}
 
-Bei einer größeren Anzahl von im Text verwendeten Abbildungen, kann ein Abbildungsverzeichnis vor dem Quellenverzeichnis dem Lesenden nützlich sein. Dort werden die laufende Abbildungsnummer, die ggf. gekürzte Bildunterschrift und die Seitenangabe genannt. Es dient der Übersichtlichkeit verwendeter Bilder und ersetzt nicht den Nachweis des Werks im Bildverzeichnis, in welchem der Vollbeleg anzugeben ist.
+Bei einer größeren Anzahl von Abbildungen können Sie der Übersichtlichkeit halber ein eigenes Abbildungsverzeichnis erstellen. Dort werden die laufende Abbildungsnummer, die ggf. gekürzte Bildunterschrift und die Seitenangabe genannt. Es ersetzt nicht den Nachweis des Werks im Bildverzeichnis, in welchem der Vollbeleg anzugeben ist.
 
 
 ## Zitierstil
