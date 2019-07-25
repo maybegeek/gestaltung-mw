@@ -292,7 +292,6 @@ Bei Musikvideos, wie im folgenden Beispiel, wird der Vollbeleg zusätzlich um Re
 
 \bibend
 
-
 ### Film
 
 Die Produktionsdaten von Filmen können zum Beispiel bei [imdb (The Internet Movie Database)](https://www.imdb.com) abgefragt werden. Die Länderkennung erfolgt abgekürzt nach [ISO 3166-1 Alpha 2](https://en.wikipedia.org/wiki/ISO_3166-1).
@@ -355,11 +354,11 @@ Zahn, Johannes (1685). *Oculus Artificialis Teledioptricus Sive Telescopium*. W�
 
 \bibstart
 
-*A Woman's Face \[Die Frau mit der Narbe\]* (1941). Georges Cukor. US: MGM \[DVD/2017\].
+*A Woman's Face \[Die Frau mit der Narbe\]* (US 1941). Georges Cukor. MGM \[DVD/2017\].
 
-*Larmes \[Tränen\]* (1932). Man Ray. Entstehungsort: Paris, J. Paul Getty Museum -- Man Ray Trust ARS-ADAGP \[Silbergelatine\].
+_Larmes [Tränen]_ (1930). Man Ray. In: Rosalind Krauss & Jane Livingston (Hg.) (1985). L'amour fou. Photography and Surrealism. Washington: Abbeville Press. S.&#8239;118.
 
-*Mann und Frau den Mond betrachtend [Mann und Frau in Betrachtung des Mondes\]* (1818--1824). Caspar David Friedrich. Berlin, Staatliche Museen zu Berlin -- Preußischer Kulturbesitz \[Öl auf Leinwand\].
+_Mann und Frau den Mond betrachtend [Mann und Frau in Betrachtung des Mondes]_ (1818--1824). Caspar David Friedrich. Alte Nationalgalerie Berlin [Öl auf Leinwand]. In: Wikipedia, Die freie Enzyklopädie. [url:]{.smallcaps} <https://de.wikipedia.org/wiki/Datei:Caspar_David_Friedrich_-_Mann_und_Frau_in_Betrachtung_des_Mondes_-_Alte_Nationalgalerie_Berlin.jpg> -- Zugriff: 22.07.2019.
 
 \bibend
 
