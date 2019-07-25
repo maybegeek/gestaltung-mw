@@ -310,7 +310,7 @@ Bei Stills oder Ausschnitten mit Timecode:
 
 ## Software zur Literaturverwaltung
 
-Siehe dazu das Dokument „Hinweise zur Wissensorganisation und Literaturverwaltung“.
+Siehe dazu das Dokument [„Hinweise zur Wissensorganisation und Literaturverwaltung“](https://www.uni-regensburg.de/sprache-literatur-kultur/medienwissenschaft/studium/materialien/index.html).
 
 
 \clearpage
