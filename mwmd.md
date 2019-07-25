@@ -93,7 +93,7 @@ Beachten Sie für Abschlussarbeiten auch immer die Hinweise auf den Seiten des P
 -   Die Arbeit wird einseitig auf DIN A4-Papier gedruckt.
     Die Seitenränder betragen: oben 3cm, unten 3,8cm,
     links 3,2cm und rechts 3cm.
-- Die Schriftgröße beträgt üblicherweise 12pt;
+-   Die Schriftgröße beträgt üblicherweise 12pt;
     der Lesbarkeit wegen und nach Laufweite der
     jeweils verwendeten Schrift.
 -   Verwenden Sie 1,2fachen Zeilenabstand.
