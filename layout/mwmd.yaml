@@ -43,7 +43,7 @@ header-includes:
 - \setlength{\footnotesep}{10pt}
 - \usepackage{draftwatermark}
 - \SetWatermarkText{...}
-- \usepackage[width=0.77\textwidth]{caption}
+- \usepackage[width=0.77\textwidth,font=footnotesize]{caption}
 - \renewcaptionname{german}{\figurename}{Abbildung}
 - \renewcommand{\tightlist}{\raggedright\setlength{\itemsep}{-0.3\baselineskip}}
 - \newcommand{\kurz}{\hspace{0pt}\marginpar{\scriptsize{\hfill Kurzbeleg\,▷}}}

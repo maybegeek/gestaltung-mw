@@ -155,6 +155,8 @@ Bei einer größeren Anzahl von im Text verwendeten Abbildungen, kann ein Abbild
 
 ## Zitierstil
 
+Hier noch etwas Text ... Keine Überschrift sollte leer bleiben ...
+
 ### Monografien
 
 \kurz Vgl. Dotzler & Roesler-Keilholz (2017, S.&#8239;22).
