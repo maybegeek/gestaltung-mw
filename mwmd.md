@@ -308,7 +308,7 @@ Bei Stills oder Ausschnitten mit Timecode:
 
 \bibend
 
-## Software zur Literaturverwaltung (Wissensorganisation)
+## Software zur Literaturverwaltung
 
 Siehe dazu das Dokument „Hinweise zur Wissensorganisation und Literaturverwaltung“.
 
