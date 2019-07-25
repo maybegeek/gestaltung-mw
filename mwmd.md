@@ -64,7 +64,7 @@ Nummeriert wird in Form der Dezimalgliederung. Vermeiden Sie mehr als drei numme
 
 ### Einleitung
 
-Die Einleitung ist als integraler Bestandteil der Arbeit zu sehen und soll dem Lesenden/Prüfenden die Forschungsfrage, den Gegenstand der Arbeit und die Methodik aufzeigen; das Ziel der Arbeit sowie der inhaltliche Aufbau werden hier erläutert.
+Die Einleitung ist integraler Bestandteil der Arbeit und soll dem Lesenden/Prüfenden die Forschungsfrage, den Gegenstand der Arbeit und die Methodik aufzeigen; das Ziel der Arbeit sowie der inhaltliche Aufbau werden hier erläutert.
 
 
 ### Hauptteil
