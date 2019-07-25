@@ -234,11 +234,7 @@ Die folgenden Beispiele bieten einen Überblick über häufig genutzte Quellenty
 Die bibliografischen Informationen zum verwendeten Wikipedia-Eintrag finden Sie auf der dazugehörigen Webseite unter „Artikel zitieren“. Als Datum des Artikels verwenden Sie den dort genannten „letzten Bearbeitungsstand“, als [url]{.smallcaps} den dort ersichtlichen „Permanentlink“.
 
 
-### Videos
-
-(z.&#8239;B. Youtube, Vimeo) -- abweichende Angaben bei Musikvideos (s.&#8239;u.)!
-
-<!-- das hier oben etwas schöner -->
+### Videos und Musikvideos
 
 \kurz Cook (2013).
 
@@ -248,12 +244,7 @@ Die bibliografischen Informationen zum verwendeten Wikipedia-Eintrag finden Sie 
 
 \bibend
 
-
-### Musikvideos
-
-<!-- Wird in der inhaltlichen Verwendung auch auf bspw. den Regisseur abgestellt sind derartige Informationen ebenfalls im Vollbeleg anzugeben. -->
-
-(z.&#8239;B. Youtube, Vimeo)
+Bei Musikvideos, wie im folgenden Beispiel, wird der Vollbeleg zusätzlich um Regisseur und Label erweitert.
 
 \kurz Björk (1999).
 
