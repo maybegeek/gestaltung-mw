@@ -13,7 +13,7 @@ lang: de-DE
 
 # Formaler Aufbau
 
-Auf dem Weg ein formal ordentliches, den akademischen Gepflogenheiten des Fachs entsprechendes und visuell ansprechendes Dokument zu erzeugen, will Sie dieser Leitfaden begleiten.
+Folgende Hinweise sollen Sie dabei unterstützen, ein formal richtiges und visuell ansprechendes Dokument zu erstellen, das den akademischen Gepflogenheiten des Fachs entspricht.
 
 
 ## Textumfang
