@@ -305,7 +305,7 @@ Bei Stills oder Ausschnitten mit Timecode:
 
 \bibstart
 
-\voll _A Woman's Face [Die Frau mit der Narbe]_ (US 1941). Georges Cukor. DVD.
+\voll _A Woman's Face [Die Frau mit der Narbe]_ (US 1941). Georges Cukor. MGM [DVD/2017]
 
 \bibend
 
