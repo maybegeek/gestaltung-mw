@@ -274,21 +274,21 @@ Bei Musikvideos, wie im folgenden Beispiel, wird der Vollbeleg zusätzlich um Re
 \bibend
 
 
-### Bilder und Fotografien
+### Bilder/Gemälde und Fotografien
+
+\kurz _Mann und Frau den Mond betrachtend_ (1818--1824).
+
+\bibstart
+
+\voll _Mann und Frau den Mond betrachtend [Mann und Frau in Betrachtung des Mondes]_ (1818--1824). Caspar David Friedrich. Alte Nationalgalerie Berlin [Öl auf Leinwand]. In: Wikipedia, Die freie Enzyklopädie. [url:]{.smallcaps} <https://de.wikipedia.org/wiki/Datei:Caspar_David_Friedrich_-_Mann_und_Frau_in_Betrachtung_des_Mondes_-_Alte_Nationalgalerie_Berlin.jpg> -- Zugriff: 22.07.2019.
+
+\bibend
 
 \kurz _Larmes_ (Man Ray, 1930).
 
 \bibstart
 
 \voll _Larmes [Tränen]_ (1930). Man Ray. In: Rosalind Krauss & Jane Livingston (Hg.) (1985). L'amour fou. Photography and Surrealism. Washington: Abbeville Press. S.&#8239;118.
-
-\bibend
-
-\kurz _Mann und Frau den Mond betrachtend_ (1818--1824).
-
-\bibstart
-
-\voll _Mann und Frau den Mond betrachtend [Mann und Frau in Betrachtung des Mondes\]_ (1818--1824). Caspar David Friedrich. Berlin, Staatliche Museen zu Berlin -- Preußischer Kulturbesitz \[Öl auf Leinwand\].
 
 \bibend
 
