@@ -292,6 +292,14 @@ Die bibliografischen Informationen zum verwendeten Wikipedia-Eintrag finden Sie 
 
 \bibend
 
+\kurz _Mann und Frau den Mond betrachtend_ (1818--1824).
+
+\bibstart
+
+\voll _Mann und Frau den Mond betrachtend [Mann und Frau in Betrachtung des Mondes\]_ (1818--1824). Caspar David Friedrich. Berlin, Staatliche Museen zu Berlin -- Preußischer Kulturbesitz \[Öl auf Leinwand\].
+
+\bibend
+
 
 ### Film
 
