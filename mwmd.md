@@ -27,7 +27,7 @@ Vorbehaltlich abweichender Vorgaben im Rahmen einzelner Lehrveranstaltungen, gel
 * Masterarbeit: 120&#8239;000 Zeichen
 
 
-## Segmente der Arbeit
+## Teile der Arbeit
 
 Feste Bestandteile einer schriftlichen Arbeit sind Titelblatt, Inhaltsverzeichnis, Einleitung, Hauptteil, Schlussbetrachtung und Quellenverzeichnis; fallweise kommen weitere Anhänge (z.&#8239;B. ein Abbildungsverzeichnis) hinzu. Fügen Sie Ihren schriftlichen Arbeiten zudem eine Erklärung zu Redlichkeit und Rechtsfolgenkenntnis bei.
 
