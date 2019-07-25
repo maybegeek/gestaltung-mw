@@ -138,11 +138,17 @@ Alle Fußnoten beginnen mit einem Großbuchstaben und werden mit einem Punkt abg
 
 ## Bildverwendung
 
-Im Text verwendete Bilder werden mit einer Bildunterschrift und dem jeweiligen Kurzbeleg versehen.
+Allgemein werden Abbildungen im Kurz- und Vollbeleg, je nach Quelle der sie entnommen wurden, im Quellenverzeichnis geführt.
 
 ![Schematische Zeichnung einer portablen *camera obscura* nach Zahn (1685, S.&#8239;181).](eigene-dateien/cam.jpg){width=51%}
 
-![Wald, Mond, Mensch; Naturbetrachtungen bei Caspar David Friedrich in *Mann und Frau den Mond betrachtend* (1818--1824).](eigene-dateien/mond.jpg){width=51%}
+Fotografien und Gemälde werden im Kurz- und Vollbeleg nach Punkt 2.4.10 zitiert.
+
+![Gemälde einer Naturbetrachtung bei Caspar David Friedrich in *Mann und Frau den Mond betrachtend* (1818--1824).](eigene-dateien/mond.jpg){width=51%}
+
+Stills aus Filmen werden im Kurz- und Vollbeleg nach Punkt 2.4.11 zitiert.
+
+In der Bildunterschrift wird die verwendete Abbildung (Bild, Foto, Gemälde oder Still) beschrieben und um den Kurzbeleg ergänzt (Vgl. Abbildung 1 und 2).
 
 Bei einer größeren Anzahl von Abbildungen können Sie der Übersichtlichkeit halber ein eigenes Abbildungsverzeichnis erstellen. Dort werden die laufende Abbildungsnummer, die ggf. gekürzte Bildunterschrift und die Seitenangabe genannt. Es ersetzt nicht den Nachweis des Werks im Bildverzeichnis, in welchem der Vollbeleg anzugeben ist.
 
