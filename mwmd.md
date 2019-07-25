@@ -135,6 +135,8 @@ Alle Fußnoten beginnen mit einem Großbuchstaben und werden mit einem Punkt abg
 
 > „Bezieht sich die Fußnote auf ein einzelnes Wort oder eine Wortgruppe, steht die Fußnotenziffer direkt dahinter noch vor einem folgenden Satzzeichen. Wenn sie sich jedoch auf einen ganzen Satz oder durch Satzzeichen eingeschlossenen Satzteil bezieht, steht sie nach dem schließenden Satzzeichen.“^[Andermann; Drees & Grätz (2000, S.&#8239;99).]
 
+\clearpage
+\pagebreak
 
 ## Bildverwendung
 
