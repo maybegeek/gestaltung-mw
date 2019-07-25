@@ -237,6 +237,8 @@ Die bibliografischen Informationen zum verwendeten Wikipedia-Eintrag finden Sie 
 
 (z.&#8239;B. Youtube, Vimeo) -- abweichende Angaben bei Musikvideos (s.&#8239;u.)!
 
+<!-- das hier oben etwas schöner -->
+
 \kurz Cook (2013).
 
 \bibstart
@@ -247,6 +249,8 @@ Die bibliografischen Informationen zum verwendeten Wikipedia-Eintrag finden Sie 
 
 
 ### Musikvideos
+
+<!-- Wird in der inhaltlichen Verwendung auch auf bspw. den Regisseur abgestellt sind derartige Informationen ebenfalls im Vollbeleg anzugeben. -->
 
 (z.&#8239;B. Youtube, Vimeo)
 
