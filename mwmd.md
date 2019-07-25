@@ -77,9 +77,8 @@ Im Schluss Ihrer Arbeit führen Sie Ihre Ergebnisse zusammen. Hier besteht zudem
 
 ### Quellenverzeichnis
 
-Hier werden alle in Ihrer Arbeit verwendeten Werke mit deren bibliografischen Details verzeichnet. Alle verwendeten Quellen sind von Ihnen auf deren Geeignetheit hin überprüft und ausgewählt worden. Ein sorgfältiges Erstellen ist verbindlich, dient der Überprüfbarkeit und zeigt Ihre akademische Sorgfalt. Die Zitierrichtlinien dazu finden Sie unter Punkt 2, das Musterbeispiel ab Seite 11
+Hier werden alle in Ihrer Arbeit verwendeten Werke mit deren bibliografischen Details verzeichnet. Alle verwendeten Quellen sind von Ihnen auf deren Geeignetheit hin überprüft und ausgewählt worden. Ein sorgfältiges Erstellen ist verbindlich, dient der Überprüfbarkeit und zeigt Ihre akademische Sorgfalt. Die Zitierrichtlinien dazu finden Sie unter Punkt 2, das Musterbeispiel ab Seite 11.
 
-<!-- Die nötige Untergliederung des Quellenverzeichnisses in ein Literaturverzeichnis und ein Verzeichnis für weitere alphabetisch sortierte Quellen (Fotografien, Gemälde, Filme, ...) ist abhängig von der Quellenlage zu wählen.  !!!!.-->
 
 ### Erklärung
 
