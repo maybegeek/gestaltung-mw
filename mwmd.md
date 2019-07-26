@@ -305,9 +305,8 @@ Bei Stills oder Ausschnitten mit Timecode:
 
 \bibend
 
+
 ### Serie
-
-
 
 \kurz _The Wire_: The Target (US 2002).
 
