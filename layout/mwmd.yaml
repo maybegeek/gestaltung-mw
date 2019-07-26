@@ -38,9 +38,9 @@ header-includes:
 - \cfoot{\pagemark}
 - \ofoot{}
 - \makeatletter\def\maketitle{}\makeatother
-- \usepackage{setspace}\spacing{1.16}
 - \widowpenalty=10000
 - \clubpenalty=10000
+- \usepackage{setspace}\spacing{1.17}
 - \setlength{\footnotesep}{10pt}
 - \usepackage{draftwatermark}
 - \SetWatermarkText{...}
