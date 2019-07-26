@@ -20,6 +20,7 @@ mainfontoptions:
 - BoldFont=Vollkorn-Bold
 - ItalicFont=Vollkorn-Italic
 - BoldItalicFont=Vollkorn-BoldItalic
+- Numbers=Lining
 header-includes:
 - \setcounter{tocdepth}{4}
 - \RedeclareSectionCommand[beforeskip=-10pt plus -2pt minus -1pt,afterskip=1sp plus -1sp minus 1sp]{paragraph}
