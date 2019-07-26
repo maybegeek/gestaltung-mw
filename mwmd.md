@@ -77,7 +77,7 @@ Im Schluss Ihrer Arbeit führen Sie Ihre Ergebnisse zusammen. Hier besteht zudem
 
 ### Quellenverzeichnis
 
-Hier werden alle in Ihrer Arbeit verwendeten Quellen mit deren bibliografischen Details verzeichnet. Die Belege dienen der Überprüfbarkeit und sprechen für Ihre akademische Sorgfalt. Die Zitierrichtlinien dazu finden Sie unter Punkt 2, das Musterbeispiel ab Seite 11.
+Hier werden alle in Ihrer Arbeit verwendeten, sorgfältig gewählten, Quellen mit deren bibliografischen Details verzeichnet. Die Zitierrichtlinien dazu finden Sie unter Punkt 2, das Musterbeispiel ab Seite 11.
 
 
 ### Erklärung
@@ -131,14 +131,15 @@ Alle Fußnoten beginnen mit einem Großbuchstaben und werden mit einem Punkt abg
 
 > „Bezieht sich die Fußnote auf ein einzelnes Wort oder eine Wortgruppe, steht die Fußnotenziffer direkt dahinter noch vor einem folgenden Satzzeichen. Wenn sie sich jedoch auf einen ganzen Satz oder durch Satzzeichen eingeschlossenen Satzteil bezieht, steht sie nach dem schließenden Satzzeichen.“^[Andermann; Drees & Grätz (2000, S.&#8239;99).]
 
-\clearpage
-\pagebreak
 
 ## Bildverwendung
 
 Allgemein werden Abbildungen im Kurz- und Vollbeleg, je nach Quelle der sie entnommen wurden, im Quellenverzeichnis geführt.
 
 ![Schematische Zeichnung einer portablen *camera obscura* nach Zahn (1685, S.&#8239;181).](eigene-dateien/cam.jpg){width=51%}
+
+\clearpage
+\pagebreak
 
 Fotografien und Gemälde werden im Kurz- und Vollbeleg nach Punkt 2.4.10 zitiert.
 
