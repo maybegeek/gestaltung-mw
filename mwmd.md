@@ -306,6 +306,20 @@ Bei Stills oder Ausschnitten mit Timecode:
 
 \bibend
 
+### Serie
+
+
+
+\kurz _The Wire_: The Target (US 2002).
+
+\bibstart
+
+\voll _The Wire_: The Target (2002). S01E01, US, HBO [DVD/2010].
+
+\bibend
+
+
+
 ## Software zur Literaturverwaltung
 
 Siehe dazu das Dokument [„Hinweise zur Wissensorganisation und Literaturverwaltung“](https://www.uni-regensburg.de/sprache-literatur-kultur/medienwissenschaft/studium/materialien/index.html).
