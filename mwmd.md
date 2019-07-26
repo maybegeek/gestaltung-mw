@@ -120,7 +120,7 @@ Grundsätzlich lassen sich zwei Arten von Zitaten unterscheiden: das wörtliche 
 
 Sind bei einer/m Autor/in mehrere Werke im selben Jahr zu verzeichnen wird sowohl im Kurz- als auch im Vollbeleg der Jahreszahl ein alphabetisch fortlaufender Kleinbuchstaben-Index zugefügt. Wurde ein Werk von mehr als drei Autoren/innen verfasst, wird im Kurzbeleg die/der Hauptautor/in genannt und weitere Koautoren/innen unter „et al.“ zusammengefasst.
 
-Die Belege werden als **Kurzbeleg** in eine Fußnote geschrieben, bei Bildern direkt in die Abbildungsbeschriftung integriert. Der dazugehörige **Vollbeleg** wird am Ende der Arbeit in einem **Quellenverzeichnis** geführt.
+Die Belege werden als **Kurzbeleg** in eine Fußnote geschrieben, bei Bildern direkt in die Abbildungsbeschriftung integriert. Der dazugehörige **Vollbeleg** wird am Ende der Arbeit in einem **Quellenverzeichnis** geführt. Die korrekte Darstellung von Kurz. und Vollbeleg finden Sie unter Punkt 2.4.
 
 Die Anleitung zur korrekten Darstellung von Kurz- und Vollbeleg der verwendeten Quellen finden Sie im folgenden Teil der Gestaltungsrichtlinien. Den beispielhaften Aufbau eines Quellenverzeichnisses finden Sie ab Seite 11. Dabei gilt, Quellen, die nicht mit einer/m Autor/in sondern einem Titel beginnen (z.&#8239;B. Bilder und Filme) sind alphabetisch unter einer eigenen Rubrik zu führen.
 
