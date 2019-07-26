@@ -141,11 +141,11 @@ Allgemein werden Abbildungen im Kurz- und Vollbeleg, je nach Quelle der sie entn
 \clearpage
 \pagebreak
 
-Fotografien und Gemälde werden im Kurz- und Vollbeleg nach Punkt 2.4.10 zitiert.
+Fotografien und Gemälde werden im Kurz- und Vollbeleg nach Punkt 2.4.9 zitiert.
 
 ![Gemälde einer Naturbetrachtung bei Caspar David Friedrich in *Mann und Frau den Mond betrachtend* (1818--1824).](eigene-dateien/mond.jpg){width=51%}
 
-Stills aus Filmen werden im Kurz- und Vollbeleg nach Punkt 2.4.11 zitiert.
+Stills aus Filmen werden im Kurz- und Vollbeleg nach Punkt 2.4.10 zitiert.
 
 In der Bildunterschrift wird die verwendete Abbildung (Bild, Foto, Gemälde oder Still) beschrieben und um den Kurzbeleg ergänzt (Vgl. Abbildung 1 und 2).
 
