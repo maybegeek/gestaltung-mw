@@ -102,7 +102,7 @@ Beachten Sie für Abschlussarbeiten auch immer die Hinweise auf den Seiten des P
 -   Textauszeichnungen, wie beispielsweise Kursivierung
     und Fettdruck, sind so oft wie nötig, jedoch nicht
     inflationär zu gebrauchen.
--   Verwenden Sie vorzugsweise eine Serifenschrift; die [Vollkorn](http://vollkorn-typeface.com/)^[Information und Download der kostenfreien Schrift *Vollkorn* unter: <http://vollkorn-typeface.com/>.] kommt beispielsweise in diesem Dokument zum Einsatz.
+-   Verwenden Sie vorzugsweise eine Serifenschrift; die [*Vollkorn*](http://vollkorn-typeface.com/)^[Information und Download der kostenfreien Schrift *Vollkorn* unter: <http://vollkorn-typeface.com/>.] kommt beispielsweise in diesem Dokument zum Einsatz.
 
 
 # Zitierrichtlinien und Beispiele zur Erstellung des Quellenverzeichnisses
