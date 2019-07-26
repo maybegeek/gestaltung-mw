@@ -159,7 +159,7 @@ Bei einer größeren Anzahl von Abbildungen können Sie der Übersichtlichkeit h
 
 Die folgenden Beispiele bieten einen Überblick über häufig genutzte Quellentypen. Verwenden sie Quellenarten, welche hier nicht aufgeführt werden, versuchen Sie diese entlang des hier vermittelten Stils zu verzeichnen.
 
-### Monografien
+### Monografie
 
 \kurz Vgl. Dotzler & Roesler-Keilholz (2017, S.&#8239;22).
 
@@ -181,7 +181,7 @@ Die folgenden Beispiele bieten einen Überblick über häufig genutzte Quellenty
 \bibend
 
 
-### Wissenschaftliche Fachzeitschriften
+### Wissenschaftliche Fachzeitschrift
 
 \kurz Stegbauer & Rausch (2001, S.&#8239;48).
 
@@ -192,7 +192,7 @@ Die folgenden Beispiele bieten einen Überblick über häufig genutzte Quellenty
 \bibend
 
 
-### Sammelbände
+### Sammelband
 
 \kurz Vgl. Gerhards & Neidhardt (1993, S.&#8239;60).
 
@@ -212,7 +212,7 @@ Die folgenden Beispiele bieten einen Überblick über häufig genutzte Quellenty
 \bibend
 
 
-### Website
+### Webseite
 
 \kurz O'Reilly (2005).
 
@@ -236,7 +236,7 @@ Die folgenden Beispiele bieten einen Überblick über häufig genutzte Quellenty
 Die bibliografischen Informationen zum verwendeten Wikipedia-Eintrag finden Sie auf der dazugehörigen Webseite unter „Artikel zitieren“. Als Datum des Artikels verwenden Sie den dort genannten „letzten Bearbeitungsstand“, als [url]{.smallcaps} den dort ersichtlichen „Permanentlink“.
 
 
-### Videos und Musikvideos
+### Video und Musikvideo
 
 \kurz Cook (2013).
 
@@ -276,7 +276,7 @@ Bei Musikvideos, wie im folgenden Beispiel, wird der Vollbeleg zusätzlich um Re
 \bibend
 
 
-### Bilder/Gemälde und Fotografien
+### Bild/Gemälde und Fotografie
 
 \kurz _Mann und Frau den Mond betrachtend_ (1818--1824).
 
