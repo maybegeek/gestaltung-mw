@@ -77,7 +77,7 @@ Im Schluss Ihrer Arbeit führen Sie Ihre Ergebnisse zusammen. Hier besteht zudem
 
 ### Quellenverzeichnis
 
-Hier werden alle in Ihrer Arbeit verwendeten Werke mit deren bibliografischen Details verzeichnet. Alle Quellen sind von Ihnen auf deren Geeignetheit hin überprüft und ausgewählt worden. Die Einträge dienen der Überprüfbarkeit und sprechen für Ihre akademische Sorgfalt. Die Zitierrichtlinien dazu finden Sie unter Punkt 2, das Musterbeispiel ab Seite 11.
+Hier werden alle in Ihrer Arbeit verwendeten Quellen mit deren bibliografischen Details verzeichnet. Die Belege dienen der Überprüfbarkeit und sprechen für Ihre akademische Sorgfalt. Die Zitierrichtlinien dazu finden Sie unter Punkt 2, das Musterbeispiel ab Seite 11.
 
 
 ### Erklärung
