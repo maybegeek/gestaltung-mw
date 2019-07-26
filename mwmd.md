@@ -156,6 +156,9 @@ Bei einer größeren Anzahl von Abbildungen können Sie der Übersichtlichkeit h
 
 Die folgenden Beispiele bieten einen Überblick über häufig genutzte Quellentypen. Verwenden sie Quellenarten, welche hier nicht aufgeführt werden, versuchen Sie diese entlang des hier vermittelten Stils zu verzeichnen.
 
+\clearpage
+\pagebreak
+
 ### Monografie
 
 \kurz Vgl. Dotzler & Roesler-Keilholz (2017, S.&#8239;22).
@@ -201,6 +204,9 @@ Die folgenden Beispiele bieten einen Überblick über häufig genutzte Quellenty
 
 
 \kurz Amento et al. (2003, S.&#8239;60).
+
+\clearpage
+\pagebreak
 
 \bibstart
 
