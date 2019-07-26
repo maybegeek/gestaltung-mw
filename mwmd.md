@@ -202,11 +202,10 @@ Die folgenden Beispiele bieten einen Überblick über häufig genutzte Quellenty
 
 \bibend
 
-
-\kurz Amento et al. (2003, S.&#8239;60).
-
 \clearpage
 \pagebreak
+
+\kurz Amento et al. (2003, S.&#8239;60).
 
 \bibstart
 
