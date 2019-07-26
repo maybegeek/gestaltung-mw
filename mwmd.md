@@ -77,7 +77,7 @@ Im Schluss Ihrer Arbeit führen Sie Ihre Ergebnisse zusammen. Hier besteht zudem
 
 ### Quellenverzeichnis
 
-Hier werden alle in Ihrer Arbeit verwendeten, sorgfältig gewählten, Quellen mit deren bibliografischen Details verzeichnet. Die Zitierrichtlinien dazu finden Sie unter Punkt 2, das Musterbeispiel ab Seite 11.
+Hier werden alle in Ihrer Arbeit verwendeten, sorgfältig gewählten Quellen mit deren bibliografischen Details verzeichnet. Die Zitierrichtlinien dazu finden Sie unter Punkt 2, das Musterbeispiel ab Seite 11.
 
 
 ### Erklärung
