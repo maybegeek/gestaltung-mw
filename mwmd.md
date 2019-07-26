@@ -129,8 +129,6 @@ Die Anleitung zur korrekten Darstellung von Kurz- und Vollbeleg der verwendeten 
 
 In Fußnoten sollen, neben weiterführenden Gedanken, die dort auch ihren Platz finden können, die Kurzbelege Ihrer verwendeten Quellen mit den passenden Seitenangaben zu finden sein. Wird von Ihnen nicht wörtlich zitiert, sondern paraphrasiert, machen Sie dies im Kurzbeleg auch deutlich und stellen diesem ein „Vgl.“ voran.
 
-Sie finden im Folgenden bei allen im Zitierstil beschriebenen Arten von Quellen die dazugehörige Form des Kurztitels für die Fußnoten.
-
 Alle Fußnoten beginnen mit einem Großbuchstaben und werden mit einem Punkt abgeschlossen. Für die genaue Platzierung der Verweisziffer im Text gilt folgende Regel:
 
 > „Bezieht sich die Fußnote auf ein einzelnes Wort oder eine Wortgruppe, steht die Fußnotenziffer direkt dahinter noch vor einem folgenden Satzzeichen. Wenn sie sich jedoch auf einen ganzen Satz oder durch Satzzeichen eingeschlossenen Satzteil bezieht, steht sie nach dem schließenden Satzzeichen.“^[Andermann; Drees & Grätz (2000, S.&#8239;99).]
