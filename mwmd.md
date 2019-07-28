@@ -164,8 +164,6 @@ Bei einer größeren Anzahl von Abbildungen können Sie der Übersichtlichkeit h
 
 Die folgenden Beispiele bieten einen Überblick über häufig genutzte Quellentypen. Verwenden sie Quellenarten, welche hier nicht aufgeführt werden, versuchen Sie diese entlang des hier vermittelten Stils zu verzeichnen.
 
-\clearpage
-\pagebreak
 
 ### Monografie
 
@@ -209,9 +207,6 @@ Die folgenden Beispiele bieten einen Überblick über häufig genutzte Quellenty
 \voll Gerhards, Jürgen & Neidhardt, Friedhelm (1993). Strukturen und Funktionen moderner Öffentlichkeit. In: Langenbucher, Wolfgang R. (Hg.). *Politische Kommunikation. Grundlagen, Strukturen, Prozesse* (= Studienbücher zur Publizistik- und Kommunikationswissenschaft, 2). 2., überarb. Auflage. Wien: Braumüller. S.&#8239;52--89.
 
 \bibend
-
-\clearpage
-\pagebreak
 
 \kurz Amento et al. (2003, S.&#8239;60).
 
