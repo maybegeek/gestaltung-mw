@@ -69,7 +69,7 @@ Die Einleitung ist integraler Bestandteil der Arbeit und soll dem Lesenden/Prüf
 
 ### Hauptteil
 
-Der Aufbau des Hauptteils Ihrer Arbeit ergibt sich aus Frage- oder Aufgabenstellung. Verwenden Sie *sprechende Überschriften*, d.&#8239;h. auf den Inhalt des jeweiligen Abschnitts hinweisende Überschriften; keine Überschriften wie *Hauptteil* oder *Kapitel 1*.
+Der Aufbau des Hauptteils Ihrer Arbeit ergibt sich aus Frage- oder Aufgabenstellung. Verwenden Sie *sprechende Überschriften*, d.&#8239;h. auf den Inhalt des jeweiligen Abschnitts hinweisende Überschriften; keine Überschriften wie „Hauptteil“ oder „Kapitel 1“.
 
 ### Schluss
 
