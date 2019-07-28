@@ -230,7 +230,7 @@ Die folgenden Beispiele bieten einen Überblick über häufig genutzte Quellenty
 
 ### Wikipedia
 
-\kurz Vgl. Wikipedia (2019).
+\kurz Vgl. Wikipedia (11. Juli 2019).
 
 \bibstart
 
