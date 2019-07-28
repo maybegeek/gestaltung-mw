@@ -1,6 +1,6 @@
 ---
 title: 'Gestaltungsrichtlinien Medienwissenschaft'
-ur-kolumnentitel: 'Gestaltungsrichtlinien Medienwissenschaft'
+ur-kolumnentitel: ''
 ur-stand: 'Juli 2019'
 lang: de-DE
 ---
