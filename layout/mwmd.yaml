@@ -27,7 +27,7 @@ header-includes:
 - \usepackage{titling}
 - \usepackage{hanging}
 - \deffootnote[2em]{2em}{2.2em}{\thefootnotemark\ }
-- \usepackage[headsepline]{scrlayer-scrpage}
+- \usepackage[]{scrlayer-scrpage}
 - \clearpairofpagestyles
 - \ihead{}
 - \ohead{}
