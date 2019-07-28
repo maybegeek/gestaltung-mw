@@ -134,7 +134,7 @@ Alle Fußnoten beginnen mit einem Großbuchstaben und werden mit einem Punkt abg
 
 ## Bildverwendung
 
-Allgemein werden Abbildungen im Kurz- und Vollbeleg, je nach Quelle der sie entnommen wurden, im Quellenverzeichnis geführt.
+Allgemein werden Abbildungen im Kurz- und Vollbeleg, je nach Quelle der sie entnommen wurden, im Quellenverzeichnis geführt (Abbildung 1). Fotografien und Gemälde (Abbildung 2) werden im Kurz- und Vollbeleg nach Punkt 2.4.9 zitiert.
 
 
 ```{=latex}
