@@ -136,14 +136,22 @@ Alle Fußnoten beginnen mit einem Großbuchstaben und werden mit einem Punkt abg
 
 Allgemein werden Abbildungen im Kurz- und Vollbeleg, je nach Quelle der sie entnommen wurden, im Quellenverzeichnis geführt.
 
-![Schematische Zeichnung einer portablen *camera obscura* nach Zahn (1685, S.&#8239;181).](eigene-dateien/cam.jpg){width=51%}
 
-\clearpage
-\pagebreak
-
-Fotografien und Gemälde werden im Kurz- und Vollbeleg nach Punkt 2.4.9 zitiert.
-
-![Gemälde einer Naturbetrachtung bei Caspar David Friedrich in *Mann und Frau den Mond betrachtend* (1818--1824).](eigene-dateien/mond.jpg){width=51%}
+```{=latex}
+\begin{figure}[!h]
+\begin{minipage}[t]{0.54\textwidth}
+\vspace{0pt}
+\includegraphics[width=\linewidth]{eigene-dateien/cam.jpg}
+\caption{Schematische Zeichnung einer portablen \textit{camera obscura} nach Zahn (1685, S.\,181).}
+\end{minipage}
+\hfill
+\begin{minipage}[t]{0.39\textwidth}
+\vspace{0pt}
+\includegraphics[width=\linewidth]{eigene-dateien/mond.jpg}
+\caption{Gemälde einer Naturbetrachtung bei Caspar David Friedrich in \textit{Mann und Frau den Mond betrachtend} (1818--1824).}
+\end{minipage}
+\end{figure}
+```
 
 Stills aus Filmen werden im Kurz- und Vollbeleg nach Punkt 2.4.10 zitiert.
 
