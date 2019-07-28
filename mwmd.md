@@ -346,7 +346,11 @@ Andermann, Ulrich; Drees, Martin & Grätz, Frank (2000). *Duden. Wie verfasst ma
 
 Bier, Christoph (2009). Typokurz -- Einige wichtige typografische Regeln. [url:]{.smallcaps} <https://zvisionwelt.files.wordpress.com/2012/01/typokurz.pdf> -- Zugriff: 29.6.2019.
 
+Björk (1999). *All is full of love*. Chris Cunningham; Electra Entertainment Group Inc. [Musikvideo]. [url:]{.smallcaps} <https://www.youtube.com/watch?v=d2tBhaVEWGM> -- Zugriff: 22.7.2019.
+
 Brink, Alfred (2013). *Anfertigung wissenschaftlicher Arbeiten. Ein prozessorientierter Leitfaden zur Erstellung von Bachelor-, Master- und Diplomarbeiten*. 4., korr. und akt. Auflage. Wiesbaden: Springer Fachmedien.
+
+Cook, Shelby [XxSourGummyBearzxX] (16.12.2013). *Tom Hiddleston Funny Moments*. [Video]. [url:]{.smallcaps} <https://youtu.be/kXViNegXPTk> -- Zugriff: 22.7.2019.
 
 Doppelherz (2007). *Sitznachbar*. ARD: Radio-Kreativ-Wettbewerb 2007; Broschüre und CD-Rom. \[Werbung\].
 
