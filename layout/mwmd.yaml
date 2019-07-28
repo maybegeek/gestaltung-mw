@@ -8,9 +8,6 @@ citecolor: black
 link-citations: true
 graphics: true
 classoption:
-- DIV=10
-- headinclude=true
-- footinclude=false
 - headings=standardclasses
 - fontsize=11pt
 mainfont: Vollkorn-Regular.otf
@@ -50,4 +47,5 @@ header-includes:
 - \newcommand{\bibstart}{\begin{hangparas}{1.6em}{1}\raggedright}
 - \newcommand{\bibend}{\end{hangparas}}
 - \reversemarginpar
+- \usepackage[left=34mm,right=32mm,top=32mm,bottom=40mm]{geometry}
 ---
