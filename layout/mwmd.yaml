@@ -39,7 +39,7 @@ header-includes:
 - \widowpenalty=80000
 - \clubpenalty=80000
 - \setlength{\footnotesep}{10pt}
-- \usepackage[width=0.77\textwidth,font=footnotesize]{caption}
+- \usepackage[format=plain,font=footnotesize,labelfont=it]{caption}
 - \renewcaptionname{german}{\figurename}{Abbildung}
 - \renewcommand{\tightlist}{\raggedright\setlength{\itemsep}{-0.3\baselineskip}}
 - \newcommand{\kurz}{\hspace{0pt}\marginpar{\scriptsize{\hfill Kurzbeleg\,▷}}}
