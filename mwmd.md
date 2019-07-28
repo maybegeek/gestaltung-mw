@@ -73,7 +73,7 @@ Der Aufbau des Hauptteils Ihrer Arbeit ergibt sich aus Frage- oder Aufgabenstell
 
 ### Schluss
 
-Im Schluss Ihrer Arbeit führen Sie Ihre Ergebnisse zusammen. Hier besteht zudem Raum für Ausblicke und weitere, kritische Kontextualisierung. Auch hier sollte die Überschrift dem Inhalt nach gewählt werden (bspw. Re­sü­mee, Zusammenfassung, Ausblick …).
+Im Schluss Ihrer Arbeit führen Sie Ihre Ergebnisse zusammen. Hier besteht zudem Raum für Ausblicke und weitere, kritische Kontextualisierung. Auch hier sollte die Überschrift dem Inhalt nach gewählt werden; bspw. „Re­sü­mee“, „Zusammenfassung“, „Ausblick“ …
 
 ### Quellenverzeichnis
 
