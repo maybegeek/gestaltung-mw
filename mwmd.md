@@ -303,7 +303,7 @@ Bei Musikvideos, wie im folgenden Beispiel, wird der Vollbeleg zusätzlich um Re
 
 \kurz _A Woman's Face_ (US 1941).
 
-Ergänzen Sie im Kurzbeleg die Zeitangabe um eine genaue Stelle oder einen Zeitraum zu kennzeichnen:
+Ergänzen Sie im Kurzbeleg die Zeitangabe, um eine genaue Stelle oder einen Zeitraum zu kennzeichnen:
 
 \kurz _A Woman's Face_ (US 1941, 00:45:18).
 
