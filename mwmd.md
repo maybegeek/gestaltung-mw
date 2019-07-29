@@ -249,7 +249,7 @@ Die bibliografischen Informationen zum verwendeten Wikipedia-Eintrag finden Sie 
 
 \bibstart
 
-\voll Cook, Shelby \[XxSourGummyBearzxX\] (16.12.2013). *Tom Hiddleston Funny Moments*. \[Video\]. [url:]{.smallcaps} <https://youtu.be/kXViNegXPTk> -- Zugriff: 22.7.2019.
+\voll Cook, Shelby [XxSourGummyBearzxX] (16.12.2013). *Tom Hiddleston Funny Moments*. [Video]. [url:]{.smallcaps} <https://youtu.be/kXViNegXPTk> -- Zugriff: 22.7.2019.
 
 \bibend
 
@@ -270,7 +270,7 @@ Bei Musikvideos, wie im folgenden Beispiel, wird der Vollbeleg zus채tzlich um Re
 
 \bibstart
 
-\voll Doppelherz (2007). *Sitznachbar*. ARD: Radio-Kreativ-Wettbewerb 2007; Brosch체re und CD-Rom. \[Werbung\].
+\voll Doppelherz (2007). *Sitznachbar*. ARD: Radio-Kreativ-Wettbewerb 2007; Brosch체re und CD-Rom. [Werbung].
 
 \bibend
 
@@ -354,7 +354,7 @@ Brink, Alfred (2013). *Anfertigung wissenschaftlicher Arbeiten. Ein prozessorien
 
 Cook, Shelby [XxSourGummyBearzxX] (16.12.2013). *Tom Hiddleston Funny Moments*. [Video]. [url:]{.smallcaps} <https://youtu.be/kXViNegXPTk> -- Zugriff: 22.7.2019.
 
-Doppelherz (2007). *Sitznachbar*. ARD: Radio-Kreativ-Wettbewerb 2007; Brosch체re und CD-Rom. \[Werbung\].
+Doppelherz (2007). *Sitznachbar*. ARD: Radio-Kreativ-Wettbewerb 2007; Brosch체re und CD-Rom. [Werbung].
 
 Dotzler, Bernhard J. & Roesler-Keilholz, Silke (2017). *Mediengeschichte als Historische Techno-Logie*. Baden-Baden: Nomos.
 
@@ -378,7 +378,7 @@ Zahn, Johannes (1685). *Oculus Artificialis Teledioptricus Sive Telescopium*. W�
 
 \bibstart
 
-*A Woman's Face \[Die Frau mit der Narbe\]* (US 1941). Georges Cukor. MGM. [DVD/2017].
+*A Woman's Face [Die Frau mit der Narbe]* (US 1941). Georges Cukor. MGM. [DVD/2017].
 
 _Larmes [Tr채nen]_ (1930). Man Ray. In: Rosalind Krauss & Jane Livingston (Hg.) (1985). L'amour fou. Photography and Surrealism. Washington: Abbeville Press. S.&#8239;118.
 
