@@ -2,9 +2,6 @@
 numbersections: true
 papersize: a4
 documentclass: scrartcl
-linkcolor: black
-urlcolor: black
-citecolor: black
 link-citations: true
 graphics: true
 classoption:
@@ -48,4 +45,5 @@ header-includes:
 - \newcommand{\qvzend}{\end{hangparas}\null}
 - \reversemarginpar
 - \usepackage[left=34mm,right=32mm,top=32mm,bottom=40mm]{geometry}
+#- \hypersetup{pdfborderstyle={/S/U/W 0.5},linkbordercolor=white,urlbordercolor=black}
 ---
