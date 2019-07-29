@@ -3,7 +3,7 @@ title: 'Gestaltungsrichtlinien Medienwissenschaft'
 ur-kolumnentitel: ''
 ur-stand: 'Juli 2019'
 lang: de-DE
-author: ''
+author: 'CF & CP'
 subject: 'Gestaltungsrichtlinien Medienwissenschaft'
 ---
 
