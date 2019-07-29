@@ -136,7 +136,7 @@ Alle Fußnoten beginnen mit einem Großbuchstaben und werden mit einem Punkt abg
 
 ## Bildverwendung
 
-Allgemein werden Abbildungen im Kurz- und Vollbeleg, je nach Quelle der sie entnommen wurden, im Quellenverzeichnis geführt (Abbildung 1). Fotografien und Gemälde (Abbildung 2) werden im Kurz- und Vollbeleg nach Punkt 2.4.9 zitiert.
+Allgemein werden Abbildungen im Kurz- und Vollbeleg, je nach Quelle der sie entnommen wurden, im Quellenverzeichnis geführt (Abbildung 1). Fotografien und Gemälde (Abbildung 2) werden im Kurz- und Vollbeleg nach Punkt 2.4.8 zitiert.
 
 
 ```{=latex}
@@ -155,7 +155,7 @@ Allgemein werden Abbildungen im Kurz- und Vollbeleg, je nach Quelle der sie entn
 \end{figure}
 ```
 
-Stills aus Filmen werden im Kurz- und Vollbeleg nach Punkt 2.4.10 zitiert.
+Stills aus Filmen werden im Kurz- und Vollbeleg nach Punkt 2.4.9 zitiert.
 
 In der Bildunterschrift wird die verwendete Abbildung (Bild, Foto, Gemälde oder Still) beschrieben und um den Kurzbeleg ergänzt (Vgl. Abbildung 1 und 2).
 
@@ -243,27 +243,6 @@ Die folgenden Beispiele bieten einen Überblick über häufig genutzte Quellenty
 Die bibliografischen Informationen zum verwendeten Wikipedia-Eintrag finden Sie auf der dazugehörigen Webseite unter „Artikel zitieren“. Als Datum des Artikels verwenden Sie den dort genannten „letzten Bearbeitungsstand“, als [url]{.smallcaps} den dort ersichtlichen „Permanentlink“.
 
 
-### Video und Musikvideo
-
-\kurz Cook (2013).
-
-\bibstart
-
-\voll Cook, Shelby [XxSourGummyBearzxX] (16.12.2013). *Tom Hiddleston Funny Moments*. [Video]. [url:]{.smallcaps} <https://youtu.be/kXViNegXPTk> -- Zugriff: 22.7.2019.
-
-\bibend
-
-Bei Musikvideos, wie im folgenden Beispiel, wird der Vollbeleg zusätzlich um Regisseur und Label erweitert.
-
-\kurz Björk (1999).
-
-\bibstart
-
-\voll Björk (1999). *All is full of love*. Chris Cunningham; Electra Entertainment Group Inc. [Musikvideo]. [url:]{.smallcaps} <https://www.youtube.com/watch?v=d2tBhaVEWGM> -- Zugriff: 22.7.2019.
-
-\bibend
-
-
 ### Werbung
 
 \kurz Doppelherz (2007).
@@ -323,6 +302,27 @@ Ergänzen Sie im Kurzbeleg die Zeitangabe, um eine genaue Stelle oder einen Zeit
 \bibstart
 
 \voll _The Wire_: _„The Target“_ (US 2002). David Simon & Robert F. Colesberry. S01E01; HBO. [DVD/2010].
+
+\bibend
+
+
+### Video und Musikvideo
+
+\kurz _Tom Hiddleston Funny Moments_ (2013).
+
+\bibstart
+
+\voll _Tom Hiddleston Funny Moments_ (2013). Shelby Cook [XxSourGummyBearzxX]. [Video]. [url:]{.smallcaps} <https://youtu.be/kXViNegXPTk> -- Zugriff: 22.7.2019.
+
+\bibend
+
+Bei Musikvideos, wie im folgenden Beispiel, wird der Vollbeleg ggfs. um Regisseur und Label erweitert.
+
+\kurz _All is full of love_ (Björk, 1999).
+
+\bibstart
+
+\voll _All is full of love_ (1999). Björk. Chris Cunningham; Electra Entertainment Group Inc. [Musikvideo]. [url:]{.smallcaps} <https://www.youtube.com/watch?v=d2tBhaVEWGM> -- Zugriff: 22.7.2019.
 
 \bibend
 
