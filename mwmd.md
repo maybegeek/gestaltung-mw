@@ -297,7 +297,7 @@ Ergänzen Sie im Kurzbeleg die Zeitangabe, um eine genaue Stelle oder einen Zeit
 
 ### Serie
 
-\kurz _The Wire_: The Target (US 2002).
+\kurz _The Wire_: _„The Target“_ (US 2002).
 
 \bibstart
 
