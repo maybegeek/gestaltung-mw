@@ -348,11 +348,7 @@ Andermann, Ulrich; Drees, Martin & Grätz, Frank (2000). *Duden. Wie verfasst ma
 
 Bier, Christoph (2009). Typokurz -- Einige wichtige typografische Regeln. [url:]{.smallcaps} <https://zvisionwelt.files.wordpress.com/2012/01/typokurz.pdf> -- Zugriff: 29.6.2019.
 
-Björk (1999). *All is full of love*. Chris Cunningham; Electra Entertainment Group Inc. [Musikvideo]. [url:]{.smallcaps} <https://www.youtube.com/watch?v=d2tBhaVEWGM> -- Zugriff: 22.7.2019.
-
 Brink, Alfred (2013). *Anfertigung wissenschaftlicher Arbeiten. Ein prozessorientierter Leitfaden zur Erstellung von Bachelor-, Master- und Diplomarbeiten*. 4., korr. und akt. Auflage. Wiesbaden: Springer Fachmedien.
-
-Cook, Shelby [XxSourGummyBearzxX] (16.12.2013). *Tom Hiddleston Funny Moments*. [Video]. [url:]{.smallcaps} <https://youtu.be/kXViNegXPTk> -- Zugriff: 22.7.2019.
 
 Doppelherz (2007). *Sitznachbar*. ARD: Radio-Kreativ-Wettbewerb 2007; Broschüre und CD-Rom. [Werbung].
 
@@ -384,7 +380,12 @@ _Larmes [Tränen]_ (1930). Man Ray. In: Rosalind Krauss & Jane Livingston (Hg.) 
 
 _Mann und Frau den Mond betrachtend [Mann und Frau in Betrachtung des Mondes]_ (1818--1824). Caspar David Friedrich. Alte Nationalgalerie Berlin. [Öl auf Leinwand]. In: Wikipedia, Die freie Enzyklopädie. [url:]{.smallcaps} <https://de.wikipedia.org/wiki/Datei:Caspar_David_Friedrich_-_Mann_und_Frau_in_Betrachtung_des_Mondes_-_Alte_Nationalgalerie_Berlin.jpg> -- Zugriff: 22.07.2019.
 
+_All is full of love_ (1999). Björk. Chris Cunningham; Electra Entertainment Group Inc. [Musikvideo]. [url:]{.smallcaps} <https://www.youtube.com/watch?v=d2tBhaVEWGM> -- Zugriff: 22.7.2019.
+
 _The Wire_: _„The Target“_ (US 2002). David Simon & Robert F. Colesberry. S01E01; HBO. [DVD/2010].
+
+_Tom Hiddleston Funny Moments_ (2013). Shelby Cook [XxSourGummyBearzxX]. [Video]. [url:]{.smallcaps} <https://youtu.be/kXViNegXPTk> -- Zugriff: 22.7.2019.
+
 
 \bibend
 
