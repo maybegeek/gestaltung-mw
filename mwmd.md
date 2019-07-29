@@ -171,74 +171,46 @@ Die folgenden Beispiele bieten einen Überblick über häufig genutzte Quellenty
 
 \kurz Vgl. Dotzler & Roesler-Keilholz (2017, S.&#8239;22).
 
-\bibstart
-
 \voll Dotzler, Bernhard J. & Roesler-Keilholz, Silke (2017). *Mediengeschichte als Historische Techno-Logie*. Baden-Baden: Nomos.
-
-\bibend
 
 
 ### Herausgeberschaft
 
 \kurz Heibach & Rohde (2015).
 
-\bibstart
-
 \voll Heibach, Christiane & Rohde, Carsten (Hg.) (2015). *Ästhetik der Materialität* (=&#8239;HfG Forschung, 6). München: Fink.
-
-\bibend
 
 
 ### Wissenschaftliche Fachzeitschrift
 
 \kurz Stegbauer & Rausch (2001, S.&#8239;48).
 
-\bibstart
-
 \voll Stegbauer, Christian & Rausch, Alexander (2001). Die schweigende Mehrheit -- „Lurker“ in internetbasierten Diskussionsforen. In: *Zeitschrift für Soziologie.* 30, Nr.&#8239;1, S.&#8239;48--64.
-
-\bibend
 
 
 ### Sammelband
 
 \kurz Vgl. Gerhards & Neidhardt (1993, S.&#8239;60).
 
-\bibstart
-
 \voll Gerhards, Jürgen & Neidhardt, Friedhelm (1993). Strukturen und Funktionen moderner Öffentlichkeit. In: Langenbucher, Wolfgang R. (Hg.). *Politische Kommunikation. Grundlagen, Strukturen, Prozesse* (= Studienbücher zur Publizistik- und Kommunikationswissenschaft, 2). 2., überarb. Auflage. Wien: Braumüller. S.&#8239;52--89.
-
-\bibend
 
 \kurz Amento et al. (2003, S.&#8239;60).
 
-\bibstart
-
 \voll Amento, Brian; Terveen, Loren G.; Hill, William C.; Hix, Deborah & Schulman, Robert S.&#8239;(2003). Experiments in social data mining: The TopicShop system. In: *ACM Transactions on Computer-Human Interaction (TOCHI)*. 10, Nr.&#8239;1, S.&#8239;54--85.
-
-\bibend
 
 
 ### Webseite
 
 \kurz O'Reilly (2005).
 
-\bibstart
-
 \voll O'Reilly, Tim (2005). *What Is Web 2.0. Design Patterns and Business Models for the Next Generation of Software*. [url:]{.smallcaps} <https://www.oreilly.com/pub/a/web2/archive/what-is-web-20.html> -- Zugriff: 29.6.2019.
-
-\bibend
 
 
 ### Wikipedia
 
 \kurz Vgl. Wikipedia (11. Juli 2019).
 
-\bibstart
-
 \voll Wikipedia (11. Juli 2019). Universität Regensburg. In: *Wikipedia, Die freie Enzyklopädie*. [url:]{.smallcaps} <https://de.wikipedia.org/w/index.php?title=Universit%C3%A4t_Regensburg&oldid=190335453> -- Zugriff: 22.7.2019.
-
-\bibend
 
 Die bibliografischen Informationen zum verwendeten Wikipedia-Eintrag finden Sie auf der dazugehörigen Webseite unter „Artikel zitieren“. Als Datum des Artikels verwenden Sie den dort genannten „letzten Bearbeitungsstand“, als [url]{.smallcaps} den dort ersichtlichen „Permanentlink“.
 
@@ -247,38 +219,23 @@ Die bibliografischen Informationen zum verwendeten Wikipedia-Eintrag finden Sie 
 
 \kurz Doppelherz (2007).
 
-\bibstart
-
 \voll Doppelherz (2007). *Sitznachbar*. ARD: Radio-Kreativ-Wettbewerb 2007; Broschüre und CD-Rom. [Werbung].
-
-\bibend
 
 \kurz Gesellschaft zur Förderung der Photographie (1952).
 
-\bibstart
-
 \voll Gesellschaft zur Förderung der Photographie (1952). Oh die herrlichen Berge. In: *Regensburger Archiv für Werbeforschung.* PROPHOTO vom 12.7.1952, HWA\_1\_863.mp3, R-Nummer: 616. [Werbung, Audio]. [url:]{.smallcaps} <https://raw.uni-regensburg.de/details.php?r=616> − Zugriff: 18.9.2013.
-
-\bibend
 
 
 ### Bild/Gemälde und Fotografie
 
 \kurz _Mann und Frau den Mond betrachtend_ (1818--1824).
 
-\bibstart
-
 \voll _Mann und Frau den Mond betrachtend [Mann und Frau in Betrachtung des Mondes]_ (1818--1824). Caspar David Friedrich. Alte Nationalgalerie Berlin. [Öl auf Leinwand]. In: Wikipedia, Die freie Enzyklopädie. [url:]{.smallcaps} <https://de.wikipedia.org/wiki/Datei:Caspar_David_Friedrich_-_Mann_und_Frau_in_Betrachtung_des_Mondes_-_Alte_Nationalgalerie_Berlin.jpg> -- Zugriff: 22.07.2019.
-
-\bibend
 
 \kurz _Larmes_ (Man Ray, 1930).
 
-\bibstart
-
 \voll _Larmes [Tränen]_ (1930). Man Ray. In: Rosalind Krauss & Jane Livingston (Hg.) (1985). L'amour fou. Photography and Surrealism. Washington: Abbeville Press. S.&#8239;118.
 
-\bibend
 
 ### Film
 
@@ -288,44 +245,27 @@ Ergänzen Sie im Kurzbeleg die Zeitangabe, um eine genaue Stelle oder einen Zeit
 
 \kurz _A Woman's Face_ (US 1941, 00:45:18).
 
-\bibstart
-
 \voll _A Woman's Face [Die Frau mit der Narbe]_ (US 1941). Georges Cukor. MGM. [DVD/2017].
-
-\bibend
 
 
 ### Serie
 
 \kurz _The Wire_: _„The Target“_ (US 2002).
 
-\bibstart
-
 \voll _The Wire_: _„The Target“_ (US 2002). David Simon & Robert F. Colesberry. S01E01; HBO. [DVD/2010].
-
-\bibend
 
 
 ### Video und Musikvideo
 
 \kurz _Tom Hiddleston Funny Moments_ (2013).
 
-\bibstart
-
 \voll _Tom Hiddleston Funny Moments_ (2013). Shelby Cook [XxSourGummyBearzxX]. [Video]. [url:]{.smallcaps} <https://youtu.be/kXViNegXPTk> -- Zugriff: 22.7.2019.
-
-\bibend
 
 Bei Musikvideos, wie im folgenden Beispiel, wird der Vollbeleg ggfs. um Regisseur und Label erweitert.
 
 \kurz _All is full of love_ (Björk, 1999).
 
-\bibstart
-
 \voll _All is full of love_ (1999). Björk. Chris Cunningham; Electra Entertainment Group Inc. [Musikvideo]. [url:]{.smallcaps} <https://www.youtube.com/watch?v=d2tBhaVEWGM> -- Zugriff: 22.7.2019.
-
-\bibend
-
 
 
 ## Software zur Literaturverwaltung
@@ -340,7 +280,7 @@ Siehe dazu das Dokument [„Hinweise zur Wissensorganisation und Literaturverwal
 
 ## Literaturverzeichnis {-}
 
-\bibstart
+\qvzstart
 
 Amento, Brian; Terveen, Loren G.; Hill, William C.; Hix, Deborah & Schulman, Robert S. (2003). Experiments in social data mining: The TopicShop system. In: *ACM Transactions on Computer-Human Interaction (TOCHI)*. 10, Nr.&#8239;1, S.&#8239;54--85.
 
@@ -368,18 +308,23 @@ Wikipedia (11. Juli 2019). Universität Regensburg. In: *Wikipedia, Die freie En
 
 Zahn, Johannes (1685). *Oculus Artificialis Teledioptricus Sive Telescopium*. Würzburg: Quirin Heil.
 
-\bibend
+\qvzend
+
 
 ## Bild- und Fotografieverzeichnis {-}
 
-\bibstart
+\qvzstart
 
 _Larmes [Tränen]_ (1930). Man Ray. In: Rosalind Krauss & Jane Livingston (Hg.) (1985). L'amour fou. Photography and Surrealism. Washington: Abbeville Press. S.&#8239;118.
 
 _Mann und Frau den Mond betrachtend [Mann und Frau in Betrachtung des Mondes]_ (1818--1824). Caspar David Friedrich. Alte Nationalgalerie Berlin. [Öl auf Leinwand]. In: Wikipedia, Die freie Enzyklopädie. [url:]{.smallcaps} <https://de.wikipedia.org/wiki/Datei:Caspar_David_Friedrich_-_Mann_und_Frau_in_Betrachtung_des_Mondes_-_Alte_Nationalgalerie_Berlin.jpg> -- Zugriff: 22.07.2019.
 
+\qvzend
+
 
 ## Film-, Serien- und Videoverzeichnis {-}
+
+\qvzstart
 
 _A Woman's Face [Die Frau mit der Narbe]_ (US 1941). Georges Cukor. MGM. [DVD/2017].
 
@@ -389,8 +334,7 @@ _The Wire_: _„The Target“_ (US 2002). David Simon & Robert F. Colesberry. S0
 
 _Tom Hiddleston Funny Moments_ (2013). Shelby Cook [XxSourGummyBearzxX]. [Video]. [url:]{.smallcaps} <https://youtu.be/kXViNegXPTk> -- Zugriff: 22.7.2019.
 
-
-\bibend
+\qvzend
 
 
 \clearpage

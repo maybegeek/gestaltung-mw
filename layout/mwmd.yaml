@@ -43,9 +43,9 @@ header-includes:
 - \renewcaptionname{german}{\figurename}{Abbildung}
 - \renewcommand{\tightlist}{\raggedright\setlength{\itemsep}{-0.3\baselineskip}}
 - \newcommand{\kurz}{\hspace{0pt}\marginpar{\scriptsize{\hfill Kurzbeleg\,▷}}}
-- \newcommand{\voll}{\hspace{0pt}\marginpar{\scriptsize{\hfill Vollbeleg\,▶}}}
-- \newcommand{\bibstart}{\begin{hangparas}{1.6em}{1}\raggedright}
-- \newcommand{\bibend}{\end{hangparas}}
+- \newcommand{\voll}{\hspace{0pt}\marginpar{\scriptsize{\hfill Vollbeleg\,▶}}\hangpara{1.6em}{1}}
+- \newcommand{\qvzstart}{\begin{hangparas}{1.6em}{1}\small}
+- \newcommand{\qvzend}{\end{hangparas}\null}
 - \reversemarginpar
 - \usepackage[left=34mm,right=32mm,top=32mm,bottom=40mm]{geometry}
 ---
