@@ -350,9 +350,9 @@ Ich habe die Arbeit selbständig verfasst, keine anderen als die angegebenen Que
 Von den möglichen Rechtsfolgen habe ich Kenntnis:
 
 * *Bachelorstudierende:*
-[Bachelorprüfungs- und Studienordnung für die Philosophischen Fakultäten I--III der Universität Regensburg](https://www.uni-regensburg.de/studium/pruefungsordnungen/bachelor/philosophische-fakultaeten/) (besonders §22 Abs.&#8239;3 S.&#8239;1, §24 und §29 Abs.&#8239;5).
+Bachelorprüfungs- und Studienordnung für die Philosophischen Fakultäten I--III der Universität Regensburg (besonders §22 Abs.&#8239;3 S.&#8239;1, §24 und §29 Abs.&#8239;5).
 * *Masterstudierende:*
-[Prüfungs- und Studienordnung für den Masterstudiengang Allgemeine und Vergleichende Medienwissenschaft an der Universität Regensburg](https://www.uni-regensburg.de/studium/pruefungsordnungen/magister-master/allgemeine-und-vergleichende-medienwissenschaft/) (besonders §20 Abs.&#8239;4, §26 Abs.&#8239;5 und §29 Abs.&#8239;1).
+Prüfungs- und Studienordnung für den Masterstudiengang Allgemeine und Vergleichende Medienwissenschaft an der Universität Regensburg (besonders §20 Abs.&#8239;4, §26 Abs.&#8239;5 und §29 Abs.&#8239;1).
 
 
 ```{=latex}
