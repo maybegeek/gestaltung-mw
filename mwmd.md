@@ -230,7 +230,7 @@ Die bibliografischen Informationen zum verwendeten Wikipedia-Eintrag finden Sie 
 
 \kurz _Mann und Frau den Mond betrachtend_ (1818--1824).
 
-\voll _Mann und Frau den Mond betrachtend [Mann und Frau in Betrachtung des Mondes]_ (1818--1824). Caspar David Friedrich. Alte Nationalgalerie Berlin. [Öl auf Leinwand]. In: Wikipedia, Die freie Enzyklopädie. [url:]{.smallcaps} <https://de.wikipedia.org/wiki/Datei:Caspar_David_Friedrich_-_Mann_und_Frau_in_Betrachtung_des_Mondes_-_Alte_Nationalgalerie_Berlin.jpg> -- Zugriff: 22.07.2019.
+\voll _Mann und Frau den Mond betrachtend [Mann und Frau in Betrachtung des Mondes]_ (1818--1824). Caspar David Friedrich. Alte Nationalgalerie Berlin. [Öl auf Leinwand]. In: Wikipedia, Die freie Enzyklopädie. [url:]{.smallcaps} <https://w.wiki/6eW> -- Zugriff: 22.07.2019.
 
 \kurz _Larmes_ (Man Ray, 1930).
 
@@ -265,7 +265,7 @@ Bei Musikvideos, wie im folgenden Beispiel, wird der Vollbeleg ggfs. um Regisseu
 
 \kurz _All is full of love_ (Björk, 1999).
 
-\voll _All is full of love_ (1999). Björk. Chris Cunningham; Electra Entertainment Group Inc. [Musikvideo]. [url:]{.smallcaps} <https://www.youtube.com/watch?v=d2tBhaVEWGM> -- Zugriff: 22.7.2019.
+\voll _All is full of love_ (1999). Björk. Chris Cunningham; Electra Entertainment Group Inc. [Musikvideo]. [url:]{.smallcaps} <https://youtu.be/d2tBhaVEWGM> -- Zugriff: 22.7.2019.
 
 
 ## Software zur Literaturverwaltung
@@ -317,7 +317,7 @@ Zahn, Johannes (1685). *Oculus Artificialis Teledioptricus Sive Telescopium*. W�
 
 _Larmes [Tränen]_ (1930). Man Ray. In: Rosalind Krauss & Jane Livingston (Hg.) (1985). L'amour fou. Photography and Surrealism. Washington: Abbeville Press. S.&#8239;118.
 
-_Mann und Frau den Mond betrachtend [Mann und Frau in Betrachtung des Mondes]_ (1818--1824). Caspar David Friedrich. Alte Nationalgalerie Berlin. [Öl auf Leinwand]. In: Wikipedia, Die freie Enzyklopädie. [url:]{.smallcaps} <https://de.wikipedia.org/wiki/Datei:Caspar_David_Friedrich_-_Mann_und_Frau_in_Betrachtung_des_Mondes_-_Alte_Nationalgalerie_Berlin.jpg> -- Zugriff: 22.07.2019.
+_Mann und Frau den Mond betrachtend [Mann und Frau in Betrachtung des Mondes]_ (1818--1824). Caspar David Friedrich. Alte Nationalgalerie Berlin. [Öl auf Leinwand]. In: Wikipedia, Die freie Enzyklopädie. [url:]{.smallcaps} <https://w.wiki/6eW> -- Zugriff: 22.07.2019.
 
 \qvzend
 
@@ -328,7 +328,7 @@ _Mann und Frau den Mond betrachtend [Mann und Frau in Betrachtung des Mondes]_ (
 
 _A Woman's Face [Die Frau mit der Narbe]_ (US 1941). Georges Cukor. MGM. [DVD/2017].
 
-_All is full of love_ (1999). Björk. Chris Cunningham; Electra Entertainment Group Inc. [Musikvideo]. [url:]{.smallcaps} <https://www.youtube.com/watch?v=d2tBhaVEWGM> -- Zugriff: 22.7.2019.
+_All is full of love_ (1999). Björk. Chris Cunningham; Electra Entertainment Group Inc. [Musikvideo]. [url:]{.smallcaps} <https://youtu.be/d2tBhaVEWGM> -- Zugriff: 22.7.2019.
 
 _The Wire_: _„The Target“_ (US 2002). David Simon & Robert F. Colesberry. S01E01; HBO. [DVD/2010].
 
