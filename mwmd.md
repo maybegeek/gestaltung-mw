@@ -219,22 +219,22 @@ Die bibliografischen Informationen zum verwendeten Wikipedia-Eintrag finden Sie 
 
 \kurz Doppelherz (2007).
 
-\voll Doppelherz (2007). *Sitznachbar*. ARD: Radio-Kreativ-Wettbewerb 2007; Broschüre und CD-Rom. [Werbung].
+\voll Doppelherz (2007). *Sitznachbar*. ARD: Radio-Kreativ-Wettbewerb 2007; Broschüre und CD-Rom. \[Werbung\].
 
 \kurz Gesellschaft zur Förderung der Photographie (1952).
 
-\voll Gesellschaft zur Förderung der Photographie (1952). Oh die herrlichen Berge. In: *Regensburger Archiv für Werbeforschung.* PROPHOTO vom 12.7.1952, HWA\_1\_863.mp3, R-Nummer: 616. [Werbung, Audio]. [url:]{.smallcaps} <https://raw.uni-regensburg.de/details.php?r=616> − Zugriff: 18.9.2013.
+\voll Gesellschaft zur Förderung der Photographie (1952). Oh die herrlichen Berge. In: *Regensburger Archiv für Werbeforschung.* PROPHOTO vom 12.7.1952, HWA\_1\_863.mp3, R-Nummer: 616. \[Werbung, Audio\]. [url:]{.smallcaps} <https://raw.uni-regensburg.de/details.php?r=616> − Zugriff: 18.9.2013.
 
 
 ### Bild/Gemälde und Fotografie
 
 \kurz _Mann und Frau den Mond betrachtend_ (1818--1824).
 
-\voll _Mann und Frau den Mond betrachtend [Mann und Frau in Betrachtung des Mondes]_ (1818--1824). Caspar David Friedrich. Alte Nationalgalerie Berlin. [Öl auf Leinwand]. In: Wikipedia, Die freie Enzyklopädie. [url:]{.smallcaps} <https://w.wiki/6eW> -- Zugriff: 22.07.2019.
+\voll _Mann und Frau den Mond betrachtend \[Mann und Frau in Betrachtung des Mondes\]_ (1818--1824). Caspar David Friedrich. Alte Nationalgalerie Berlin. \[Öl auf Leinwand\]. In: Wikipedia, Die freie Enzyklopädie. [url:]{.smallcaps} <https://w.wiki/6eW> -- Zugriff: 22.07.2019.
 
 \kurz _Larmes_ (Man Ray, 1930).
 
-\voll _Larmes [Tränen]_ (1930). Man Ray. In: Rosalind Krauss & Jane Livingston (Hg.) (1985). L'amour fou. Photography and Surrealism. Washington: Abbeville Press. S.&#8239;118.
+\voll _Larmes \[Tränen\]_ (1930). Man Ray. In: Rosalind Krauss & Jane Livingston (Hg.) (1985). L'amour fou. Photography and Surrealism. Washington: Abbeville Press. S.&#8239;118.
 
 
 ### Film
@@ -245,27 +245,27 @@ Ergänzen Sie im Kurzbeleg die Zeitangabe, um eine genaue Stelle oder einen Zeit
 
 \kurz _A Woman's Face_ (US 1941, 00:45:18).
 
-\voll _A Woman's Face [Die Frau mit der Narbe]_ (US 1941). Georges Cukor. MGM. [DVD/2017].
+\voll _A Woman's Face \[Die Frau mit der Narbe\]_ (US 1941). Georges Cukor. MGM. \[DVD/2017\].
 
 
 ### Serie
 
 \kurz _The Wire_: _„The Target“_ (US 2002).
 
-\voll _The Wire_: _„The Target“_ (US 2002). David Simon & Robert F. Colesberry. S01E01; HBO. [DVD/2010].
+\voll _The Wire_: _„The Target“_ (US 2002). David Simon & Robert F. Colesberry. S01E01; HBO. \[DVD/2010\].
 
 
 ### Video und Musikvideo
 
 \kurz _Tom Hiddleston Funny Moments_ (2013).
 
-\voll _Tom Hiddleston Funny Moments_ (2013). Shelby Cook [XxSourGummyBearzxX]. [Video]. [url:]{.smallcaps} <https://youtu.be/kXViNegXPTk> -- Zugriff: 22.7.2019.
+\voll _Tom Hiddleston Funny Moments_ (2013). Shelby Cook \[XxSourGummyBearzxX\]. \[Video\]. [url:]{.smallcaps} <https://youtu.be/kXViNegXPTk> -- Zugriff: 22.7.2019.
 
 Bei Musikvideos, wie im folgenden Beispiel, wird der Vollbeleg ggfs. um Regisseur und Label erweitert.
 
 \kurz _All is full of love_ (Björk, 1999).
 
-\voll _All is full of love_ (1999). Björk. Chris Cunningham; Electra Entertainment Group Inc. [Musikvideo]. [url:]{.smallcaps} <https://youtu.be/d2tBhaVEWGM> -- Zugriff: 22.7.2019.
+\voll _All is full of love_ (1999). Björk. Chris Cunningham; Electra Entertainment Group Inc. \[Musikvideo\]. [url:]{.smallcaps} <https://youtu.be/d2tBhaVEWGM> -- Zugriff: 22.7.2019.
 
 
 ## Software zur Literaturverwaltung
@@ -290,13 +290,13 @@ Bier, Christoph (2009). Typokurz -- Einige wichtige typografische Regeln. [url:]
 
 Brink, Alfred (2013). *Anfertigung wissenschaftlicher Arbeiten. Ein prozessorientierter Leitfaden zur Erstellung von Bachelor-, Master- und Diplomarbeiten*. 4., korr. und akt. Auflage. Wiesbaden: Springer Fachmedien.
 
-Doppelherz (2007). *Sitznachbar*. ARD: Radio-Kreativ-Wettbewerb 2007; Broschüre und CD-Rom. [Werbung].
+Doppelherz (2007). *Sitznachbar*. ARD: Radio-Kreativ-Wettbewerb 2007; Broschüre und CD-Rom. \[Werbung\].
 
 Dotzler, Bernhard J. & Roesler-Keilholz, Silke (2017). *Mediengeschichte als Historische Techno-Logie*. Baden-Baden: Nomos.
 
 Gerhards, Jürgen & Neidhardt, Friedhelm (1993). Strukturen und Funktionen moderner Öffentlichkeit. In: Langenbucher, Wolfgang R. (Hg.). *Politische Kommunikation. Grundlagen, Strukturen, Prozesse* (=&#8239;Studienbücher zur Publizistik- und Kommunikationswissenschaft, 2). 2., überarb. Auflage. Wien: Braumüller. S.&#8239;52--89.
 
-Gesellschaft zur Förderung der Photographie (1952). Oh die herrlichen Berge. In: *Regensburger Archiv für Werbeforschung.* PROPHOTO vom 12.7.1952, HWA\_1\_863.mp3, R-Nummer: 616. [Werbung, Audio]. [url:]{.smallcaps} <https://raw.uni-regensburg.de/details.php?r=616> − Zugriff: 18.9.2013.
+Gesellschaft zur Förderung der Photographie (1952). Oh die herrlichen Berge. In: *Regensburger Archiv für Werbeforschung.* PROPHOTO vom 12.7.1952, HWA\_1\_863.mp3, R-Nummer: 616. \[Werbung, Audio\]. [url:]{.smallcaps} <https://raw.uni-regensburg.de/details.php?r=616> − Zugriff: 18.9.2013.
 
 Heibach, Christiane & Rohde, Carsten (Hg.) (2015). *Ästhetik der Materialität* (=&#8239;HfG Forschung, 6). München: Fink.
 
@@ -315,9 +315,9 @@ Zahn, Johannes (1685). *Oculus Artificialis Teledioptricus Sive Telescopium*. W�
 
 \qvzstart
 
-_Larmes [Tränen]_ (1930). Man Ray. In: Rosalind Krauss & Jane Livingston (Hg.) (1985). L'amour fou. Photography and Surrealism. Washington: Abbeville Press. S.&#8239;118.
+_Larmes \[Tränen\]_ (1930). Man Ray. In: Rosalind Krauss & Jane Livingston (Hg.) (1985). L'amour fou. Photography and Surrealism. Washington: Abbeville Press. S.&#8239;118.
 
-_Mann und Frau den Mond betrachtend [Mann und Frau in Betrachtung des Mondes]_ (1818--1824). Caspar David Friedrich. Alte Nationalgalerie Berlin. [Öl auf Leinwand]. In: Wikipedia, Die freie Enzyklopädie. [url:]{.smallcaps} <https://w.wiki/6eW> -- Zugriff: 22.07.2019.
+_Mann und Frau den Mond betrachtend \[Mann und Frau in Betrachtung des Mondes\]_ (1818--1824). Caspar David Friedrich. Alte Nationalgalerie Berlin. \[Öl auf Leinwand\]. In: Wikipedia, Die freie Enzyklopädie. [url:]{.smallcaps} <https://w.wiki/6eW> -- Zugriff: 22.07.2019.
 
 \qvzend
 
@@ -326,13 +326,13 @@ _Mann und Frau den Mond betrachtend [Mann und Frau in Betrachtung des Mondes]_ (
 
 \qvzstart
 
-_A Woman's Face [Die Frau mit der Narbe]_ (US 1941). Georges Cukor. MGM. [DVD/2017].
+_A Woman's Face \[Die Frau mit der Narbe\]_ (US 1941). Georges Cukor. MGM. \[DVD/2017\].
 
-_All is full of love_ (1999). Björk. Chris Cunningham; Electra Entertainment Group Inc. [Musikvideo]. [url:]{.smallcaps} <https://youtu.be/d2tBhaVEWGM> -- Zugriff: 22.7.2019.
+_All is full of love_ (1999). Björk. Chris Cunningham; Electra Entertainment Group Inc. \[Musikvideo\]. [url:]{.smallcaps} <https://youtu.be/d2tBhaVEWGM> -- Zugriff: 22.7.2019.
 
-_The Wire_: _„The Target“_ (US 2002). David Simon & Robert F. Colesberry. S01E01; HBO. [DVD/2010].
+_The Wire_: _„The Target“_ (US 2002). David Simon & Robert F. Colesberry. S01E01; HBO. \[DVD/2010\].
 
-_Tom Hiddleston Funny Moments_ (2013). Shelby Cook [XxSourGummyBearzxX]. [Video]. [url:]{.smallcaps} <https://youtu.be/kXViNegXPTk> -- Zugriff: 22.7.2019.
+_Tom Hiddleston Funny Moments_ (2013). Shelby Cook \[XxSourGummyBearzxX\]. \[Video\]. [url:]{.smallcaps} <https://youtu.be/kXViNegXPTk> -- Zugriff: 22.7.2019.
 
 \qvzend
 
