@@ -185,7 +185,7 @@ Die folgenden Beispiele bieten einen Überblick über häufig genutzte Quellenty
 
 \kurz Stegbauer & Rausch (2001, S.&#8239;48).
 
-\voll Stegbauer, Christian & Rausch, Alexander (2001). Die schweigende Mehrheit -- „Lurker“ in internetbasierten Diskussionsforen. In: *Zeitschrift für Soziologie.* 30, Nr.&#8239;1, S.&#8239;48--64.
+\voll Stegbauer, Christian & Rausch, Alexander (2001). Die schweigende Mehrheit -- „Lurker“ in internetbasierten Diskussionsforen. In: *Zeitschrift für Soziologie.* 30, Nr.&#8239;1. S.&#8239;48--64.
 
 
 ### Sammelband
@@ -196,7 +196,7 @@ Die folgenden Beispiele bieten einen Überblick über häufig genutzte Quellenty
 
 \kurz Amento et al. (2003, S.&#8239;60).
 
-\voll Amento, Brian; Terveen, Loren G.; Hill, William C.; Hix, Deborah & Schulman, Robert S.&#8239;(2003). Experiments in social data mining: The TopicShop system. In: *ACM Transactions on Computer-Human Interaction (TOCHI)*. 10, Nr.&#8239;1, S.&#8239;54--85.
+\voll Amento, Brian; Terveen, Loren G.; Hill, William C.; Hix, Deborah & Schulman, Robert S.&#8239;(2003). Experiments in social data mining: The TopicShop system. In: *ACM Transactions on Computer-Human Interaction (TOCHI)*. 10, Nr.&#8239;1. S.&#8239;54--85.
 
 
 ### Webseite
@@ -282,7 +282,7 @@ Siehe dazu das Dokument [„Hinweise zur Wissensorganisation und Literaturverwal
 
 \qvzstart
 
-Amento, Brian; Terveen, Loren G.; Hill, William C.; Hix, Deborah & Schulman, Robert S. (2003). Experiments in social data mining: The TopicShop system. In: *ACM Transactions on Computer-Human Interaction (TOCHI)*. 10, Nr.&#8239;1, S.&#8239;54--85.
+Amento, Brian; Terveen, Loren G.; Hill, William C.; Hix, Deborah & Schulman, Robert S. (2003). Experiments in social data mining: The TopicShop system. In: *ACM Transactions on Computer-Human Interaction (TOCHI)*. 10, Nr.&#8239;1. S.&#8239;54--85.
 
 Andermann, Ulrich; Drees, Martin & Grätz, Frank (2000). *Duden. Wie verfasst man wissenschaftliche Arbeiten? Ein Leitfaden für das Studium und die Promotion*. Mainz: Verlag Hermann Schmidt.
 
@@ -302,7 +302,7 @@ Heibach, Christiane & Rohde, Carsten (Hg.) (2015). *Ästhetik der Materialität*
 
 O'Reilly, Tim (2005). What Is Web 2.0. Design Patterns and Business Models for the Next Generation of Software. [url:]{.smallcaps} <https://www.oreilly.com/pub/a/web2/archive/what-is-web-20.html> -- Zugriff: 29.6.2019.
 
-Stegbauer, Christian & Rausch, Alexander (2001). Die schweigende Mehrheit -- „Lurker“ in internetbasierten Diskussionsforen. In: *Zeitschrift für Soziologie*. 30, Nr.&#8239;1, S.&#8239;48--64.
+Stegbauer, Christian & Rausch, Alexander (2001). Die schweigende Mehrheit -- „Lurker“ in internetbasierten Diskussionsforen. In: *Zeitschrift für Soziologie*. 30, Nr.&#8239;1. S.&#8239;48--64.
 
 Wikipedia (11. Juli 2019). Universität Regensburg. In: *Wikipedia, Die freie Enzyklopädie*. [url:]{.smallcaps} <https://de.wikipedia.org/w/index.php?title=Universit%C3%A4t_Regensburg&oldid=190335453> -- Zugriff: 22.7.2019.
 
