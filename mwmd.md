@@ -95,7 +95,7 @@ Beachten Sie für Abschlussarbeiten ergänzend die Hinweise auf den Seiten des P
 -   Die Arbeit wird einseitig auf DIN A4-Papier gedruckt.
     Die Seitenränder betragen: oben 3cm, unten 3,8cm,
     links 3,2cm und rechts 3cm.
--   Die Schriftgröße beträgt üblicherweise 12pt.
+-   Die Schriftgröße beträgt üblicherweise 12pt.
 -   Verwenden Sie 1,2fachen Zeilenabstand.
 -   Für den Fließtext verwenden Sie Blocksatz mit
     automatischer Silbentrennung.
@@ -239,11 +239,11 @@ Die bibliografischen Informationen zum verwendeten Wikipedia-Eintrag finden Sie 
 
 ### Film
 
-\kurz _A Woman's Face_ (US 1941).
+\kurz _A Woman's Face_ (US 1941).
 
 Ergänzen Sie im Kurzbeleg die Zeitangabe, um eine genaue Stelle oder einen Zeitraum zu kennzeichnen:
 
-\kurz _A Woman's Face_ (US 1941, 00:45:18).
+\kurz _A Woman's Face_ (US 1941, 00:45:18).
 
 \voll _A Woman's Face \[Die Frau mit der Narbe\]_ (US 1941). Georges Cukor. MGM. \[DVD/2017\].
 
