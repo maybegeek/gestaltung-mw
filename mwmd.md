@@ -219,7 +219,7 @@ Die bibliografischen Informationen zum verwendeten Wikipedia-Eintrag finden Sie 
 
 \kurz Doppelherz (2007).
 
-\voll Doppelherz (2007). *Sitznachbar*. ARD: Radio-Kreativ-Wettbewerb 2007; Broschüre und CD-Rom. \[Werbung\].
+\voll Doppelherz (2007). *Sitznachbar*. ARD Radio-Kreativ-Wettbewerb 2007; Broschüre und CD-Rom. \[Werbung\].
 
 \kurz Gesellschaft zur Förderung der Photographie (1952).
 
@@ -290,7 +290,7 @@ Bier, Christoph (2009). Typokurz -- Einige wichtige typografische Regeln. [url:]
 
 Brink, Alfred (2013). *Anfertigung wissenschaftlicher Arbeiten. Ein prozessorientierter Leitfaden zur Erstellung von Bachelor-, Master- und Diplomarbeiten*. 4., korr. und akt. Auflage. Wiesbaden: Springer Fachmedien.
 
-Doppelherz (2007). *Sitznachbar*. ARD: Radio-Kreativ-Wettbewerb 2007; Broschüre und CD-Rom. \[Werbung\].
+Doppelherz (2007). *Sitznachbar*. ARD Radio-Kreativ-Wettbewerb 2007; Broschüre und CD-Rom. \[Werbung\].
 
 Dotzler, Bernhard J. & Roesler-Keilholz, Silke (2017). *Mediengeschichte als Historische Techno-Logie*. Baden-Baden: Nomos.
 
