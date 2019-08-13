@@ -41,24 +41,6 @@ Auf Ihrem Deckblatt erfüllen Sie formale Notwendigkeiten hinsichtlich der Angab
 Die nötigen Angaben für schriftliche Arbeiten allgemein und Abschlussarbeiten im Speziellen finden Sie als Muster auf den Seiten ii und iii.
 
 
-<!--
-
-| Seminararbeit         |                Abschlussarbeit |
-|-----------------------|-------------------------------:|
-| Fragestellung/Titel   |            Fragestellung/Titel |
-|                       |                    Universität |
-|                       |                       Fakultät |
-|                       |                      Lehrstuhl |
-| Verfasser             |                      Verfasser |
-| (Name, Matrikelnr.)   | (Name, Anschrift, Matrikelnr.) |
-| Semester              |                                |
-| Modul                 |                                |
-| Veranstaltung         |                                |
-| Lehrperson            |           Erst-/Zweitgutachter |
-| FlexNow-Prüfungsdatum |                    Abgabedatum |
-
--->
-
 ### Inhaltsverzeichnis
 
 Nummeriert wird in Form der Dezimalgliederung. Vermeiden Sie mehr als drei nummerierte Gliederungsebenen. Ein Muster finden Sie auf Seite iv. Es empfiehlt sich, die Gliederung der Arbeit automatisiert mithilfe des verwendeten Textverarbeitungsprogramms zu erstellen.
