@@ -178,7 +178,7 @@ Die folgenden Beispiele bieten einen Überblick über häufig genutzte Quellenty
 
 \kurz Amento et al. (2003, S.&#8239;60).
 
-\voll Amento, Brian; Terveen, Loren G.; Hill, William C.; Hix, Deborah & Schulman, Robert S.&#8239;(2003). Experiments in social data mining: The TopicShop system. In: *ACM Transactions on Computer-Human Interaction (TOCHI)*. 10, Nr.&#8239;1. S.&#8239;54--85.
+\voll Amento, Brian; Terveen, Loren G.; Hill, William C.; Hix, Deborah & Schulman, Robert S. (2003). Experiments in social data mining: The TopicShop system. In: *ACM Transactions on Computer-Human Interaction (TOCHI)*. 10, Nr.&#8239;1. S.&#8239;54--85.
 
 
 ### Webseite
