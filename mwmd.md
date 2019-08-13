@@ -232,9 +232,9 @@ Ergänzen Sie im Kurzbeleg die Zeitangabe, um eine genaue Stelle oder einen Zeit
 
 ### Serie
 
-\kurz _The Wire_: _„The Target“_ (US 2002).
+\kurz _The Wire: „The Target“_ (US 2002).
 
-\voll _The Wire_: _„The Target“_ (US 2002). David Simon & Robert F. Colesberry. S01E01; HBO. \[DVD/2010\].
+\voll _The Wire: „The Target“_ (US 2002). David Simon & Robert F. Colesberry. S01E01; HBO. \[DVD/2010\].
 
 
 ### Video und Musikvideo
@@ -312,7 +312,7 @@ _A Woman's Face \[Die Frau mit der Narbe\]_ (US 1941). Georges Cukor. MGM. \[DVD
 
 _All is full of love_ (1999). Björk. Chris Cunningham; Electra Entertainment Group Inc. \[Musikvideo\]. [url:]{.smallcaps} <https://youtu.be/d2tBhaVEWGM> -- Zugriff: 22.7.2019.
 
-_The Wire_: _„The Target“_ (US 2002). David Simon & Robert F. Colesberry. S01E01; HBO. \[DVD/2010\].
+_The Wire: „The Target“_ (US 2002). David Simon & Robert F. Colesberry. S01E01; HBO. \[DVD/2010\].
 
 _Tom Hiddleston Funny Moments_ (2013). Shelby Cook \[XxSourGummyBearzxX\]. \[Video\]. [url:]{.smallcaps} <https://youtu.be/kXViNegXPTk> -- Zugriff: 22.7.2019.
 
