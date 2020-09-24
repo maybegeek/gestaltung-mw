@@ -93,7 +93,7 @@ Beachten Sie für Abschlussarbeiten ergänzend die Hinweise auf den Seiten des P
 
 Das Quellenverzeichnis besteht aus einem alphabetisch geordneten Literaturverzeichnis (Bibliografie), das alle Quellen enthält, die mit einer Autoren/innennennung beginnen (neben literarischen Werken z.&#8239;B. auch Texte aus dem Internet oder Werbung) und je nach weiteren verwendeten Quellen einem Bildverzeichnis, einem Filmverzeichnis etc. (typischerweise Quellen, die nicht mit einer/m Autor/in sondern einem Titel beginnen, eben z.&#8239;B. Bilder, Fotos oder Filme).
 
-Den Aufbau eines Quellenverzeichnisses, unter Verwendung aller hier im Text genannten Beispiele, finden Sie ab Seite 9.
+**Den Aufbau eines Quellenverzeichnisses, unter Verwendung aller hier im Text genannten Beispiele, finden Sie ab Seite 9.**
 
 
 ## Allgemeines zur Zitation
