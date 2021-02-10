@@ -1,7 +1,7 @@
 ---
 title: 'Gestaltungsrichtlinien Medienwissenschaft'
 ur-kolumnentitel: ''
-ur-stand: 'September 2020'
+ur-stand: 'Februar 2021'
 lang: de-DE
 author: 'CF & CP'
 subject: 'Gestaltungsrichtlinien Medienwissenschaft'
@@ -68,8 +68,7 @@ Hier werden alle in Ihrer Arbeit verwendeten, sorgfältig gewählten Quellen mit
 
 Fügen Sie am Ende Ihrer Arbeit eine unterschriebene Erklärung bzgl. Redlichkeit und Rechtsfolgenkenntnis bei. Als verbindliche Vorlage dient die letzte Seite dieser Gestaltungsrichtlinien.
 
-Beachten Sie für Abschlussarbeiten ergänzend die Hinweise auf den Seiten des Prüfungssekretariats Geisteswissenschaften unter „Allgemeine Informationen und Bekanntmachungen | Abschlussarbeit“:
-<https://www.ur.de/studium/pruefungsverwaltung/geisteswissenschaften>.
+Beachten Sie für Abschlussarbeiten ergänzend die Hinweise auf den [Seiten des Prüfungssekretariats Geisteswissenschaften](https://www.ur.de/studium/pruefungsverwaltung/geisteswissenschaften) unter „Allgemeine Informationen und Bekanntmachungen » Abschlussarbeit“.
 
 
 ## Seitenlayout und Typografisches ^[Weitere Informationen zu orthografisch richtiger und typografisch ansprechender Gestaltung schriftlicher Arbeiten finden sie z.&#8239;B. in „Typokurz -- Einige wichtige typografische Regeln“ bei Bier (2009).]
@@ -87,6 +86,11 @@ Beachten Sie für Abschlussarbeiten ergänzend die Hinweise auf den Seiten des P
     und Fettdruck, sind so oft wie nötig, jedoch nicht
     inflationär zu gebrauchen.
 -   Verwenden Sie vorzugsweise eine Serifenschrift; die *Vollkorn*^[Information und Download der kostenfreien Schrift *Vollkorn* unter: <http://vollkorn-typeface.com/>.] kommt beispielsweise in diesem Dokument zum Einsatz.
+
+
+## Geschlechtergerechter Sprachgebrauch (Gendern)
+
+Geschlechtergerechte Formulierungen sind zu verwenden. Die Verwendung lediglich des generischen Maskulinums, ohne dass dies zumindest in einer Anmerkung als vereinfachtes Verfahren erläutert wird, ist unerwünscht. Besser ist ein kreativer Umgang mit gendergerechter Sprache: verschiedene Möglichkeiten finden Sie z.&#8239;B. im [Leitfaden zu gendergerechter Sprache der UR](https://www.uni-regensburg.de/sprache-literatur-kultur/fakultaet/frauenbeauftragte/sprache/index.html) sowie im [Duden bzgl. geschlechtergerechten Sprachgebrauchs](https://www.duden.de/sprachwissen/sprachratgeber/Geschlechtergerechter-Sprachgebrauch).
 
 
 # Zitierrichtlinien und Beispiele
@@ -140,6 +144,10 @@ Allgemein werden Abbildungen im Kurz- und Vollbeleg, je nach Quelle der sie entn
 Stills aus Filmen werden im Kurz- und Vollbeleg nach Punkt 2.4.9 zitiert.
 
 In der Bildunterschrift wird die verwendete Abbildung (Bild, Foto, Gemälde oder Still) beschrieben und um den Kurzbeleg ergänzt (Vgl. Abbildung 1 und 2).
+
+```{=latex}
+\clearpage
+```
 
 Bei einer größeren Anzahl von Abbildungen können Sie der Übersichtlichkeit halber ein eigenes Abbildungsverzeichnis erstellen. Dort werden die laufende Abbildungsnummer, die ggf. gekürzte Bildunterschrift und die Seitenangabe genannt. Es ersetzt nicht den Nachweis des Werks im Bildverzeichnis, in welchem der Vollbeleg anzugeben ist.
 
