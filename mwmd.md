@@ -73,7 +73,7 @@ Beachten Sie für Abschlussarbeiten ergänzend die Hinweise auf den [Seiten des 
 
 ## Seitenlayout und Typografisches ^[Weitere Informationen zu orthografisch richtiger und typografisch ansprechender Gestaltung schriftlicher Arbeiten finden sie z.&#8239;B. in „Typokurz -- Einige wichtige typografische Regeln“ bei Bier (2009).]
 
--   Die Arbeit wird einseitig auf DIN A4-Papier gedruckt.
+-   Die Arbeit wird auf DIN A4-Papier gedruckt.
     Die Seitenränder betragen: oben 3cm, unten 3,8cm,
     links 3,2cm und rechts 3cm.
 -   Die Schriftgröße beträgt üblicherweise 12pt.
