@@ -42,7 +42,7 @@ header-includes:
 - \renewcommand{\tightlist}{\RaggedRight\setlength{\itemsep}{-0.3\baselineskip}}
 - \newcommand{\kurz}[1]{\hspace*{0pt}\marginpar{\hfill\raisebox{1pt}{\scriptsize{Kurzbeleg\,\,▷}}}\hspace*{0pt}}
 - \newcommand{\voll}[1]{\hspace*{0pt}\marginpar{\hfill\raisebox{1pt}{\scriptsize{Vollbeleg\,\,▶}}}\hspace*{0pt}}
-- \newcommand{\qvzstart}{\RaggedRight\begin{hangparas}{1.6em}{1}\small}
+- \newcommand{\qvzstart}{\begin{hangparas}{1.6em}{1}\RaggedRight\small}
 - \newcommand{\qvzend}{\end{hangparas}\null}
 - \reversemarginpar
 - \usepackage[left=34mm,right=32mm,top=32mm,bottom=40mm]{geometry}
