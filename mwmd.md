@@ -164,7 +164,7 @@ Die folgenden Beispiele bieten einen Überblick über häufig genutzte Quellenty
 \voll Dotzler, Bernhard J. & Roesler-Keilholz, Silke (2017). *Mediengeschichte als Historische Techno-Logie*. Baden-Baden: Nomos.
 
 
-### Herausgeberschaft
+### Sammelband, Herausgeberschaft
 
 \kurz Heibach & Rohde (2015).
 
