@@ -256,7 +256,7 @@ Bei Musikvideos, wie im folgenden Beispiel, wird der Vollbeleg ggfs. um Regisseu
 
 ## Software zur Literaturverwaltung
 
-Siehe dazu das Dokument [„Hinweise zur Wissensorganisation und Literaturverwaltung“](https://www.uni-regensburg.de/sprache-literatur-kultur/medienwissenschaft/studium/materialien/index.html).
+Siehe dazu: [„Hinweise zur Wissensorganisation und Literaturverwaltung“](https://www.uni-regensburg.de/sprache-literatur-kultur/medienwissenschaft/studium/materialien/index.html).
 
 
 \clearpage
