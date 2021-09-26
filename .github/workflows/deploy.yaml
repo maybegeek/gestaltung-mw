@@ -9,6 +9,7 @@ jobs:
       - name: Checkout this repository
         uses: actions/checkout@v2
       - run: ls -la
+      - run: tlmgr update --self && tlmgr install titling
       - uses: docker://pandoc/latex
         with:
           args: >-
