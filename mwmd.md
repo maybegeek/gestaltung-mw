@@ -1,7 +1,7 @@
 ---
 title: 'Gestaltungsrichtlinien Medienwissenschaft'
 ur-kolumnentitel: ''
-ur-stand: 'Februar 2021'
+ur-stand: 'September 2021'
 lang: de-DE
 author: 'CF & CP'
 subject: 'Gestaltungsrichtlinien Medienwissenschaft'
