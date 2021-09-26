@@ -44,6 +44,7 @@ header-includes:
 - \newcommand{\voll}{\hspace{0pt}\marginpar{\scriptsize{\hfill Vollbeleg\,▶}}\hangpara{1.6em}{1}}
 - \newcommand{\qvzstart}{\begin{hangparas}{1.6em}{1}\small}
 - \renewcommand{\tightlist}{\RaggedRight\setlength{\itemsep}{-0.3\baselineskip}}
+- \newcommand{\qvzstart}{\RaggedRight\begin{hangparas}{1.6em}{1}\small}
 - \newcommand{\qvzend}{\end{hangparas}\null}
 - \reversemarginpar
 - \usepackage[left=34mm,right=32mm,top=32mm,bottom=40mm]{geometry}
