@@ -249,7 +249,9 @@ Ergänzen Sie im Kurzbeleg die Zeitangabe, um eine genaue Stelle oder einen Zeit
 
 ### Video und Musikvideo
 
+\kurz{}_How SpaceX Fixed Its Drone Ship Camera_ (2021).
 
+\voll{}_How SpaceX Fixed Its Drone Ship Camera_ (2021). Primal Space. \[Youtube, Video\]. [url:]{.smallcaps} <https://youtu.be/Bf4rPsS_fwA>&#8201;--&#8201;Zugriff: 26.9.2021.
 
 
 Bei Musikvideos, wie im folgenden Beispiel, wird der Vollbeleg ggfs. um Regisseurin oder Regisseur und Label erweitert.
