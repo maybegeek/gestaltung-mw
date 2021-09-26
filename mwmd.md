@@ -177,8 +177,8 @@ Die folgenden Beispiele bieten einen Überblick über häufig genutzte Quellenty
 
 \voll Stegbauer, Christian & Rausch, Alexander (2001). Die schweigende Mehrheit -- „Lurker“ in internetbasierten Diskussionsforen. In: *Zeitschrift für Soziologie.* 30, Nr.&#8239;1. S.&#8239;48--64.
 
+### Gesammelte Schriften, Anthologien
 
-### Sammelband
 
 \kurz Vgl. Gerhards & Neidhardt (1993, S.&#8239;60).
 
