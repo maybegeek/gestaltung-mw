@@ -218,7 +218,7 @@ Die bibliografischen Informationen zum verwendeten Wikipedia-Eintrag finden Sie 
 
 ### Bild/Gemälde und Fotografie
 
-\kurz _Mann und Frau den Mond betrachtend_ (1818--1824).
+\kurz{}_Mann und Frau den Mond betrachtend_ (Caspar David Friedrich, 1818--1824).
 
 \voll _Mann und Frau den Mond betrachtend \[Mann und Frau in Betrachtung des Mondes\]_ (1818--1824). Caspar David Friedrich. Alte Nationalgalerie Berlin. \[Öl auf Leinwand\]. In: Wikipedia, Die freie Enzyklopädie. [url:]{.smallcaps} <https://w.wiki/6eW>&#8201;--&#8201;Zugriff: 22.07.2019.
 
