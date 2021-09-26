@@ -249,8 +249,8 @@ Ergänzen Sie im Kurzbeleg die Zeitangabe, um eine genaue Stelle oder einen Zeit
 
 
 
-Bei Musikvideos, wie im folgenden Beispiel, wird der Vollbeleg ggfs. um Regisseur und Label erweitert.
 
+Bei Musikvideos, wie im folgenden Beispiel, wird der Vollbeleg ggfs. um Regisseurin oder Regisseur und Label erweitert.
 
 
 
