@@ -282,7 +282,7 @@ Dotzler, Bernhard J. & Roesler-Keilholz, Silke (2017). *Mediengeschichte als His
 
 Gerhards, Jürgen & Neidhardt, Friedhelm (1993). Strukturen und Funktionen moderner Öffentlichkeit. In: Langenbucher, Wolfgang R. (Hg.). *Politische Kommunikation. Grundlagen, Strukturen, Prozesse* (=&#8239;Studienbücher zur Publizistik- und Kommunikationswissenschaft, 2). 2., überarb. Auflage. Wien: Braumüller. S.&#8239;52--89.
 
-Gesellschaft zur Förderung der Photographie (1952). Oh die herrlichen Berge. In: *Regensburger Archiv für Werbeforschung.* PROPHOTO vom 12.7.1952, HWA\_1\_863.mp3, R-Nummer: 616. \[Werbung, Audio\]. [url:]{.smallcaps} <https://raw.uni-regensburg.de/details.php?r=616>&#8201;−&#8201;Zugriff: 18.9.2013.
+Gesellschaft zur Förderung der Photographie (1952). Oh die herrlichen Berge. In: *Regensburger Archiv für Werbeforschung.* PROPHOTO vom 12.7.1952, R-Nummer: 616. \[Werbung, Audio\]. [url:]{.smallcaps} <https://raw.uni-regensburg.de/details.php?r=616>&#8201;−&#8201;Zugriff: 18.9.2013.
 
 Heibach, Christiane & Rohde, Carsten (Hg.) (2015). *Ästhetik der Materialität* (=&#8239;HfG Forschung, 6). München: Fink.
 
