@@ -159,9 +159,9 @@ Die folgenden Beispiele bieten einen Überblick über häufig genutzte Quellenty
 
 ### Monografie
 
-\kurz Vgl. Dotzler & Roesler-Keilholz (2017, S.&#8239;22).
+\kurz{}Vgl. Dotzler & Roesler-Keilholz (2017, S.&#8239;22).
 
-\voll Dotzler, Bernhard J. & Roesler-Keilholz, Silke (2017). *Mediengeschichte als Historische Techno-Logie*. Baden-Baden: Nomos.
+\voll{}Dotzler, Bernhard J. & Roesler-Keilholz, Silke (2017). *Mediengeschichte als Historische Techno-Logie*. Baden-Baden: Nomos.
 
 
 ### Sammelband, Herausgeberschaft
@@ -191,16 +191,16 @@ Die folgenden Beispiele bieten einen Überblick über häufig genutzte Quellenty
 
 ### Webseite
 
-\kurz O'Reilly (2005).
+\kurz{}O'Reilly (2005).
 
-\voll O'Reilly, Tim (2005). *What Is Web 2.0. Design Patterns and Business Models for the Next Generation of Software*. [url:]{.smallcaps} <https://www.oreilly.com/pub/a/web2/archive/what-is-web-20.html>&#8201;--&#8201;Zugriff: 29.6.2019.
+\voll{}O'Reilly, Tim (2005). *What Is Web 2.0. Design Patterns and Business Models for the Next Generation of Software*. [url:]{.smallcaps} <https://www.oreilly.com/pub/a/web2/archive/what-is-web-20.html>&#8201;--&#8201;Zugriff: 29.6.2019.
 
 
 ### Wikipedia
 
-\kurz Vgl. Wikipedia (11. Juli 2019).
+\kurz{}Vgl. Wikipedia (11. Juli 2019).
 
-\voll Wikipedia (11. Juli 2019). Universität Regensburg. In: *Wikipedia, Die freie Enzyklopädie*. [url:]{.smallcaps} <https://de.wikipedia.org/w/index.php?title=Universit%C3%A4t_Regensburg&oldid=190335453>&#8201;--&#8201;Zugriff: 22.7.2019.
+\voll{}Wikipedia (11. Juli 2019). Universität Regensburg. In: *Wikipedia, Die freie Enzyklopädie*. [url:]{.smallcaps} <https://de.wikipedia.org/w/index.php?title=Universit%C3%A4t_Regensburg&oldid=190335453>&#8201;--&#8201;Zugriff: 22.7.2019.
 
 Die bibliografischen Informationen zum verwendeten Wikipedia-Eintrag finden Sie auf der dazugehörigen Webseite unter „Artikel zitieren“. Als Datum des Artikels verwenden Sie den dort genannten „letzten Bearbeitungsstand“, als [url]{.smallcaps} den dort ersichtlichen „Permanentlink“.
 
@@ -209,42 +209,42 @@ Die bibliografischen Informationen zum verwendeten Wikipedia-Eintrag finden Sie 
 
 ### Werbung
 
-\kurz Doppelherz (2007).
+\kurz{}Doppelherz (2007).
 
-\voll Doppelherz (2007). *Sitznachbar*. ARD Radio-Kreativ-Wettbewerb 2007; Broschüre und CD-Rom. \[Werbung\].
+\voll{}Doppelherz (2007). *Sitznachbar*. ARD Radio-Kreativ-Wettbewerb 2007; Broschüre und CD-Rom. \[Werbung\].
 
-\kurz Gesellschaft zur Förderung der Photographie (1952).
+\kurz{}Gesellschaft zur Förderung der Photographie (1952).
 
-\voll Gesellschaft zur Förderung der Photographie (1952). Oh die herrlichen Berge. In: *Regensburger Archiv für Werbeforschung.* PROPHOTO vom 12.7.1952, HWA\_1\_863.mp3, R-Nummer: 616. \[Werbung, Audio\]. [url:]{.smallcaps} <https://raw.uni-regensburg.de/details.php?r=616>&#8201;−&#8201;Zugriff: 18.9.2013.
+\voll{}Gesellschaft zur Förderung der Photographie (1952). Oh die herrlichen Berge. In: *Regensburger Archiv für Werbeforschung.* PROPHOTO vom 12.7.1952, R-Nummer: 616. \[Werbung, Audio\]. [url:]{.smallcaps} <https://raw.uni-regensburg.de/details.php?r=616>&#8201;−&#8201;Zugriff: 18.9.2013.
 
 
 ### Bild/Gemälde und Fotografie
 
 \kurz{}_Mann und Frau den Mond betrachtend_ (Caspar David Friedrich, 1818--1824).
 
-\voll _Mann und Frau den Mond betrachtend \[Mann und Frau in Betrachtung des Mondes\]_ (1818--1824). Caspar David Friedrich. Alte Nationalgalerie Berlin. \[Öl auf Leinwand\]. In: Wikipedia, Die freie Enzyklopädie. [url:]{.smallcaps} <https://w.wiki/6eW>&#8201;--&#8201;Zugriff: 22.07.2019.
+\voll{}_Mann und Frau den Mond betrachtend \[Mann und Frau in Betrachtung des Mondes\]_ (1818--1824). Caspar David Friedrich. Alte Nationalgalerie Berlin. \[Öl auf Leinwand\]. In: Wikipedia, Die freie Enzyklopädie. [url:]{.smallcaps} <https://w.wiki/6eW>&#8201;--&#8201;Zugriff: 22.07.2019.
 
-\kurz _Larmes_ (Man Ray, 1930).
+\kurz{}_Larmes_ (Man Ray, 1930).
 
-\voll _Larmes \[Tränen\]_ (1930). Man Ray. In: Rosalind Krauss & Jane Livingston (Hg.) (1985). L'amour fou. Photography and Surrealism. Washington: Abbeville Press. S.&#8239;118.
+\voll{}_Larmes \[Tränen\]_ (1930). Man Ray. In: Rosalind Krauss & Jane Livingston (Hg.) (1985). L'amour fou. Photography and Surrealism. Washington: Abbeville Press. S.&#8239;118.
 
 
 ### Film
 
-\kurz _A Woman's Face_ (US 1941).
+\kurz{}_A Woman's Face_ (US 1941).
 
 Ergänzen Sie im Kurzbeleg die Zeitangabe, um eine genaue Stelle oder einen Zeitraum zu kennzeichnen:
 
-\kurz _A Woman's Face_ (US 1941, 00:45:18).
+\kurz{}_A Woman's Face_ (US 1941, 00:45:18).
 
-\voll _A Woman's Face \[Die Frau mit der Narbe\]_ (US 1941). Georges Cukor. MGM. \[DVD/2017\].
+\voll{}_A Woman's Face \[Die Frau mit der Narbe\]_ (US 1941). Georges Cukor. MGM. \[DVD/2017\].
 
 
 ### Serie
 
-\kurz _The Wire: „The Target“_ (US 2002).
+\kurz{}_The Wire: „The Target“_ (US 2002).
 
-\voll _The Wire: „The Target“_ (US 2002). David Simon & Robert F. Colesberry. S01E01; HBO. \[DVD/2010\].
+\voll{}_The Wire: „The Target“_ (US 2002). David Simon & Robert F. Colesberry. S01E01; HBO. \[DVD/2010\].
 
 
 ### Video und Musikvideo
