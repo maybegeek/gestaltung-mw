@@ -171,7 +171,6 @@ Die folgenden Beispiele bieten einen Überblick über häufig genutzte Quellenty
 \voll Heibach, Christiane & Rohde, Carsten (Hg.) (2015). *Ästhetik der Materialität* (=&#8239;HfG Forschung, 6). München: Fink.
 
 
-### Wissenschaftliche Fachzeitschrift
 
 \kurz Stegbauer & Rausch (2001, S.&#8239;48).
 
@@ -183,6 +182,7 @@ Die folgenden Beispiele bieten einen Überblick über häufig genutzte Quellenty
 \kurz Vgl. Gerhards & Neidhardt (1993, S.&#8239;60).
 
 \voll Gerhards, Jürgen & Neidhardt, Friedhelm (1993). Strukturen und Funktionen moderner Öffentlichkeit. In: Langenbucher, Wolfgang R. (Hg.). *Politische Kommunikation. Grundlagen, Strukturen, Prozesse* (=&#8239;Studienbücher zur Publizistik- und Kommunikationswissenschaft, 2). 2., überarb. Auflage. Wien: Braumüller. S.&#8239;52--89.
+### Wissenschaftliche Fachzeitschrift
 
 \kurz Amento et al. (2003, S.&#8239;60).
 
