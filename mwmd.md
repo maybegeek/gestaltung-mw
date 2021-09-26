@@ -207,6 +207,15 @@ Die bibliografischen Informationen zum verwendeten Wikipedia-Eintrag finden Sie 
 
 ### Twitter, Facebook, ...
 
+\kurz{}Stanford Medicine (2012).
+
+\voll{}Stanford Medicine \[\@StanfordMed\] (9. Oktober 2012). *Animal study shows sleeping brain behaves as if it's remembering: http://stan.md/RrqyEt #sleep #neuroscience #research* \[Twitter, Tweet\]. [url:]{.smallcaps} <https://twitter.com/SUMedicine/status/255644688630046720>&#8201;--&#8201;Zugriff: 29.6.2019.
+
+\kurz{}Universität Regensburg (2021).
+
+\voll{}Universität Regensburg \[UR.Regensburg\] (23. September 2021). *Für das Wintersemester 2021/22 ist die lang erwartete Rückkehr zu einem möglichst weitreichenden Präsenzlehrbetrieb geplant*. \[Facebook, Status Update\]. [url:]{.smallcaps} <https://www.facebook.com/UR.Regensburg/photos/a.714984458891629/1739632266426838/>&#8201;--&#8201;Zugriff: 26.9.2021.
+
+
 ### Werbung
 
 \kurz{}Doppelherz (2007).
