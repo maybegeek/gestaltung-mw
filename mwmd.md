@@ -256,7 +256,9 @@ Ergänzen Sie im Kurzbeleg die Zeitangabe, um eine genaue Stelle oder einen Zeit
 
 Bei Musikvideos, wie im folgenden Beispiel, wird der Vollbeleg ggfs. um Regisseurin oder Regisseur und Label erweitert.
 
+\kurz{}_Human Behaviour (HD)_ (Björk, 2019).
 
+\voll{}_Human Behaviour (HD)_ (2019). Björk. Mitautorin: Nellee Hooper; Regisseur: Michel Gondry; Release: 1993; Label: One Little Indian Records. \[Youtube, Musikvideo\]. [url:]{.smallcaps} <https://youtu.be/p0mRIhK9seg>&#8201;--&#8201;Zugriff: 26.9.2021.
 
 ## Software zur Literaturverwaltung
 
