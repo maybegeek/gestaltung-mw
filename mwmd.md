@@ -314,9 +314,11 @@ _Mann und Frau den Mond betrachtend \[Mann und Frau in Betrachtung des Mondes\]_
 
 _A Woman's Face \[Die Frau mit der Narbe\]_ (US 1941). Georges Cukor. MGM. \[DVD/2017\].
 
+_How SpaceX Fixed Its Drone Ship Camera_ (2021). Primal Space. \[Youtube, Video\]. [url:]{.smallcaps} <https://youtu.be/Bf4rPsS_fwA>&#8201;--&#8201;Zugriff: 26.9.2021.
+
+_Human Behaviour (HD)_ (2019). Björk. Mitautorin: Nellee Hooper; Regisseur: Michel Gondry; Release: 1993; Label: One Little Indian Records. \[Youtube, Musikvideo\]. [url:]{.smallcaps} <https://youtu.be/p0mRIhK9seg>&#8201;--&#8201;Zugriff: 26.9.2021.
 
 _The Wire: „The Target“_ (US 2002). David Simon & Robert F. Colesberry. S01E01; HBO. \[DVD/2010\].
-
 
 \qvzend
 
