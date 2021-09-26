@@ -178,6 +178,9 @@ Die folgenden Beispiele bieten einen Überblick über häufig genutzte Quellenty
 
 ### Gesammelte Schriften, Anthologien
 
+\kurz{}Benjamin (1977 \[1931\], S.&#8239;369),.
+
+\voll{}Benjamin, Walter (1977 \[1931\]). Kleine Geschichte der Photographie. In: Tiedemann, Rolf & Schweppenhäuser, Hermann (Hg.). *Walter Benjamin: Gesammelte Schriften. Bd. II, 1. Aufsätze, Essays, Vorträge*. Suhrkamp: Frankfurt am Main. S.&#8239;368--385.
 
 \kurz Vgl. Gerhards & Neidhardt (1993, S.&#8239;60).
 
