@@ -205,6 +205,8 @@ Die folgenden Beispiele bieten einen Überblick über häufig genutzte Quellenty
 Die bibliografischen Informationen zum verwendeten Wikipedia-Eintrag finden Sie auf der dazugehörigen Webseite unter „Artikel zitieren“. Als Datum des Artikels verwenden Sie den dort genannten „letzten Bearbeitungsstand“, als [url]{.smallcaps} den dort ersichtlichen „Permanentlink“.
 
 
+### Twitter, Facebook, ...
+
 ### Werbung
 
 \kurz Doppelherz (2007).
