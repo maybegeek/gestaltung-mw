@@ -278,7 +278,7 @@ Amento, Brian; Terveen, Loren G.; Hill, William C.; Hix, Deborah & Schulman, Rob
 
 Andermann, Ulrich; Drees, Martin & Grätz, Frank (2000). *Duden. Wie verfasst man wissenschaftliche Arbeiten? Ein Leitfaden für das Studium und die Promotion*. Mainz: Verlag Hermann Schmidt.
 
-Benjamin, Walter (1977 [1931]). Kleine Geschichte der Photographie. In: Tiedemann, Rolf & Schweppenhäuser, Hermann (Hg.). *Walter Benjamin: Gesammelte Schriften. Bd. II, 1. Aufsätze, Essays, Vorträge*. Suhrkamp: Frankfurt am Main. S.&#8239;368--385.
+Benjamin, Walter (1977 \[1931\]). Kleine Geschichte der Photographie. In: Tiedemann, Rolf & Schweppenhäuser, Hermann (Hg.). *Walter Benjamin: Gesammelte Schriften. Bd. II, 1. Aufsätze, Essays, Vorträge*. Suhrkamp: Frankfurt am Main. S.&#8239;368--385.
 
 Bier, Christoph (2009). Typokurz -- Einige wichtige typografische Regeln. [url:]{.smallcaps} <https://zvisionwelt.files.wordpress.com/2012/01/typokurz.pdf>&#8201;--&#8201;Zugriff: 29.6.2019.
 
