@@ -247,15 +247,11 @@ Ergänzen Sie im Kurzbeleg die Zeitangabe, um eine genaue Stelle oder einen Zeit
 
 ### Video und Musikvideo
 
-\kurz _Tom Hiddleston Funny Moments_ (2013).
 
-\voll _Tom Hiddleston Funny Moments_ (2013). Shelby Cook \[XxSourGummyBearzxX\]. \[Video\]. [url:]{.smallcaps} <https://youtu.be/kXViNegXPTk>&#8201;--&#8201;Zugriff: 22.7.2019.
 
 Bei Musikvideos, wie im folgenden Beispiel, wird der Vollbeleg ggfs. um Regisseur und Label erweitert.
 
-\kurz _All is full of love_ (Björk, 1999).
 
-\voll _All is full of love_ (1999). Björk. Chris Cunningham; Electra Entertainment Group Inc. \[Musikvideo\]. [url:]{.smallcaps} <https://youtu.be/d2tBhaVEWGM>&#8201;--&#8201;Zugriff: 22.7.2019.
 
 
 ## Software zur Literaturverwaltung
@@ -318,11 +314,9 @@ _Mann und Frau den Mond betrachtend \[Mann und Frau in Betrachtung des Mondes\]_
 
 _A Woman's Face \[Die Frau mit der Narbe\]_ (US 1941). Georges Cukor. MGM. \[DVD/2017\].
 
-_All is full of love_ (1999). Björk. Chris Cunningham; Electra Entertainment Group Inc. \[Musikvideo\]. [url:]{.smallcaps} <https://youtu.be/d2tBhaVEWGM>&#8201;--&#8201;Zugriff: 22.7.2019.
 
 _The Wire: „The Target“_ (US 2002). David Simon & Robert F. Colesberry. S01E01; HBO. \[DVD/2010\].
 
-_Tom Hiddleston Funny Moments_ (2013). Shelby Cook \[XxSourGummyBearzxX\]. \[Video\]. [url:]{.smallcaps} <https://youtu.be/kXViNegXPTk>&#8201;--&#8201;Zugriff: 22.7.2019.
 
 \qvzend
 
