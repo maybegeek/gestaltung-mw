@@ -365,7 +365,6 @@ Bachelorprüfungs- und Studienordnung für die Philosophischen Fakultäten I--II
 * *Masterstudierende:*
 Prüfungs- und Studienordnung für den Masterstudiengang Allgemeine und Vergleichende Medienwissenschaft an der Universität Regensburg (besonders §20 Abs.&#8239;4, §26 Abs.&#8239;5 und §29 Abs.&#8239;1).
 
-
 ```{=latex}
 \vspace{5\baselineskip}
 \noindent
