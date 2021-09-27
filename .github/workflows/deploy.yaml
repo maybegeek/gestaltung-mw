@@ -1,26 +1,26 @@
-name: mwmd per pandoc umwandeln
+name: Gestaltungsrichtlinien MD->PDF-Umwandlung
 
 on: push
 
 jobs:
-  convert_via_pandoc:
+  md_zu_pdf_umwandlung:
     runs-on: ubuntu-latest
     steps:
       - name: Repository Checkout ...
         uses: actions/checkout@v2
 
-      - name: Ablage
+      - name: Ablage erstellen ...
         run: mkdir Ablage
 
-      - name: Setup timezone
+      - name: Uhrzeit an Zeitzone anpassen ...
         uses: zcong1993/setup-timezone@master
         with:
           timezone: Europe/Berlin
 
-      - name: Timestamp ...
+      - name: Zeitstempel erstellen ...
         run: echo "MWDW_TIMESTAMP=`date +'%Y-%m-%d--%H-%M-%S'`" >> $GITHUB_ENV
 
-      - name: Pandoc/LaTeX-Image ...
+      - name: Pandoc/LaTeX holen, anpassen und Umwandlung ausführen ...
         uses: docker://pandoc/latex
         with:
           entrypoint: /bin/sh
@@ -28,10 +28,10 @@ jobs:
             -c "
              tlmgr update --self &&
              tlmgr install titling hanging &&
-             pandoc --standalone --pdf-engine=xelatex --template=layout/mwmd.tex layout/mwmd.yaml mwmd.md --output=Ablage/mwmd-${{ env.MWDW_TIMESTAMP }}.pdf
+             pandoc --standalone --pdf-engine=xelatex --template=layout/mwmd.tex --metadata-file=layout/mwmd.yaml --output=Ablage/mwmd-${{ env.MWDW_TIMESTAMP }}.pdf mwmd.md
             "
 
-      - name: Artifacts ...
+      - name: Datei zum internen Download bereitstellen ...
         uses: actions/upload-artifact@master
         with:
           name: Gestaltungsrichtlinien-${{ env.MWDW_TIMESTAMP }}
