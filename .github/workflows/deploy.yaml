@@ -16,11 +16,5 @@ jobs:
             -c "
              tlmgr update --self &&
              tlmgr install  &&
-             pandoc
-             --standalone
-             --pdf-engine=xelatex
-             --template=layout/mwmd.tex
-             layout/mwmd.yaml
-             mwmd.md
-             --output="temp.pdf"
+             pandoc --standalone --pdf-engine=xelatex --template=layout/mwmd.tex layout/mwmd.yaml mwmd.md --output="temp.pdf"
             "
