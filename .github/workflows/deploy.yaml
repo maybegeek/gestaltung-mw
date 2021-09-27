@@ -6,15 +6,15 @@ jobs:
   convert_via_pandoc:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout this repository
+      - name: Repository Checkout ...
         uses: actions/checkout@v2
-      - name: Pandoc/LaTeX-Image
+      - name: Pandoc/LaTeX-Image ...
         uses: docker://pandoc/latex
         with:
           entrypoint: /bin/sh
           args: >-
             -c "
              tlmgr update --self &&
-             tlmgr install  &&
+             tlmgr install titling &&
              pandoc --standalone --pdf-engine=xelatex --template=layout/mwmd.tex layout/mwmd.yaml mwmd.md --output="temp.pdf"
             "
