@@ -13,10 +13,10 @@ jobs:
         run: mkdir Ablage
 
       - name: Timestamp ...
-        run: echo "::set-env name=TIMESTAMP::`date +'%Y-%m-%d--%H-%M-%S'`"
+        run: echo "MWDW_TIMESTAMP=`date +'%Y-%m-%d--%H-%M-%S'`" >> $GITHUB_ENV
 
       - name: Test Timestamp ...
-        run: echo ${{ env.TIMESTAMP }}
+        run: echo ${{ env.MWDW_TIMESTAMP }}
 
       - name: Pandoc/LaTeX-Image ...
         uses: docker://pandoc/latex
