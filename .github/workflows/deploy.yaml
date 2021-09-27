@@ -15,9 +15,6 @@ jobs:
       - name: Timestamp ...
         run: echo "MWDW_TIMESTAMP=`date +'%Y-%m-%d--%H-%M-%S'`" >> $GITHUB_ENV
 
-      - name: Test Timestamp ...
-        run: echo ${{ env.MWDW_TIMESTAMP }}
-
       - name: Pandoc/LaTeX-Image ...
         uses: docker://pandoc/latex
         with:
@@ -26,11 +23,11 @@ jobs:
             -c "
              tlmgr update --self &&
              tlmgr install titling hanging &&
-             pandoc --standalone --pdf-engine=xelatex --template=layout/mwmd.tex layout/mwmd.yaml mwmd.md --output=Ablage/temp.pdf
+             pandoc --standalone --pdf-engine=xelatex --template=layout/mwmd.tex layout/mwmd.yaml mwmd.md --output=Ablage/mwmd-${{ env.MWDW_TIMESTAMP }}.pdf
             "
 
       - name: Artifacts ...
         uses: actions/upload-artifact@master
         with:
-          name: Ablage
+          name: Gestaltungsrichtlinien-${{ env.MWDW_TIMESTAMP }}
           path: Ablage
