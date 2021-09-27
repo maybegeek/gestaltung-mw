@@ -8,9 +8,9 @@ jobs:
     steps:
       - name: Checkout this repository
         uses: actions/checkout@v2
-      - run: ls -la
-      - run: sudo apt update && sudo apt install texlive-latex-extra
-      - uses: docker://pandoc/latex
+      - name: Pandoc/LaTeX-Image
+        uses: docker://pandoc/latex:2.9
+        run: apk add --no-cache texlive-latex-extra
         with:
           args: >-
             --standalone
