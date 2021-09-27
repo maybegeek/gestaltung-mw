@@ -12,6 +12,11 @@ jobs:
       - name: Ablage
         run: mkdir Ablage
 
+      - name: Setup timezone
+        uses: zcong1993/setup-timezone@master
+        with:
+          timezone: Europe/Berlin
+
       - name: Timestamp ...
         run: echo "MWDW_TIMESTAMP=`date +'%Y-%m-%d--%H-%M-%S'`" >> $GITHUB_ENV
 
