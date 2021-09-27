@@ -10,12 +10,12 @@ jobs:
         uses: actions/checkout@v2
       - name: Pandoc/LaTeX-Image
         uses: docker://pandoc/latex:2.9
-        run: apk add --no-cache texlive-latex-extra
-        with:
-          args: >-
-            --standalone
-            --pdf-engine=xelatex
-            --template="layout/mwmd.tex"
-            "layout/mwmd.yaml"
-            "mwmd.md"
-            --output="temp.pdf"
+        command: apk add --no-cache texlive-latex-extra
+        # with:
+        #   args: >-
+        #     --standalone
+        #     --pdf-engine=xelatex
+        #     --template="layout/mwmd.tex"
+        #     "layout/mwmd.yaml"
+        #     "mwmd.md"
+        #     --output="temp.pdf"
