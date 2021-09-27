@@ -9,13 +9,18 @@ jobs:
       - name: Checkout this repository
         uses: actions/checkout@v2
       - name: Pandoc/LaTeX-Image
-        uses: docker://pandoc/latex:2.9
-        command: apk add --no-cache texlive-latex-extra
-        # with:
-        #   args: >-
-        #     --standalone
-        #     --pdf-engine=xelatex
-        #     --template="layout/mwmd.tex"
-        #     "layout/mwmd.yaml"
-        #     "mwmd.md"
-        #     --output="temp.pdf"
+        uses: docker://pandoc/latex
+        with:
+          entrypoint: /bin/sh
+          args: >-
+            -c "
+             tlmgr update --self &&
+             tlmgr install  &&
+             pandoc
+             --standalone
+             --pdf-engine=xelatex
+             --template=layout/mwmd.tex
+             layout/mwmd.yaml
+             mwmd.md
+             --output="temp.pdf"
+            "
