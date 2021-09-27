@@ -12,6 +12,12 @@ jobs:
       - name: Ablage
         run: mkdir Ablage
 
+      - name: Timestamp ...
+        run: echo "::set-env name=TIMESTAMP::`date +'%Y-%m-%d--%H-%M-%S'`"
+
+      - name: Test Timestamp ...
+        run: echo ${{ env.TIMESTAMP }}
+
       - name: Pandoc/LaTeX-Image ...
         uses: docker://pandoc/latex
         with:
@@ -20,7 +26,7 @@ jobs:
             -c "
              tlmgr update --self &&
              tlmgr install titling hanging &&
-             pandoc --standalone --pdf-engine=xelatex --template=layout/mwmd.tex layout/mwmd.yaml mwmd.md --output="Ablage/temp.pdf"
+             pandoc --standalone --pdf-engine=xelatex --template=layout/mwmd.tex layout/mwmd.yaml mwmd.md --output=Ablage/temp.pdf
             "
 
       - name: Artifacts ...
