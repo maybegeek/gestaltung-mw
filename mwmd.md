@@ -213,7 +213,7 @@ Die bibliografischen Informationen zum verwendeten Wikipedia-Eintrag finden Sie 
 
 \kurz{}Stanford Medicine (2012).
 
-\voll{}Stanford Medicine \[\@StanfordMed\] (9. Oktober 2012). *Animal study shows sleeping brain behaves as if it's remembering: http://stan.md/RrqyEt #sleep #neuroscience #research* \[Twitter, Tweet\]. [url:]{.smallcaps} <https://twitter.com/SUMedicine/status/255644688630046720>&#8201;--&#8201;Zugriff: 29.6.2019.
+\voll{}Stanford Medicine \[\@StanfordMed\] (9. Oktober 2012). *Animal study shows sleeping brain behaves as if it's remembering: http://stan.md/RrqyEt #sleep #neuroscience #research*. \[Twitter, Tweet\]. [url:]{.smallcaps} <https://twitter.com/SUMedicine/status/255644688630046720>&#8201;--&#8201;Zugriff: 29.6.2019.
 
 \kurz{}Universität Regensburg (2021).
 
