@@ -211,13 +211,13 @@ Die bibliografischen Informationen zum verwendeten Wikipedia-Eintrag finden Sie 
 
 ### Twitter, Facebook, ...
 
-\kurz{}Stanford Medicine (2012).
+\kurz{}\@StanfordMed (2012).
 
-\voll{}Stanford Medicine \[\@StanfordMed\] (9. Oktober 2012). *Animal study shows sleeping brain behaves as if it's remembering: http://stan.md/RrqyEt #sleep #neuroscience #research*. \[Twitter, Tweet\]. [url:]{.smallcaps} <https://twitter.com/SUMedicine/status/255644688630046720>&#8201;--&#8201;Zugriff: 29.6.2019.
+\voll{}\@StanfordMed (9. Oktober 2012). *Animal study shows sleeping brain behaves as if it's remembering: http://stan.md/RrqyEt #sleep #neuroscience #research*. \[Twitter, Tweet\]. [url:]{.smallcaps} <https://twitter.com/SUMedicine/status/255644688630046720>&#8201;--&#8201;Zugriff: 29.6.2019.
 
-\kurz{}Universität Regensburg (2021).
+\kurz{}UR.Regensburg (2021).
 
-\voll{}Universität Regensburg \[UR.Regensburg\] (23. September 2021). *Für das Wintersemester 2021/22 ist die lang erwartete Rückkehr zu einem möglichst weitreichenden Präsenzlehrbetrieb geplant*. \[Facebook, Status Update\]. [url:]{.smallcaps} <https://www.facebook.com/UR.Regensburg/photos/a.714984458891629/1739632266426838/>&#8201;--&#8201;Zugriff: 26.9.2021.
+\voll{}UR.Regensburg (23. September 2021). *Für das Wintersemester 2021/22 ist die lang erwartete Rückkehr zu einem möglichst weitreichenden Präsenzlehrbetrieb geplant*. \[Facebook, Status Update\]. [url:]{.smallcaps} <https://www.facebook.com/UR.Regensburg/photos/a.714984458891629/1739632266426838/>&#8201;--&#8201;Zugriff: 26.9.2021.
 
 
 ### Werbung
@@ -309,11 +309,11 @@ Heibach, Christiane & Rohde, Carsten (Hg.) (2015). *Ästhetik der Materialität*
 
 O'Reilly, Tim (2005). What Is Web 2.0. Design Patterns and Business Models for the Next Generation of Software. [url:]{.smallcaps} <https://www.oreilly.com/pub/a/web2/archive/what-is-web-20.html>&#8201;--&#8201;Zugriff: 29.6.2019.
 
-Stanford Medicine \[\@StanfordMed\] (9. Oktober 2012). *Animal study shows sleeping brain behaves as if it's remembering: http://stan.md/RrqyEt #sleep #neuroscience #research* \[Twitter, Tweet\]. [url:]{.smallcaps} <https://twitter.com/SUMedicine/status/255644688630046720>&#8201;--&#8201;Zugriff: 29.6.2019.
+\@StanfordMed (9. Oktober 2012). *Animal study shows sleeping brain behaves as if it's remembering: http://stan.md/RrqyEt #sleep #neuroscience #research* \[Twitter, Tweet\]. [url:]{.smallcaps} <https://twitter.com/SUMedicine/status/255644688630046720>&#8201;--&#8201;Zugriff: 29.6.2019.
 
 Stegbauer, Christian & Rausch, Alexander (2001). Die schweigende Mehrheit -- „Lurker“ in internetbasierten Diskussionsforen. In: *Zeitschrift für Soziologie*. 30, Nr.&#8239;1. S.&#8239;48--64.
 
-Universität Regensburg \[UR.Regensburg\] (23. September 2021). *Für das Wintersemester 2021/22 ist die lang erwartete Rückkehr zu einem möglichst weitreichenden Präsenzlehrbetrieb geplant*. \[Facebook, Status Update\]. [url:]{.smallcaps} <https://www.facebook.com/UR.Regensburg/photos/a.714984458891629/1739632266426838/>&#8201;--&#8201;Zugriff: 26.9.2021.
+UR.Regensburg (23. September 2021). *Für das Wintersemester 2021/22 ist die lang erwartete Rückkehr zu einem möglichst weitreichenden Präsenzlehrbetrieb geplant*. \[Facebook, Status Update\]. [url:]{.smallcaps} <https://www.facebook.com/UR.Regensburg/photos/a.714984458891629/1739632266426838/>&#8201;--&#8201;Zugriff: 26.9.2021.
 
 Wikipedia (11. Juli 2019). Universität Regensburg. In: *Wikipedia, Die freie Enzyklopädie*. [url:]{.smallcaps} <https://de.wikipedia.org/w/index.php?title=Universit%C3%A4t_Regensburg&oldid=190335453>&#8201;--&#8201;Zugriff: 22.7.2019.
 
