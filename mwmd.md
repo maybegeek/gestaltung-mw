@@ -309,7 +309,7 @@ Heibach, Christiane & Rohde, Carsten (Hg.) (2015). *Ästhetik der Materialität*
 
 O'Reilly, Tim (2005). What Is Web 2.0. Design Patterns and Business Models for the Next Generation of Software. [url:]{.smallcaps} <https://www.oreilly.com/pub/a/web2/archive/what-is-web-20.html>&#8201;--&#8201;Zugriff: 29.6.2019.
 
-\@StanfordMed (9. Oktober 2012). *Animal study shows sleeping brain behaves as if it's remembering: http://stan.md/RrqyEt #sleep #neuroscience #research* \[Twitter, Tweet\]. [url:]{.smallcaps} <https://twitter.com/SUMedicine/status/255644688630046720>&#8201;--&#8201;Zugriff: 29.6.2019.
+\@StanfordMed (9. Oktober 2012). *Animal study shows sleeping brain behaves as if it's remembering: http://stan.md/RrqyEt #sleep #neuroscience #research*. \[Twitter, Tweet\]. [url:]{.smallcaps} <https://twitter.com/SUMedicine/status/255644688630046720>&#8201;--&#8201;Zugriff: 29.6.2019.
 
 Stegbauer, Christian & Rausch, Alexander (2001). Die schweigende Mehrheit -- „Lurker“ in internetbasierten Diskussionsforen. In: *Zeitschrift für Soziologie*. 30, Nr.&#8239;1. S.&#8239;48--64.
 
