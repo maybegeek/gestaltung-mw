@@ -21,7 +21,7 @@ jobs:
         run: echo "MWDW_TIMESTAMP=`date +'%Y-%m-%d--%H-%M-%S'`" >> $GITHUB_ENV
 
       - name: Pandoc/LaTeX holen, anpassen und Umwandlung ausführen ...
-        uses: docker://pandoc/latex
+        uses: docker://pandoc/latex:latest-ubuntu
         with:
           entrypoint: /bin/sh
           args: >-
