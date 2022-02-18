@@ -21,13 +21,14 @@ jobs:
         run: echo "MWDW_TIMESTAMP=`date +'%Y-%m-%d--%H-%M-%S'`" >> $GITHUB_ENV
 
       - name: Pandoc/LaTeX holen, anpassen und Umwandlung ausführen ...
-        uses: docker://pandoc/latex:latest-ubuntu
+        uses: docker://pandoc/latex:latest
         with:
           entrypoint: /bin/sh
           args: >-
             -c "
              tlmgr update --self &&
-             tlmgr install titling hanging scrartcl &&
+             tlmgr install titling hanging &&
+             tlmgr candidates scrartcl &&
              pandoc --standalone --pdf-engine=xelatex --template=layout/mwmd.tex --metadata-file=layout/mwmd.yaml --output=Ablage/mwmd-${{ env.MWDW_TIMESTAMP }}.pdf mwmd.md
             "
 
