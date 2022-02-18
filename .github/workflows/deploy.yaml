@@ -1,39 +1,39 @@
-name: Gestaltungsrichtlinien MD->PDF-Umwandlung
-
-on: push
-
-jobs:
-  md_zu_pdf_umwandlung:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Repository Checkout ...
-        uses: actions/checkout@v2
-
-      - name: Ablage erstellen ...
-        run: mkdir Ablage
-
-      - name: Uhrzeit an Zeitzone anpassen ...
-        uses: zcong1993/setup-timezone@master
-        with:
-          timezone: Europe/Berlin
-
-      - name: Zeitstempel erstellen ...
-        run: echo "MWDW_TIMESTAMP=`date +'%Y-%m-%d--%H-%M-%S'`" >> $GITHUB_ENV
-
-      - name: Pandoc/LaTeX holen, anpassen und Umwandlung ausführen ...
-        uses: docker://pandoc/latex:latest
-        with:
-          entrypoint: /bin/sh
-          args: >-
-            -c "
-             tlmgr update --self &&
-             tlmgr install titling hanging &&
-             tlmgr candidates scrartcl &&
-             pandoc --standalone --pdf-engine=xelatex --template=layout/mwmd.tex --metadata-file=layout/mwmd.yaml --output=Ablage/mwmd-${{ env.MWDW_TIMESTAMP }}.pdf mwmd.md
-            "
-
-      - name: Datei zum internen Download bereitstellen ...
-        uses: actions/upload-artifact@master
-        with:
-          name: Gestaltungsrichtlinien-${{ env.MWDW_TIMESTAMP }}
-          path: Ablage
+# name: Gestaltungsrichtlinien MD->PDF-Umwandlung
+#
+# on: push
+#
+# jobs:
+#   md_zu_pdf_umwandlung:
+#     runs-on: ubuntu-latest
+#     steps:
+#       - name: Repository Checkout ...
+#         uses: actions/checkout@v2
+#
+#       - name: Ablage erstellen ...
+#         run: mkdir Ablage
+#
+#       - name: Uhrzeit an Zeitzone anpassen ...
+#         uses: zcong1993/setup-timezone@master
+#         with:
+#           timezone: Europe/Berlin
+#
+#       - name: Zeitstempel erstellen ...
+#         run: echo "MWDW_TIMESTAMP=`date +'%Y-%m-%d--%H-%M-%S'`" >> $GITHUB_ENV
+#
+#       - name: Pandoc/LaTeX holen, anpassen und Umwandlung ausführen ...
+#         uses: docker://pandoc/latex:latest
+#         with:
+#           entrypoint: /bin/sh
+#           args: >-
+#             -c "
+#              tlmgr update --self &&
+#              tlmgr install titling hanging &&
+#              tlmgr candidates scrartcl &&
+#              pandoc --standalone --pdf-engine=xelatex --template=layout/mwmd.tex --metadata-file=layout/mwmd.yaml --output=Ablage/mwmd-${{ env.MWDW_TIMESTAMP }}.pdf mwmd.md
+#             "
+#
+#       - name: Datei zum internen Download bereitstellen ...
+#         uses: actions/upload-artifact@master
+#         with:
+#           name: Gestaltungsrichtlinien-${{ env.MWDW_TIMESTAMP }}
+#           path: Ablage
