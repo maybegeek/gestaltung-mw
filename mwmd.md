@@ -183,7 +183,7 @@ Die folgenden Beispiele bieten einen Überblick über häufig genutzte Quellenty
 
 \kurz{}Benjamin (1977 \[1931\], S.&#8239;369).
 
-\voll{}Benjamin, Walter (1977 \[1931\]). Kleine Geschichte der Photographie. In: Tiedemann, Rolf & Schweppenhäuser, Hermann (Hg.). *Walter Benjamin: Gesammelte Schriften. Bd. II, 1. Aufsätze, Essays, Vorträge*. Suhrkamp: Frankfurt am Main. S.&#8239;368--385.
+\voll{}Benjamin, Walter (1977 \[1931\]). Kleine Geschichte der Photographie. In: Tiedemann, Rolf & Schweppenhäuser, Hermann (Hg.). *Walter Benjamin: Gesammelte Schriften. Bd. II, 1. Aufsätze, Essays, Vorträge*. Frankfurt am Main: Suhrkamp. S.&#8239;368--385.
 
 
 ### Wissenschaftliche Fachzeitschrift
