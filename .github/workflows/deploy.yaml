@@ -27,7 +27,7 @@ jobs:
           args: >-
             -c "
              tlmgr update --self &&
-             tlmgr install titling hanging &&
+             tlmgr install titling hanging scrartcl &&
              pandoc --standalone --pdf-engine=xelatex --template=layout/mwmd.tex --metadata-file=layout/mwmd.yaml --output=Ablage/mwmd-${{ env.MWDW_TIMESTAMP }}.pdf mwmd.md
             "
 
