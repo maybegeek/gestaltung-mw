@@ -1,7 +1,7 @@
 ---
 title: 'Gestaltungsrichtlinien Medienwissenschaft'
 ur-kolumnentitel: ''
-ur-stand: 'Februar 2022'
+ur-stand: 'April 2023'
 lang: de-DE
 author: 'CF & CP'
 subject: 'Gestaltungsrichtlinien Medienwissenschaft'
@@ -22,16 +22,16 @@ Folgende Hinweise sollen Sie dabei unterstützen, ein formal richtiges und visue
 
 Vorbehaltlich abweichender Vorgaben im Rahmen einzelner Lehrveranstaltungen, gelten folgende Richtwerte für den Umfang der Arbeiten. Die Angaben verstehen sich inklusive Leerzeichen und Fußnotenapparat; nicht mitgezählt werden das Deckblatt sowie automatisiert erstellte Inhalte, wie beispielsweise Inhalts-, Abbildungs-, oder Literaturverzeichnis:
 
-* B.&#8239;A.-Module M12, M13, M16: 25&#8239;000 Zeichen
-* B.&#8239;A.-Module M19, M20: 40&#8239;000 Zeichen
-* M.&#8239;A.-Module: 40&#8239;000 Zeichen
-* Bachelorarbeit: 60&#8239;000 Zeichen
-* Masterarbeit: 120&#8239;000 Zeichen
+* B.&#8201;A.-Module M12, M13, M16: 25&#8201;000 Zeichen
+* B.&#8201;A.-Module M19, M20: 40&#8201;000 Zeichen
+* M.&#8201;A.-Module: 40&#8201;000 Zeichen
+* Bachelorarbeit: 60&#8201;000 Zeichen
+* Masterarbeit: 120&#8201;000 Zeichen
 
 
 ## Teile der Arbeit
 
-Feste Bestandteile einer schriftlichen Arbeit sind Titelblatt, Inhaltsverzeichnis, Einleitung, Hauptteil, Schlussbetrachtung und Quellenverzeichnis; fallweise kommen weitere Anhänge (z.&#8239;B. ein Abbildungsverzeichnis) hinzu. Fügen Sie Ihren Arbeiten zudem eine Erklärung zu Redlichkeit und Rechtsfolgenkenntnis bei.
+Feste Bestandteile einer schriftlichen Arbeit sind Titelblatt, Inhaltsverzeichnis, Einleitung, Hauptteil, Schlussbetrachtung und Quellenverzeichnis; fallweise kommen weitere Anhänge (z.&#8201;B. ein Abbildungsverzeichnis) hinzu. Fügen Sie Ihren Arbeiten zudem eine Erklärung zu Redlichkeit und Rechtsfolgenkenntnis bei.
 
 
 ### Deckblatt
@@ -53,25 +53,25 @@ Die Einleitung ist integraler Bestandteil der Arbeit und soll dem Lesenden/Prüf
 
 ### Hauptteil
 
-Der Aufbau des Hauptteils Ihrer Arbeit ergibt sich aus Frage- oder Aufgabenstellung. Verwenden Sie *sprechende Überschriften*, d.&#8239;h. auf den Inhalt des jeweiligen Abschnitts hinweisende Überschriften; keine Überschriften wie „Hauptteil“ oder „Kapitel 1“.
+Der Aufbau des Hauptteils Ihrer Arbeit ergibt sich aus Frage- oder Aufgabenstellung. Verwenden Sie *sprechende Überschriften*, d.&#8201;h. auf den Inhalt des jeweiligen Abschnitts hinweisende Überschriften; keine Überschriften wie „Hauptteil“ oder „Kapitel 1“.
 
 ### Schluss
 
-Im Schluss Ihrer Arbeit führen Sie Ihre Ergebnisse zusammen. Hier besteht zudem Raum für Ausblicke und weitere, kritische Kontextualisierung. Auch hier sollte die Überschrift dem Inhalt nach gewählt werden; bspw. „Re­sü­mee“, „Zusammenfassung“, „Ausblick“&#8239;…
+Im Schluss Ihrer Arbeit führen Sie Ihre Ergebnisse zusammen. Hier besteht zudem Raum für Ausblicke und weitere, kritische Kontextualisierung. Auch hier sollte die Überschrift dem Inhalt nach gewählt werden; bspw. „Re­sü­mee“, „Zusammenfassung“, „Ausblick“&#8201;…
 
 ### Quellenverzeichnis
 
-Hier werden alle in Ihrer Arbeit verwendeten, sorgfältig gewählten Quellen mit deren bibliografischen Details verzeichnet. Die Zitierrichtlinien dazu finden Sie unter Punkt&#8239;2, das Musterbeispiel ab Seite 9.
+Hier werden alle in Ihrer Arbeit verwendeten, sorgfältig gewählten Quellen mit deren bibliografischen Details verzeichnet. Die Zitierrichtlinien dazu finden Sie unter Punkt&#8201;2, das Musterbeispiel ab Seite 9.
 
 
 ### Erklärung
 
 Fügen Sie am Ende Ihrer Arbeit eine unterschriebene Erklärung bzgl. Redlichkeit und Rechtsfolgenkenntnis bei. Als verbindliche Vorlage dient die letzte Seite dieser Gestaltungsrichtlinien.
 
-Beachten Sie für Abschlussarbeiten ergänzend die Hinweise auf den [Seiten des Prüfungssekretariats Geisteswissenschaften](https://www.ur.de/studium/pruefungsverwaltung/geisteswissenschaften) unter „Allgemeine Informationen und Bekanntmachungen » Abschlussarbeit“.
+Beachten Sie für Abschlussarbeiten ergänzend die Hinweise auf den [Seiten des Prüfungssekretariats Geisteswissenschaften](https://www.ur.de/studium/pruefungsverwaltung/geisteswissenschaften) im Reiter „Abschlussarbeit“.
 
 
-## Seitenlayout und Typografisches ^[Weitere Informationen zu orthografisch richtiger und typografisch ansprechender Gestaltung schriftlicher Arbeiten finden sie z.&#8239;B. in „Typokurz -- Einige wichtige typografische Regeln“ bei Bier (2009).]
+## Seitenlayout und Typografisches ^[Weitere Informationen zu orthografisch richtiger und typografisch ansprechender Gestaltung schriftlicher Arbeiten finden sie z.&#8201;B. in „Typokurz -- Einige wichtige typografische Regeln“ bei Bier (2009).]
 
 -   Die Arbeit wird auf DIN A4-Papier gedruckt.
     Die Seitenränder betragen: oben 3cm, unten 3,8cm,
@@ -90,19 +90,19 @@ Beachten Sie für Abschlussarbeiten ergänzend die Hinweise auf den [Seiten des 
 
 ## Geschlechtergerechter Sprachgebrauch (Gendern)
 
-Geschlechtergerechte Formulierungen sind zu verwenden. Die Verwendung lediglich des generischen Maskulinums, ohne dass dies zumindest in einer Anmerkung als vereinfachtes Verfahren erläutert wird, ist unerwünscht. Besser ist ein kreativer Umgang mit gendergerechter Sprache: verschiedene Möglichkeiten finden Sie z.&#8239;B. im [Leitfaden zu gendergerechter Sprache der UR](https://www.uni-regensburg.de/sprache-literatur-kultur/fakultaet/frauenbeauftragte/sprache/index.html) sowie im [Duden bzgl. geschlechtergerechten Sprachgebrauchs](https://www.duden.de/sprachwissen/sprachratgeber/Geschlechtergerechter-Sprachgebrauch).
+Geschlechtergerechte Formulierungen sind zu verwenden. Die Verwendung lediglich des generischen Maskulinums, ohne dass dies zumindest in einer Anmerkung als vereinfachtes Verfahren erläutert wird, ist unerwünscht. Besser ist ein kreativer Umgang mit gendergerechter Sprache: verschiedene Möglichkeiten finden Sie z.&#8201;B. im [Leitfaden zur Verwendung gendergerechter Sprache](https://www.uni-regensburg.de/assets/rechtsgrundlagen/leitfaden-gendergerechte-sprache.pdf) der UR sowie im [Duden bzgl. geschlechtergerechten Sprachgebrauchs](https://www.duden.de/sprachwissen/sprachratgeber/Geschlechtergerechter-Sprachgebrauch).
 
 
 # Zitierrichtlinien und Beispiele
 
-Das Quellenverzeichnis besteht aus einem alphabetisch geordneten Literaturverzeichnis (Bibliografie), das alle Quellen enthält, die mit einer Autoren/innennennung beginnen (neben literarischen Werken z.&#8239;B. auch Texte aus dem Internet oder Werbung) und je nach weiteren verwendeten Quellen einem Bildverzeichnis, einem Filmverzeichnis etc. (typischerweise Quellen, die nicht mit einer/m Autor/in sondern einem Titel beginnen, eben z.&#8239;B. Bilder, Fotos oder Filme).
+Das Quellenverzeichnis besteht aus einem alphabetisch geordneten Literaturverzeichnis (Bibliografie), das alle Quellen enthält, die mit einer Autoren/innennennung beginnen (neben literarischen Werken z.&#8201;B. auch Texte aus dem Internet oder Werbung) und je nach weiteren verwendeten Quellen einem Bildverzeichnis, einem Filmverzeichnis etc. (typischerweise Quellen, die nicht mit einer/m Autor/in sondern einem Titel beginnen, eben z.&#8201;B. Bilder, Fotos oder Filme).
 
 **Den Aufbau eines Quellenverzeichnisses, unter Verwendung aller hier im Text genannten Beispiele, finden Sie ab Seite 9.**
 
 
 ## Allgemeines zur Zitation
 
->„Jede von anderen Autoren wörtlich in die eigene Arbeit übernommene Textpassage und jede sich an die Gedankengänge anderer Autoren eng anlehnende Stelle der Arbeit ist **einzeln** zu kennzeichnen und durch eine **genaue Quellenangabe** zu belegen. [...] Wer einen fremden Text **wörtlich** oder **sinngemäß** in seine wissenschaftliche Arbeit übernimmt, ohne ihn entsprechend zu markieren, macht sich des **Plagiates** schuldig [...].“^[Brink (2013, S.&#8239;195); Hervorhebungen im Original.]
+>„Jede von anderen Autoren wörtlich in die eigene Arbeit übernommene Textpassage und jede sich an die Gedankengänge anderer Autoren eng anlehnende Stelle der Arbeit ist **einzeln** zu kennzeichnen und durch eine **genaue Quellenangabe** zu belegen. [...] Wer einen fremden Text **wörtlich** oder **sinngemäß** in seine wissenschaftliche Arbeit übernimmt, ohne ihn entsprechend zu markieren, macht sich des **Plagiates** schuldig [...].“^[Brink (2013, S.&#8201;195); Hervorhebungen im Original.]
 
 Grundsätzlich lassen sich zwei Arten von Zitaten unterscheiden: das wörtliche oder direkte Zitat und das indirekte Zitat (Paraphrase). Sollten wörtliche Zitate über mehr als drei Zeilen gehen, werden diese links eingerückt und mit geringerem Schriftgrad (10pt) gesetzt.
 
@@ -117,7 +117,7 @@ In Fußnoten sollen, neben weiterführenden Gedanken, die dort auch ihren Platz 
 
 Alle Fußnoten beginnen mit einem Großbuchstaben und werden mit einem Punkt abgeschlossen. Für die genaue Platzierung der Verweisziffer im Text gilt folgende Regel:
 
-> „Bezieht sich die Fußnote auf ein einzelnes Wort oder eine Wortgruppe, steht die Fußnotenziffer direkt dahinter noch vor einem folgenden Satzzeichen. Wenn sie sich jedoch auf einen ganzen Satz oder durch Satzzeichen eingeschlossenen Satzteil bezieht, steht sie nach dem schließenden Satzzeichen.“^[Andermann; Drees & Grätz (2000, S.&#8239;99).]
+> „Bezieht sich die Fußnote auf ein einzelnes Wort oder eine Wortgruppe, steht die Fußnotenziffer direkt dahinter noch vor einem folgenden Satzzeichen. Wenn sie sich jedoch auf einen ganzen Satz oder durch Satzzeichen eingeschlossenen Satzteil bezieht, steht sie nach dem schließenden Satzzeichen.“^[Andermann; Drees & Grätz (2000, S.&#8201;99).]
 
 
 ## Bildverwendung
@@ -159,38 +159,38 @@ Die folgenden Beispiele bieten einen Überblick über häufig genutzte Quellenty
 
 ### Monografie
 
-\kurz{}Vgl. Dotzler & Roesler-Keilholz (2017, S.&#8239;22).
+\kurz{}Vgl. Dotzler & Roesler-Keilholz (2017, S.&#8201;22).
 
 \voll{}Dotzler, Bernhard J. & Roesler-Keilholz, Silke (2017). *Mediengeschichte als Historische Techno-Logie*. Baden-Baden: Nomos.
 
 
 ### Sammelband, Herausgeberschaft
 
-\kurz{}Vgl. Gerhards & Neidhardt (1993, S.&#8239;60).
+\kurz{}Vgl. Gerhards & Neidhardt (1993, S.&#8201;60).
 
-\voll{}Gerhards, Jürgen & Neidhardt, Friedhelm (1993). Strukturen und Funktionen moderner Öffentlichkeit. In: Langenbucher, Wolfgang R. (Hg.). *Politische Kommunikation. Grundlagen, Strukturen, Prozesse* (=&#8239;Studienbücher zur Publizistik- und Kommunikationswissenschaft, 2). 2., überarb. Auflage. Wien: Braumüller. S.&#8239;52--89.
+\voll{}Gerhards, Jürgen & Neidhardt, Friedhelm (1993). Strukturen und Funktionen moderner Öffentlichkeit. In: Langenbucher, Wolfgang R. (Hg.). *Politische Kommunikation. Grundlagen, Strukturen, Prozesse* (=&#8201;Studienbücher zur Publizistik- und Kommunikationswissenschaft, 2). 2., überarb. Auflage. Wien: Braumüller. S.&#8201;52--89.
 
-\kurz{}Amento et al. (2003, S.&#8239;60).
+\kurz{}Amento et al. (2003, S.&#8201;60).
 
-\voll{}Amento, Brian; Terveen, Loren G.; Hill, William C.; Hix, Deborah & Schulman, Robert S. (2003). Experiments in social data mining: The TopicShop system. In: *ACM Transactions on Computer-Human Interaction (TOCHI)*. 10, Nr.&#8239;1. S.&#8239;54--85.
+\voll{}Amento, Brian; Terveen, Loren G.; Hill, William C.; Hix, Deborah & Schulman, Robert S. (2003). Experiments in social data mining: The TopicShop system. In: *ACM Transactions on Computer-Human Interaction (TOCHI)*. 10, Nr.&#8201;1. S.&#8201;54--85.
 
 \kurz{}Heibach & Rohde (2015).
 
-\voll{}Heibach, Christiane & Rohde, Carsten (Hg.) (2015). *Ästhetik der Materialität* (=&#8239;HfG Forschung, 6). München: Fink.
+\voll{}Heibach, Christiane & Rohde, Carsten (Hg.) (2015). *Ästhetik der Materialität* (=&#8201;HfG Forschung, 6). München: Fink.
 
 
 ### Gesammelte Schriften, Anthologien
 
-\kurz{}Benjamin (1977 \[1931\], S.&#8239;369).
+\kurz{}Benjamin (1977 \[1931\], S.&#8201;369).
 
-\voll{}Benjamin, Walter (1977 \[1931\]). Kleine Geschichte der Photographie. In: Tiedemann, Rolf & Schweppenhäuser, Hermann (Hg.). *Walter Benjamin: Gesammelte Schriften. Bd. II, 1. Aufsätze, Essays, Vorträge*. Frankfurt am Main: Suhrkamp. S.&#8239;368--385.
+\voll{}Benjamin, Walter (1977 \[1931\]). Kleine Geschichte der Photographie. In: Tiedemann, Rolf & Schweppenhäuser, Hermann (Hg.). *Walter Benjamin: Gesammelte Schriften. Bd. II, 1. Aufsätze, Essays, Vorträge*. Frankfurt am Main: Suhrkamp. S.&#8201;368--385.
 
 
 ### Wissenschaftliche Fachzeitschrift
 
-\kurz{}Stegbauer & Rausch (2001, S.&#8239;48).
+\kurz{}Stegbauer & Rausch (2001, S.&#8201;48).
 
-\voll{}Stegbauer, Christian & Rausch, Alexander (2001). Die schweigende Mehrheit -- „Lurker“ in internetbasierten Diskussionsforen. In: *Zeitschrift für Soziologie.* 30, Nr.&#8239;1. S.&#8239;48--64.
+\voll{}Stegbauer, Christian & Rausch, Alexander (2001). Die schweigende Mehrheit -- „Lurker“ in internetbasierten Diskussionsforen. In: *Zeitschrift für Soziologie.* 30, Nr.&#8201;1. S.&#8201;48--64.
 
 
 ### Webseite
@@ -239,7 +239,7 @@ Die bibliografischen Informationen zum verwendeten Wikipedia-Eintrag finden Sie 
 
 \kurz{}_Larmes_ (Man Ray, 1930).
 
-\voll{}_Larmes \[Tränen\]_ (1930). Man Ray. In: Rosalind Krauss & Jane Livingston (Hg.) (1985). L'amour fou. Photography and Surrealism. Washington: Abbeville Press. S.&#8239;118.
+\voll{}_Larmes \[Tränen\]_ (1930). Man Ray. In: Rosalind Krauss & Jane Livingston (Hg.) (1985). L'amour fou. Photography and Surrealism. Washington: Abbeville Press. S.&#8201;118.
 
 
 ### Film
@@ -287,11 +287,11 @@ Siehe dazu: [„Hinweise zur Wissensorganisation und Literaturverwaltung“](htt
 
 \qvzstart
 
-Amento, Brian; Terveen, Loren G.; Hill, William C.; Hix, Deborah & Schulman, Robert S. (2003). Experiments in social data mining: The TopicShop system. In: *ACM Transactions on Computer-Human Interaction (TOCHI)*. 10, Nr.&#8239;1. S.&#8239;54--85.
+Amento, Brian; Terveen, Loren G.; Hill, William C.; Hix, Deborah & Schulman, Robert S. (2003). Experiments in social data mining: The TopicShop system. In: *ACM Transactions on Computer-Human Interaction (TOCHI)*. 10, Nr.&#8201;1. S.&#8201;54--85.
 
 Andermann, Ulrich; Drees, Martin & Grätz, Frank (2000). *Duden. Wie verfasst man wissenschaftliche Arbeiten? Ein Leitfaden für das Studium und die Promotion*. Mainz: Verlag Hermann Schmidt.
 
-Benjamin, Walter (1977 \[1931\]). Kleine Geschichte der Photographie. In: Tiedemann, Rolf & Schweppenhäuser, Hermann (Hg.). *Walter Benjamin: Gesammelte Schriften. Bd. II, 1. Aufsätze, Essays, Vorträge*. Suhrkamp: Frankfurt am Main. S.&#8239;368--385.
+Benjamin, Walter (1977 \[1931\]). Kleine Geschichte der Photographie. In: Tiedemann, Rolf & Schweppenhäuser, Hermann (Hg.). *Walter Benjamin: Gesammelte Schriften. Bd. II, 1. Aufsätze, Essays, Vorträge*. Suhrkamp: Frankfurt am Main. S.&#8201;368--385.
 
 Bier, Christoph (2009). Typokurz -- Einige wichtige typografische Regeln. [url:]{.smallcaps} <https://zvisionwelt.files.wordpress.com/2012/01/typokurz.pdf>&#8201;--&#8201;Zugriff: 29.6.2019.
 
@@ -301,17 +301,17 @@ Doppelherz (2007). *Sitznachbar*. ARD Radio-Kreativ-Wettbewerb 2007; Broschüre 
 
 Dotzler, Bernhard J. & Roesler-Keilholz, Silke (2017). *Mediengeschichte als Historische Techno-Logie*. Baden-Baden: Nomos.
 
-Gerhards, Jürgen & Neidhardt, Friedhelm (1993). Strukturen und Funktionen moderner Öffentlichkeit. In: Langenbucher, Wolfgang R. (Hg.). *Politische Kommunikation. Grundlagen, Strukturen, Prozesse* (=&#8239;Studienbücher zur Publizistik- und Kommunikationswissenschaft, 2). 2., überarb. Auflage. Wien: Braumüller. S.&#8239;52--89.
+Gerhards, Jürgen & Neidhardt, Friedhelm (1993). Strukturen und Funktionen moderner Öffentlichkeit. In: Langenbucher, Wolfgang R. (Hg.). *Politische Kommunikation. Grundlagen, Strukturen, Prozesse* (=&#8201;Studienbücher zur Publizistik- und Kommunikationswissenschaft, 2). 2., überarb. Auflage. Wien: Braumüller. S.&#8201;52--89.
 
 Gesellschaft zur Förderung der Photographie (1952). Oh die herrlichen Berge. In: *Regensburger Archiv für Werbeforschung.* R-Nummer: 616; PROPHOTO vom 12.7.1952. \[Werbung, Audio\]. [url:]{.smallcaps} <https://raw.uni-regensburg.de/details.php?r=616>&#8201;−&#8201;Zugriff: 18.9.2013.
 
-Heibach, Christiane & Rohde, Carsten (Hg.) (2015). *Ästhetik der Materialität* (=&#8239;HfG Forschung, 6). München: Fink.
+Heibach, Christiane & Rohde, Carsten (Hg.) (2015). *Ästhetik der Materialität* (=&#8201;HfG Forschung, 6). München: Fink.
 
 O'Reilly, Tim (2005). What Is Web 2.0. Design Patterns and Business Models for the Next Generation of Software. [url:]{.smallcaps} <https://www.oreilly.com/pub/a/web2/archive/what-is-web-20.html>&#8201;--&#8201;Zugriff: 29.6.2019.
 
 \@StanfordMed (9. Oktober 2012). *Animal study shows sleeping brain behaves as if it's remembering: http://stan.md/RrqyEt #sleep #neuroscience #research*. \[Twitter, Tweet\]. [url:]{.smallcaps} <https://twitter.com/SUMedicine/status/255644688630046720>&#8201;--&#8201;Zugriff: 29.6.2019.
 
-Stegbauer, Christian & Rausch, Alexander (2001). Die schweigende Mehrheit -- „Lurker“ in internetbasierten Diskussionsforen. In: *Zeitschrift für Soziologie*. 30, Nr.&#8239;1. S.&#8239;48--64.
+Stegbauer, Christian & Rausch, Alexander (2001). Die schweigende Mehrheit -- „Lurker“ in internetbasierten Diskussionsforen. In: *Zeitschrift für Soziologie*. 30, Nr.&#8201;1. S.&#8201;48--64.
 
 UR.Regensburg (23. September 2021). *Für das Wintersemester 2021/22 ist die lang erwartete Rückkehr zu einem möglichst weitreichenden Präsenzlehrbetrieb geplant*. \[Facebook, Status Update\]. [url:]{.smallcaps} <https://www.facebook.com/UR.Regensburg/photos/a.714984458891629/1739632266426838/>&#8201;--&#8201;Zugriff: 26.9.2021.
 
@@ -326,7 +326,7 @@ Zahn, Johannes (1685). *Oculus Artificialis Teledioptricus Sive Telescopium*. W�
 
 \qvzstart
 
-_Larmes \[Tränen\]_ (1930). Man Ray. In: Rosalind Krauss & Jane Livingston (Hg.) (1985). L'amour fou. Photography and Surrealism. Washington: Abbeville Press. S.&#8239;118.
+_Larmes \[Tränen\]_ (1930). Man Ray. In: Rosalind Krauss & Jane Livingston (Hg.) (1985). L'amour fou. Photography and Surrealism. Washington: Abbeville Press. S.&#8201;118.
 
 _Mann und Frau den Mond betrachtend \[Mann und Frau in Betrachtung des Mondes\]_ (1818--1824). Caspar David Friedrich. Alte Nationalgalerie Berlin. \[Öl auf Leinwand\]. In: Wikipedia, Die freie Enzyklopädie. [url:]{.smallcaps} <https://w.wiki/6eW>&#8201;--&#8201;Zugriff: 22.07.2019.
 
@@ -361,9 +361,9 @@ Ich habe die Arbeit selbständig verfasst, keine anderen als die angegebenen Que
 Von den möglichen Rechtsfolgen habe ich Kenntnis:
 
 * *Bachelorstudierende:*
-Bachelorprüfungs- und Studienordnung für die Philosophischen Fakultäten I--III der Universität Regensburg (besonders §22 Abs.&#8239;3 S.&#8239;1, §24 und §29 Abs.&#8239;5).
+Bachelorprüfungs- und Studienordnung für die Philosophischen Fakultäten I--III der Universität Regensburg (besonders §22 Abs.&#8201;3 S.&#8201;1, §24 und §29 Abs.&#8201;5).
 * *Masterstudierende:*
-Prüfungs- und Studienordnung für den Masterstudiengang Allgemeine und Vergleichende Medienwissenschaft an der Universität Regensburg (besonders §20 Abs.&#8239;4, §26 Abs.&#8239;5 und §29 Abs.&#8239;1).
+Prüfungs- und Studienordnung für den Masterstudiengang Allgemeine und Vergleichende Medienwissenschaft an der Universität Regensburg (besonders §20 Abs.&#8201;4, §26 Abs.&#8201;5 und §29 Abs.&#8201;1).
 
 ```{=latex}
 \vspace{5\baselineskip}
