@@ -33,7 +33,8 @@ header-includes:
 - \ofoot{}
 - \makeatletter\def\maketitle{}\makeatother
 - \usepackage{ragged2e}
-- \usepackage{setspace}\spacing{1.17}
+- \usepackage{setspace}
+- \spacing{1.17}
 - \widowpenalty=80000
 - \clubpenalty=80000
 - \setlength{\footnotesep}{10pt}
