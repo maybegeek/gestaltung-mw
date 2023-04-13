@@ -1,19 +1,21 @@
 PANDOC=/usr/bin/pandoc
 RM=/bin/rm
 
-SOURCE_DOCS := $(wildcard *md.md)
+SOURCE_DOCS := $(wildcard *mw-gestaltungsrichtlinien.md)
 EXPORTED_DOCS := $(SOURCE_DOCS:.md=.pdf)
 EXPORTED_TEXS := $(SOURCE_DOCS:.md=.tex)
 EXPORTED_MDS := $(SOURCE_DOCS:.md=.markdown.md)
 
 PANDOC_PDF_OPTIONS=--pdf-engine=xelatex \
---template=layout/mwmd.tex \
-layout/mwmd.yaml
+--from=markdown \
+--template=layout/mw-gestaltungsrichtlinien.tex \
+layout/mw-gestaltungsrichtlinien.yaml
 
-PANDOC_TEX_OPTIONS=--template=layout/mwmd.tex \
-layout/mwmd.yaml
+PANDOC_TEX_OPTIONS=--from=markdown \
+--template=layout/mw-gestaltungsrichtlinien.tex \
+layout/mw-gestaltungsrichtlinien.yaml
 
-PANDOC_MD_OPTIONS=layout/mwmd.yaml
+PANDOC_MD_OPTIONS=layout/mw-gestaltungsrichtlinien.yaml
 
 %.pdf : %.md
 	$(PANDOC) $(PANDOC_PDF_OPTIONS) -o $@ $<

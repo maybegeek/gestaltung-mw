@@ -2,9 +2,9 @@ SETLOCAL
 SET "sourcedir=%cd%"
 PUSHD "%sourcedir%"
 FOR /f "delims=" %%a IN (
- 'dir /b /s /a-d *mwmd.md '
+ 'dir /b /s /a-d *mw-gestaltungsrichtlinien.md '
  ) DO (
-pandoc "%%a" -f markdown --pdf-engine=xelatex --template=layout/mwmd.tex layout/mwmd.yaml -o "%%~dpna.pdf"
+pandoc "%%a" --from=markdown --pdf-engine=xelatex --template=layout/mw-gestaltungsrichtlinien.tex layout/mw-gestaltungsrichtlinien.yaml -o "%%~dpna.pdf"
 )
 popd
 GOTO :EOF
