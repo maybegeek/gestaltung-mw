@@ -3,7 +3,7 @@ title: 'Gestaltungsrichtlinien Medienwissenschaft'
 ur-kolumnentitel: ''
 ur-stand: 'April 2023'
 lang: de-DE
-author: 'CF & CP'
+author: 'Christine Fraunhofer & Christoph Pfeiffer'
 subject: 'Gestaltungsrichtlinien Medienwissenschaft'
 ---
 
