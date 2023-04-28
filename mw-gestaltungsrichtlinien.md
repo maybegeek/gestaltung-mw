@@ -68,7 +68,7 @@ Hier werden alle in Ihrer Arbeit verwendeten, sorgfältig gewählten Quellen mit
 
 Fügen Sie am Ende Ihrer Arbeit eine unterschriebene Erklärung bzgl. Redlichkeit und Rechtsfolgenkenntnis bei. Als verbindliche Vorlage dient die letzte Seite dieser Gestaltungsrichtlinien.
 
-Beachten Sie für Abschlussarbeiten ergänzend die Hinweise auf den [Seiten des Prüfungssekretariats Geisteswissenschaften](https://www.ur.de/studium/pruefungsverwaltung/geisteswissenschaften) im Reiter „Abschlussarbeit“.
+Beachten Sie für Abschlussarbeiten ergänzend die Hinweise auf den [Seiten des Prüfungssekretariats Geisteswissenschaften](https://www.ur.de/studium/pruefungsverwaltung/geisteswissenschaften/) im Reiter „Abschlussarbeit“.
 
 
 ## Seitenlayout und Typografisches ^[Weitere Informationen zu orthografisch richtiger und typografisch ansprechender Gestaltung schriftlicher Arbeiten finden sie z.&#8201;B. in „Typokurz -- Einige wichtige typografische Regeln“ bei Bier (2009).]
@@ -85,7 +85,7 @@ Beachten Sie für Abschlussarbeiten ergänzend die Hinweise auf den [Seiten des 
 -   Textauszeichnungen, wie beispielsweise Kursivierung
     und Fettdruck, sind so oft wie nötig, jedoch nicht
     inflationär zu gebrauchen.
--   Verwenden Sie vorzugsweise eine Serifenschrift; die *Vollkorn*^[Information und Download der kostenfreien Schrift *Vollkorn* unter: <http://vollkorn-typeface.com/>.] kommt beispielsweise in diesem Dokument zum Einsatz.
+-   Verwenden Sie vorzugsweise eine Serifenschrift; die *Vollkorn*^[Information und Download der kostenfreien Schrift *Vollkorn* unter: <http://vollkorn-typeface.com>.] kommt beispielsweise in diesem Dokument zum Einsatz.
 
 
 ## Geschlechtergerechter Sprachgebrauch (Gendern)
@@ -213,7 +213,7 @@ Die bibliografischen Informationen zum verwendeten Wikipedia-Eintrag finden Sie 
 
 \kurz{}\@StanfordMed (2012).
 
-\voll{}\@StanfordMed (9. Oktober 2012). *Animal study shows sleeping brain behaves as if it's remembering: http://stan.md/RrqyEt #sleep #neuroscience #research*. \[Twitter, Tweet\]. [url:]{.smallcaps} <https://twitter.com/SUMedicine/status/255644688630046720>&#8201;--&#8201;Zugriff: 29.6.2019.
+\voll{}\@StanfordMed (9. Oktober 2012). *Animal study shows sleeping brain behaves as if it's remembering: [stan.md/RrqyEt](https://stan.md/RrqyEt) #sleep #neuroscience #research*. \[Twitter, Tweet\]. [url:]{.smallcaps} <https://twitter.com/SUMedicine/status/255644688630046720>&#8201;--&#8201;Zugriff: 29.6.2019.
 
 \kurz{}UR.Regensburg (2021).
 
@@ -228,7 +228,7 @@ Die bibliografischen Informationen zum verwendeten Wikipedia-Eintrag finden Sie 
 
 \kurz{}Gesellschaft zur Förderung der Photographie (1952).
 
-\voll{}Gesellschaft zur Förderung der Photographie (1952). Oh die herrlichen Berge. In: *Regensburger Archiv für Werbeforschung.* R-Nummer: 616; PROPHOTO vom 12.7.1952. \[Werbung, Audio\]. [url:]{.smallcaps} <https://raw.uni-regensburg.de/details.php?r=616>&#8201;−&#8201;Zugriff: 18.9.2013.
+\voll{}Gesellschaft zur Förderung der Photographie (1952). Oh die herrlichen Berge. In: *Regensburger Archiv für Werbeforschung.* R-Nummer: 616; PROPHOTO vom 12.7.1952. \[Werbung, Audio\]. [url:]{.smallcaps} <https://raw.ur.de/details.php?r=616>&#8201;−&#8201;Zugriff: 18.9.2013.
 
 
 ### Bild/Gemälde und Fotografie
@@ -262,10 +262,9 @@ Ergänzen Sie im Kurzbeleg die Zeitangabe, um eine genaue Stelle oder einen Zeit
 
 ### Video und Musikvideo
 
-\kurz{}_How SpaceX Fixed Its Drone Ship Camera_ (2021).
+\kurz{}_Restored Apollo 11 Moonwalk&#8201;--&#8201;Original NASA EVA Mission Video&#8201;--&#8201;Walking on the Moon_ (2014).
 
-\voll{}_How SpaceX Fixed Its Drone Ship Camera_ (2021). Primal Space. \[Youtube, Video\]. [url:]{.smallcaps} <https://youtu.be/Bf4rPsS_fwA>&#8201;--&#8201;Zugriff: 26.9.2021.
-
+\voll{}_Restored Apollo 11 Moonwalk&#8201;--&#8201;Original NASA EVA Mission Video&#8201;--&#8201;Walking on the Moon_ (2014). NASA. \[Youtube, Video\]. [url:]{.smallcaps} <https://youtu.be/S9HdPi9Ikhk>&#8201;--&#8201;Zugriff: 28.4.2023.
 
 Bei Musikvideos, wie im folgenden Beispiel, wird der Vollbeleg ggfs. um Regisseurin oder Regisseur und Label erweitert.
 
@@ -275,7 +274,7 @@ Bei Musikvideos, wie im folgenden Beispiel, wird der Vollbeleg ggfs. um Regisseu
 
 ## Software zur Literaturverwaltung
 
-Siehe dazu: [„Hinweise zur Wissensorganisation und Literaturverwaltung“](https://www.uni-regensburg.de/sprache-literatur-kultur/medienwissenschaft/studium/materialien/index.html).
+Siehe dazu: [„Hinweise zur Wissensorganisation und Literaturverwaltung“](https://www.uni-regensburg.de/sprache-literatur-kultur/medienwissenschaft/studium/materialien/).
 
 
 \clearpage
@@ -303,13 +302,13 @@ Dotzler, Bernhard J. & Roesler-Keilholz, Silke (2017). *Mediengeschichte als His
 
 Gerhards, Jürgen & Neidhardt, Friedhelm (1993). Strukturen und Funktionen moderner Öffentlichkeit. In: Langenbucher, Wolfgang R. (Hg.). *Politische Kommunikation. Grundlagen, Strukturen, Prozesse* (=&#8201;Studienbücher zur Publizistik- und Kommunikationswissenschaft, 2). 2., überarb. Auflage. Wien: Braumüller. S.&#8201;52--89.
 
-Gesellschaft zur Förderung der Photographie (1952). Oh die herrlichen Berge. In: *Regensburger Archiv für Werbeforschung.* R-Nummer: 616; PROPHOTO vom 12.7.1952. \[Werbung, Audio\]. [url:]{.smallcaps} <https://raw.uni-regensburg.de/details.php?r=616>&#8201;−&#8201;Zugriff: 18.9.2013.
+Gesellschaft zur Förderung der Photographie (1952). Oh die herrlichen Berge. In: *Regensburger Archiv für Werbeforschung.* R-Nummer: 616; PROPHOTO vom 12.7.1952. \[Werbung, Audio\]. [url:]{.smallcaps} <https://raw.ur.de/details.php?r=616>&#8201;−&#8201;Zugriff: 18.9.2013.
 
 Heibach, Christiane & Rohde, Carsten (Hg.) (2015). *Ästhetik der Materialität* (=&#8201;HfG Forschung, 6). München: Fink.
 
 O'Reilly, Tim (2005). What Is Web 2.0. Design Patterns and Business Models for the Next Generation of Software. [url:]{.smallcaps} <https://www.oreilly.com/pub/a/web2/archive/what-is-web-20.html>&#8201;--&#8201;Zugriff: 29.6.2019.
 
-\@StanfordMed (9. Oktober 2012). *Animal study shows sleeping brain behaves as if it's remembering: http://stan.md/RrqyEt #sleep #neuroscience #research*. \[Twitter, Tweet\]. [url:]{.smallcaps} <https://twitter.com/SUMedicine/status/255644688630046720>&#8201;--&#8201;Zugriff: 29.6.2019.
+\@StanfordMed (9. Oktober 2012). *Animal study shows sleeping brain behaves as if it's remembering: [stan.md/RrqyEt](https://stan.md/RrqyEt) #sleep #neuroscience #research*. \[Twitter, Tweet\]. [url:]{.smallcaps} <https://twitter.com/SUMedicine/status/255644688630046720>&#8201;--&#8201;Zugriff: 29.6.2019.
 
 Stegbauer, Christian & Rausch, Alexander (2001). Die schweigende Mehrheit -- „Lurker“ in internetbasierten Diskussionsforen. In: *Zeitschrift für Soziologie*. 30, Nr.&#8201;1. S.&#8201;48--64.
 
@@ -339,9 +338,9 @@ _Mann und Frau den Mond betrachtend \[Mann und Frau in Betrachtung des Mondes\]_
 
 _A Woman's Face \[Die Frau mit der Narbe\]_ (US 1941). Georges Cukor. MGM. \[DVD/2017\].
 
-_How SpaceX Fixed Its Drone Ship Camera_ (2021). Primal Space. \[Youtube, Video\]. [url:]{.smallcaps} <https://youtu.be/Bf4rPsS_fwA>&#8201;--&#8201;Zugriff: 26.9.2021.
-
 _Human Behaviour (HD)_ (2019). Björk. Mitautor: Nellee Hooper. Regisseur: Michel Gondry. Release: 1993. Label: One Little Indian Records. \[Youtube, Musikvideo\]. [url:]{.smallcaps} <https://youtu.be/p0mRIhK9seg>&#8201;--&#8201;Zugriff: 26.9.2021.
+
+_Restored Apollo 11 Moonwalk&#8201;--&#8201;Original NASA EVA Mission Video&#8201;--&#8201;Walking on the Moon_ (2014). NASA. \[Youtube, Video\]. [url:]{.smallcaps} <https://youtu.be/S9HdPi9Ikhk>&#8201;--&#8201;Zugriff: 28.4.2023.
 
 _The Wire: „The Target“_ (US 2002). David Simon & Robert F. Colesberry. S01E01; HBO. \[DVD/2010\].
 
