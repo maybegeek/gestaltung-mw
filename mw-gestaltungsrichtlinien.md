@@ -1,7 +1,7 @@
 ---
 title: 'Gestaltungsrichtlinien Medienwissenschaft'
 ur-kolumnentitel: ''
-ur-stand: 'April 2023'
+ur-stand: 'Mai 2026'
 lang: de-DE
 author: 'Christine Fraunhofer & Christoph Pfeiffer'
 subject: 'Gestaltungsrichtlinien Medienwissenschaft'
@@ -31,19 +31,19 @@ Vorbehaltlich abweichender Vorgaben im Rahmen einzelner Lehrveranstaltungen, gel
 
 ## Teile der Arbeit
 
-Feste Bestandteile einer schriftlichen Arbeit sind Titelblatt, Inhaltsverzeichnis, Einleitung, Hauptteil, Schlussbetrachtung und Quellenverzeichnis; fallweise kommen weitere Anhänge (z.&#8201;B. ein Abbildungsverzeichnis) hinzu. Fügen Sie Ihren Arbeiten zudem eine Erklärung zu Redlichkeit und Rechtsfolgenkenntnis bei.
+Feste Bestandteile einer schriftlichen Arbeit sind Titelblatt, Inhaltsverzeichnis, Einleitung, Hauptteil, Schlussbetrachtung und Quellenverzeichnis; fallweise kommen weitere Anhänge (z.&#8201;B. ein Abbildungsverzeichnis) hinzu. Fügen Sie Ihren Arbeiten zudem eine \hyperlink{sec:Erklaerung}{Erklärung zu Redlichkeit und Rechtsfolgenkenntnis} bei.
 
 
 ### Deckblatt
 
 Auf Ihrem Deckblatt erfüllen Sie formale Notwendigkeiten hinsichtlich der Angaben zu Ihrer Arbeit und Person. Mit einem aussagekräftigen Titel wecken Sie Interesse an Ihrer Arbeit.
 
-Die nötigen Angaben für schriftliche Arbeiten allgemein und Abschlussarbeiten im Speziellen finden Sie als Muster auf den Seiten ii und iii.
+Die nötigen Angaben für schriftliche Arbeiten allgemein und Abschlussarbeiten im Speziellen finden Sie als Muster auf den Seiten&#160;\hyperlink{sec:Titelblatt-Allgemein}{ii} und \hyperlink{sec:Titelblatt-BaMa}{iii}.
 
 
 ### Inhaltsverzeichnis
 
-Nummeriert wird in Form der Dezimalgliederung. Vermeiden Sie mehr als drei nummerierte Gliederungsebenen. Ein Muster finden Sie auf Seite iv. Es empfiehlt sich, die Gliederung der Arbeit automatisiert mithilfe des verwendeten Textverarbeitungsprogramms zu erstellen.
+Nummeriert wird in Form der Dezimalgliederung. Vermeiden Sie mehr als drei nummerierte Gliederungsebenen. Ein Muster finden Sie auf Seite&#160;\hyperlink{sec:Inhaltsverzeichnis}{iv}. Es empfiehlt sich, die Gliederung der Arbeit automatisiert mithilfe des verwendeten Textverarbeitungsprogramms zu erstellen.
 
 
 ### Einleitung
@@ -61,21 +61,21 @@ Im Schluss Ihrer Arbeit führen Sie Ihre Ergebnisse zusammen. Hier besteht zudem
 
 ### Quellenverzeichnis
 
-Hier werden alle in Ihrer Arbeit verwendeten, sorgfältig gewählten Quellen mit deren bibliografischen Details verzeichnet. Die Zitierrichtlinien dazu finden Sie unter Punkt&#8201;2, das Musterbeispiel ab Seite 9.
+Hier werden alle in Ihrer Arbeit verwendeten, sorgfältig gewählten Quellen mit deren bibliografischen Details verzeichnet. Die Zitierrichtlinien dazu finden Sie unter Punkt&#160;\ref{sec:Zitierrichtlinien-und-Beispiele}, das Musterbeispiel ab Seite&#160;\pageref{sec:Quellenverzeichnis}.
 
 
 ### Erklärung
 
-Fügen Sie am Ende Ihrer Arbeit eine unterschriebene Erklärung bzgl. Redlichkeit und Rechtsfolgenkenntnis bei. Als verbindliche Vorlage dient die letzte Seite dieser Gestaltungsrichtlinien.
+Fügen Sie am Ende Ihrer Arbeit eine unterschriebene Erklärung bzgl. Redlichkeit und Rechtsfolgenkenntnis bei. Als verbindliche Vorlage dient \hyperlink{sec:Erklaerung}{die letzte Seite dieser Gestaltungsrichtlinien}.
 
-Beachten Sie für Abschlussarbeiten ergänzend die Hinweise auf den [Seiten des Prüfungssekretariats Geisteswissenschaften](https://www.ur.de/studium/pruefungsverwaltung/geisteswissenschaften/) im Reiter „Abschlussarbeit“.
+Beachten Sie für Abschlussarbeiten ergänzend die Hinweise auf den [Seiten des Prüfungssekretariats Geisteswissenschaften](https://www.uni-regensburg.de/studieren/beratung-hilfe/zentrales-pruefungssekretariat/geisteswissenschaften#c36830) im Link „Abschlussarbeit“.
 
 
 ## Seitenlayout und Typografisches ^[Weitere Informationen zu orthografisch richtiger und typografisch ansprechender Gestaltung schriftlicher Arbeiten finden sie z.&#8201;B. in „Typokurz -- Einige wichtige typografische Regeln“ bei Bier (2009).]
 
 -   Die Arbeit wird auf DIN A4-Papier gedruckt.
-    Die Seitenränder betragen: oben 3cm, unten 3,8cm,
-    links 3,2cm und rechts 3cm.
+    Die Seitenränder betragen:  
+    oben 3cm, unten 3,8cm, links 3,2cm und rechts 3cm.
 -   Die Schriftgröße beträgt üblicherweise 12pt.
 -   Verwenden Sie 1,2fachen Zeilenabstand.
 -   Für den Fließtext verwenden Sie Blocksatz mit
@@ -85,19 +85,23 @@ Beachten Sie für Abschlussarbeiten ergänzend die Hinweise auf den [Seiten des 
 -   Textauszeichnungen, wie beispielsweise Kursivierung
     und Fettdruck, sind so oft wie nötig, jedoch nicht
     inflationär zu gebrauchen.
--   Verwenden Sie vorzugsweise eine Serifenschrift; die *Vollkorn*^[Information und Download der kostenfreien Schrift *Vollkorn* unter: <http://vollkorn-typeface.com>.] kommt beispielsweise in diesem Dokument zum Einsatz.
+-   Verwenden Sie vorzugsweise eine Serifenschrift; die 
+    *Vollkorn*^[Informationen zur und kostenfreier Download der Schrift 
+    *Vollkorn*: <http://vollkorn-typeface.com>.] kommt 
+    beispielsweise in diesem Dokument zum Einsatz.
 
 
 ## Geschlechtergerechter Sprachgebrauch (Gendern)
 
-Geschlechtergerechte Formulierungen sind zu verwenden. Die Verwendung lediglich des generischen Maskulinums, ohne dass dies zumindest in einer Anmerkung als vereinfachtes Verfahren erläutert wird, ist unerwünscht. Besser ist ein kreativer Umgang mit gendergerechter Sprache: verschiedene Möglichkeiten finden Sie z.&#8201;B. im [Leitfaden zur Verwendung gendergerechter Sprache](https://www.uni-regensburg.de/assets/rechtsgrundlagen/leitfaden-gendergerechte-sprache.pdf) der UR sowie im [Duden bzgl. geschlechtergerechten Sprachgebrauchs](https://www.duden.de/sprachwissen/sprachratgeber/Geschlechtergerechter-Sprachgebrauch).
+Geschlechtergerechte Formulierungen sind zu verwenden. Die Verwendung lediglich des generischen Maskulinums, ohne dass dies zumindest in einer Anmerkung als vereinfachtes Verfahren erläutert wird, ist unerwünscht. Besser ist ein kreativer Umgang mit gendergerechter Sprache: verschiedene Möglichkeiten finden Sie z.&#8201;B. im [Leitfaden zur Verwendung gendergerechter Sprache](https://www.uni-regensburg.de/fileadmin/user_upload/bilderkatalog/downloads/faltblatt-gendergerechte-sprache.pdf) der UR sowie im [Duden bzgl. geschlechtergerechten Sprachgebrauchs](https://www.duden.de/sprachwissen/sprachratgeber/Geschlechtergerechter-Sprachgebrauch).
 
 
 # Zitierrichtlinien und Beispiele
+\label{sec:Zitierrichtlinien-und-Beispiele}
 
 Das Quellenverzeichnis besteht aus einem alphabetisch geordneten Literaturverzeichnis (Bibliografie), das alle Quellen enthält, die mit einer Autoren/innennennung beginnen (neben literarischen Werken z.&#8201;B. auch Texte aus dem Internet oder Werbung) und je nach weiteren verwendeten Quellen einem Bildverzeichnis, einem Filmverzeichnis etc. (typischerweise Quellen, die nicht mit einer/m Autor/in sondern einem Titel beginnen, eben z.&#8201;B. Bilder, Fotos oder Filme).
 
-**Den Aufbau eines Quellenverzeichnisses, unter Verwendung aller hier im Text genannten Beispiele, finden Sie ab Seite 9.**
+**Den Aufbau eines Quellenverzeichnisses, unter Verwendung aller hier im Text genannten Beispiele, finden Sie ab Seite&#160;\pageref{sec:Quellenverzeichnis}.**
 
 
 ## Allgemeines zur Zitation
@@ -108,7 +112,7 @@ Grundsätzlich lassen sich zwei Arten von Zitaten unterscheiden: das wörtliche 
 
 Sind bei einer/m Autor/in mehrere Werke im selben Jahr zu verzeichnen wird sowohl im Kurz- als auch im Vollbeleg der Jahreszahl ein alphabetisch fortlaufender Kleinbuchstaben-Index zugefügt. Wurde ein Werk von mehr als drei Autoren/innen verfasst, wird im Kurzbeleg die/der Hauptautor/in genannt und weitere Koautoren/innen unter „et al.“ zusammengefasst.
 
-Die Belege werden als **Kurzbeleg** in eine Fußnote geschrieben, bei Bildern direkt in die Abbildungsbeschriftung integriert. Der dazugehörige **Vollbeleg** wird am Ende der Arbeit in einem **Quellenverzeichnis** geführt. Die korrekte Darstellung von Kurz- und Vollbeleg finden Sie unter Punkt 2.4.
+Die Belege werden als **Kurzbeleg** in eine Fußnote geschrieben, bei Bildern direkt in die Abbildungsbeschriftung integriert. Der dazugehörige **Vollbeleg** wird am Ende der Arbeit in einem **Quellenverzeichnis** geführt. Die korrekte Verwendung von Kurz- und Vollbeleg finden Sie unter Punkt&#160;\ref{sec:Zitierstil}.
 
 
 ## Fußnoten
@@ -122,7 +126,7 @@ Alle Fußnoten beginnen mit einem Großbuchstaben und werden mit einem Punkt abg
 
 ## Bildverwendung
 
-Allgemein werden Abbildungen im Kurz- und Vollbeleg, je nach Quelle der sie entnommen wurden, im Quellenverzeichnis geführt (Abbildung 1). Fotografien und Gemälde (Abbildung 2) werden im Kurz- und Vollbeleg nach Punkt 2.4.8 zitiert.
+Allgemein werden Abbildungen im Kurz- und Vollbeleg, je nach Quelle der sie entnommen wurden, im Quellenverzeichnis geführt (vgl. Abbildung 1). Fotografien und Gemälde (vgl. Abbildung 2) werden im Kurz- und Vollbeleg nach Punkt&#160;\ref{sec:Bild-Gem-Foto} zitiert.
 
 
 ```{=latex}
@@ -141,7 +145,7 @@ Allgemein werden Abbildungen im Kurz- und Vollbeleg, je nach Quelle der sie entn
 \end{figure}
 ```
 
-Stills aus Filmen werden im Kurz- und Vollbeleg nach Punkt 2.4.9 zitiert.
+Stills aus Filmen werden im Kurz- und Vollbeleg nach Punkt&#160;\ref{sec:Film} zitiert.
 
 In der Bildunterschrift wird die verwendete Abbildung (Bild, Foto, Gemälde oder Still) beschrieben und um den Kurzbeleg ergänzt (Vgl. Abbildung 1 und 2).
 
@@ -153,6 +157,7 @@ Bei einer größeren Anzahl von Abbildungen können Sie der Übersichtlichkeit h
 
 
 ## Zitierstil
+\label{sec:Zitierstil}
 
 Die folgenden Beispiele bieten einen Überblick über häufig genutzte Quellentypen. Verwenden sie Quellenarten, welche hier nicht aufgeführt werden, versuchen Sie diese entlang des hier vermittelten Stils zu verzeichnen.
 
@@ -206,14 +211,14 @@ Die folgenden Beispiele bieten einen Überblick über häufig genutzte Quellenty
 
 \voll{}Wikipedia (11. Juli 2019). Universität Regensburg. In: *Wikipedia, Die freie Enzyklopädie*. [url:]{.smallcaps} <https://de.wikipedia.org/w/index.php?title=Universit%C3%A4t_Regensburg&oldid=190335453>&#8201;--&#8201;Zugriff: 22.7.2019.
 
-Die bibliografischen Informationen zum verwendeten Wikipedia-Eintrag finden Sie auf der dazugehörigen Webseite unter „Artikel zitieren“. Als Datum des Artikels verwenden Sie den dort genannten „letzten Bearbeitungsstand“, als [url]{.smallcaps} den dort ersichtlichen „Permanentlink“.
+Die bibliografischen Informationen zum verwendeten Wikipedia-Eintrag finden Sie auf der dazugehörigen Webseite unter „Werkzeuge“ → „Artikel zitieren“. Als Datum des Artikels verwenden Sie den dort genannten letzten Bearbeitungsstand („Datum der letzten Bearbeitung“), als [url]{.smallcaps} den dort ersichtlichen „Permanentlink“.
 
 
-### Twitter, Facebook, ...
+### X (Twitter), Facebook, ...
 
 \kurz{}\@StanfordMed (2012).
 
-\voll{}\@StanfordMed (9. Oktober 2012). *Animal study shows sleeping brain behaves as if it's remembering: [stan.md/RrqyEt](https://stan.md/RrqyEt) #sleep #neuroscience #research*. \[Twitter, Tweet\]. [url:]{.smallcaps} <https://twitter.com/SUMedicine/status/255644688630046720>&#8201;--&#8201;Zugriff: 29.6.2019.
+\voll{}\@StanfordMed (9. Oktober 2012). *Animal study shows sleeping brain behaves as if it's remembering: [stan.md/RrqyEt](https://stan.md/RrqyEt) #sleep #neuroscience #research*. \[X, Post\]. [url:]{.smallcaps} <https://x.com/SUMedicine/status/255644688630046720>&#8201;--&#8201;Zugriff: 29.6.2019.
 
 \kurz{}UR.Regensburg (2021).
 
@@ -232,6 +237,7 @@ Die bibliografischen Informationen zum verwendeten Wikipedia-Eintrag finden Sie 
 
 
 ### Bild/Gemälde und Fotografie
+\label{sec:Bild-Gem-Foto}
 
 \kurz{}_Mann und Frau den Mond betrachtend_ (Caspar David Friedrich, 1818--1824).
 
@@ -243,6 +249,7 @@ Die bibliografischen Informationen zum verwendeten Wikipedia-Eintrag finden Sie 
 
 
 ### Film
+\label{sec:Film}
 
 \kurz{}_A Woman's Face_ (US 1941).
 
@@ -274,11 +281,12 @@ Bei Musikvideos, wie im folgenden Beispiel, wird der Vollbeleg ggfs. um Regisseu
 
 ## Software zur Literaturverwaltung
 
-Siehe dazu: [„Hinweise zur Wissensorganisation und Literaturverwaltung“](https://www.uni-regensburg.de/sprache-literatur-kultur/medienwissenschaft/studium/materialien/).
+Siehe dazu: [„Hinweise zur Wissensorganisation und Literaturverwaltung“](https://www.uni-regensburg.de/fileadmin/sub-websites/sprache-literatur-kultur/user_upload/Bilder_Dateien/Professuren_und_AGs/Medienwissenschaft/Materialien/Hinweise_zur_Wissensorganisation_und_Literaturverwaltung.pdf).
 
 
 \clearpage
 \pagebreak
+\phantomsection\label{sec:Quellenverzeichnis}
 
 # Quellenverzeichnis {-}
 
@@ -308,7 +316,7 @@ Heibach, Christiane & Rohde, Carsten (Hg.) (2015). *Ästhetik der Materialität*
 
 O'Reilly, Tim (2005). What Is Web 2.0. Design Patterns and Business Models for the Next Generation of Software. [url:]{.smallcaps} <https://www.oreilly.com/pub/a/web2/archive/what-is-web-20.html>&#8201;--&#8201;Zugriff: 29.6.2019.
 
-\@StanfordMed (9. Oktober 2012). *Animal study shows sleeping brain behaves as if it's remembering: [stan.md/RrqyEt](https://stan.md/RrqyEt) #sleep #neuroscience #research*. \[Twitter, Tweet\]. [url:]{.smallcaps} <https://twitter.com/SUMedicine/status/255644688630046720>&#8201;--&#8201;Zugriff: 29.6.2019.
+\@StanfordMed (9. Oktober 2012). *Animal study shows sleeping brain behaves as if it's remembering: [stan.md/RrqyEt](https://stan.md/RrqyEt) #sleep #neuroscience #research*. \[X, Post\]. [url:]{.smallcaps} <https://x.com/SUMedicine/status/255644688630046720>&#8201;--&#8201;Zugriff: 29.6.2019.
 
 Stegbauer, Christian & Rausch, Alexander (2001). Die schweigende Mehrheit -- „Lurker“ in internetbasierten Diskussionsforen. In: *Zeitschrift für Soziologie*. 30, Nr.&#8201;1. S.&#8201;48--64.
 
@@ -333,6 +341,7 @@ _Mann und Frau den Mond betrachtend \[Mann und Frau in Betrachtung des Mondes\]_
 
 
 ## Film-, Serien- und Videoverzeichnis {-}
+\label{sec:Film-Serien-Video-Verzeichnis}
 
 \qvzstart
 
@@ -352,22 +361,22 @@ _The Wire: „The Target“_ (US 2002). David Simon & Robert F. Colesberry. S01E
 \KOMAoptions{headsepline=false}
 \chead{}
 
-
+\hypertarget{sec:Erklaerung}{}
 \addsec*{Erklärung}
 
 Ich habe die Arbeit selbständig verfasst, keine anderen als die angegebenen Quellen und Hilfsmittel benutzt und die Arbeit nicht bereits an einer anderen Hochschule zur Erlangung eines akademischen Grades eingereicht. Gegebenenfalls zu(m) Druckexemplar(en) vorgelegtes digitales Material ist identisch.
 
 Von den möglichen Rechtsfolgen habe ich Kenntnis:
 
-* *Bachelorstudierende:*
-Bachelorprüfungs- und Studienordnung für die Philosophischen Fakultäten I--III der Universität Regensburg (besonders §22 Abs.&#8201;3 S.&#8201;1, §24 und §29 Abs.&#8201;5).
-* *Masterstudierende:*
-Prüfungs- und Studienordnung für den Masterstudiengang Allgemeine und Vergleichende Medienwissenschaft an der Universität Regensburg (besonders §20 Abs.&#8201;4, §26 Abs.&#8201;5 und §29 Abs.&#8201;1).
+-   *Bachelorstudierende:*  
+    Bachelorprüfungs- und Studienordnung für die Philosophischen Fakultäten I--III der Universität Regensburg; besonders §22 Abs.&#8201;3 S.&#8201;1, §24 und §29 Abs.&#8201;5.
+-   *Masterstudierende:*  
+    Prüfungs- und Studienordnung für den Masterstudiengang Allgemeine und Vergleichende Medienwissenschaft an der Universität Regensburg; besonders §20 Abs.&#8201;4, §26 Abs.&#8201;5 (in der Fassung ab März 2006: §26 Abs.&#8201;6) und §29 Abs.&#8201;1.
 
 ```{=latex}
 \vspace{5\baselineskip}
 \noindent
-\hfill\rule[0.5ex]{10cm}{0.5pt}
+\hfill\rule[0.5ex]{12cm}{0.5pt}
 
 \hfill Ort, Datum \hspace*{5.9cm} Unterschrift
 ```
