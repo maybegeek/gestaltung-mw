@@ -6,7 +6,7 @@ EXPORTED_DOCS := $(SOURCE_DOCS:.md=.pdf)
 EXPORTED_TEXS := $(SOURCE_DOCS:.md=.tex)
 EXPORTED_MDS := $(SOURCE_DOCS:.md=.markdown.md)
 
-PANDOC_PDF_OPTIONS=--pdf-engine=xelatex \
+PANDOC_PDF_OPTIONS=--pdf-engine=lualatex \
 --from=markdown \
 --template=layout/mw-gestaltungsrichtlinien.tex \
 layout/mw-gestaltungsrichtlinien.yaml
