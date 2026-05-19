@@ -371,7 +371,7 @@ Von den möglichen Rechtsfolgen habe ich Kenntnis:
 -   *Bachelorstudierende:*  
     Bachelorprüfungs- und Studienordnung für die Philosophischen Fakultäten I--III der Universität Regensburg; besonders §22 Abs.&#8201;3 S.&#8201;1, §24 und §29 Abs.&#8201;5.
 -   *Masterstudierende:*  
-    Prüfungs- und Studienordnung für den Masterstudiengang Allgemeine und Vergleichende Medienwissenschaft an der Universität Regensburg; besonders §20 Abs.&#8201;4, §26 Abs.&#8201;5 (in der Fassung ab März 2006: §26 Abs.&#8201;6) und §29 Abs.&#8201;1.
+    Prüfungs- und Studienordnung für den Masterstudiengang Allgemeine und Vergleichende Medienwissenschaft an der Universität Regensburg; besonders §20 Abs.&#8201;4, §26 Abs.&#8201;5 (in der Fassung ab März 2026: §26 Abs.&#8201;6) und §29 Abs.&#8201;1.
 
 ```{=latex}
 \vspace{5\baselineskip}
