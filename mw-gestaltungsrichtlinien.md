@@ -1,7 +1,7 @@
 ---
 title: 'Gestaltungsrichtlinien Medienwissenschaft'
 ur-kolumnentitel: ''
-ur-stand: 'Mai 2026'
+ur-stand: 'Oktober 2026'
 lang: de-DE
 author: 'Christine Fraunhofer & Christoph Pfeiffer'
 subject: 'Gestaltungsrichtlinien Medienwissenschaft'
@@ -22,8 +22,8 @@ Folgende Hinweise sollen Sie dabei unterstützen, ein formal richtiges und visue
 
 Vorbehaltlich abweichender Vorgaben im Rahmen einzelner Lehrveranstaltungen, gelten folgende Richtwerte für den Umfang der Arbeiten. Die Angaben verstehen sich inklusive Leerzeichen und Fußnotenapparat; nicht mitgezählt werden das Deckblatt sowie automatisiert erstellte Inhalte, wie beispielsweise Inhalts-, Abbildungs-, oder Literaturverzeichnis:
 
-* B.&#8201;A.-Module M12, M13, M16: 25&#8201;000 Zeichen
-* B.&#8201;A.-Module M19, M20: 40&#8201;000 Zeichen
+* B.&#8201;A.-Module: Studienbeginn ab WiSe 2014/15: M12, M13, M16 & Studienbeginn ab WiSe 2026/27: MED-BA-M02, MED-BA-M03, MED-BA-M06: 25&#8201;000 Zeichen
+* B.&#8201;A.-Module: Studienbeginn ab WiSe 2014/15: M19, M20 & Studienbeginn ab WiSe 2026/27: MED-BA-M09, MED-BA-M10: 40&#8201;000 Zeichen
 * M.&#8201;A.-Module: 40&#8201;000 Zeichen
 * Bachelorarbeit: 60&#8201;000 Zeichen
 * Masterarbeit: 120&#8201;000 Zeichen
